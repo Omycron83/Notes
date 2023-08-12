@@ -1,0 +1,1 @@
+The temporal difference error is the error between the current estimate of the value function $V^\pi (s_t)$ and the actual value, which is estimated by [[Bootstrap Methods|bootstrapping]] the value function: $r_t + \gamma V^\pi(s_{t+1})$.

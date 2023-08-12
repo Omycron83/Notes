@@ -1,0 +1,3 @@
+Monte carlo methods usually refer to methods in statistics or statistical learning that repeatedly  randomly sample from the population itself to estimate certain population parameters.
+In statistics, this may be estimating a certain parameters by sampling a lot from the population (e.g. Estimate $\pi$ by randomly placing points on square with circle inside, making the approximation better with more and more samples)-
+In reinforcement learning, this usually refers to methods that use a full trace from the population rather than bootstrapping the following state values.
