@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Pardé Approximizations.md",
+                "file": "Analysis/Padé Approximizations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Pardé Approximizations.md",
+                "file": "Analysis/Padé Approximizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Pardé Approximizations.md",
+                "file": "Analysis/Padé Approximizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Pardé Approximizations.md"
+                "file": "Analysis/Padé Approximizations.md"
               }
             }
           }
@@ -161,7 +161,7 @@
   "active": "6f12fb16923172bf",
   "lastOpenFiles": [
     "ML/Prioritized experience replay.md",
-    "Analysis/Pardé Approximizations.md",
+    "Analysis/Padé Approximizations.md",
     "Analysis",
     "ML/Temporal Difference Error.md",
     "Untitled.md",
