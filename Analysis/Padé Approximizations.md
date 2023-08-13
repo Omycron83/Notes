@@ -38,10 +38,10 @@ Now, we have a system of 8 equations with 8 unknowns.
 We get the value of $B_1$ as $0$ and the value of $B_2$ as $\frac{5}{7}$ from the bottom equations.
 This means that:
 $A_2 = 0$
-$A_3 = \frac{-1}{3} + \frac{5}{7} = \frac{}$
-$A_4 = \frac{1}{4} - \frac{3}{8} = \frac{-1}{8}$
-$A_5 = 0$
-$A_6 = \frac{-1}{6} + \frac{3}{8} = \frac{5}{24}$.
+$A_3 = \frac{-1}{3} + \frac{5}{7} = \frac{8}{21}$
+$A_4 = 0$
+$A_5 = \frac{1}{5} - \frac{1}{7} = \frac{2}{35}$
+$A_6 = 0$.
 
 Thus, we yield the rational polynomial:
 $P^N_M(x) = \frac{x + \frac{-1}{2}x^2 + \frac{3}{4}x^3 + \frac{-1}{8}x^4 + \frac{5}{24}x^6}{1 + \frac{3}{4}x^2}$ 
