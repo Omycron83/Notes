@@ -7,6 +7,8 @@ It is convention to let $B_0 = 1$
 4. Solve the resulting equations, where there are $N + M$ equations and $N + M$ unknowns
 
 ### Example: Approximating $sin(x)$ at $x = 0$ by a $M = 6$, $N = 2$ Padé:
+## Attention: Redo this, the original taylor approximation is wrong!!!
+
 Lets first construct the Taylor series by figuring out the derivative values at $x = 0$ for the 0'th to 8'th derivative, which are, luckily, easy to calculate as most are sine (thus equating to 0) and the rest being cosine with alternating signs:
 $P_{8} = 0 + x - 0 - \frac{x^2}{2} + 0 + \frac{x^4}{4} - 0 - \frac{x^6}{6} + 0 + \frac{x^8}{8}$ 
 
@@ -43,7 +45,10 @@ $A_5 = 0$
 $A_6 = \frac{-1}{6} + \frac{3}{8} = \frac{5}{24}$.
 
 Thus, we yield the rational polynomial:
-$P^N_M(x) = \frac{}
+$P^N_M(x) = \frac{x + \frac{-1}{2}x^2 + \frac{3}{4}x^3 + \frac{-1}{8}x^4 + \frac{5}{24}x^6}{1 + \frac{3}{4}x^2}$ 
+
+Lets finally plot $sin(x)$, the Taylor approximation and the Padé approximation:
+
 
 
 [1] as those will be encapsulated in the error or "Restglied"

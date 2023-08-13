@@ -142,7 +142,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -158,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f12fb16923172bf",
+  "active": "aa6b6b72bab25cdd",
   "lastOpenFiles": [
     "ML/Prioritized experience replay.md",
     "Analysis/Padé Approximizations.md",
