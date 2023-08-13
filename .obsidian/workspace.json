@@ -25,18 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Temporal Difference Error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a68cfdc693ee812f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "ML/Prioritized experience replay.md",
                 "mode": "source",
                 "source": false
@@ -44,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,15 +158,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a68cfdc693ee812f",
+  "active": "6f12fb16923172bf",
   "lastOpenFiles": [
+    "ML/Temporal Difference Error.md",
+    "ML/Prioritized experience replay.md",
+    "Untitled.md",
     "README.md",
     "Pasted image 20230812044531.png",
-    "ML/Temporal Difference Error.md",
     "ML/Monte Carlo Methods.md",
     "ML/Bootstrap Methods.md",
-    "Untitled.md",
-    "ML/Prioritized experience replay.md",
     "ML/Policy Gradient Theorem.md",
     "ML/Policy Gradient Methods.md",
     "ML/Neural Network.md",
