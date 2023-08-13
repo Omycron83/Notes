@@ -21,24 +21,24 @@ $\Leftrightarrow ... = (x - \frac{x^3}{3} + \frac{x^5}{5} - \frac{x^7}{7}) + (x 
 $\Leftrightarrow ... = ... + B_1x^2 - \frac{B_1 x^4}{3} + \frac{B_1 x^6}{5} - \frac{B_1 x^8}{7} + B_2x^3 - \frac{B_2 x^5}{3} + \frac{B_2 x^7}{5} - \frac{B_2 x^9}{7}$ 
 
 Now, we can drop the higher order terms:
-$\Leftrightarrow ... = ... + B_1x^2 - \frac{B_1 x^3}{2} + \frac{B_1 x^5}{4} - \frac{B_1 x^7}{6} + B_2x^3 - \frac{B_2 x^4}{2} + \frac{B_2 x^6}{4} - \frac{B_2 x^8}{6}$ 
+$\Leftrightarrow ... = ... + B_1x^2 - \frac{B_1 x^4}{3} + \frac{B_1 x^6}{5} - \frac{B_1 x^8}{7} + B_2x^3 - \frac{B_2 x^5}{3} + \frac{B_2 x^7}{5}$ 
 
 This yields us the following system of equations:
 $A_0 = 0$
 $A_1 = 1$
-$A_2 = \frac{-1}{2} + B_1$
-$A_3 = \frac{B_1}{2} + B_2$
-$A_4 = \frac{1}{4} - \frac{B_2}{2}$
-$A_5 = \frac{B_1}{4}$
-$A_6 = \frac{-1}{6} + \frac{B_2}{4}$
-$0 = \frac{-B_1}{6} (= A_7)$
-$0 = \frac{1}{8} - \frac{B_2}{6} (= A_8)$ 
+$A_2 = B_1$
+$A_3 = \frac{-1}{3} + B_2$
+$A_4 = \frac{-B_1}{3}$
+$A_5 = \frac{1}{5} - \frac{B_2}{3}$
+$A_6 = \frac{B_1}{5}$
+$0 = \frac{-1}{7} + \frac{B_2}{5} (= A_7)$
+$0 = - \frac{B_1}{7} (= A_8)$ 
 
 Now, we have a system of 8 equations with 8 unknowns. 
-We get the value of $B_1$ as $0$ and the value of $B_2$ as $\frac{3}{4}$ from the bottom equations.
+We get the value of $B_1$ as $0$ and the value of $B_2$ as $\frac{5}{7}$ from the bottom equations.
 This means that:
-$A_2 = \frac{-1}{2}$
-$A_3 = B_2 = \frac{3}{4}$
+$A_2 = 0$
+$A_3 = \frac{-1}{3} + \frac{5}{7} = \frac{}$
 $A_4 = \frac{1}{4} - \frac{3}{8} = \frac{-1}{8}$
 $A_5 = 0$
 $A_6 = \frac{-1}{6} + \frac{3}{8} = \frac{5}{24}$.
