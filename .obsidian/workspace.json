@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Prioritized experience replay.md",
+                "file": "Analysis/Pardé Approximizations.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Prioritized experience replay.md",
+                "file": "Analysis/Pardé Approximizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Prioritized experience replay.md",
+                "file": "Analysis/Pardé Approximizations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Prioritized experience replay.md"
+                "file": "Analysis/Pardé Approximizations.md"
               }
             }
           }
@@ -160,8 +160,10 @@
   },
   "active": "6f12fb16923172bf",
   "lastOpenFiles": [
-    "ML/Temporal Difference Error.md",
     "ML/Prioritized experience replay.md",
+    "Analysis/Pardé Approximizations.md",
+    "Analysis",
+    "ML/Temporal Difference Error.md",
     "Untitled.md",
     "README.md",
     "Pasted image 20230812044531.png",
@@ -188,7 +190,6 @@
     "LinA/Körper.md",
     "LinA/Homomorphiesatz.md",
     "ML/Inhalt.md",
-    "LinA/Inhalt.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230811144522.png",
     "Pasted image 20230810202617.png",

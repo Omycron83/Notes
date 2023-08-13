@@ -1,0 +1,1 @@
+Pardé-Approximizations are the Taylor-Series-Equivalent in approximating functions by rational polynomia
