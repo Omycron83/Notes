@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Policy Gradient Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f12fb16923172bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Analysis/Padé Approximizations.md",
+                "file": "ML/Prioritized experience replay.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Padé Approximizations.md",
+                "file": "ML/Prioritized experience replay.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Padé Approximizations.md",
+                "file": "ML/Prioritized experience replay.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Padé Approximizations.md"
+                "file": "ML/Prioritized experience replay.md"
               }
             }
           }
@@ -159,12 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6f12fb16923172bf",
+  "active": "6de1986f6bd52fd5",
   "lastOpenFiles": [
+    "ML/Policy Gradient Theorem.md",
+    "ML/Policy Gradient Methods.md",
+    "Analysis/Padé Approximizations.md",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",
     "ML/Prioritized experience replay.md",
-    "Analysis/Padé Approximizations.md",
     "Analysis",
     "ML/Temporal Difference Error.md",
     "Untitled.md",
@@ -172,8 +161,6 @@
     "Pasted image 20230812044531.png",
     "ML/Monte Carlo Methods.md",
     "ML/Bootstrap Methods.md",
-    "ML/Policy Gradient Theorem.md",
-    "ML/Policy Gradient Methods.md",
     "ML/Neural Network.md",
     "ML/DDQN - Architecture.md",
     "LinA/Basis & Dimension.md",
