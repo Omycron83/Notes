@@ -12,7 +12,7 @@ Empirically, a the latter method has been proven more robust to outliers, making
 Sampling is done using a sampling probability, which is calculated by:
 $P(i) = \frac{p_i^\alpha}{\sum_k p_k^\alpha}$ , i.e. by dividing the exponentiated priority of the sample $i$ by the total sum of exponentiated priorities, where $\alpha$ determines the amount of importance priority plays: if $\alpha$ is close to 0, it plays little to no importance while it plays an exponentially higher importance with an increasing $\alpha$, making it a hyperparameter.
 
-In order to choose 
+Now, only the implementation of this sampling remains. There are multiple ways this could be done efficiently, 
 
 
 
