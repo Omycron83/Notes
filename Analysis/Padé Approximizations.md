@@ -3,7 +3,7 @@ It is convention to let $B_0 = 1$
 ## Constructing a Padé Approximation
 1. Find the Taylor-Polynomial of degree $N + M$ for the function: $P_{N + M}(x) = c_0 + c_1x + c_2 x^2 + ... + c_{N + M}x^{N + M}$  
 2. Equate that too the rational function $P^N_M (x) = \frac{A_0 + A_1 x + A_2 x^2 + ... + A_Nx^n}{1 + B_1x + B_2 x^2 + ... + B_M x^M} = P_{N + M}(x)$
-3. Solve for the numerator by multiplying out the denominator with the Taylor-Approximation, where we can ignore any terms larger than $x^{N + M}$ [1]
+3. Solve for the numerator by multiplying out the denominator with the Taylor-Approximation, where we can ignore any terms larger than $x^{N + M}$ [1] and have, with the order higher than $N$, the numerator-polynomial equal to 0
 4. Solve the resulting equations, where there are $N + M$ equations and $N + M$ unknowns
 
 ### Example: Approximating $sin(x)$ at $x = 0$ by a $M = 6$, $N = 2$ Padé:
@@ -29,7 +29,21 @@ $A_2 = \frac{-1}{2} + B_1$
 $A_3 = \frac{B_1}{2} + B_2$
 $A_4 = \frac{1}{4} - \frac{B_2}{2}$
 $A_5 = \frac{B_1}{4}$
-$A_6 = \frac{-1}{6} 
+$A_6 = \frac{-1}{6} + \frac{B_2}{4}$
+$0 = \frac{-B_1}{6} (= A_7)$
+$0 = \frac{1}{8} - \frac{B_2}{6} (= A_8)$ 
+
+Now, we have a system of 8 equations with 8 unknowns. 
+We get the value of $B_1$ as $0$ and the value of $B_2$ as $\frac{3}{4}$ from the bottom equations.
+This means that:
+$A_2 = \frac{-1}{2}$
+$A_3 = B_2 = \frac{3}{4}$
+$A_4 = \frac{1}{4} - \frac{3}{8} = \frac{-1}{8}$
+$A_5 = 0$
+$A_6 = \frac{-1}{6} + \frac{3}{8} = \frac{5}{24}$.
+
+Thus, we yield the rational polynomial:
+$P^N_M(x) = \frac{}
 
 
 [1] as those will be encapsulated in the error or "Restglied"
