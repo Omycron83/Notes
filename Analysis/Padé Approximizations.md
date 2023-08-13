@@ -16,7 +16,20 @@ $x - \frac{x^2}{2} + \frac{x^4}{4} - \frac{x^6}{6} + \frac{x^8}{8} = \frac{A_0 +
 Further, we multiply this out:
 
 $A_0 + A_1 x + A_2 x^2 + A_3 x^3 + A_4 x^4 + A_5 x^5 + A_6 x^6 = (x - \frac{x^2}{2} + \frac{x^4}{4} - \frac{x^6}{6} + \frac{x^8}{8} ) (1 + B_1 x + B_2 x^2)$ 
-$\Leftrightarrow A_0 + A_1 x + A_2 x^2 + A_3 x^3 + A_4 x^4 + A_5 x^5 + A_6 x^6 = 
+$\Leftrightarrow ... = (x - \frac{x^2}{2} + \frac{x^4}{4} - \frac{x^6}{6} + \frac{x^8}{8}) + (x - \frac{x^2}{2} + \frac{x^4}{4} - \frac{x^6}{6} + \frac{x^8}{8})B_1 x + (x - \frac{x^2}{2} + \frac{x^4}{4} - \frac{x^6}{6} + \frac{x^8}{8}) B_2 x^2$
+$\Leftrightarrow ... = ... + B_1x^2 - \frac{B_1 x^3}{2} + \frac{B_1 x^5}{4} - \frac{B_1 x^7}{6} + \frac{B_1 x^9}{8} + B_2x^3 - \frac{B_2 x^4}{2} + \frac{B_2 x^6}{4} - \frac{B_2 x^8}{6} + \frac{B_2 x^{10}}{8}$ 
+
+Now, we can drop the higher order terms:
+$\Leftrightarrow ... = ... + B_1x^2 - \frac{B_1 x^3}{2} + \frac{B_1 x^5}{4} - \frac{B_1 x^7}{6} + B_2x^3 - \frac{B_2 x^4}{2} + \frac{B_2 x^6}{4} - \frac{B_2 x^8}{6}$ 
+
+This yields us the following system of equations:
+$A_0 = 0$
+$A_1 = 1$
+$A_2 = \frac{-1}{2} + B_1$
+$A_3 = \frac{B_1}{2} + B_2$
+$A_4 = \frac{1}{4} - \frac{B_2}{2}$
+$A_5 = \frac{B_1}{4}$
+$A_6 = \frac{-1}{6} 
 
 
 [1] as those will be encapsulated in the error or "Restglied"
