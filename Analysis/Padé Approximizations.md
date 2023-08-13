@@ -44,10 +44,11 @@ $A_5 = \frac{1}{5} - \frac{1}{7} = \frac{2}{35}$
 $A_6 = 0$.
 
 Thus, we yield the rational polynomial:
-$P^N_M(x) = \frac{x + \frac{-1}{2}x^2 + \frac{3}{4}x^3 + \frac{-1}{8}x^4 + \frac{5}{24}x^6}{1 + \frac{3}{4}x^2}$ 
+$P^N_M(x) = \frac{x + \frac{8}{25}x^3 + \frac{2}{35}x^5}{1 + \frac{5}{7}x^2}$ 
 
 Lets finally plot $sin(x)$, the Taylor approximation and the Padé approximation:
-
+![[Pasted image 20230813163819.png]]
+<span style="color:red">rot = sin(x) </span>, <span style="color:green">grün = Taylor </span>, <span style="color:blue">blau = Padé </span>
 
 
 [1] as those will be encapsulated in the error or "Restglied"
