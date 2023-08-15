@@ -73,26 +73,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Policy Gradient Methods.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c687a1da858c564f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Stationarity.md",
+                "file": "ML/Transformers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Policy Gradient Methods.md",
+                "file": "ML/Policy Gradient Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Policy Gradient Methods.md",
+                "file": "ML/Policy Gradient Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Policy Gradient Methods.md"
+                "file": "ML/Policy Gradient Theorem.md"
               }
             }
           }
@@ -219,16 +207,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "480f160ad6e1126d",
+  "active": "d7faedb491c52ae7",
   "lastOpenFiles": [
+    "ML/Transformers.md",
+    "ML/Stationarity.md",
+    "ML/Gradient Boosted Trees.md",
+    "LinA/Untergruppen.md",
     "ML/Policy Gradient Theorem.md",
     "ML/Proximal Policy Optimization.md",
-    "LinA/Untergruppen.md",
-    "ML/Stationarity.md",
+    "ML/Policy Gradient Methods.md",
     "LinA/Vektorraum.md",
     "LinA/Gruppenhomomorphismen.md",
     "ML/REINFORCE.md",
-    "ML/Gradient Boosted Trees.md",
     "ML/Bayesian Statistics.md",
     "ML/Almost Surely.md",
     "ML/Stochastic Process.md",
@@ -239,7 +229,6 @@
     "LinA/Untervektorräume.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Gruppen.md",
-    "ML/Policy Gradient Methods.md",
     "LinA/Homomorphiesatz.md",
     "LinA/Körper.md",
     "LinA/Basis & Dimension.md",
@@ -248,7 +237,6 @@
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "ML/Universal Approximation Theorem.md",
     "ML/Univariate Probability Distributions.md",
-    "ML/Bayes rule.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",

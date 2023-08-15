@@ -3,6 +3,8 @@ Let $\{X_t\}$ be a [[Stochastic Process]] and $F_X (x_{t_1+ \tau}, ..., x_{t_n +
 $F_X (x_{t_1+ \tau}, ..., x_{t_n + \tau}) = F_X (x_{t_1}, ..., x_{t_n}) \forall \tau, t_1, ..., t_n \in R \forall n \in N^*$ 
 
 This means that the distribution of that stochastic process is invariant over time.
+It can also refer being invariant over some other significant variable(s).
 
+There are multiple tests of stationarity.
 ### Example:
 ![[Pasted image 20230815192912.png]]
