@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6de1986f6bd52fd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Almost Surely.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4bac063aa68c3371",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Bayesian Statistics.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -181,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Almost Surely.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +186,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Almost Surely.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Almost Surely.md"
+                "file": "ML/Gradient Boosted Trees.md"
               }
             }
           }
@@ -242,12 +230,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6de1986f6bd52fd5",
+  "active": "4bac063aa68c3371",
   "lastOpenFiles": [
-    "ML/Stochastic Process.md",
-    "ML/Almost Surely.md",
-    "Pasted image 20230815194850.png",
     "ML/Bayesian Statistics.md",
+    "ML/Gradient Boosted Trees.md",
+    "ML/Almost Surely.md",
+    "ML/Stochastic Process.md",
+    "Pasted image 20230815194850.png",
     "ML/Random Variables.md",
     "ML/Unconditional Distributions.md",
     "ML/Stationarity.md",
@@ -271,7 +260,6 @@
     "ML/Universal Approximation Theorem.md",
     "ML/Univariate Probability Distributions.md",
     "ML/Bayes rule.md",
-    "ML/Bootstrap Methods.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",
