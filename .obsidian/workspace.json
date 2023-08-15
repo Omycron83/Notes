@@ -13,7 +13,103 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Prioritized experience replay.md",
+                "file": "ML/Almost Surely.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bac063aa68c3371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Bayesian Statistics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce65523ffc938972",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Stationarity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b8556cc153dff11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/REINFORCE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb988e3ac228afa8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Untergruppen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9f2b013c896491a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Vektorraum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "082c6b43dd0637ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Gruppenhomomorphismen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85078a2660b721b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Proximal Policy Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d7faedb491c52ae7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Policy Gradient Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Prioritized experience replay.md",
+                "file": "ML/Almost Surely.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Prioritized experience replay.md",
+                "file": "ML/Almost Surely.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Prioritized experience replay.md"
+                "file": "ML/Almost Surely.md"
               }
             }
           }
@@ -148,37 +244,41 @@
   },
   "active": "6de1986f6bd52fd5",
   "lastOpenFiles": [
+    "ML/Stochastic Process.md",
+    "ML/Almost Surely.md",
+    "Pasted image 20230815194850.png",
+    "ML/Bayesian Statistics.md",
+    "ML/Random Variables.md",
+    "ML/Unconditional Distributions.md",
+    "ML/Stationarity.md",
     "ML/Policy Gradient Theorem.md",
-    "ML/Policy Gradient Methods.md",
-    "Analysis/Padé Approximizations.md",
-    "Pasted image 20230813163919.png",
-    "Pasted image 20230813163819.png",
-    "ML/Prioritized experience replay.md",
-    "Analysis",
-    "ML/Temporal Difference Error.md",
-    "Untitled.md",
-    "README.md",
-    "Pasted image 20230812044531.png",
-    "ML/Monte Carlo Methods.md",
-    "ML/Bootstrap Methods.md",
-    "ML/Neural Network.md",
-    "ML/DDQN - Architecture.md",
-    "LinA/Basis & Dimension.md",
-    "ML/Multivariate Gaussian.md",
-    "ML/Bayes rule.md",
-    "ML/Univariate Probability Distributions.md",
-    "ML/Universal Approximation Theorem.md",
-    "ML/Gaussian Processes.md",
-    "Optimization/What is optimization.md",
-    "Optimization",
-    "ML/Untitled",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-    "LinA/Gruppen.md",
-    "LinA/Faktorgruppe.md",
+    "ML/Proximal Policy Optimization.md",
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
-    "LinA/Körper.md",
+    "LinA/Untergruppen.md",
+    "ML/REINFORCE.md",
+    "Pasted image 20230815192912.png",
+    "LinA/Untervektorräume.md",
+    "LinA/Lineare Abbildungen.md",
+    "LinA/Gruppen.md",
+    "ML/Policy Gradient Methods.md",
     "LinA/Homomorphiesatz.md",
+    "LinA/Körper.md",
+    "LinA/Basis & Dimension.md",
+    "LinA/Faktorgruppe.md",
+    "Analysis/Padé Approximizations.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "ML/Universal Approximation Theorem.md",
+    "ML/Univariate Probability Distributions.md",
+    "ML/Bayes rule.md",
+    "ML/Bootstrap Methods.md",
+    "Pasted image 20230815010633.png",
+    "Pasted image 20230813163919.png",
+    "Pasted image 20230813163819.png",
+    "Analysis",
+    "Pasted image 20230812044531.png",
+    "Optimization",
+    "ML/Untitled",
     "Pasted image 20230811163540.png",
     "Pasted image 20230811144522.png",
     "Pasted image 20230810202617.png",
