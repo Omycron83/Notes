@@ -103,7 +103,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/REINFORCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/REINFORCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md"
+                "file": "ML/REINFORCE.md"
               }
             }
           }
@@ -230,16 +231,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bac063aa68c3371",
+  "active": "0b8556cc153dff11",
   "lastOpenFiles": [
-    "ML/Bayesian Statistics.md",
+    "ML/Stationarity.md",
     "ML/Gradient Boosted Trees.md",
+    "ML/Bayesian Statistics.md",
     "ML/Almost Surely.md",
     "ML/Stochastic Process.md",
     "Pasted image 20230815194850.png",
     "ML/Random Variables.md",
     "ML/Unconditional Distributions.md",
-    "ML/Stationarity.md",
     "ML/Policy Gradient Theorem.md",
     "ML/Proximal Policy Optimization.md",
     "LinA/Gruppenhomomorphismen.md",
