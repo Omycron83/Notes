@@ -32,48 +32,12 @@
             }
           },
           {
-            "id": "0b8556cc153dff11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/REINFORCE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cb988e3ac228afa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LinA/Untergruppen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9f2b013c896491a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Vektorraum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "082c6b43dd0637ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Gruppenhomomorphismen.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c687a1da858c564f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Stationarity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -170,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Stationarity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Stationarity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/REINFORCE.md"
+                "file": "ML/Stationarity.md"
               }
             }
           }
@@ -231,9 +207,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8556cc153dff11",
+  "active": "c687a1da858c564f",
   "lastOpenFiles": [
+    "ML/Policy Gradient Theorem.md",
+    "LinA/Untergruppen.md",
+    "LinA/Vektorraum.md",
+    "LinA/Gruppenhomomorphismen.md",
     "ML/Stationarity.md",
+    "ML/REINFORCE.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Bayesian Statistics.md",
     "ML/Almost Surely.md",
@@ -241,12 +222,7 @@
     "Pasted image 20230815194850.png",
     "ML/Random Variables.md",
     "ML/Unconditional Distributions.md",
-    "ML/Policy Gradient Theorem.md",
     "ML/Proximal Policy Optimization.md",
-    "LinA/Gruppenhomomorphismen.md",
-    "LinA/Vektorraum.md",
-    "LinA/Untergruppen.md",
-    "ML/REINFORCE.md",
     "Pasted image 20230815192912.png",
     "LinA/Untervektorräume.md",
     "LinA/Lineare Abbildungen.md",
