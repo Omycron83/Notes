@@ -9,4 +9,6 @@ A normed linear space is a pair of objects $(V, || \;||)$ where the norm $|| \; 
 
 See that the third property also implies the third property for metrix spaces: lets assume $\lambda = -1$ , then $||\lambda (x - y) || =  ||-1 (x - y) || =  ||y - x || = |1| || x - y ||$
 
-### $L
+### $L_1$ and $L_2$ norms:
+$L_1 : V  \rightarrow R, L_1(x) = || x ||_1$ is defined as: $||x||_1 = \sum_1^n |x_i|$ 
+$L_1 : V  \rightarrow R, L_2(x) = || x ||_2$ is defined as: $||x||_2 = \sqrt{\sum_1^n x_i^2}$ 
