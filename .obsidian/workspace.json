@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md",
+                "file": "Analysis/Metric Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md",
+                "file": "Analysis/Metric Spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md",
+                "file": "Analysis/Metric Spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md"
+                "file": "Analysis/Metric Spaces.md"
               }
             }
           }
@@ -209,11 +209,12 @@
   },
   "active": "d7faedb491c52ae7",
   "lastOpenFiles": [
+    "ML/Policy Gradient Theorem.md",
+    "Analysis/Metric Spaces.md",
     "ML/Transformers.md",
     "ML/Stationarity.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Untergruppen.md",
-    "ML/Policy Gradient Theorem.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Policy Gradient Methods.md",
     "LinA/Vektorraum.md",
@@ -236,7 +237,6 @@
     "Analysis/Padé Approximizations.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "ML/Universal Approximation Theorem.md",
-    "ML/Univariate Probability Distributions.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",

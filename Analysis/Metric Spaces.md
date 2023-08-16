@@ -1,0 +1,1 @@
+A metric space is an Object $(X, dist)$ containing a set $X$ as well as a distance function $dist: X \times X \rightarrow 
