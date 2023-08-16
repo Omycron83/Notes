@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Metric Spaces.md",
+                "file": "Analysis/Normed linear spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analysis/Metric Spaces.md",
+                "file": "Analysis/Normed linear spaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analysis/Metric Spaces.md",
+                "file": "Analysis/Normed linear spaces.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analysis/Metric Spaces.md"
+                "file": "Analysis/Normed linear spaces.md"
               }
             }
           }
@@ -209,8 +209,9 @@
   },
   "active": "d7faedb491c52ae7",
   "lastOpenFiles": [
-    "ML/Policy Gradient Theorem.md",
     "Analysis/Metric Spaces.md",
+    "Analysis/Normed linear spaces.md",
+    "ML/Policy Gradient Theorem.md",
     "ML/Transformers.md",
     "ML/Stationarity.md",
     "ML/Gradient Boosted Trees.md",
@@ -236,7 +237,6 @@
     "LinA/Faktorgruppe.md",
     "Analysis/Padé Approximizations.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-    "ML/Universal Approximation Theorem.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",
