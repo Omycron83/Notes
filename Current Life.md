@@ -74,3 +74,9 @@ Carbs:
 # Fitness:
 Routine: Push-Pull-Legs
 6-12 reps, 5 sets
+
+
+# Current links:
+Habitica: https://habitica.com/
+Github: https://github.com/Omycron83
+Pomodoro: https://pomofocus.io/
