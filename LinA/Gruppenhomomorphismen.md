@@ -39,3 +39,4 @@ Beweis: Durchgehen der Unterguppeneigenschaften:
 Ein Homomorphismus ist ein Isomorphismus, wenn dieser bijektiv ist. 
 Dies bedeuted also, dass die "Struktur" der Gruppen ähnlich ist: die Verknüpfung jeder zwei Elemente in der einen Gruppe korrespondiert (umgewandelt) zur Verknüpfung ihrer Gegenstücke in der anderen Gruppe. Korrespondierende Elemente werden also gleich verknüpft. 
 Jeder Isomorphismus hat einen Umkehrisomorphismus, da alle bijektiven Abbildungen eine Inverse besitzen.
+Also bedeuted ein Isomorphismus zwischen zwei Gruppen, dass diese als 'im wesentlichen gleich' zu betrachten sind, d.h. wenn man die Elemente nur entsprechend umebenennen würde wären sie gleich.
