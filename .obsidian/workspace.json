@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "Current Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "Current Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basis & Dimension.md"
+                "file": "Current Life.md"
               }
             }
           }
@@ -255,11 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c65ad6424b2b302",
+  "active": "146ee7aa80dbe847",
   "lastOpenFiles": [
+    "LinA/Basis & Dimension.md",
     "LinA/Homomorphiesatz.md",
     "LinA/Gruppenhomomorphismen.md",
-    "LinA/Basis & Dimension.md",
     "LinA/Vektorraum.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
