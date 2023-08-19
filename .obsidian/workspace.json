@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "0c65ad6424b2b302",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basis & Dimension.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "146ee7aa80dbe847",
             "type": "leaf",
             "state": {
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Life.md",
+                "file": "LinA/Basis & Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Life.md",
+                "file": "LinA/Basis & Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Life.md"
+                "file": "LinA/Basis & Dimension.md"
               }
             }
           }
@@ -183,9 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "146ee7aa80dbe847",
+  "active": "0c65ad6424b2b302",
   "lastOpenFiles": [
     "ML/REINFORCE.md",
+    "Current Life.md",
+    "ML/Gradient Boosted Trees.md",
+    "ML/Proximal Policy Optimization.md",
     "ML/Stationarity.md",
     "ML/Stochastic Process.md",
     "ML/Temporal Difference Error.md",
@@ -194,10 +209,7 @@
     "ML/Untitled.md",
     "Analysis/Normed linear spaces.md",
     "ML/Transformers.md",
-    "Current Life.md",
-    "ML/Gradient Boosted Trees.md",
     "LinA/Untergruppen.md",
-    "ML/Proximal Policy Optimization.md",
     "Analysis/Metric Spaces.md",
     "ML/Policy Gradient Theorem.md",
     "ML/Policy Gradient Methods.md",
