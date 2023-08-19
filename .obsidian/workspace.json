@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+                "file": "LinA/Basis & Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+                "file": "LinA/Basis & Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md"
+                "file": "LinA/Basis & Dimension.md"
               }
             }
           }
@@ -207,10 +207,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e1ef74d166b135a2",
+  "active": "0c65ad6424b2b302",
   "lastOpenFiles": [
-    "LinA/Basis & Dimension.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "LinA/Basis & Dimension.md",
     "ML/REINFORCE.md",
     "Current Life.md",
     "ML/Gradient Boosted Trees.md",

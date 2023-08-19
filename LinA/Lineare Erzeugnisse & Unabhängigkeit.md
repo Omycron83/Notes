@@ -26,11 +26,11 @@ Beweis:
 	$o = (\lambda_1 v_1 + ... + \lambda_{i - 1} v_{i - 1} + \lambda_{i + 1} v_{i + 1} + ... + \lambda_r v_r) - (\mu_1 v_1 + ... + \mu_{i - 1} v_{i - 1} + \mu_{i + 1} v_{i + 1} +... + \mu_r v_r)$ 
 	Und somit
 	$o = (\lambda_1 - \mu_1) v_1 + ... + (\lambda_{i-1} - \mu_{i - 1}) v_{i-1}+ (\lambda_{i + 1} - \mu_{i + 1}) v_{i + 1} + ... + (\lambda_r - \mu_r) v_r$
-	Und da $v_1, ... v_r$ immernoch linear unabhängig sein müssen muss [[Lineare Erzeugnisse & Unabhängigkeit#^e183ff|per Definition]] jeweils
+	Genau dann, wenn $v_1, ... v_r$ linear unabhängig snd  muss [[Lineare Erzeugnisse & Unabhängigkeit#^e183ff|per Definition]] jeweils
 	$\lambda_1 - \mu_1 = ... = \lambda_r - \mu_r = 0$
 	Und somit
 	$\lambda_1 = \mu_1, ..., \lambda_r = \mu_r$ 
-	Wodurch die Linearkombination eindeutig ist
+	Wodurch die Linearkombination eindeutig ist, genau dann wenn sie linear unabhängig ist
 
 
 
