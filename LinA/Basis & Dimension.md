@@ -26,4 +26,10 @@ Somit ist jeder Vektorraum mit einer Basenlänge $n$ isomorph zu seinem $K^n$ .
 ### Basis = minimal Erzeugend, maximal Unabhängig:
 Folgende Aussagen sind äquivalent für eine Familie $B = (v_1, ..., v_r)$ eines Vektorraumes von $V$:
 1. $B$ ist eine Basis von $V$ 
-2. $B$ ist minimal erzeugend, d.h. für $<B> = B$
+2. $B$ ist minimal erzeugend, d.h. für $span(B) = V$ und $span(B') \neq V \forall B' \subset B$ mit $B' \neq B$ 
+3. $B$ ist maximal linear unabhängig, d.h. $B$ ist linear unabhängig und $B \cup \{v\}$ ist linear unabhängig $\forall v \in V , v\not \in B$ 
+Beweis:
+	$1. \implies 2.$:
+	Nehme man an, es gäbe ein $B' \subset B, B' \neq B$ für das $span(B') = V$ .
+	Dann könnte man ein $v \in V$ darstellen als:
+	$
