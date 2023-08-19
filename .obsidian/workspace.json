@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "e1ef74d166b135a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "146ee7aa80dbe847",
             "type": "leaf",
             "state": {
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basis & Dimension.md"
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md"
               }
             }
           }
@@ -195,8 +207,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0c65ad6424b2b302",
+  "active": "e1ef74d166b135a2",
   "lastOpenFiles": [
+    "LinA/Basis & Dimension.md",
     "ML/REINFORCE.md",
     "Current Life.md",
     "ML/Gradient Boosted Trees.md",
@@ -224,7 +237,6 @@
     "LinA/Untervektorräume.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Gruppen.md",
-    "LinA/Homomorphiesatz.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",
