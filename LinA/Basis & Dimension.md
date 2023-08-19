@@ -32,4 +32,4 @@ Beweis:
 	$1. \implies 2.$:
 	Nehme man an, es gäbe ein $B' \subset B, B' \neq B$ für das $span(B') = V$ .
 	Dann könnte man ein $v \in V$ darstellen als:
-	$
+	$v = (\)
