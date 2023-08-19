@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Normed linear spaces.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "480f160ad6e1126d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Transformers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "df86c625fd1bbf38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Life.md",
+                "file": "ML/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Life.md",
+                "file": "ML/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Life.md",
+                "file": "ML/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Life.md"
+                "file": "ML/Untitled.md"
               }
             }
           }
@@ -195,10 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "df86c625fd1bbf38",
+  "active": "1232ad8be5aff38b",
   "lastOpenFiles": [
-    "ML/Transformers.md",
+    "ML/Universal Approximation Theorem.md",
     "Analysis/Normed linear spaces.md",
+    "ML/Untitled.md",
+    "ML/Transformers.md",
+    "Current Life.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Stationarity.md",
     "LinA/Untergruppen.md",
@@ -222,9 +201,6 @@
     "LinA/Homomorphiesatz.md",
     "LinA/Körper.md",
     "LinA/Basis & Dimension.md",
-    "LinA/Faktorgruppe.md",
-    "Analysis/Padé Approximizations.md",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",
