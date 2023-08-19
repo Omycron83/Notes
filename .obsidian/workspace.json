@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Untitled.md",
+                "file": "ML/REINFORCE.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Untitled.md",
+                "file": "ML/REINFORCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Untitled.md",
+                "file": "ML/REINFORCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Untitled.md"
+                "file": "ML/REINFORCE.md"
               }
             }
           }
@@ -171,15 +171,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1232ad8be5aff38b",
+  "active": "d7faedb491c52ae7",
   "lastOpenFiles": [
+    "ML/Stationarity.md",
+    "ML/Stochastic Process.md",
+    "ML/Temporal Difference Error.md",
     "ML/Universal Approximation Theorem.md",
-    "Analysis/Normed linear spaces.md",
+    "Optimization/What is optimization.md",
     "ML/Untitled.md",
+    "Analysis/Normed linear spaces.md",
     "ML/Transformers.md",
     "Current Life.md",
     "ML/Gradient Boosted Trees.md",
-    "ML/Stationarity.md",
     "LinA/Untergruppen.md",
     "ML/Proximal Policy Optimization.md",
     "Analysis/Metric Spaces.md",
@@ -190,7 +193,6 @@
     "ML/REINFORCE.md",
     "ML/Bayesian Statistics.md",
     "ML/Almost Surely.md",
-    "ML/Stochastic Process.md",
     "Pasted image 20230815194850.png",
     "ML/Random Variables.md",
     "ML/Unconditional Distributions.md",
@@ -199,8 +201,6 @@
     "LinA/Lineare Abbildungen.md",
     "LinA/Gruppen.md",
     "LinA/Homomorphiesatz.md",
-    "LinA/Körper.md",
-    "LinA/Basis & Dimension.md",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
     "Pasted image 20230813163819.png",
