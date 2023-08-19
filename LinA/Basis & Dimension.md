@@ -30,6 +30,7 @@ Folgende Aussagen sind äquivalent für eine Familie $B = (v_1, ..., v_r)$ eines
 3. $B$ ist maximal linear unabhängig, d.h. $B$ ist linear unabhängig und $B \cup \{v\}$ ist linear unabhängig $\forall v \in V , v\not \in B$ 
 Beweis:
 	$1. \implies 2.$:
-	Nehme man an, es gäbe ein $B' \subset B, B' \neq B$ für das $span(B') = V$ .
+	Nehme man an, es gäbe ein $B' \subset B, B' \neq B$ für das $span(B') = V$ , wobei $B' = w_1, ..., w_l$ und $B = v_1, ..., v_r$ mit $l < r$
 	Dann könnte man ein $v \in V$ darstellen als:
-	$v = (\)
+	$v = \lambda_1 v_1 + ... + \lambda_r v_r = \mu_1 w_1 + ... + \mu_l w_l$ 
+	Somit müsste sich also 
