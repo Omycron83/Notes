@@ -34,4 +34,7 @@ Beweis:
 	Dann könnte man ein $v \in V$ durch geschickte Umbenennung darstellen als:
 	$v = \lambda_1 v_1 + ... + \lambda_r v_r = \mu_1 v_1 + ... + \mu_l v_l$ 
 	Somit müsste sich also ein $v_r \in B \backslash B'$ darstellen lassen als:
-	$v_r = (\mu_1 - \la)
+	$v_r = \frac{1}{\lambda_r}(\mu_1 - \lambda_1)v_1 + ... + \frac{1}{\lambda_r}(\mu_l - \lambda_l)v_l + ... + \frac{\lambda_{r-1}}{\lambda_r}v_{r-1}$ 
+	Dann wäre aber $B$ nicht linear unabhängig und so keine Basis
+	$2. \implies 3.$:
+	
