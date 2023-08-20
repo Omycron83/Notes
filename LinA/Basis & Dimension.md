@@ -38,3 +38,5 @@ Beweis:
 	Dann wäre aber $B$ nicht linear unabhängig und so keine Basis
 	$2. \implies 3.$:
 	
+	$3. \implies 1.$:
+	
