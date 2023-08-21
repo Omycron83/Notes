@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Basisaustauschlemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Basisaustauschlemma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Basisaustauschlemma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basis & Dimension.md"
+                "file": "LinA/Basisaustauschlemma.md"
               }
             }
           }
@@ -233,8 +233,9 @@
   },
   "active": "8988b32b0dab27c5",
   "lastOpenFiles": [
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Basis & Dimension.md",
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Beweisarten.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Decision Trees.md",
@@ -258,7 +259,6 @@
     "Optimization/What is optimization.md",
     "Analysis/Normed linear spaces.md",
     "LinA/Untergruppen.md",
-    "Analysis/Metric Spaces.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",

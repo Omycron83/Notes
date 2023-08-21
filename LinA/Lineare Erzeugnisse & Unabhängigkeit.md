@@ -18,6 +18,9 @@ $\Leftrightarrow \lambda_1 \cdot v_1 + ... + \lambda_r \cdot v_r = -\lambda_g \c
 $\Leftrightarrow \frac{-\lambda_1}{\lambda_g} v_1 + .... + \frac{-\lambda_r}{\lambda_g} = v_g$                    Da $\lambda_g \neq 0$ 
 
 ### Lineare Unabhängigkeit <-> Eindeutige Linearkombination:
+
+^b227ab
+
 Vektoren $v_1, ..., v_r$ sind genau dann linear unabhängig, wenn sich jedes $v \in \{v_1, ..., v_r\}$ eindeutig als Linearkombination der anderen $v_i$ darstellen lässt.
 
 Beweis:

@@ -5,7 +5,7 @@ Eine Familie an Vektoren $v_1, ..., v_n$ nennt man Basis eines Vektorraumes $V$ 
 
 Jeder Vektor in $V$ kann so **eindeutig** als lineares Erzeugniss der Basis geschrieben werden.
 ### Beweis Eindeutigkeit der Darstellung:
-Die eindeutige Darstellbarkeit lässt sich aus der Äquivalenz zwischen linearer Unabhängigkeit und eindeutiger Darstellbarkeit 
+Die eindeutige Darstellbarkeit lässt sich aus der [[Lineare Erzeugnisse & Unabhängigkeit#^b227ab|Äquivalenz zwischen linearer Unabhängigkeit und eindeutiger Darstellbarkeit ablesen]].
 
 ## Weitere Charakterisierung:
 
@@ -50,5 +50,11 @@ Beweis:
 	$3. \implies 1.$:
 	Nehme man an, $B$ wäre zwar linear unabhängig, aber nicht erzeugend. Dann gibt es ein $v \in V$ mit $v \not \in span(v_1, ..., v_r)$ . Damit wäre dann jedoch $(v, v_1, ..., v_r)$ linear unabhängig. Dann wäre $B$ aber nicht maximal linear unabhängig.
 
-## Existenz:
+## Existenz einer Basis für endlich erzeugbare Vektorräume:
+Ist $X \subset V$ ein endliches Erzeugendensystem, dann gibt es eine Basis.
+
+Beweis:
+	Jedes Erzeugendensystem beinhaltet ein minimales Erzeugendensystem. Dies ist wie o.g. eine Basis.
+
+Also besitzt jeder endlich erzeugbarer Vektorraum eine Basis.
 
