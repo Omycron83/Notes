@@ -4,7 +4,7 @@ Gradient boosted trees are an ensemble learning technique that uses [[Decision T
 This is done iteratively by constructing an [[Ensemble Learning|ensemble]] function  $F_{m + 1}(x_i) =  F_m (x_i) + h_m (x_i) = \hat{y_i}$ as a predictor. Thus, if one wanted to better the prediction of the predecessor $F_m$, they should choose $h_m(x_i) = \hat{y_i} - F_m(x_i)$ . This would thus minimize the absolute error of the prediction.
 However, we often want to minimize a certain differentiable loss function, such as the [[Mean Squared Error|MSE]]:
 
-$L_{MSE}(y_i, F_m(x_i)) = L_{MSE}(h_m(x_i))$ 
+$min \; L_{MSE}(y_i, F_m(x_i)) = L_{MSE}(h_m(x_i), 0)$ 
 
 To minimize this, a form of gradient descent can be used:
 
