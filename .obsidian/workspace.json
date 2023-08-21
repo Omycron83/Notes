@@ -37,38 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Austauschsatz von Steinitz.md",
+                "file": "LinA/Dimension.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "83aa325aed708b9f",
+            "id": "b7590ad924b96273",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Basisaustauschlemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ead8e797dafd5f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Familien.md",
+                "file": "LinA/Basen haben gleiche Länge.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Austauschsatz von Steinitz.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Austauschsatz von Steinitz.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Austauschsatz von Steinitz.md"
+                "file": "ML/Gradient Boosted Trees.md"
               }
             }
           }
@@ -195,12 +182,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "058d2a8ad6039e50",
+  "active": "4bac063aa68c3371",
   "lastOpenFiles": [
+    "ML/Proximal Policy Optimization.md",
+    "LinA/Basen haben gleiche Länge.md",
+    "LinA/Dimension.md",
     "LinA/Basisaustauschlemma.md",
     "LinA/Austauschsatz von Steinitz.md",
     "LinA/Familien.md",
-    "ML/Proximal Policy Optimization.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Basen.md",
@@ -221,8 +210,6 @@
     "ML/REINFORCE.md",
     "ML/Monte Carlo Methods.md",
     "ML/Stochastic Process.md",
-    "ML/Universal Approximation Theorem.md",
-    "Optimization/What is optimization.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
