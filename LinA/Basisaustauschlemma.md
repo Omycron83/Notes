@@ -13,4 +13,6 @@ Beweis durch zeigen der [[Basen|Basiseigenschaften]]:
 	Wir wissen, dass $o = \phi_1 v_1 + ... + \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$ 
 	Nach dem obrigen können wir außerdem einsetzen:
 	$o = \phi_1 v_1 + ...  + \phi_i (\frac{w}{\lambda_i} - ... - \frac{\lambda_n v_n}{\lambda_i}) + ... + \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$ 
+	Wodurch
+	$o = (\phi_1 -  \phi_i \frac{\lambda_1}{\lambda_i}) v_1 + ...  + \phi_i \frac{w}{\lambda_i} + ... +  (\phi_n -  \phi_i \frac{\lambda_n}{\lambda_i}) v_n \implies \phi_1 = ... = \phi_n = 0$ 
 	
