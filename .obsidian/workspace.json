@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Ensemble Learning.md",
+                "file": "ML/Decision Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Ensemble Learning.md",
+                "file": "ML/Decision Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Ensemble Learning.md",
+                "file": "ML/Decision Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Ensemble Learning.md"
+                "file": "ML/Decision Trees.md"
               }
             }
           }
@@ -257,8 +257,9 @@
   },
   "active": "0c65ad6424b2b302",
   "lastOpenFiles": [
-    "ML/Gradient Boosted Trees.md",
     "ML/Ensemble Learning.md",
+    "ML/Decision Trees.md",
+    "ML/Gradient Boosted Trees.md",
     "ML/Monte Carlo Methods.md",
     "Current Life.md",
     "LinA/Basis & Dimension.md",
@@ -283,7 +284,6 @@
     "ML/Bayesian Statistics.md",
     "ML/Almost Surely.md",
     "Pasted image 20230815194850.png",
-    "ML/Random Variables.md",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
