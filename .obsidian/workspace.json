@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Beweisarten.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Beweisarten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "LinA/Beweisarten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basis & Dimension.md"
+                "file": "LinA/Beweisarten.md"
               }
             }
           }
@@ -209,6 +209,8 @@
   },
   "active": "d042d14e54be4d53",
   "lastOpenFiles": [
+    "LinA/Basis & Dimension.md",
+    "LinA/Beweisarten.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Decision Trees.md",
     "ML/Proximal Policy Optimization.md",
@@ -227,14 +229,12 @@
     "ML/Stationarity.md",
     "ML/REINFORCE.md",
     "ML/Monte Carlo Methods.md",
-    "LinA/Basis & Dimension.md",
     "ML/Stochastic Process.md",
     "ML/Universal Approximation Theorem.md",
     "Optimization/What is optimization.md",
     "Analysis/Normed linear spaces.md",
     "LinA/Untergruppen.md",
     "Analysis/Metric Spaces.md",
-    "ML/Policy Gradient Theorem.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
