@@ -4,7 +4,8 @@ Decision trees are a family of models based on the rule-based splitting of data 
 
 If one wants to predict another datapoint, they can then traverse the tree according to the splits and obtain a prediction by its end node.
 
-Decision trees are usually fairly parsimoneous. 
+
+Decision trees are usually fairly parsimoneous, and can geometrically be interpreted by partitioning the datapoints by hyperplanes.
 
 ## Classification Trees
 
