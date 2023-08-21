@@ -1,4 +1,7 @@
 ## Definition:
+
+^abb4a8
+
 Sei $V$ ein $K$-Vektorraum, dann heißt $W \subset V$ **Untervektorraum** von $V$ wenn:
 1. $o \in W$
 2. $v + w \in W \forall v,w \in W$

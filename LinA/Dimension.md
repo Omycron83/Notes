@@ -15,4 +15,4 @@ Sei $W \subset V$ ein [[Untervektorräume|Untervektorraum]]. Dann gilt:
 2. $dim(W) = dim(V) \Leftrightarrow W = V$ 
 Beweis:
 	1. Jede mögliche Basis von $W$ kann maximal die Länge einer Basis von $V$ haben, da sie, wenn sie in $W$ linear unabhängig ist, auch in $V$ linear unabhängig ist.
-	2. Gehe man davon aus, es gäbe eine Basis $B'$ von $W$ mit $<B'> \neq V$. Dann gibt es mindestens ein $v \in V \backslash W \not \i$  
+		1. Gehe man davon aus, es gäbe eine Basis $B'$ von $W$ mit $<B'> \neq V$ (notwendig damit der [[Untervektorräume#^abb4a8|Untervektorraum abgeschlossen ist]]. Dann gibt es mindestens ein $v \in V \backslash W \not \in <B'>$ . Somit wäre $B' \cup \{v \}$ linear unabhängig, was jedoch nicht möglich ist da Basen [[Basen#^80a43c|maximal linear unabhängig]] sind und $dim(W) = dim(V)$ ist.
