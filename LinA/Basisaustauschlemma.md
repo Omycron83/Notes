@@ -10,9 +10,11 @@ Beweis durch zeigen der [[Basen|Basiseigenschaften]]:
 	Somit ist $v = \mu_1 v_1 + ... + \mu_i (\frac{w}{\lambda_i} - ... - \frac{\lambda_n v_n}{\lambda_i}) + ... + \mu_n v_n$ 
 	Und somit $span(B')$ auch $V$
 	2. $B'$ ist linear unabhängig:
-	Wir wissen, dass $o = \phi_1 v_1 + ... + \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$ 
-	Nach dem obrigen können wir außerdem einsetzen:
-	$o = \phi_1 v_1 + ...  + \phi_i (\frac{w}{\lambda_i} - ... - \frac{\lambda_n v_n}{\lambda_i}) + ... + \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$ 
-	Wodurch
-	$o = (\phi_1 -  \phi_i \frac{\lambda_1}{\lambda_i}) v_1 + ...  + \phi_i \frac{w}{\lambda_i} + ... +  (\phi_n -  \phi_i \frac{\lambda_n}{\lambda_i}) v_n \implies \phi_1 = ... = \phi_n = 0$ 
+	Dann wüsstem man, dass
+	$o = \phi_i w + \phi_1 v_1 + ... \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$.
+	Nun kann man einsetzen:
+	$o = \phi_i (v_1 \lambda_1 + ... + \lambda_n v_n) + \phi_1 v_1 + ... \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$
 	
+
+
+
