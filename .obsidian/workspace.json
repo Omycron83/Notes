@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "64c4ec6cb980cc12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Familien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2c73861c9116567c",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -233,9 +245,10 @@
   },
   "active": "2c73861c9116567c",
   "lastOpenFiles": [
-    "LinA/Relationen.md",
+    "LinA/Familien.md",
     "LinA/Basisaustauschlemma.md",
     "LinA/Abbildungen.md",
+    "LinA/Relationen.md",
     "LinA/Halbordnungen.md",
     "LinA/Unendlichdimensionale Vektorräume.md",
     "Untitled 1.canvas",
@@ -246,7 +259,6 @@
     "LinA/Austauschsatz von Steinitz.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Proximal Policy Optimization.md",
-    "LinA/Familien.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "ML/Decision Trees.md",
     "ML/Mean Squared Error.md",
