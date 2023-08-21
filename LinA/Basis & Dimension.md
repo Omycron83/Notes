@@ -36,7 +36,9 @@ Beweis:
 	Somit müsste sich also ein $v_r \in B \backslash B'$ darstellen lassen als:
 	$v_r = \frac{1}{\lambda_r}(\mu_1 - \lambda_1)v_1 + ... + \frac{1}{\lambda_r}(\mu_l - \lambda_l)v_l + ... + \frac{\lambda_{r-1}}{\lambda_r}v_{r-1}$ 
 	Dann wäre aber $B$ nicht linear unabhängig und so keine Basis
-	$2. \implies 3.$:
+	$2. \implies 1.$:
+	
+	$1. \implies 3.$:
 	
 	$3. \implies 1.$:
 	
