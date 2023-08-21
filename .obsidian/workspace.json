@@ -20,42 +20,6 @@
             }
           },
           {
-            "id": "d042d14e54be4d53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Beweisarten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8988b32b0dab27c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basisaustauschlemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "38fcae48d6aed767",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "85078a2660b721b2",
             "type": "leaf",
             "state": {
@@ -68,36 +32,12 @@
             }
           },
           {
-            "id": "d7faedb491c52ae7",
+            "id": "7786e15e5e043de2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Decision Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2768bde1e234e25",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Mean Squared Error.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2118f72bcbbca2b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "LinA/Basisaustauschlemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,16 +171,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8988b32b0dab27c5",
+  "active": "7786e15e5e043de2",
   "lastOpenFiles": [
-    "LinA/Basis & Dimension.md",
-    "LinA/Basisaustauschlemma.md",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-    "LinA/Beweisarten.md",
-    "ML/Gradient Boosted Trees.md",
-    "ML/Decision Trees.md",
     "ML/Proximal Policy Optimization.md",
+    "ML/Gradient Boosted Trees.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "LinA/Basen.md",
+    "ML/Decision Trees.md",
     "ML/Mean Squared Error.md",
+    "LinA/Beweisarten.md",
+    "LinA/Basisaustauschlemma.md",
     "LinA/Homomorphiesatz.md",
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
