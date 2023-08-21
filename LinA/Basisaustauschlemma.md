@@ -14,6 +14,10 @@ Beweis durch zeigen der [[Basen|Basiseigenschaften]]:
 	$o = \phi_i w + \phi_1 v_1 + ... \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$.
 	Nun kann man einsetzen:
 	$o = \phi_i (v_1 \lambda_1 + ... + \lambda_n v_n) + \phi_1 v_1 + ... \phi_n v_n \implies \phi_1 = ... = \phi_n = 0$
+	$\Leftrightarrow o = \phi_i \lambda_i v_i + (\phi_1 + \phi_i \lambda_1)v_1 + ... (\phi_n + \phi_i \lambda_n) v_n \implies \phi_1 = ... = \phi_n = 0$
+	Da $v_1, ..., v_n$ linear unabhängig sind, gilt:
+	$\phi_i \lambda_i v_i = (\phi_1 + \phi_i \lambda_1) = ... = (\phi_n + \phi_i \lambda_n) = 0$ 
+	Und da $\lambda_i$ 
 	
 
 
