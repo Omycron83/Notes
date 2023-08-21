@@ -41,8 +41,12 @@ Beweis:
 	Somit gäbe es ein $v_i \in B$ mit $v_i = \lambda_1 v_1 + ... + \lambda_{i - 1} v_{i - 1} + \lambda_{i + 1} v_{i + 1} + ... + \lambda_r v_r$ .
 	Nehme man nun an, dass ein $v \in span(v_1, ..., v_r)$ ist.
 	Dann gilt:
-	$v = \mu_1 v_1 + ... + \mu_i v$
+	$v = \mu_1 v_1 + ... + \mu_i v_i + ... + \mu_r v_r$
+	Einsetzen:
+	$v = \mu_1 v_1 + ... + (\lambda_1 v_1 + ... + \lambda_{i - 1} v_{i - 1} + \lambda_{i + 1} v_{i + 1} + ... + \lambda_r v_r) + ... \mu_r v_r$ 
+	$\Leftrightarrow (\mu_1 + \lambda_1) v_1 + ... (\mu_{i-1} + \lambda_{i - 1}) v_{i - 1} + (\mu_{i+1} + \lambda_{i + 1}) v_{i + 1} + ... + (\mu_r + \lambda_r) v_r$ 
+	Und somit auch $v \in span(v_1, ..., v_{i-1}, v_{i + 1}, v_r)$ 
 	$1. \implies 3.$:
-	
+	Da $B$ eine Basis ist, sind alle Basisvektoren linear unabhängig, und ein jedes $v \in V$ wird von ihr erzeugt. Somit ist $v$ durch eine Linearkombination darstellbar, und somit mit der Basis vereinigt nicht linear unabhängig.
 	$3. \implies 1.$:
 	
