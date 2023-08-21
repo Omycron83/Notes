@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Basisaustauschlemma.md",
+                "file": "LinA/Austauschsatz von Steinitz.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basisaustauschlemma.md",
+                "file": "LinA/Austauschsatz von Steinitz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basisaustauschlemma.md",
+                "file": "LinA/Austauschsatz von Steinitz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basisaustauschlemma.md"
+                "file": "LinA/Austauschsatz von Steinitz.md"
               }
             }
           }
@@ -173,6 +173,8 @@
   },
   "active": "7786e15e5e043de2",
   "lastOpenFiles": [
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Austauschsatz von Steinitz.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
@@ -180,7 +182,6 @@
     "ML/Decision Trees.md",
     "ML/Mean Squared Error.md",
     "LinA/Beweisarten.md",
-    "LinA/Basisaustauschlemma.md",
     "LinA/Homomorphiesatz.md",
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
@@ -198,7 +199,6 @@
     "ML/Universal Approximation Theorem.md",
     "Optimization/What is optimization.md",
     "Analysis/Normed linear spaces.md",
-    "LinA/Untergruppen.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
