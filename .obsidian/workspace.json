@@ -54,8 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "996ac1a1370f3253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Austauschsatz von Steinitz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c5b0c78caaadbe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basisaustauschlemma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "LinA/Basen haben gleiche Länge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "LinA/Basen haben gleiche Länge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md"
+                "file": "LinA/Basen haben gleiche Länge.md"
               }
             }
           }
@@ -182,15 +207,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bac063aa68c3371",
+  "active": "b7590ad924b96273",
   "lastOpenFiles": [
-    "ML/Proximal Policy Optimization.md",
-    "LinA/Basen haben gleiche Länge.md",
-    "LinA/Dimension.md",
-    "LinA/Basisaustauschlemma.md",
     "LinA/Austauschsatz von Steinitz.md",
-    "LinA/Familien.md",
+    "LinA/Basen haben gleiche Länge.md",
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Dimension.md",
     "ML/Gradient Boosted Trees.md",
+    "ML/Proximal Policy Optimization.md",
+    "LinA/Familien.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Basen.md",
     "ML/Decision Trees.md",
