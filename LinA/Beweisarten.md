@@ -1,4 +1,4 @@
 - Direkter Beweis: z.Z. $a \implies b$ 
 - Kontraposition : z.Z. $¬ a \implies ¬ b$  
 - Widerspruchsbeweis: z.Z. $a \land ¬ b$ ist widersprüchlich
-- 
+- Indirekter Beweis: z.Z. $¬ (a \implies b)$ ist widersprüchlich
