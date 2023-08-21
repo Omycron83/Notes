@@ -3,6 +3,6 @@ Eine Relation $\sim$ zwischen zwei Mengen $X, Y$ ist eine Teilmenge des kartesis
 
 ## Äquivalenzrelationen
 Eine Relation auf einer einzigen Menge $M$ ist eine Äquivalenzrelation, wenn sie
-1. Reflexiv ist: $a \sim a \forall a \in M$
-2. Symmetrisch ist: $a \sim b \implies b \sim a \forall a,b \in M$
-3. Transitiv ist: $a \sim b, b \sim c \implies a \sim c \forall a,b,c \in M$
+1. **Reflexiv** ist: $a \sim a \forall a \in M$
+2. **Symmetrisch** ist: $a \sim b \implies b \sim a \forall a,b \in M$
+3. **Transitiv** ist: $a \sim b, b \sim c \implies a \sim c \forall a,b,c \in M$
