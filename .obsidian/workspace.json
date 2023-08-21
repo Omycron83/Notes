@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/Ensemble Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/Ensemble Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/Ensemble Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md"
+                "file": "ML/Ensemble Learning.md"
               }
             }
           }
@@ -257,9 +257,10 @@
   },
   "active": "0c65ad6424b2b302",
   "lastOpenFiles": [
+    "ML/Gradient Boosted Trees.md",
+    "ML/Ensemble Learning.md",
     "ML/Monte Carlo Methods.md",
     "Current Life.md",
-    "ML/Untitled.md",
     "LinA/Basis & Dimension.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
@@ -267,7 +268,6 @@
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
     "ML/REINFORCE.md",
-    "ML/Gradient Boosted Trees.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Stationarity.md",
     "ML/Stochastic Process.md",

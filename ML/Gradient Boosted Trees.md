@@ -1,1 +1,1 @@
-Gradient boosted trees are an ensemble learning technique 
+Gradient boosted trees are an ensemble learning technique that uses decision trees as a base optimizer, which are then fit to the residuals to further minimize the loss function.
