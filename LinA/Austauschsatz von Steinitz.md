@@ -1,1 +1,1 @@
-Sei $B = (v_1, ..., v_n)$ eine Basis von V und $C = (w_1, ..., w_n)$ eine weitere Familie linear unabhängiger Vektoren. 
+Sei $B = (v_1, ..., v_n)$ eine Basis von V und $C = (w_1, ..., w_n)$ eine weitere [[Familien|Familie]] linear unabhängiger Vektoren. 

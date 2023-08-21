@@ -37,14 +37,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "LinA/Familien.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "058d2a8ad6039e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "LinA/Austauschsatz von Steinitz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ead8e797dafd5f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Familien.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7786e15e5e043de2",
+  "active": "058d2a8ad6039e50",
   "lastOpenFiles": [
-    "LinA/Basisaustauschlemma.md",
+    "LinA/Familien.md",
     "LinA/Austauschsatz von Steinitz.md",
+    "LinA/Basisaustauschlemma.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
@@ -198,7 +223,6 @@
     "ML/Stochastic Process.md",
     "ML/Universal Approximation Theorem.md",
     "Optimization/What is optimization.md",
-    "Analysis/Normed linear spaces.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
