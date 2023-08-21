@@ -48,7 +48,7 @@ Beweis:
 	$1. \implies 3.$:
 	Da $B$ eine Basis ist, sind alle Basisvektoren linear unabhängig, und ein jedes $v \in V$ wird von ihr erzeugt. Somit ist $v$ durch eine Linearkombination darstellbar, und somit mit der Basis vereinigt nicht linear unabhängig.
 	$3. \implies 1.$:
-	Nehme man an, $B$ wäre zwar linear unabhängig, aber nicht erzeugend. Dann gibt es ein $v \in V$ mit $v \not \in span(v_1, ..., v_r)$ . Damit wäre dann jedoch $(v, v_1, ..., v_r)$ linear unabhängig. Dann wäre $B$ aber nicht maximal linear unabhängig.
+	Nehme man an, $B$ wäre zwar linear unabhängig, aber nicht erzeugend. Dann gibt es ein $v \in V$ mit $v \not \in span(v_1, ..., v_r)$ . Damit wäre dann jedoch $(v, v_1, ..., v_r)$ linear unabhängig. Dann wäre $B$ aber nicht maximal linear unabhängig. ^80a43c
 
 ## Existenz einer Basis für endlich erzeugbare Vektorräume:
 Ist $X \subset V$ ein endliches Erzeugendensystem, dann gibt es eine Basis.
