@@ -49,86 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ML/Mean Squared Error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2118f72bcbbca2b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "ML/Gradient Boosted Trees.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e6322ea9d9b8480",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Homomorphiesatz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d72c9e209c002f3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Gruppenhomomorphismen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77de88e7a3a77594",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Vektorraum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d6e90bbaad4cfc98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Abbildungen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e1ef74d166b135a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "146ee7aa80dbe847",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Life.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,8 +195,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2768bde1e234e25",
+  "active": "2118f72bcbbca2b7",
   "lastOpenFiles": [
+    "ML/Mean Squared Error.md",
+    "LinA/Homomorphiesatz.md",
+    "LinA/Gruppenhomomorphismen.md",
+    "LinA/Vektorraum.md",
+    "LinA/Lineare Abbildungen.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "Current Life.md",
     "ML/Decision Trees.md",
     "ML/Gradient Boosted Trees.md",
     "ML/DDQN - Architecture.md",
@@ -266,15 +213,8 @@
     "ML/Temporal Difference Error.md",
     "ML/Stationarity.md",
     "ML/REINFORCE.md",
-    "ML/Untitled.md",
     "ML/Monte Carlo Methods.md",
-    "Current Life.md",
     "LinA/Basis & Dimension.md",
-    "LinA/Lineare Abbildungen.md",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-    "LinA/Homomorphiesatz.md",
-    "LinA/Gruppenhomomorphismen.md",
-    "LinA/Vektorraum.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Stochastic Process.md",
     "ML/Universal Approximation Theorem.md",
