@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basen haben gleiche Länge.md",
+                "file": "LinA/Dimension.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basen haben gleiche Länge.md",
+                "file": "LinA/Dimension.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basen haben gleiche Länge.md"
+                "file": "LinA/Dimension.md"
               }
             }
           }
@@ -219,12 +219,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89ba02c7432dc762",
+  "active": "058d2a8ad6039e50",
   "lastOpenFiles": [
-    "LinA/Dimension.md",
     "LinA/Basen haben gleiche Länge.md",
     "LinA/Basen.md",
     "LinA/Austauschsatz von Steinitz.md",
+    "LinA/Dimension.md",
     "LinA/Basisaustauschlemma.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Proximal Policy Optimization.md",
