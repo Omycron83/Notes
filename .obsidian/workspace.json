@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Relationen.md",
+                "file": "LinA/Abbildungen.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Relationen.md",
+                "file": "LinA/Abbildungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Relationen.md",
+                "file": "LinA/Abbildungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Relationen.md"
+                "file": "LinA/Abbildungen.md"
               }
             }
           }
@@ -233,8 +233,8 @@
   },
   "active": "2c73861c9116567c",
   "lastOpenFiles": [
-    "LinA/Basisaustauschlemma.md",
     "LinA/Relationen.md",
+    "LinA/Basisaustauschlemma.md",
     "LinA/Abbildungen.md",
     "LinA/Halbordnungen.md",
     "LinA/Unendlichdimensionale Vektorräume.md",

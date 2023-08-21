@@ -1,0 +1,1 @@
+Eine Abbildung $h$ ist eine [[Relationen|Relation]] zwischen zwei Mengen $M, N$ nennt man Abbildung, wenn sie wohldefiniert ist, d.h.  
