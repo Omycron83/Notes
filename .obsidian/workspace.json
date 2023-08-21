@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "38fcae48d6aed767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "85078a2660b721b2",
             "type": "leaf",
             "state": {
@@ -221,8 +233,9 @@
   },
   "active": "8988b32b0dab27c5",
   "lastOpenFiles": [
-    "LinA/Beweisarten.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Basis & Dimension.md",
+    "LinA/Beweisarten.md",
     "ML/Gradient Boosted Trees.md",
     "ML/Decision Trees.md",
     "ML/Proximal Policy Optimization.md",
@@ -231,7 +244,6 @@
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
     "LinA/Lineare Abbildungen.md",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "Current Life.md",
     "ML/DDQN - Architecture.md",
     "ML/Ensemble Learning.md",

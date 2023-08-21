@@ -5,8 +5,7 @@ Eine Familie an Vektoren $v_1, ..., v_n$ nennt man Basis eines Vektorraumes $V$ 
 
 Jeder Vektor in $V$ kann so **eindeutig** als lineares Erzeugniss der Basis geschrieben werden.
 ### Beweis Eindeutigkeit der Darstellung:
-Nehme man an, es gäbe zwei unterschiedliche Linearkombinationen, um ein $v \in V$ darzustellen:
-$\lambda_1 v_1 + ... + \lambda_n v_n = \mu_1 v_1 + ... + \mu_n v_n (= v)$ 
+Die eindeutige Darstellbarkeit lässt sich aus der Äquivalenz zwischen linearer Unabhängigkeit und eindeutiger Darstellbarkeit 
 
 ## Weitere Charakterisierung:
 
@@ -49,4 +48,7 @@ Beweis:
 	$1. \implies 3.$:
 	Da $B$ eine Basis ist, sind alle Basisvektoren linear unabhängig, und ein jedes $v \in V$ wird von ihr erzeugt. Somit ist $v$ durch eine Linearkombination darstellbar, und somit mit der Basis vereinigt nicht linear unabhängig.
 	$3. \implies 1.$:
-	
+	Nehme man an, $B$ wäre zwar linear unabhängig, aber nicht erzeugend. Dann gibt es ein $v \in V$ mit $v \not \in span(v_1, ..., v_r)$ . Damit wäre dann jedoch $(v, v_1, ..., v_r)$ linear unabhängig. Dann wäre $B$ aber nicht maximal linear unabhängig.
+
+## Existenz:
+
