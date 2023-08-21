@@ -1,10 +1,10 @@
 # To-Do
-
 1. Lin. Algebra Nachholen: Restklassenmult., Diedergruppe, Kern und Bild, 
 2. KI-Paper: Rechnungen beenden
 3. ML-lernen: PPO, Transformer, Policy Gradient Theorem, BHO
 4. Go to the gym 3x, Boxing 1-2x a week
 5. Talk to people as often as possible
+6. Still get great marks
 # Goals
 1. Prepare for next semester (Uni & School)
 2. Finish the paper

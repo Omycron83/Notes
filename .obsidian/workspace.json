@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basis & Dimension.md",
+                "file": "ML/Gradient Boosted Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basis & Dimension.md"
+                "file": "ML/Gradient Boosted Trees.md"
               }
             }
           }
@@ -257,10 +257,12 @@
   },
   "active": "0c65ad6424b2b302",
   "lastOpenFiles": [
+    "ML/Monte Carlo Methods.md",
+    "Current Life.md",
+    "ML/Untitled.md",
+    "LinA/Basis & Dimension.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-    "Current Life.md",
-    "LinA/Basis & Dimension.md",
     "LinA/Homomorphiesatz.md",
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
@@ -272,7 +274,6 @@
     "ML/Temporal Difference Error.md",
     "ML/Universal Approximation Theorem.md",
     "Optimization/What is optimization.md",
-    "ML/Untitled.md",
     "Analysis/Normed linear spaces.md",
     "ML/Transformers.md",
     "LinA/Untergruppen.md",
@@ -283,7 +284,6 @@
     "ML/Almost Surely.md",
     "Pasted image 20230815194850.png",
     "ML/Random Variables.md",
-    "ML/Unconditional Distributions.md",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
