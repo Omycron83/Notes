@@ -32,24 +32,24 @@
             }
           },
           {
-            "id": "7786e15e5e043de2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Familien.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "058d2a8ad6039e50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LinA/Austauschsatz von Steinitz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "83aa325aed708b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basisaustauschlemma.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -197,9 +197,9 @@
   },
   "active": "058d2a8ad6039e50",
   "lastOpenFiles": [
-    "LinA/Familien.md",
-    "LinA/Austauschsatz von Steinitz.md",
     "LinA/Basisaustauschlemma.md",
+    "LinA/Austauschsatz von Steinitz.md",
+    "LinA/Familien.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
