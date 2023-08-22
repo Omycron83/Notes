@@ -7,3 +7,4 @@ This yields:
 
 and has the advantage, that the weights can be updated after each step, not requiring a full trace as with [[Monte Carlo Methods]].
 
+This can also be generalized for larger partial traces, of not just length one.
