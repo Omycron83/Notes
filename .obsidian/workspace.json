@@ -242,10 +242,10 @@
   "active": "035a75a53310c5ae",
   "lastOpenFiles": [
     "ML/KL-Divergence.md",
+    "Entropy.md",
     "ML/Actor-Critic Methods.md",
     "ML/REINFORCE.md",
     "ML/Policy Gradient Theorem.md",
-    "Entropy.md",
     "ML/TRPO.md",
     "ML/Proximal Policy Optimization.md",
     "Pasted image 20230822162001.png",

@@ -11,7 +11,7 @@ A term satisfying this is: $I(E) = log(\frac{1}{P(E)}) = -log(P(E))$, where $P$ 
 Usually 2 is chosen as a base for the logarithm (due to measuring it in 'bit'), however, a change of basis is always just a scalar away. 
 
 ## Definition:
-Let $X$ be a random variable, having a state-space of $L$ and a distribution of $P: L \rightarrow [0; 1]$ with $P(x) := P[X = x]$. Then, Shannon defines the Entropy $H: P \rightarrow R^+$ of the variable as: 
+Let $X$ be a random variable, having a sample-space of $L$ and a distribution of $P: L \rightarrow [0; 1]$ with $P(x) := P[X = x]$. Then, Shannon defines the Entropy $H: P \rightarrow R^+$ of the variable as: 
 $H(X) = E[ I(X)  ] = E[ -log(P(X))]$ 
 One can then explicitly write the expected value as:
 $H(X) = - \sum_{x \in P} p(x) log(p(x))$ 
@@ -19,3 +19,8 @@ As  $log(0)$ is undefined, we assume that the upper limit is taken in the case o
 
 However, there are a number of other ways to define entropy mathematically.
 
+## Conditional entropy
+Assuming one has two variables $X, Y$ from sample spaces $L, G$, then the conditional entropy 
+$H(X | Y)$ can be defined as:
+$H(X|Y) = - \sum_{x,y \in L, G} p_{X, Y} (x, y) log( \frac{p_{X, Y} (x,y)}{p(x, y)} )$ 
+It can be understood as the remaining 
