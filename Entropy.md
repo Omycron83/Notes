@@ -1,0 +1,1 @@
+Entropy is a measure of information or 'suprise' inherent to the potential values of a random variable. This means that, if a highly likely event occurs, the entropy of the random variable is low, as it carries low information. If contrary, an e
