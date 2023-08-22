@@ -1,1 +1,0 @@
-Feature bagging, or the random subspace method, is a regularization method used in [[Ensemble Learning]] to reduce the correlation between multiple learners. In this method, the base learners are only provided with a random subspace of the features each, and will thus learn different patterns. 
