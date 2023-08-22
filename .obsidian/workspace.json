@@ -8,32 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bac063aa68c3371",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "31485e9073f0ea4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ML/Combinatorics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95f07a87d73bbe5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LinA/Unendlichdimensionale Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LinA/Unendlichdimensionale Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LinA/Unendlichdimensionale Vektorräume.md"
+              }
             }
           }
         ],
@@ -186,13 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bac063aa68c3371",
+  "active": "5e0387d763e4996e",
   "lastOpenFiles": [
-    "ML/Gradient Boosted Trees.md",
     "ML/Combinatorics.md",
-    "ML/Transformers.md",
-    "ML/Proximal Policy Optimization.md",
     "LinA/Unendlichdimensionale Vektorräume.md",
+    "ML/Proximal Policy Optimization.md",
+    "ML/Transformers.md",
+    "ML/Gradient Boosted Trees.md",
     "LinA/Relationen.md",
     "LinA/Basen haben gleiche Länge.md",
     "LinA/Basen.md",
