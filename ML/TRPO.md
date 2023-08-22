@@ -1,0 +1,1 @@
+Trust-region policy optimization is a [[Policy Gradient Methods|Policy Gradient Method]] that tries to achieve better stability and convergence by taking the largest step possible to improve performance while also satisfying a constraint on the difference between the old and new policy. This is done using [[KL-Divergence]]. 

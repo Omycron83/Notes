@@ -1,0 +1,1 @@
+The Kullback-Leibler divergence, also called relative entropy, is a measure of distance between two probability distributions $P, Q$ denoted $D_{KL}(P || Q)$. 

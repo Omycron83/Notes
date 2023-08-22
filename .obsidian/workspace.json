@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Proximal Policy Optimization.md",
+                "file": "ML/KL-Divergence.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Actor-Critic Methods.md",
+                "file": "ML/KL-Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Actor-Critic Methods.md",
+                "file": "ML/KL-Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Actor-Critic Methods.md"
+                "file": "ML/KL-Divergence.md"
               }
             }
           }
@@ -227,14 +227,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db2dcfe2a435943e",
+  "active": "85078a2660b721b2",
   "lastOpenFiles": [
+    "ML/TRPO.md",
+    "ML/KL-Divergence.md",
+    "ML/Proximal Policy Optimization.md",
+    "ML/Actor-Critic Methods.md",
+    "ML/Policy Gradient Theorem.md",
+    "ML/REINFORCE.md",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
-    "ML/REINFORCE.md",
-    "ML/Actor-Critic Methods.md",
-    "ML/Proximal Policy Optimization.md",
-    "ML/Policy Gradient Theorem.md",
     "ML/Policy Gradient Methods.md",
     "Pasted image 20230822160658.png",
     "ML/Bootstrap Methods.md",
@@ -259,14 +261,12 @@
     "LinA/Basen haben gleiche Länge.md",
     "LinA/Basen.md",
     "LinA/Austauschsatz von Steinitz.md",
-    "LinA/Basisaustauschlemma.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
     "Pasted image 20230813163919.png",
-    "Pasted image 20230813163819.png",
     "Analysis",
     "Optimization",
     "ML/Untitled",
