@@ -1,0 +1,1 @@
+Eine Menge $M$ mit einer [[Halb]]
