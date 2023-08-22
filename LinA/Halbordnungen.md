@@ -4,5 +4,5 @@ Eine Halbordnung ist eine [[Relationen|Relation]] $R$ auf einer Menge $M$, die:
 3. Transitiv ist
 
 ### Beispiele:
-1. Die $\ge$ Relation
+1. Die $\le$ Relation
 2. Die $\subset$ Relation

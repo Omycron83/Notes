@@ -20,20 +20,24 @@
             }
           },
           {
-            "id": "5e0387d763e4996e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1934829a56b73b6f",
+            "id": "398636c10ca6fe11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "998718fce3d4181b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Ketten.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
+                "file": "LinA/Ketten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
+                "file": "LinA/Ketten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Basisexistenzsatz für unendliche Vektorräume.md"
+                "file": "LinA/Ketten.md"
               }
             }
           }
@@ -191,13 +195,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1934829a56b73b6f",
+  "active": "998718fce3d4181b",
   "lastOpenFiles": [
-    "LinA/Lemma von Zorn.md",
-    "LinA/Ketten.md",
-    "LinA/Halbordnungen.md",
-    "LinA/Halbordnungen.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
+    "LinA/Ketten.md",
+    "LinA/Lemma von Zorn.md",
+    "LinA/Halbordnungen.md",
     "ML/Combinatorics.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Transformers.md",
