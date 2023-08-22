@@ -1,0 +1,1 @@
+Random forests is an [[Ensemble Learning]] technique utilizing [[Decision Trees]] as 

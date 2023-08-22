@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Decision Trees.md",
+                "file": "ML/Bagging.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Decision Trees.md",
+                "file": "ML/Bagging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Decision Trees.md",
+                "file": "ML/Bagging.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Decision Trees.md"
+                "file": "ML/Bagging.md"
               }
             }
           }
@@ -173,6 +173,10 @@
   },
   "active": "8c6536cef686f9dd",
   "lastOpenFiles": [
+    "ML/Ensemble Learning.md",
+    "ML/Bagging.md",
+    "ML/Random Forests.md",
+    "ML/Decision Trees.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Combinatorics.md",
     "LinA/Ketten.md",
@@ -192,14 +196,11 @@
     "Untitled.canvas",
     "LinA/Dimension.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-    "ML/Decision Trees.md",
     "ML/Mean Squared Error.md",
     "LinA/Beweisarten.md",
     "LinA/Homomorphiesatz.md",
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Vektorraum.md",
-    "LinA/Lineare Abbildungen.md",
-    "Current Life.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",

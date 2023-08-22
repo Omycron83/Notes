@@ -6,7 +6,7 @@ This is done practically by traversing the tree in order to minimize some measur
 
 If one wants to predict another datapoint, they can then traverse the tree according to the splits and obtain a prediction by its end node. The prediction at each node is usually the mean of the datapoint that reached it during training.
 
-Decision trees are usually fairly parsimoneous, and can geometrically be interpreted by partitioning the datapoints by hyperplanes. They are used in more sophisticated algorithms, such as 
+Decision trees are usually fairly parsimoneous, and can geometrically be interpreted by partitioning the datapoints by hyperplanes. They are used in more sophisticated algorithms, such as [[Gradient Boosted Trees]] or [[Random Forests]] . 
 
 ### Split criteria
 There are multiple common ways to reduce overfitting during training:
