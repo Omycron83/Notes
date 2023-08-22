@@ -66,9 +66,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ea0978c66b6c2154",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "8773f0fdc1cd68cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Overfitting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -134,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Early Stopping.md",
+                "file": "Overfitting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Early Stopping.md",
+                "file": "Overfitting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Early Stopping.md"
+                "file": "Overfitting.md"
               }
             }
           }
@@ -195,10 +215,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5b7f1a6643aeb1f",
+  "active": "8773f0fdc1cd68cf",
   "lastOpenFiles": [
-    "ML/Random Forests.md",
+    "Overfitting.md",
     "ML/Early Stopping.md",
+    "ML/Random Forests.md",
     "ML/Datapoint Bagging.md",
     "ML/Bootstrap Methods.md",
     "Pasted image 20230822151725.png",
@@ -225,7 +246,6 @@
     "LinA/Dimension.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "ML/Mean Squared Error.md",
-    "LinA/Beweisarten.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
