@@ -22,6 +22,6 @@ where $a^j \in ]0; 1[$ is the backtracking coefficient, and $j$ is the smallest 
 
 Finally, in order to efficiently determine the matrix inverse $H^{-1}$, one can use the conjugate gradient theorem and instead calculate $Hx = \Delta_\theta ( (\Delta_\theta  \frac{1}{2} (\theta - \theta_k)^T H (\theta - \theta_k))^T x)$ 
 
-Der finale Algorithmus:
+The final algorithm:
 
 ![[Pasted image 20230822213943.png]]
