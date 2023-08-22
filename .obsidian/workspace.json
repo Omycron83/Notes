@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "LinA/Matrizen.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "ML/Proximal Policy Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "ML/Proximal Policy Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Transformers.md"
+                "file": "ML/Proximal Policy Optimization.md"
               }
             }
           }
@@ -170,12 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1232ad8be5aff38b",
+  "active": "8520fc5897603799",
   "lastOpenFiles": [
-    "School",
-    "ML/Combinatorics.md",
     "ML/Transformers.md",
     "ML/Proximal Policy Optimization.md",
+    "LinA/Matrizen.md",
+    "School",
+    "ML/Combinatorics.md",
     "ML/REINFORCE.md",
     "ML/Policy Gradient Theorem.md",
     "ML/Policy Gradient Methods.md",
