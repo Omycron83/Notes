@@ -2,3 +2,5 @@ The Kullback-Leibler divergence, also called relative entropy, is a measure of d
 Its not a [[Metric Spaces|metric]] as it is neither symmetric nor satisfies the triangle inequality, and is instead, as the name suggests, a type of statistical divergence.
 
 Usually, $P$ represents some observation or measured probability distribution while $Q$ represents a theory or model of $P$. 
+
+## Definition:

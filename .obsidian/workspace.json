@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Entropy.md",
+                "file": "ML/KL-Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Entropy.md",
+                "file": "ML/KL-Divergence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Entropy.md"
+                "file": "ML/KL-Divergence.md"
               }
             }
           }
@@ -239,10 +239,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "035a75a53310c5ae",
+  "active": "85078a2660b721b2",
   "lastOpenFiles": [
-    "ML/KL-Divergence.md",
     "Entropy.md",
+    "ML/KL-Divergence.md",
     "ML/Actor-Critic Methods.md",
     "ML/REINFORCE.md",
     "ML/Policy Gradient Theorem.md",

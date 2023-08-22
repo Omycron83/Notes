@@ -23,4 +23,4 @@ However, there are a number of other ways to define entropy mathematically.
 Assuming one has two variables $X, Y$ from sample spaces $L, G$, then the conditional entropy 
 $H(X | Y)$ can be defined as:
 $H(X|Y) = - \sum_{x,y \in L, G} p_{X, Y} (x, y) log( \frac{p_{X, Y} (x,y)}{p(x, y)} )$ 
-It can be understood as the remaining 
+It can be understood as the remaining randomness in $X$ given some value $Y$. 
