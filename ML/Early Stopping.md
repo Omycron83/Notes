@@ -1,0 +1,2 @@
+Early stopping is a machine learning technique used to potentiall reduce overfitting by stopping the training on a training set as soon as validation error starts to increase significantly.
+This stems from the theory that, when training a model, the 'obvious', population-specific patterns are discovered first, while 'overfitting', i.e. the discovery of sample-specific patterns happens later in the training process, while 
