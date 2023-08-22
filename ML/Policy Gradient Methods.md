@@ -29,4 +29,6 @@ $\Delta J(\theta) =
 ### Using a baseline:
 
 
-Often, such algorithms compute a baseline to form an advantage function instead of using $\hat{q}$ directly, as it betters convergence due to immediatly 'going in the right direction'.
+Often, such algorithms compute a baseline to form an advantage function instead of using $\hat{q}$ directly, as it betters convergence due to immediatly 'going in the right direction', i.e. using $\hat{q} - b(s)$, which is not a problem as long as $b(s)$ doesn't depend on the action taken. 
+Usually, this is an estimate of the value function. Thus, $\hat{q}(s, a) - v_\pi(s)$ calculates, how much better taking the action $a$ would be than just usually following the policy. 
+The sign of this expression can then indicate in which way 
