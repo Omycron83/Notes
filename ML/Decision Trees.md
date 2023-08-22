@@ -1,11 +1,12 @@
 ## Algorithm principle
-Decision trees are a family of models based on recursively binarily splitting of data into multiple subset based on the subset features, where the prediction value is based on the relevant subset. 
-This is done in by traversing the tree in order to minimize some measure of impurity or information gain in the subset at each split during training (binary recursive partitioning). 
-This is done until some criterion  is reached, at which point the leaf node is assigned a certain value based on the datapoints remaining at itself. This 'fit' tree model is then defined by its splits. 
+Decision trees are a family of models based on recursively binarily splitting of data into multiple subset (mostly 2 to guarantee computational feasibility) based on the subset features, where the prediction value is based on the relevant subset. 
+This is usually done by ordering the datapoints by some numerically encoded feature. Then, the datapoints are assigned quantiles according to this ordering. The resulting splits are usually the mean of the feature values of the two bordering datapoints of two quantiles. 
+This is done practically by traversing the tree in order to minimize some measure of impurity or maximize information gain in the subset at each split during training (binary recursive partitioning). 
+... Until some criterion  is reached, at which point the leaf node is assigned a certain value based on the datapoints remaining at itself (or in that quantile). This 'fit' tree model is then defined by its splits (or its quantiles). 
 
 If one wants to predict another datapoint, they can then traverse the tree according to the splits and obtain a prediction by its end node. The prediction at each node is usually the mean of the datapoint that reached it during training.
 
-Decision trees are usually fairly parsimoneous, and can geometrically be interpreted by partitioning the datapoints by hyperplanes.
+Decision trees are usually fairly parsimoneous, and can geometrically be interpreted by partitioning the datapoints by hyperplanes. They are used
 
 ### Split criteria
 There are multiple common ways to reduce overfitting during training:
