@@ -2,8 +2,16 @@ Trust-region policy optimization is a [[Policy Gradient Methods|Policy Gradient 
 This is done as being similar in parameter space (as done in [[REINFORCE]] and other 'Vanilla' [[Policy Gradient Methods]]) can be very different from being close in the resulting policies, easily collapsing performance. If one where to improve in this aspect, using very small step sizes may not be necessary.  
 
 ## Derivation:
-We will derive the concept by first figuring out how the new parameter $\theta$ of our policy should be chosen in order to both perform best in comparison to our previous policy with parameters $\theta_k$ while also restricting how much it can differ:
-$\theta_{k + 1} = arg \; max_\theta \; E_{s,t \sim \pi_{\theta_k}} [ \frac{ \pi_\theta (a | s)} {\pi_\theta^{k}  (a | s)}  (q_\pi (s,a) - v_\pi(s)) ]$ s.t. $E_{s \sim \pi_theta^k} [ D_{KL} (\pi_\theta(\cdot | s), \pi_{\theta^k}(\cdot | s) ) ]$
+We will derive the concept by first figuring out how the new parameter $\theta$ of our policy should be chosen in order to both perform best in comparison to our previous policy with parameters $\theta_k$ while also restricting how much it can differ using a max. KL-Divergence of $\delta$ :
+
+$\theta_{k + 1} = arg \; max_\theta \; E_{s,t \sim \pi_{\theta_k}} [ \frac{ \pi_\theta (a | s)} {\pi_\theta^{k}  (a | s)}  (q_\pi (s,a) - v_\pi(s)) ]$ s.t. $E_{s \sim \pi_theta^k} [ D_{KL} (\pi_\theta(\cdot | s), \pi_{\theta^k}(\cdot | s) ) ] \le \delta$
 
 One can then Taylor-expand both terms w.r.t. $\theta$ around $\theta_k$ to leading order, which approximates this practically insolvable problem to:
 
+$\theta_{k + 1} = g^T (\theta - \theta_k)$ s.t. $\frac{1}{2} (\theta - \theta_k)^T H (\theta - \theta_k) \le \delta$ 
+
+
+
+Der finale Algorithmus:
+
+![[Pasted image 20230822213943.png]]
