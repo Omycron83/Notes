@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Actor-critic methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c16e677e631a57d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Policy Gradient Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12d0f52529a674c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Policy Gradient Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Actor-critic methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Actor-critic methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/REINFORCE.md"
+                "file": "ML/Actor-critic methods.md"
               }
             }
           }
@@ -194,7 +218,10 @@
   "active": "db2dcfe2a435943e",
   "lastOpenFiles": [
     "ML/Policy Gradient Theorem.md",
+    "ML/Policy Gradient Methods.md",
+    "ML/Actor-critic methods.md",
     "ML/REINFORCE.md",
+    "Pasted image 20230822160658.png",
     "ML/Proximal Policy Optimization.md",
     "ML/Bootstrap Methods.md",
     "ML/Datapoint Bagging.md",
@@ -220,10 +247,8 @@
     "LinA/Austauschsatz von Steinitz.md",
     "LinA/Basisaustauschlemma.md",
     "LinA/Familien.md",
-    "LinA/Abbildungen.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "LinA/Dimension.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
@@ -233,7 +258,6 @@
     "Pasted image 20230812044531.png",
     "Optimization",
     "ML/Untitled",
-    "Pasted image 20230811163540.png",
     "ML",
     "LinA/Untitled",
     "LinA"
