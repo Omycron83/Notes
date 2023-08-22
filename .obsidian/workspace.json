@@ -13,18 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Combinatorics.md",
+                "file": "ML/Transformers.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ea0978c66b6c2154",
+            "id": "986447bc170ee54a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML/Transformers.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -39,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Proximal Policy Optimization.md",
+                "file": "ML/Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Proximal Policy Optimization.md",
+                "file": "ML/Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Proximal Policy Optimization.md"
+                "file": "ML/Transformers.md"
               }
             }
           }
@@ -167,9 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8520fc5897603799",
+  "active": "1232ad8be5aff38b",
   "lastOpenFiles": [
+    "School",
     "ML/Combinatorics.md",
+    "ML/Transformers.md",
+    "ML/Proximal Policy Optimization.md",
     "ML/REINFORCE.md",
     "ML/Policy Gradient Theorem.md",
     "ML/Policy Gradient Methods.md",
@@ -178,7 +184,6 @@
     "Pasted image 20230822213943.png",
     "ML/KL-Divergence.md",
     "Entropy.md",
-    "ML/Proximal Policy Optimization.md",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
     "Pasted image 20230822160658.png",
@@ -197,7 +202,6 @@
     "LinA/Halbordnungen.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
     "LinA/Lemma von Zorn.md",
-    "ML/Transformers.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Relationen.md",
     "LinA/Basen haben gleiche Länge.md",
