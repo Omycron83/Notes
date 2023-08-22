@@ -4,9 +4,14 @@ This means that, if a highly likely event occurs, the entropy of the random vari
 For example, knowing that a certain number **isn't** the winning number in a lottery carries low information. However, knowing that **it is** the winning number carries a lot of information.
 The possible outcome of getting any one side of a die is also of higher entropy than the outcome of getting any one side of a coin, as the probability of the former occuring is much higher.
 ## Derivation
-This means that the entropy of an event $E$ should be inversely correlated to the probability of an event, and, if the probability of the event is one, it should have an entropy of zero.
-A term satisfying this is: $log(\frac{1}{P(E)}) = -log(P(E))$. Usually 2 is chosen as a base for the logarithm (due to measuring it in 'bit'), however, a change of basis is always just a scalar away. 
+This means that the entropy of any one event $E$ should be inversely correlated to the probability of an event, and, if the probability of the event is one, it should have an entropy of zero.
+A term satisfying this is: $I(E) = log(\frac{1}{P(E)}) = -log(P(E))$, where $P$ is the probability distribution and $I$ is the amount of informational content.
+Usually 2 is chosen as a base for the logarithm (due to measuring it in 'bit'), however, a change of basis is always just a scalar away. 
 
 ## Definition:
-Let $X$ be a random variable, having a state-space of $L$ and a distribution of $P: L \rightarrow [0; 1]$ with $P(x) := P[X = x]$. Then, Shannon defines the Entropy $H: P \rightarrow   
+Let $X$ be a random variable, having a state-space of $L$ and a distribution of $P: L \rightarrow [0; 1]$ with $P(x) := P[X = x]$. Then, Shannon defines the Entropy $H: P \rightarrow R^+$ of the variable as: 
+$H(X) = E[ I(X)  ] = E[ -log(P(X))]$ 
+One can then explicitly write the expected value as:
+$H(X) = - \sum_{x \in P} p(x) log(p(x))$ 
+As  $log(0)$ is undefined, we assume that the upper limit is taken in the case of $p(x) = 0$. 
 
