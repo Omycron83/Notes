@@ -5,5 +5,5 @@ This is done as being similar in parameter space (as done in [[REINFORCE]] and o
 We will derive the concept by first figuring out how the new parameter $\theta$ of our policy should be chosen in order to both perform best in comparison to our previous policy with parameters $\theta_k$ while also restricting how much it can differ:
 $\theta_{k + 1} = arg \; max_\theta \; E_{s,t \sim \pi_{\theta_k}} [ \frac{ \pi_\theta (a | s)} {\pi_\theta^{k}  (a | s)}  (q_\pi (s,a) - v_\pi(s)) ]$ s.t. $E_{s \sim \pi_theta^k} [ D_{KL} (\pi_\theta(\cdot | s), \pi_{\theta^k}(\cdot | s) ) ]$
 
-
+One can then Taylor-expand both terms w.r.t. $\theta$ around $\theta_k$ to leading order, which approximates this practically insolvable problem to:
 
