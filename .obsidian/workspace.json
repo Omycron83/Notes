@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md",
+                "file": "ML/REINFORCE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md",
+                "file": "ML/REINFORCE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Policy Gradient Theorem.md"
+                "file": "ML/REINFORCE.md"
               }
             }
           }
@@ -191,10 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce5185b0d2c70b7b",
+  "active": "db2dcfe2a435943e",
   "lastOpenFiles": [
-    "ML/REINFORCE.md",
     "ML/Policy Gradient Theorem.md",
+    "ML/REINFORCE.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Bootstrap Methods.md",
     "ML/Datapoint Bagging.md",
