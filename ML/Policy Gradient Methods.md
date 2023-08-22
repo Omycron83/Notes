@@ -28,3 +28,5 @@ Sometimes, when the proportionality is supposed to become an equality, one must 
 $\Delta J(\theta) = 
 ### Using a baseline:
 
+
+Often, such algorithms compute a baseline to form an advantage function instead of using $\hat{q}$ directly, as it betters convergence due to immediatly 'going in the right direction'.

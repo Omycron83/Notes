@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "ce5185b0d2c70b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Policy Gradient Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b04aa25ad17ec63",
             "type": "leaf",
             "state": {
@@ -124,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -190,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/TRPO.md",
+                "file": "ML/Policy Gradient Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/TRPO.md",
+                "file": "ML/Policy Gradient Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/TRPO.md"
+                "file": "ML/Policy Gradient Methods.md"
               }
             }
           }
@@ -251,15 +239,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b04aa25ad17ec63",
+  "active": "12d0f52529a674c7",
   "lastOpenFiles": [
-    "Pasted image 20230822213943.png",
     "ML/Policy Gradient Theorem.md",
+    "ML/TRPO.md",
+    "Pasted image 20230822213943.png",
     "ML/KL-Divergence.md",
     "Entropy.md",
     "ML/Actor-Critic Methods.md",
     "ML/REINFORCE.md",
-    "ML/TRPO.md",
     "ML/Proximal Policy Optimization.md",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
@@ -290,7 +278,6 @@
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
-    "Pasted image 20230813163919.png",
     "Analysis",
     "Optimization",
     "ML/Untitled",
