@@ -2,7 +2,7 @@ Proximal policy optimization tries to implement the general idea used in [[TRPO|
 
 $\theta_{k + 1} = arg \; max_\theta E [min( r(\theta)   (q_\pi (s,a) - v_\pi(s)) , clip (r(\theta), 1 - \epsilon, 1 + \epsilon) (q_\pi (s,a) - v_\pi(s))  )]$
 
-Which can be optimized using gradient ascent methods, similar to the [[REINFORCE]]-Algori.
+Which can be optimized using gradient ascent methods, similar to the [[REINFORCE]]-Algorithm.
 
 Where $clip (r(\theta), 1 - \epsilon, 1 + \epsilon)$ clips the ration to be no more than $1 + \epsilon$ and no less than $1 - \epsilon$.
 It thenk takes the minimum between the original value and the clipped value.
