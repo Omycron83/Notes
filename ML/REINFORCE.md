@@ -15,4 +15,9 @@ $\Leftrightarrow \theta_{t + 1} = \theta_t + \alpha G_t \Delta ln(\pi(A_t | S_t 
 Thus, we get the algorithm:
 ![[Pasted image 20230815010633.png]]
 
+This can be optimized using 
 ### Reinforce with baseline:
+The policy gradient theorem can be altered to also include an arbitrary baseline estimator $b(s)$:
+$\Delta J(\theta) \propto \sum_s \mu(s) \sum_a (q_\pi (s, a) - b(s)) \Delta \pi(a | s, \theta)$
+This can be an arbitrary function, as long as its derivative w.r.t. the chosen action $a$ is zero, as:
+$\sum_a b(s) \Delta \pi(a | s, \theta)

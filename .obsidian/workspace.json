@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "ce5185b0d2c70b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Policy Gradient Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea0978c66b6c2154",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Policy Gradient Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/REINFORCE.md",
+                "file": "ML/Policy Gradient Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/REINFORCE.md"
+                "file": "ML/Policy Gradient Theorem.md"
               }
             }
           }
@@ -179,8 +191,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db2dcfe2a435943e",
+  "active": "ce5185b0d2c70b7b",
   "lastOpenFiles": [
+    "ML/REINFORCE.md",
+    "ML/Policy Gradient Theorem.md",
     "ML/Proximal Policy Optimization.md",
     "ML/Bootstrap Methods.md",
     "ML/Datapoint Bagging.md",
@@ -210,7 +224,6 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "LinA/Dimension.md",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
