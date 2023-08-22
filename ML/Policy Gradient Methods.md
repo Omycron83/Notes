@@ -1,5 +1,5 @@
 In Policy gradient method, the reward is to be optimized by finding an optimal parameterized policy $\pi^*(a | s, \theta)$, where $\theta$ is some parameter vector and $\pi^* = Pr\{A_t = a | S_t = s, \theta_t = \theta\}$ .
-Often, an estimate of the value function $\hat{v}(s , w)$ with parameter $w$ is also used, in which case the method is called an [[Actor-Critic Methods|actor-critic method]] ($\pi$ being the actor, $v$ the critic).
+Often, an estimate of the value function $\hat{v}(s , w)$ with parameter $w$ is also used in combination with [[Bootstrap Methods|bootstrapping]], in which case the method is called an [[Actor-Critic Methods|actor-critic method]] ($\pi$ being the actor, $v$ the critic).
 
 The advantage of those kinds of models are usually: 
 - Smooth and natural exploration through the stochastic nature -> Stronger convergence guarantees
@@ -30,5 +30,7 @@ $\Delta J(\theta) =
 
 
 Often, such algorithms compute a baseline to form an advantage function instead of using $\hat{q}$ directly, as it betters convergence due to immediatly 'going in the right direction', i.e. using $\hat{q} - b(s)$, which is not a problem as long as $b(s)$ doesn't depend on the action taken. 
-Usually, this is an estimate of the value function. Thus, $\hat{q}(s, a) - v_\pi(s)$ calculates, how much better taking the action $a$ would be than just usually following the policy. 
-The sign of this expression can then indicate in which way 
+
+Usually, this is an estimate of the value function. Thus, $\hat{q}(s, a) - v_\pi(s)$ calculates, how much better taking the action $a$ would be than just usually following the policy, which is called an advantage function. 
+
+The sign of this expression can then indicate in which way the weight vector should be altered.
