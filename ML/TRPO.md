@@ -16,7 +16,11 @@ $\theta_{k + 1} = \theta_k + \sqrt{ \frac{2 \delta}{g^T H^{-1} g} } H^{-1} g$
 
 However, only solving this would introduce a large error associated with the accuracy of the approximation. This can be partially mitigated through backtracking line search:
 
-$\theta_{k + 1} = \theta_k + a^j 
+$\theta_{k + 1} = \theta_k + a^j \sqrt{ \frac{2 \delta}{g^T H^{-1} g} } H^{-1} g$
+
+where $a^j \in ]0; 1[$ is the backtracking coefficient, and $j$ is the smallest natural number such that $\pi_{\theta_{k + 1}}$  still satisfies the convergence maximum.
+
+Finally, in order to efficiently determine the matrix inverse $H^{-1}$, one can use the conjugate gradient theorem and instead calculate $Hx = \Delta_\theta ( (\Delta_\theta  \frac{1}{2} (\theta - \theta_k)^T H (\theta - \theta_k))^T x)$ 
 
 Der finale Algorithmus:
 
