@@ -5,4 +5,5 @@ If that were the case, there would be an optimal point in time where most of the
 ![[Pasted image 20230822153344.png]]
 
 Usually, the manifestation of this is supposed to show when the error on a validation set starts to increase from the hightend variance, while previously having decreased as bias was reduced.
-Thus, practical implementations usually rely on the validation error to identify the point of early stopping.
+Thus, practical implementations usually rely on the validation error to identify the point of early stopping. 
+In 1997, the paper 'Early Stopping - but when?' (https://page.mi.fu-berlin.de/prechelt/Biblio/stop_tricks1997.pdf) tested multiple ways this could be done. Afterwards, they were ranked based on training time, efficiency (the amount of redundant calculations as the optimum had already been discovered), effectiveness (the quality of the network performance), and robustness (the sensitivity of the affirmentioned )
