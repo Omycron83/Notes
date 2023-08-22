@@ -23,12 +23,8 @@
             "id": "5e0387d763e4996e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Ketten.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Ketten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Ketten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LinA/Ketten.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -185,9 +177,10 @@
   },
   "active": "5e0387d763e4996e",
   "lastOpenFiles": [
-    "LinA/Halbordnungen.md",
-    "LinA/Halbordnungen.md",
+    "LinA/Lemma von Zorn.md",
     "LinA/Ketten.md",
+    "LinA/Halbordnungen.md",
+    "LinA/Halbordnungen.md",
     "LinA/Unendlichdimensionale Vektorräume.md",
     "ML/Combinatorics.md",
     "ML/Proximal Policy Optimization.md",
@@ -212,7 +205,6 @@
     "LinA/Vektorraum.md",
     "LinA/Lineare Abbildungen.md",
     "Current Life.md",
-    "ML/DDQN - Architecture.md",
     "Pasted image 20230815194850.png",
     "Pasted image 20230815192912.png",
     "Pasted image 20230815010633.png",
