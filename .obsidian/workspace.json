@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "7b04aa25ad17ec63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/TRPO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ea0978c66b6c2154",
             "type": "leaf",
             "state": {
@@ -112,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/KL-Divergence.md",
+                "file": "ML/TRPO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/KL-Divergence.md",
+                "file": "ML/TRPO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/KL-Divergence.md"
+                "file": "ML/TRPO.md"
               }
             }
           }
@@ -239,13 +251,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85078a2660b721b2",
+  "active": "7b04aa25ad17ec63",
   "lastOpenFiles": [
-    "Entropy.md",
+    "ML/Policy Gradient Theorem.md",
     "ML/KL-Divergence.md",
+    "Entropy.md",
     "ML/Actor-Critic Methods.md",
     "ML/REINFORCE.md",
-    "ML/Policy Gradient Theorem.md",
     "ML/TRPO.md",
     "ML/Proximal Policy Optimization.md",
     "Pasted image 20230822162001.png",

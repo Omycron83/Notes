@@ -4,4 +4,4 @@ Its not a [[Metric Spaces|metric]] as it is neither symmetric nor satisfies the 
 Usually, $P$ represents some observation or measured probability distribution while $Q$ represents a theory or model of $P$. 
 
 ## Definition:
-For two discrete probability distributions $Q, P$, the KL-Divergence between the two is defined as $D_{KL}()
+For two discrete probability distributions $Q, P$, the KL-Divergence between the two is defined as $D_{KL}(P  || Q) = \sum_{x \in X} P(x) log(\frac{P(X)}{Q(X)})$ , where $P(X)$ or $Q(X) = 0$ is assumed to be zero.
