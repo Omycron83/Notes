@@ -3,4 +3,5 @@ This is done as being similar in parameter space (as done in [[REINFORCE]] and o
 
 ## Derivation:
 We will derive the concept by first figuring out how the new parameter $\theta$ of our policy should be chosen in order to both perform best in comparison to our previous policy with parameters $\theta_k$ while also restricting how much it can differ:
-$\theta_{k + 1} = arg \; max_\theta E_{s,t \sim \pi_{\theta_k}} [ \frac{\pi_\theta (a | s)}{\pi_\theta_k (a | s)} (q_\pi (s,a) - v_\pi(s))]$ 
+$\theta_{k + 1} = arg \; max_\theta E_{s,t \sim \pi_{\theta_k}} [ \frac{ \pi_\theta (a | s)} {\pi_\theta^{k}  (a | s)}  (q_\pi (s,a) - v_\pi(s)) ]$
+
