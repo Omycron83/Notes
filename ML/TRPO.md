@@ -10,7 +10,13 @@ One can then Taylor-expand both terms w.r.t. $\theta$ around $\theta_k$ to leadi
 
 $\theta_{k + 1} = g^T (\theta - \theta_k)$ s.t. $\frac{1}{2} (\theta - \theta_k)^T H (\theta - \theta_k) \le \delta$ 
 
+This approximation has an analytical solution of
 
+$\theta_{k + 1} = \theta_k + \sqrt{ \frac{2 \delta}{g^T H^{-1} g} } H^{-1} g$
+
+However, only solving this would introduce a large error associated with the accuracy of the approximation. This can be partially mitigated through backtracking line search:
+
+$\theta_{k + 1} = \theta_k + a^j 
 
 Der finale Algorithmus:
 
