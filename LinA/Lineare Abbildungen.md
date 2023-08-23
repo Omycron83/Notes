@@ -43,9 +43,12 @@ Und dann durch die Linearität von $G$:
 $G(\lambda F(v) + F(w)) = \lambda G(F(v)) + G(F(w))$ $\square$
 
 #### Vektorraum der Homomorphismen:
-Die Menge aller Vektorraumhomomorphismen $Hom(V,W)$ ist ein Untervektorraum von $Abb(V, W) = W^V$ .
+Die Menge aller Vektorraumhomomorphismen $Hom(V,W)$ ist ein Untervektorraum von $Abb(V, W) = W^V$  .
 ##### Beweis:
 Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
-1. 
-
+1. Die Nullabbildung $F(v) = 0$ ist linear, also in $Hom(V,W)$ enthalten.
+2. Es ist abgeschlossen, da die Summe zweier linearen Abbildungen ebenfalls linear ist:
+	$(F + G)(\lambda v + w) = F(\lambda v + w) + G(\lambda v + w) = \lambda F(v) + F(w) + \lambda G(v) + G(w)$ 
+	$= \lambda (F(v) + G(v)) + F(w) + G(w) \lambda (F + G)(v) + (F + G)(w)$
+3. 
 
