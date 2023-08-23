@@ -24,14 +24,14 @@ $span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_j a_j + ... +\mu_i a_i + ... + \mu_
 Das bedeuted, dass $ZR(A) = ZR(A_2)$.
 
 #### Typ 3: Addition zweier Zeilen:
-Das vielf
+Das vielfache der $j$'ten Zeile $\lambda a_j$ wird auf die $i$'te Zeile addiert. 
 Beweis Zeilenraumerhaltung:
-	
+	Der Beweis folgt daraus, dass $ZR(A) = ZR(A_1)$ und $ZR(A) = ZR(A_2)$ wodurch trivial $ZR(A_3) = ZR(A)$ gilt.
 
 #### Typ 4: Addition zweier Zeilen:
-
+Die $j$'te Zeile wird mit der $i$'ten Zeile vertauscht.
 Beweis Zeilenraumerhaltung:
-	Der Beweis ist trivial, da die Linearkombination Reihenfolgeninvari
+	Der Beweis ist trivial, da die Linearkombination reihenfolgeninvariant ist.
 
 ### Zeilenstufenform:
 
@@ -41,6 +41,11 @@ Eine Matrix ist **in Zeilenstufenform**, wenn:
 
 Dies bedeuted, dass es ein solches Spaltenelement in jeder Zeile gibt, dass alle Elemente links von diesem Null sind, es selbst nicht null ist und es selbst links vom Spaltenelement der oberen Zeile steht. Diese Spaltenelemente bilden damit eine Stufenlinie.
 Die Elemente rechts der Spaltenelemente können beliebige Werte annehmen.
+
+#### Satz: Jede Matrix kann in Zeilenstufenform umgeformt werden:
+Jede  
+Beweis:
+	
 ## Matrizen als Vektorraum:
 
 ^2d573a
