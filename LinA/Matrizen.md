@@ -10,10 +10,16 @@ Betrachte man $K^{m \times n}$ zusammen mit der elementweisen Addition und Skala
 Beweis:
 	Da der $K^n$ ein [[Vektorraum#^6e22e7|Vektorraum ist]], und die Tupelanordnung irrelevant ist, ist auch der $K^{m \times n}$ ein Vektorraum.
 
+Eine $1 \times n$ Matrix wäre dann also eine 'Zeilenvektor' (den man normal als $n$-Tupel schreiben kann) und eine $m \times 1$ Matrix ein 'Spaltenvektor'. 
 
 ## Zeilenumformungen:
 ### Zeilenstufenform:
 
+
+
 ## Matrizen als Ring:
+## Matrizenmultiplikation
+
+## Inverse Matrizen
 
  
