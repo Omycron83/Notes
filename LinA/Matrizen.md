@@ -15,12 +15,23 @@ Beweis Zeilenraumerhaltung:
 	$\mu_1 a_1 + ... + \hat{\mu}_i (\lambda a_i) + ... + \mu_m a_m = span(a_1, ..., a_m)$ die Linearkombinationen wieder übereinstimmen.
 Das bedeuted, dass $ZR(A) = ZR(A_1)$.
 #### Typ 2: Addition zweier Zeilen:
-Die $j$'te Zeile wird auf die $i$'te Zeile aufaddiert. 
+Die $j$'te Zeile wird auf die $i$'te Zeile aufaddiert. Man schreibt $A \rightarrow A_2$
 Beweis Zeilenraumerhaltung:
-	$span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_i a_i + ... + \mu_m a_m$
+$span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_j a_j + ... +\mu_i a_i + ... + \mu_m a_m$
 	Setzt man nun $a_j + a_i$  ein, so kann man $\hat{\mu}_i_ := 
-	So ist $\mu_1 a_1 + .... + \mu_j a_j + \hat{\mu}_i a
+	So ist $\mu_1 a_1 + .... + \mu_j a_j + ... + \hat{\mu}_i (a_i + a_j) + ... \mu_m a_m = span(a_1, ..., a_m)$ 
+	und die Linearkombinationen stimmen überein.
+Das bedeuted, dass $ZR(A) = ZR(A_2)$.
 
+#### Typ 3: Addition zweier Zeilen:
+Das vielf
+Beweis Zeilenraumerhaltung:
+	
+
+#### Typ 4: Addition zweier Zeilen:
+
+Beweis Zeilenraumerhaltung:
+	Der Beweis ist trivial, da die Linearkombination Reihenfolgeninvari
 
 ### Zeilenstufenform:
 
