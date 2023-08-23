@@ -1,4 +1,4 @@
-# Defintion:
+# Single-variate Bayes:
 	
 ## Proof:
 

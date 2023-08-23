@@ -141,8 +141,10 @@ Remember that if you're using two-factor authentication on GitHub, you might nee
 # Obsidian Layout:
 
 Introduction
-
 # General topics
-## Sub
+## Subtopics
+### Etc.
+
+*Sources:*
 
 

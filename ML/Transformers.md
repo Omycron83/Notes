@@ -8,7 +8,8 @@ Transformers on the other hand can theoretically use all the previous datapoints
 
 In general, inputs (usually words) are initially converted into real valued vectors using a lookup table in a process called **input embedding**.
 To those vectors, positional information (encoded through a vector of a function taking the position as an input) is then injected by adding it to the embedding in a process called **positional encoding**.
-Then, this positional encoding is fed into an **encoder layer** that maps a sequence to an abstract continuous representation which is supposed to hold the learned information of the entire sequence. This contains a multi-headed attention mechanism as well as a regular [[Neural Network]].
+Then, this positional encoding is fed into an **encoder layer** that maps a sequence to an abstract continuous representation which is supposed to hold the learned information of the entire sequence. This contains a multi-headed attention mechanism as well as a regular [[Neural Network]]. There are residual connections between each of the submodules followed by a layer normalization.
+
 # Attention mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 
