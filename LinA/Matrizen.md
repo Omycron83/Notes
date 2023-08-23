@@ -53,8 +53,11 @@ Die Elemente rechts der Spaltenelemente können beliebige Werte annehmen.
 #### Satz: Jede Matrix kann in Zeilenstufenform umgeformt werden:
 Sei $A$ eine $m \times n$ Matrix mit Zeilen $a_1, ..., a_m$. Diese lässt sich mithilfe der obigen [[Matrizen#^6ef525|Zeilenumformungen]]  eine Matrix $A'$ in [[Matrizen#^7d6af4|Zeilenstufenform]] umformen. Die Zeilen von $A'$, die keine Nullzeilen sind, sind eine Basis des [[Matrizen#^7a07fe|Zeilenraumes]] $ZR(A)$.
 Beweis:
-	Der Beweis lässt sich erbringen, indem man einen Algorithmus formuliert, welcher systematisch eine Zeilenstufenform erzeugt. Man tue dabei folgendes solange, wie keine [[Matrizen#^7d6af4|Zeilenstufenform]] besteht:
-	1. 
+	Der Beweis lässt sich erbringen, indem man einen Algorithmus formuliert, welcher systematisch eine Zeilenstufenform erzeugt. Man tue dabei folgendes solange, wie keine [[Matrizen#^7d6af4|Zeilenstufenform]] besteht. Handelt es sich um die Nullmatrix, so ist nichts zu zeigen:
+	0. Sonst gibt es eine Zeile $j_1$, die einen Eintrag ungleich 0 besitzt. 
+	1. Man tausche die Zeilen so, dass $a_{1, j_1} \neq 0$
+	2. Man nutze Umformungen vom Typ 3, so, um alle $a_{i, j_1} = 0, i \neq 1$ zu setzen, indem man auf sie $-\frac{a_{1, j_1}}{a_{i, j_1}} a_1$ addiert.
+	3. Dies tut man solange, 
 ## Matrizen als Vektorraum:
 
 ^2d573a
