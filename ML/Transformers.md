@@ -7,7 +7,8 @@ It was originally introduced in the paper "Attention is all you need" in 2017 us
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 
 ## Self-Attention:
-Self attention is a type of attention mechanism 
+Self attention is a type of attention mechanism that uses observation on a set of datapoints to make predictions about that same set. It is permutation-invariant, i.e. is an operation on sets.
+
 
 
 
