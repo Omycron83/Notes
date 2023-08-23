@@ -14,7 +14,9 @@ Eine $1 \times n$ Matrix wäre dann also eine 'Zeilenvektor' (den man normal als
 
 ## Zeilenumformungen:
 ### Zeilenstufenform:
-
+Eine Matrix ist **in Zeilenstufenform**, wenn:
+- Es ein $r \in \{0, 1, ..., n \}$ gibt, sodass  $\forall i \in \{1, ..., m\}, j > r: a_{i, j} = 0$
+- 
 
 
 ## Matrizen als Ring:
