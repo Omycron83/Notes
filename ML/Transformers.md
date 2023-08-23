@@ -8,7 +8,10 @@ Attention mechanisms are a family of mechanism in transformer models that learn 
 
 ## Self-Attention:
 Self attention is a type of attention mechanism that uses observation on a set of datapoints to make predictions about that same set. It is permutation-invariant, i.e. is an operation on sets.
+There are multiple forms of self attention out there, with the one originally used being scaled dot-product attention.
 
+### Scaled dot-product attention:
+Scaled dot-product attention uses 
 
 
 
