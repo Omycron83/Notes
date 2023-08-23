@@ -19,6 +19,7 @@ Die $j$'te Zeile wird auf die $i$'te Zeile aufaddiert.
 Beweis Zeilenraumerhaltung:
 	$span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_i a_i + ... + \mu_m a_m$
 	Setzt man nun $a_j + a_i$  ein, so kann man $\hat{\mu}_i_ := 
+	So ist $\mu_1 a_1 + .... + \mu_j a_j + \hat{\mu}_i a
 
 
 ### Zeilenstufenform:
