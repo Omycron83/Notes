@@ -74,6 +74,8 @@ Beweis:
 	Tut man dies bis zum Ende, so besitzt man dadurch bis auf die Nullzeilen auf Grunde der Matrix eine nach dem obigen Lemma linear unabhängige Familie an Zeilenvektoren $a_i$. Da diese durch die Operationen immernoch den selben Zeilenraum besitzen handelt es sich dabei um eine Basis.
 
 ### Transpositionierte Matrizen:
+Sei $A$ eine Matrix $\in K^{m \times n}$. Dann nennt man eine Matrix $A^T \in K^{n \times m}$ ihre Transponierte, wenn der Zeilenvektor $a_{i}$ gleich dem Spaltenvektor  . 
+Man 'vertauscht' also Zeilen und Spalten bzw. 'spiegelt' diese an der Hauptdiagonalen.
 
 
 ### Matrizenmultiplikation:
