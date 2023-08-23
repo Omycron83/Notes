@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "ML/Policy Gradient Methods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "ML/Policy Gradient Methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "ML/Policy Gradient Methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Bayes Theorem.md"
+                "file": "ML/Policy Gradient Methods.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "120ab8d60800a288",
   "lastOpenFiles": [
+    "ML/TRPO.md",
+    "ML/Bayes Theorem.md",
     "LinA/Ressources.md",
     "ML/Transformers.md",
-    "ML/Bayes Theorem.md",
     "Current Life.md",
     "Untitled 2.canvas",
     "ML/Bayesian Statistics.md",
@@ -166,7 +167,6 @@
     "LinA/Körper.md",
     "LinA/Symmetrie und Schiefsymmetrie.md",
     "LinA/Matrizen.md",
-    "ML/TRPO.md",
     "ML/Proximal Policy Optimization.md",
     "Pasted image 20230823005049.png",
     "School",
