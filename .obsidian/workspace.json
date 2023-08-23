@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "986447bc170ee54a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "93e6fc436213eb05",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "81da8a6b2c155a2d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "120ab8d60800a288",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ML/Bayes Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84972032ab81e53d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Transformers.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ML/Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ML/Transformers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ML/Transformers.md"
+              }
             }
           }
         ],
@@ -179,11 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81da8a6b2c155a2d",
+  "active": "84972032ab81e53d",
   "lastOpenFiles": [
-    "ML/Univariate Probability Distributions.md",
     "ML/Bayes Theorem.md",
     "ML/Bayesian Statistics.md",
+    "ML/Univariate Probability Distributions.md",
     "ML/Baysian Hyperparameter Optimization.md",
     "LinA/Bild einer linearen Abbildung.md",
     "LinA/Lineare Abbildungen.md",

@@ -1,4 +1,4 @@
-Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory. 
+Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory to better pattern recognition when dealing with sequential or high dimensional data. 
 
 
 
