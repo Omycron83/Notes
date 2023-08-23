@@ -136,3 +136,13 @@ Your local files are now added to your GitHub repository. You can continue worki
 Remember that if you're using two-factor authentication on GitHub, you might need to use a personal access token instead of your GitHub password when pushing changes. This token needs the appropriate permissions for repository access.
 
 ## Get files from there to here in reverse
+
+
+# Obsidian Layout:
+
+Introduction
+
+# General topics
+## Sub
+
+

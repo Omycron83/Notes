@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "Current Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "Current Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "Current Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Transformers.md"
+                "file": "Current Life.md"
               }
             }
           }
@@ -173,6 +173,11 @@
   },
   "active": "84972032ab81e53d",
   "lastOpenFiles": [
+    "ML/Overfitting.md",
+    "Current Life.md",
+    "ML/Entropy.md",
+    "ML/Ressources.md",
+    "ML/Transformers.md",
     "ML/Bayes Theorem.md",
     "ML/Bayesian Statistics.md",
     "ML/Univariate Probability Distributions.md",
@@ -180,7 +185,6 @@
     "LinA/Bild einer linearen Abbildung.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Untervektorräume.md",
-    "ML/Transformers.md",
     "LinA/Vektorraum.md",
     "LinA/Körper.md",
     "LinA/Symmetrie und Schiefsymmetrie.md",
@@ -196,17 +200,13 @@
     "ML/Actor-Critic Methods.md",
     "Pasted image 20230822213943.png",
     "ML/KL-Divergence.md",
-    "Entropy.md",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
     "Pasted image 20230822160658.png",
     "ML/Bootstrap Methods.md",
     "ML/Datapoint Bagging.md",
-    "ML/Early Stopping.md",
     "Pasted image 20230822153344.png",
-    "Overfitting.md",
     "Pasted image 20230822153228.png",
-    "ML/Random Forests.md",
     "Pasted image 20230822151725.png",
     "Untitled 1.canvas",
     "Untitled.canvas",
