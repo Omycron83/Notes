@@ -4,8 +4,14 @@ $\begin{pmatrix} a_{1,1}& ... & a_{1, n} \\ ... &... & ...\\ a_{1, m} & ...& a_{
 
 wobei man die Elemente $a_{i, j}$ **Koeffizienten** der Matrix nennt. Die Menge aller $m \times n$ Matrizen über $K$ bezeichnet man mit $M_K (m, n)$ oder $K^{m \times n}$ .
 ### Zeilenraum:
+
+^7a07fe
+
 Der Zeilenraum $ZR(A)$ einer Matrix $A \in K^{m \times n}$ ist das Erzeugniss der Zeilen $a_i$ von $A$, also $span(a_1, ..., a_n)$, also alle möglichen Linearkombinationen der Zeilenvektoren (wenn [[Matrizen#^2d573a|als Vektorraum interpretiert]]).
 ### Zeilenumformungen:
+
+^6ef525
+
 Es gibt zwei elementare Zeilenumformungen, die den Zeilenraum erhalten:
 #### Typ 1: Zeilenmultiplikation mit $\lambda \neq 0$:
 Die $i$'te Zeile wird mit einem Skalar multipliziert. Man schreibt $A \rightarrow A_1$
@@ -35,6 +41,8 @@ Beweis Zeilenraumerhaltung:
 
 ### Zeilenstufenform:
 
+^7d6af4
+
 Eine Matrix ist **in Zeilenstufenform**, wenn:
 - Es ein $r \in \{0, 1, ..., n \}$ gibt, sodass  $\forall i \in \{1, ..., m\}, j > r: a_{i, j} = 0$
 - Es $j_1, ..., j_r$ gibt mit $0 < j_1 ... < j_r$ und $j_i := min\{j | a_{i, j} \neq 0 \}$ 
@@ -43,7 +51,7 @@ Dies bedeuted, dass es ein solches Spaltenelement in jeder Zeile gibt, dass alle
 Die Elemente rechts der Spaltenelemente können beliebige Werte annehmen.
 
 #### Satz: Jede Matrix kann in Zeilenstufenform umgeformt werden:
-Jede  
+Sei $A$ eine $m \times n$ Matrix mit Zeilen $a_1, ..., a_m$. Diese lässt sich mithilfe der obigen [[Matrizen#^6ef525|Zeilenumformungen]] unter Behalt des [[Matrizen#^7a07fe|Zeilenraumes]] in eine Matrix $A'$ in [[Matrizen#^7d6af4|Zeilenstufenform]] umformen.
 Beweis:
 	
 ## Matrizen als Vektorraum:
