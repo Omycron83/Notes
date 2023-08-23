@@ -1,5 +1,5 @@
 ## Definition:
-Eine Abbildung $F: V \rightarrow W$ zwischen zwei [[Vektorraum|Vektorräumen]] $V, W$ über einem [[Körper]] $K$ nennt man linear, wenn sie **Additiv** und **Homogen** ist:
+Eine [[Abbildungen|Abbildung]] $F: V \rightarrow W$ zwischen zwei [[Vektorraum|Vektorräumen]] $V, W$ über einem [[Körper]] $K$ nennt man linear, wenn sie **Additiv** und **Homogen** ist:
 $F(v + w) = F(v) + F(w)$ und
 $F(\lambda \cdot v) = \lambda \cdot F(v)$
 $\forall v,w \in V, \lambda \in K$ 
@@ -45,6 +45,7 @@ $G(\lambda F(v) + F(w)) = \lambda G(F(v)) + G(F(w))$ $\square$
 #### Vektorraum der Homomorphismen:
 Die Menge aller Vektorraumhomomorphismen $Hom(V,W)$ ist ein Untervektorraum von $Abb(V, W) = W^V$ .
 ##### Beweis:
-Hier müssen lediglich die Untervektorraumaxiome gelten:
+Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
+1. 
 
 
