@@ -1,0 +1,5 @@
+# Defintion:
+
+## Proof:
+
+# Multivariate Bayes:

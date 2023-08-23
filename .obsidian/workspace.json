@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Bayesian Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Bayesian Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +159,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/Bayesian Statistics.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,8 +179,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27efc27ab3737867",
+  "active": "81da8a6b2c155a2d",
   "lastOpenFiles": [
+    "ML/Univariate Probability Distributions.md",
     "ML/Bayes Theorem.md",
     "ML/Bayesian Statistics.md",
     "ML/Baysian Hyperparameter Optimization.md",
@@ -219,7 +216,6 @@
     "Pasted image 20230822153228.png",
     "ML/Random Forests.md",
     "Pasted image 20230822151725.png",
-    "ML/Feature Bagging.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230815194850.png",
