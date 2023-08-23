@@ -60,8 +60,9 @@ Beweis durch direkten Test:
 	Nun kann man von $j_1$ als Ausgangsfall aus starten. Da wir wissen, das alle Spalteneinträge unter $j_1 = 0$ sein müssen, gilt:
 	$0 = \lambda_{1} a_{1, j_1} + ... + \lambda_r 0 =  \lambda_{1} a_{1, j_1} \implies  \lambda_{1} = 0$ . Dann steht $\lambda_1 = 0$ fest.  
 	Nehme man nun an, dass bereits $\lambda_{1} = ... = \lambda_{l - 1} = 0$ gezeigt wurden.
-	Dann ist $0 = 0 a_{1, j_1} + ... + \lambda_{l} a_{l, j_l} + ... + \lambda_r 0 = \lambda_{j_l} a_{l, j_l}  \implies \lambda_{j_l} = 0$
-	Per vollständiger Induktion ist dann klar, dass $\lambda_{j_1} = ... = \lambda_{r} = 0
+	Dann ist $0 = 0 a_{1, j_1} + ... + \lambda_{l} a_{l, j_l} + ... + \lambda_r 0 = \lambda_{j_l} a_{l, j_l}  \implies \lambda_{l} = 0$
+	Per vollständiger Induktion ist dann klar, dass $\lambda_{1} = ... = \lambda_{r} = 0$ sein muss, also die Zeilen linear unabhängig sind.
+	Man kann sich das auch vereinfacht darstellen: damit die erste Spalte null ist, muss der Koeffizient der 1. Zeile null sein, diese 'scheidet also aus'. Damit kann der erste Eintrag der ersten Zeile garnicht mehr aus den anderen gebildet werden, da alle anderen null sind, und so ist auch ihr Koeffizient null etc. etc.
 
 #### Satz: Jede Matrix kann in Zeilenstufenform umgeformt werden:
 Sei $A$ eine $m \times n$ Matrix mit Zeilen $a_1, ..., a_m$. Diese lässt sich mithilfe der obigen [[Matrizen#^6ef525|Zeilenumformungen]]  eine Matrix $A'$ in [[Matrizen#^7d6af4|Zeilenstufenform]] umformen. Die Zeilen von $A'$, die keine Nullzeilen sind, sind eine Basis des [[Matrizen#^7a07fe|Zeilenraumes]] $ZR(A)$.
@@ -70,7 +71,14 @@ Beweis:
 	0. Sonst gibt es eine Zeile $j_1$, die einen Eintrag ungleich 0 besitzt. 
 	1. Man tausche die Zeilen so, dass $a_{1, j_1} \neq 0$
 	2. Man nutze Umformungen vom Typ 3, so, um alle $a_{i, j_1} = 0, i \neq 1$ zu setzen, indem man auf sie $-\frac{a_{1, j_1}}{a_{i, j_1}} a_1$ addiert.
-	Tut man dies bis zum Ende, so besitzt man dadurch bis auf die Nullzeilen auf Grunde der Matrix eine linear unabhängige Familie an Zeilenvektoren $a_i$. Da diese durch die Operationen immernoch den selben Zeilenraum besitzen handelt es sich dabei um eine Basis.
+	Tut man dies bis zum Ende, so besitzt man dadurch bis auf die Nullzeilen auf Grunde der Matrix eine nach dem obigen Lemma linear unabhängige Familie an Zeilenvektoren $a_i$. Da diese durch die Operationen immernoch den selben Zeilenraum besitzen handelt es sich dabei um eine Basis.
+
+### Transpositionierte Matrizen:
+
+
+### Matrizenmultiplikation:
+
+### Inverse Matrizen:
 ## Matrizen als Vektorraum:
 
 ^2d573a
@@ -82,8 +90,7 @@ Beweis:
 
 Eine $1 \times n$ Matrix wäre dann also eine 'Zeilenvektor' (den man normal als $n$-Tupel schreiben kann) und eine $m \times 1$ Matrix ein 'Spaltenvektor'. 
 ## Matrizen als Ring:
-## Matrizenmultiplikation
 
-## Inverse Matrizen
+
 
  
