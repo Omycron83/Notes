@@ -11,15 +11,36 @@
             "id": "5053071860acca2c",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "e5be7fd863111aa2",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Actor-Critic Methods.md",
+                "file": "ML/Actor-critic methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d749640793b8d16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Actor-Critic Methods.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Actor-Critic Methods.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Actor-Critic Methods.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -146,9 +167,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1232ad8be5aff38b",
+  "active": "1d749640793b8d16",
   "lastOpenFiles": [
+    "ML/Actor-critic methods.md",
+    "conflict-files-obsidian-git.md",
     "ML/Actor-Critic Methods.md",
+    "Untitled.md",
     "ML/Policy Gradient Methods.md",
     "ML/TRPO.md",
     "ML/Bayes Theorem.md",
@@ -174,13 +198,10 @@
     "School",
     "ML/Combinatorics.md",
     "ML/REINFORCE.md",
-    "ML/Policy Gradient Theorem.md",
     "Pasted image 20230822213943.png",
-    "ML/KL-Divergence.md",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
     "Pasted image 20230822160658.png",
-    "ML/Bootstrap Methods.md",
     "Pasted image 20230822153344.png",
     "Pasted image 20230822153228.png",
     "Pasted image 20230822151725.png",
