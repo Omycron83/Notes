@@ -6,7 +6,15 @@ wobei man die Elemente $a_{i, j}$ **Koeffizienten** der Matrix nennt. Die Menge 
 ### Zeilenraum:
 Der Zeilenraum $ZR(A)$ einer Matrix $A \in K^{m \times n}$ ist das Erzeugniss der Zeilen $a_i$ von $A$, also $span(a_1, ..., a_n)$, also alle möglichen Linearkombinationen der Zeilenvektoren (wenn [[Matrizen#^2d573a|als Vektorraum interpretiert]]).
 ### Zeilenumformungen:
-Es gibt vier Zeilenumformungstyp
+Es gibt zwei elementare Zeilenumformungen, die den Zeilenraum erhalten:
+#### Typ 1: Zeilenmultiplikation mit $\lambda \neq 0$:
+Die $i$'te Zeile wird mit einem Skalar multipliziert.
+Beweis Zeilenraumerhaltung:
+	
+
+
+#### Typ 2: Addition zweier Zeilen:
+
 
 
 ### Zeilenstufenform:
