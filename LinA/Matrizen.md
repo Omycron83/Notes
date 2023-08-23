@@ -57,10 +57,11 @@ Beweis durch direkten Test:
 	Man erinnere sich, dass jede Zeile effektiv ein $n$-Tupel ist.
 	Somit muss, da $o = (0, ..., 0)$ der Nullvektor $\in K^n$ ist:
 	$0 = \lambda_1 a_{1, j_1} + ... + \lambda_r a_{r, j_1}$  ist dann die Gleichung für den Eintrag in Spalte $j_l$.
-	Und da wir wissen, dass alle Einträge unter der Zeile $j_l$ jeweils null sein müssen, gilt:
-	$0 = \lambda_1 0 + ... + \lambda_{j_l} a_{j_l, j_l} + ... + \lambda_r 0 =  \lambda_{j_l} a_{j_l, j_l} \implies  \lambda_{j_l} = 0$ .
-	Nun kann man von $j_1$ als Ausgangsfall aus starten. Dann ist $\lambda_1 = 0$ klar.  
-	Nehme man nun an, dass $j_1, ..., j_{l - 1}$.
+	Nun kann man von $j_1$ als Ausgangsfall aus starten. Da wir wissen, das alle Spalteneinträge unter $j_1 = 0$ sein müssen, gilt:
+	$0 = \lambda_{1} a_{1, j_1} + ... + \lambda_r 0 =  \lambda_{1} a_{1, j_1} \implies  \lambda_{1} = 0$ . Dann steht $\lambda_1 = 0$ fest.  
+	Nehme man nun an, dass bereits $\lambda_{1} = ... = \lambda_{l - 1} = 0$ gezeigt wurden.
+	Dann ist $0 = 0 a_{1, j_1} + ... + \lambda_{l} a_{l, j_l} + ... + \lambda_r 0 = \lambda_{j_l} a_{l, j_l}  \implies \lambda_{j_l} = 0$
+	Per vollständiger Induktion ist dann klar, dass $\lambda_{j_1} = ... = \lambda_{r} = 0
 
 #### Satz: Jede Matrix kann in Zeilenstufenform umgeformt werden:
 Sei $A$ eine $m \times n$ Matrix mit Zeilen $a_1, ..., a_m$. Diese lässt sich mithilfe der obigen [[Matrizen#^6ef525|Zeilenumformungen]]  eine Matrix $A'$ in [[Matrizen#^7d6af4|Zeilenstufenform]] umformen. Die Zeilen von $A'$, die keine Nullzeilen sind, sind eine Basis des [[Matrizen#^7a07fe|Zeilenraumes]] $ZR(A)$.
