@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "f9b6e0aa952eedad",
+    "type": "split",
+    "children": [
+      {
+        "id": "aca666f96f6e4554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb1efdd5eb79d815",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db42b3f4a413655c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "22047024947fc662",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f307a8dc27fe43e4",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2113956a3e478183",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c063f33d7a741a28",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "81463304102ce6d3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "07987bbabf933f54",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "740bfd6d7632dbd3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "50ef175b9dfea2fe",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eb1efdd5eb79d815",
+  "lastOpenFiles": [
+    "Pasted image 20230822160658.png",
+    "Pasted image 20230822151725.png",
+    "Pasted image 20230823005049.png",
+    "Pasted image 20230810202617.png",
+    "Pasted image 20230811163540.png",
+    "Pasted image 20230812044531.png",
+    "Pasted image 20230813163919.png",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Pasted image 20230822153344.png",
+    "LinA/Lineare Abbildungen.md",
+    "LinA/Bild einer linearen Abbildung.md",
+    "LinA/Halbordnungen.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "LinA/Ressources.md",
+    "LinA/Homomorphiesatz.md",
+    "LinA/Vektorraum.md",
+    "LinA/Lemma von Zorn.md",
+    "LinA/Gruppenhomomorphismen.md",
+    "LinA/Matrizen.md",
+    "LinA/Untervektorräume.md",
+    "LinA/Ketten.md",
+    "LinA/Beweisarten.md",
+    "LinA/Basen haben gleiche Länge.md",
+    "LinA/Relationen.md",
+    "LinA/Abbildungen.md",
+    "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
+    "LinA/Untergruppen.md",
+    "LinA/Austauschsatz von Steinitz.md",
+    "LinA/Faktorgruppe.md",
+    "LinA/Symmetrie und Schiefsymmetrie.md",
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Familien.md",
+    "LinA/Körper.md",
+    "LinA/Gruppen.md",
+    "LinA",
+    "Pasted image 20230822161939.png",
+    "Pasted image 20230822162001.png",
+    "Pasted image 20230813163819.png",
+    "Untitled 1.canvas",
+    "Analysis",
+    "ML",
+    "Optimization"
+  ]
+}
