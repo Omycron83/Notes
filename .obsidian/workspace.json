@@ -20,6 +20,30 @@
             }
           },
           {
+            "id": "9e3cbbd41c1772d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Körper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "638d319434111cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Vektorraum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "986447bc170ee54a",
             "type": "leaf",
             "state": {
@@ -160,8 +184,10 @@
   },
   "active": "31485e9073f0ea4f",
   "lastOpenFiles": [
-    "ML/Transformers.md",
+    "LinA/Vektorraum.md",
+    "LinA/Körper.md",
     "LinA/Matrizen.md",
+    "ML/Transformers.md",
     "ML/TRPO.md",
     "ML/Proximal Policy Optimization.md",
     "Pasted image 20230823005049.png",
@@ -193,7 +219,6 @@
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
     "LinA/Lemma von Zorn.md",
     "ML/Gradient Boosted Trees.md",
-    "LinA/Relationen.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230815194850.png",
