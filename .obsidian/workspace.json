@@ -27,16 +27,36 @@
             "id": "81da8a6b2c155a2d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "120ab8d60800a288",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Baysian Hyperparameter Optimization.md",
+                "file": "ML/Bayes Theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27efc27ab3737867",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Bayesian Statistics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Baysian Hyperparameter Optimization.md",
+                "file": "ML/Bayesian Statistics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Baysian Hyperparameter Optimization.md",
+                "file": "ML/Bayesian Statistics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Baysian Hyperparameter Optimization.md"
+                "file": "ML/Bayesian Statistics.md"
               }
             }
           }
@@ -163,8 +183,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81da8a6b2c155a2d",
+  "active": "27efc27ab3737867",
   "lastOpenFiles": [
+    "ML/Bayes Theorem.md",
     "ML/Bayesian Statistics.md",
     "ML/Baysian Hyperparameter Optimization.md",
     "LinA/Bild einer linearen Abbildung.md",
@@ -199,7 +220,6 @@
     "ML/Random Forests.md",
     "Pasted image 20230822151725.png",
     "ML/Feature Bagging.md",
-    "ML/Ensemble Learning.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "Pasted image 20230815194850.png",

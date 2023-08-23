@@ -1,0 +1,1 @@
+Bayesian statistics is an alternative to 'classical' or frequentist statistics utilizing [[Bayes Theorem]] as well as a prior to interpret findings 
