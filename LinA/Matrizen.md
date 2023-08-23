@@ -2,7 +2,7 @@ Eine $m \times n$ Matrix über einem [[Körper]] $K$ ist eine Anordnung von $n \
 
 $\begin{pmatrix} a_{1,1}& ... & a_{1, n} \\ ... &... & ...\\ a_{1, m} & ...& a_{n, m}\end{pmatrix}$ 
 
-wobei man die Elemente $a_{i, j}$ **Koeffizienten** der Matrix nennt.
-Waagegerecht geschriebene Tupel 
+wobei man die Elemente $a_{i, j}$ **Koeffizienten** der Matrix nennt. Die Menge aller $m \times n$ Matrizen über $K$ bezeichnet man mit $M_K (m, n)$ oder $K^{m \times n}$ .
 
-## Matrizen als Vektorraum
+## Matrizen als Vektorraum:
+Betrachte man $K^{m \times n}$ zusammen mit der Elementweisen  
