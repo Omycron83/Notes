@@ -54,7 +54,11 @@ Die Elemente rechts der Spaltenelemente können beliebige Werte annehmen.
 Ist $A$ in Zeilenstufenform mit $a_1, ..., a_r$ Zeilen $\neq o$. Dann sind diese linear unabhängig.
 Beweis durch direkten Test:
 	Sei $o = \lambda_1 a_1 + ... + \lambda_r a_r$.
-	
+	Man erinnere sich, dass jede Zeile effektiv ein $n$-Tupel ist.
+	Somit muss, da $o = (0, ..., 0)$ der Nullvektor $\in K^n$ ist:
+	$0 = \lambda_1 a_{1, j_1} + ... + \lambda_r a_{r, j_1}$  ist dann die Gleichung für den Eintrag in Spalte $j_1$.
+	Und da wir wissen, dass alle Einträge unter der Zeile $j_1$ jeweils null sein müssen, gilt:
+	$0 = \lambda_1 0 + ... + \lambda_{j_1} a_{j_1, j_1} + ... +  
 
 #### Satz: Jede Matrix kann in Zeilenstufenform umgeformt werden:
 Sei $A$ eine $m \times n$ Matrix mit Zeilen $a_1, ..., a_m$. Diese lässt sich mithilfe der obigen [[Matrizen#^6ef525|Zeilenumformungen]]  eine Matrix $A'$ in [[Matrizen#^7d6af4|Zeilenstufenform]] umformen. Die Zeilen von $A'$, die keine Nullzeilen sind, sind eine Basis des [[Matrizen#^7a07fe|Zeilenraumes]] $ZR(A)$.
