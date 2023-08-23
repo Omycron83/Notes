@@ -1,4 +1,4 @@
-Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory to better pattern recognition when dealing with sequential or high dimensional data by selectively focusing on information. 
+Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory to better pattern recognition when dealing with sequential or high dimensional data by selectively focusing on information.  
 
 They were originally introduced in the paper "Attention is all you need" in 2017 using an encoder-decoder architecture for language translation, but since shown remarkable results in Computer Vision, Large Language Models or Reinforcement Learning.
 # Intuition:
@@ -8,7 +8,7 @@ Transformers on the other hand can theoretically use all the previous datapoints
 
 In general, inputs (usually words) are initially converted into real valued vectors using a lookup table in a process called **input embedding**.
 To those vectors, positional information (encoded through a vector of a function taking the position as an input) is then injected by adding it to the embedding in a process called **positional encoding**.
-Then, this positional encoding is fed into an **encoder layer** that maps a sequence 
+Then, this positional encoding is fed into an **encoder layer** that maps a sequence to an abstract continuous representation which is supposed to hold the learned information of the entire sequence. This contains a multi-headed attention mechanism as well as a regular [[Neural Network]].
 # Attention mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 
@@ -21,4 +21,7 @@ Scaled dot-product attention uses
 
 
 
-*Source:* https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
+*Sources:*
+https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
+https://e2eml.school/transformers.html
+https://www.youtube.com/watch?v=4Bdc55j80l8
