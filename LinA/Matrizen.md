@@ -13,8 +13,12 @@ Beweis Zeilenraumerhaltung:
 	$span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_i a_i + ... + \mu_m a_m$
 	Setzt man nun $\lambda a_i$ ein, so kann man im Fall $\lambda \neq 0$ einfach $\hat{\mu}_i := \frac{\mu_i}{\lambda}$ setzen, sodass
 	$\mu_1 a_1 + ... + \hat{\mu}_i (\lambda a_i) + ... + \mu_m a_m = span(a_1, ..., a_m)$ die Linearkombinationen wieder übereinstimmen.
+Das bedeuted, dass $ZR(A) = ZR(A_1)$.
 #### Typ 2: Addition zweier Zeilen:
-Die $i$'te Zeile wird auf die $j$'te Zeile aufaddiert.
+Die $i$'te Zeile wird auf die $j$'te Zeile aufaddiert. 
+Beweis Zeilenraumerhaltung:
+	$span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_i a_i + ... + \mu_m a_m$
+	Setzt man nun $a_j$ 
 
 
 ### Zeilenstufenform:
