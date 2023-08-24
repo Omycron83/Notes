@@ -6,7 +6,7 @@ This is done, as with most supervised learning algorithms, by minimizing some di
 
 Specifically, a constant value $F_0 = \gamma_0$ is chosen initially as a ‘bias’, which is done by choosing the best expected approximation $F_0(x) = arg \; min_\gamma \sum_1^n L(y_i, \gamma_0)$.
 From then on, this approximation is expanded in a greedy fashion, always choosing the next model in a way to minimize the expected error at this point in time:
-$F_g = \sum_i^{g - 1} \gamma_i h_i (x) + (arg \; min_{h \in H} \sum_1^n L(y_i, F_{g - 1} + \gamma_g h_g) )(x)$ 
+$F_g = \sum_i^{g - 1} \gamma_i h_i (x) + (arg \; min_{h \in H}[ \sum_1^n L(y_i, F_{g - 1} + \gamma_g h_g) ])(x)$  
 
 
 ![[PNG-Bild.png]]
