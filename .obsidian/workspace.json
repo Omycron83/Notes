@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/Bayesian Hyperparameter Optimization.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/Bayesian Hyperparameter Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md",
+                "file": "ML/Bayesian Hyperparameter Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Gradient Boosted Trees.md"
+                "file": "ML/Bayesian Hyperparameter Optimization.md"
               }
             }
           }
@@ -148,8 +148,18 @@
   },
   "active": "d48388d8c7287453",
   "lastOpenFiles": [
-    "ML/Gaussian Processes.md",
+    "ML/Bayes Theorem.md",
     "ML/Bayesian Hyperparameter Optimization.md",
+    "ML/Bayesian Statistics.md",
+    "ML/Bootstrap Methods.md",
+    "ML/Datapoint Bagging.md",
+    "ML/DDQN - Architecture.md",
+    "ML/Decision Trees.md",
+    "ML/Early Stopping.md",
+    "ML/Ensemble Learning.md",
+    "ML/Entropy.md",
+    "ML/Feature Bagging.md",
+    "ML/Gaussian Processes.md",
     "ML/Gradient Boosted Trees.md",
     "PNG-Bild.png",
     "ML/Actor-critic methods.md",
@@ -159,23 +169,13 @@
     "Untitled.md",
     "ML/Policy Gradient Methods.md",
     "ML/TRPO.md",
-    "ML/Bayes Theorem.md",
     "LinA/Ressources.md",
     "ML/Transformers.md",
     "Current Life.md",
     "Untitled 2.canvas",
-    "ML/Bayesian Statistics.md",
     "ML/Overfitting.md",
-    "ML/Entropy.md",
     "ML/Ressources.md",
     "ML/Univariate Probability Distributions.md",
-    "LinA/Bild einer linearen Abbildung.md",
-    "LinA/Lineare Abbildungen.md",
-    "LinA/Untervektorräume.md",
-    "LinA/Vektorraum.md",
-    "LinA/Körper.md",
-    "LinA/Symmetrie und Schiefsymmetrie.md",
-    "LinA/Matrizen.md",
     "Pasted image 20230823005049.png",
     "School",
     "Pasted image 20230822213943.png",
