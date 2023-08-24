@@ -18,7 +18,9 @@ $\gamma_g = arg \; min_\gamma [\sum_1^n L(y_i, F_{g - 1} - \gamma \nabla_{F^{g -
 ![[PNG-Bild.png]]
 
 ## Gradient Boosting in Decision Trees:
-Usually, trees of a fixed size are used in tandem with various regularization techniques as base learners. Empirically, a tree level of 2 to 8 has been shown to work well according to 
+Usually, trees of a fixed size are used in tandem with various regularization techniques as base learners. Empirically, a tree level of 2 to 8 has been shown to work well according to *Hastie er al*. 
+
+
 
 
 
