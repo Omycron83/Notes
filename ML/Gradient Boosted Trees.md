@@ -14,6 +14,6 @@ $F_g(x) = F_{g - 1}(x) - \gamma_g \sum_1^n \nabla_{F^{g - 1}} L(y_i, F_{g - 1}(x
 
 
 We can then also determine $\gamma_g$ by solving the one-dimensional optimization problem:
-$\gamma_g = arg \; min_\gamma \sum_1^n L(y_i, F_{g - 1} - \gamma \nabla_{F^{g - 1}} )
+$\gamma_g = arg \; min_\gamma \sum_1^n L(y_i, F_{g - 1} - \gamma \nabla_{F^{g - 1}} L() )
 
 ![[PNG-Bild.png]]
