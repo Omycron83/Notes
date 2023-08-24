@@ -38,6 +38,6 @@ In datapoint bagging, also called stochastic gradient boosting, each base learne
 Sometimes, in accordance to the ordinary [[Decision Trees#^5507bc|split criteria employed in singular decision trees]], a minimum number of datapoints left in leaf nodes is imposed.
 
 #### Other complexity penalization:
-There are a lot more sophisticated regularization methods employed in gradient boosted trees. 
+There are a lot more sophisticated regularization methods employed in gradient boosted trees. These may include 
 
 *Sources:* https://en.m.wikipedia.org/wiki/Gradient_boosting
