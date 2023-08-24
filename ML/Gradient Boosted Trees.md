@@ -23,6 +23,8 @@ Usually, trees of a fixed size are used in tandem with various regularization te
 *Friedman* also proposes to, instead of giving a certain weight to the total tree output, instead give a weight to the constant value predicted at each disjoint region, where the update rulevbecomes: 
 $F_g(x) = F_{g - 1}(x) + \sum_1^{J(g)} \gamma_{jg} \text{1} R_{jg}(x)$ , $\gamma_{jg} = arg \; min_{\gamma^{jg}} \sum_{x_i \in R_{jg}} L(y_i, F_{g - 1}(x_i) + \gamma)$ 
 
+Here, the 1 is the 
+
 
 
 
