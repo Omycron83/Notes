@@ -35,7 +35,7 @@ Shrinkage, also referred to as a ‘learning rate’ is another parameter $v \in
 In datapoint bagging, also called stochastic gradient boosting, each base learner is only fit on a subset of the total training datapoints, reducing correlation between the base learners.
 
 #### Number of observations in leaves:
-Sometimes, in accordance to the ordinary [[Decision Trees#^5507bcend|]]
+Sometimes, in accordance to the ordinary [[Decision Trees#^5507bc|split criteria employed in singular decision trees]]
 
 #### Other complexity penalization:
 
