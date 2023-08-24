@@ -21,7 +21,7 @@ $\gamma_g = arg \; min_\gamma [\sum_1^n L(y_i, F_{g - 1} - \gamma \nabla_{F^{g -
 Usually, trees of a fixed size are used in tandem with various regularization techniques as base learners. Empirically, a tree level of 2 to 8 has been shown to work well according to *Hastie er al*. 
 
 *Friedman* also proposes to, instead of giving a certain weight to the total tree output, instead give a weight to the constant value predicted at each disjoint region, where the objective becomes: 
-$F_g(x) = F_{g - 1}(x) + \sum_1^{J(m)} \gamma_{jm} **1**
+$F_g(x) = F_{g - 1}(x) + \sum_1^{J(m)} \gamma_{jm} **1** R_
 
 
 
