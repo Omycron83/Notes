@@ -17,3 +17,4 @@ $\gamma_g = arg \; min_\gamma [\sum_1^n L(y_i, F_{g - 1} - \gamma \nabla_{F^{g -
 
 ![[PNG-Bild.png]]
 
+## Gradient Boosting in Decision Trees
