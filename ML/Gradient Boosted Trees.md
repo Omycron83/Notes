@@ -10,9 +10,10 @@ $F_g(x) = \sum_i^{g - 1} \gamma_i h_i (x) + (arg \; min_{h \in H}[ \sum_1^n L(y_
 
 This is not computationally feasible in an analytical way. 
 However, using gradient descent (or *steepest descent*), one can use the negative direction of steepest descent as an approximation, thus choosing:
-$F_g(x) = F_{g - 1}(x) - \gamma_g \sum_1^n \nabla F_{g - 1} L(y_i, F_{g - 1}(x))$ 
+$F_g(x) = F_{g - 1}(x) - \gamma_g \sum_1^n \nabla_{F^{g - 1}} L(y_i, F_{g - 1}(x))$
+
 
 We can then also determine $\gamma_g$ by solving the one-dimensional optimization problem:
-$\gamma_g = arg \; min_\gamma \sum_1^n L(y_i, F_{g - 1} - \gamma \nab  )
+$\gamma_g = arg \; min_\gamma \sum_1^n L(y_i, F_{g - 1} - \gamma \nabla_{F^{g - 1}} )
 
 ![[PNG-Bild.png]]
