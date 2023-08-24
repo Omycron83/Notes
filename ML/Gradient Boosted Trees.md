@@ -9,4 +9,5 @@ From then on, this approximation is expanded in a greedy fashion, always choosin
 $F_g = \sum_i^{g - 1} \gamma_i h_i (x) + (arg \; min_{h \in H}[ \sum_1^n L(y_i, F_{g - 1} + \gamma_g h_g) ])(x)$  
 
 
+
 ![[PNG-Bild.png]]
