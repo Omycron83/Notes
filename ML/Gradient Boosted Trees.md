@@ -28,12 +28,10 @@ $F_g(x) = F_{g - 1}(x) + \sum_1^{J(g)} \gamma_{jg} \text{1} R_{jg}(x)$ , $\gamma
 Here, the 1 is the indicator notation and $R$ are the regions defined by the tree. As one can see, the tree does still define the regions, however doesn‘t define the constant predicted values of them (or their weights w.r.t. the indicator) anymore, as this is now done through line search as well.
 
 ### Regularization in Gradient Boosted Trees:
-#### Shrinkage
-#### [[Datapoint Bagging]]
-
-#### Number of observations in leaves
-#
-
-
+#### Shrinkage:
+Shrinkage, also referred to as a ‘learning rate’ is another parameter $v$ that 
+#### [[Datapoint Bagging]]:
+#### Number of observations in leaves:
+#### Other complexity penalization:
 
 *Sources:* https://en.m.wikipedia.org/wiki/Gradient_boosting
