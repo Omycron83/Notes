@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2e21683a19580b2f",
+        "id": "96887695e091509f",
         "type": "tabs",
         "children": [
           {
-            "id": "ec01051cd902962e",
+            "id": "e52a953778de78da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Actor-critic methods.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Actor-critic methods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Actor-critic methods.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "ML/Actor-critic methods.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,7 +123,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec01051cd902962e",
+  "active": "e52a953778de78da",
   "lastOpenFiles": [
     "ML/Actor-critic methods.md",
     "Pasted image 20230822160658.png",
