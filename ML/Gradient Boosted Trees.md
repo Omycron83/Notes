@@ -8,3 +8,4 @@ $min \; L_{MSE}(y_i, F_m(x_i)) = L_{MSE}(h_m(x_i), 0)$
 
 Minimizing this is not as trivial. 
 
+![[PNG-Bild.png]]
