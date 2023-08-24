@@ -12,3 +12,6 @@ However, if only few points were explored and some regions haven't largely been 
 Through the combination of the aforementioned approaches, this technique has been empirically shown to be greately more efficient than random search (up to ca. 121 times as efficient when carefully finetuned, ca. 16.5 times as efficient with the method we used.)
 
 *Sources:* 
+-  A Tutorial on Bayesian Optimization of Expensive Cost Functions (2010), Brochu et al ([arxiv.org/pdf/1012.2599.pdf](https://arxiv.org/pdf/1012.2599.pdf))
+- Bayesian Optimization is Superior to Random Search for Machine Learning Hyperparameter Tuning: Analysis of the Black-Box Optimization Challenge 2020, Turner et al  (https://arxiv.org/abs/2104.10201)
+
