@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4af38286890ff690",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Decision Trees.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Gradient Boosted Trees.md",
+            "file": "ML/Decision Trees.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Gradient Boosted Trees.md",
+            "file": "ML/Decision Trees.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Gradient Boosted Trees.md"
+            "file": "ML/Decision Trees.md"
           }
         }
       }
@@ -131,8 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e52a953778de78da",
+  "active": "4af38286890ff690",
   "lastOpenFiles": [
+    "ML/Gradient Boosted Trees.md",
     "PNG-Bild.png",
     "ML/Actor-critic methods.md",
     "Pasted image 20230822160658.png",
@@ -171,7 +185,6 @@
     "LinA/Körper.md",
     "LinA",
     "Pasted image 20230822161939.png",
-    "Pasted image 20230822162001.png",
     "Untitled 1.canvas",
     "Analysis",
     "ML",
