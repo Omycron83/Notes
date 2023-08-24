@@ -29,8 +29,10 @@ Here, the 1 is the indicator notation and $R$ are the regions defined by the tre
 
 ### Regularization in Gradient Boosted Trees:
 #### Shrinkage:
-Shrinkage, also referred to as a ‘learning rate’ is another parameter $v$ that 
+Shrinkage, also referred to as a ‘learning rate’ is another parameter $v \in [0;1]$ that is multiplied with the other weight $\gamma$ of an added base learner to reduce its impact, with $v = 1$ corresponding to the unregularized case and $v = 0$ leading to no learning.
+
 #### [[Datapoint Bagging]]:
+In datapoint bagging, also called s
 #### Number of observations in leaves:
 #### Other complexity penalization:
 
