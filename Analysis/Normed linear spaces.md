@@ -1,7 +1,7 @@
 ### Intuition through metric spaces:
 A normed linear space is a subset of a [[Metric Spaces|Metric Space]] that is also a [[Vektorraum|Vector Space]]. 
 ### Formal definition:
-A normed linear space is a pair of objects $(V, || \;||)$ where the norm $|| \; || : V \times V \rightarrow R$ satisfies:
+A normed linear space is a pair of objects $(V, || \;||)$ where the norm $|| \; || : V \times V \rightarrow R$ satisfies: ^84812c
 1. $|| x - y || \ge 0$
 2. $||x - y || = 0 \implies x = y$
 3. $||\lambda(x - y)|| = |\lambda| \, || x -  y||$ 

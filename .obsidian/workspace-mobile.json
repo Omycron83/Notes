@@ -30,8 +30,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5ca637a2d2250398",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +106,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Gradient Boosted Trees.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +122,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Gradient Boosted Trees.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -125,9 +132,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "ML/Gradient Boosted Trees.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -143,10 +148,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e52a953778de78da",
+  "active": "5ca637a2d2250398",
   "lastOpenFiles": [
-    "ML/Decision Trees.md",
     "ML/Gradient Boosted Trees.md",
+    "ML/Decision Trees.md",
     "PNG-Bild.png",
     "ML/Actor-critic methods.md",
     "Pasted image 20230822160658.png",
