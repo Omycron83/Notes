@@ -14,6 +14,9 @@ If one then wants to predict another datapoint, they can then traverse the tree 
 Decision trees are usually fairly parsimoneous, and can geometrically be interpreted by partitioning the datapoints by hyperplanes. They are used in more sophisticated algorithms, such as [[Gradient Boosted Trees]] or [[Random Forests]] . 
 
 ### Split criteria
+
+^5507bc
+
 There are multiple common ways to reduce overfitting during training:
 1. The cardinality of the subset is to small
 2. The depth of the tree is to large
