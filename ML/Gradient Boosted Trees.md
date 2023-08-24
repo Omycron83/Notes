@@ -5,5 +5,7 @@ This is done by iteratively constructing an [[Ensemble Learning|ensemble]] funct
 This is done, as with most supervised learning algorithms, by minimizing some differentiable loss function $L$ such as the [[Mean Squared Error|MSE]].
 Specifically, a constant value $F_0 = \gamma_0$ is chosen initially as a ‘bias’, which is done by choosing $F_0(x) = arg \; min_\gamma \sum_1^n L(y_i, \gamma_0)$.
 
+From then on, this expression is 
+
 
 ![[PNG-Bild.png]]
