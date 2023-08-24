@@ -7,3 +7,4 @@ However, we often want to minimize a certain differentiable loss function, such 
 $min \; L_{MSE}(y_i, F_m(x_i)) = L_{MSE}(h_m(x_i), 0)$ 
 
 Minimizing this is not as trivial. 
+
