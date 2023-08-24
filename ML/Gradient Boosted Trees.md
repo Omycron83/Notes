@@ -13,6 +13,6 @@ However, using gradient descent (or *steepest descent*), one can use the negativ
 $F_g(x) = F_{g - 1}(x) - \gamma_g \sum_1^n \nabla F_{g - 1} L(y_i, F_{g - 1}(x))$ 
 
 We can then also determine $\gamma_g$ by solving the one-dimensional optimization problem:
-$\gamma_g = arg \; min_\gamma_g \sum_1^
+$\gamma_g = arg \; min_\gamma_g \sum_1^n L(y_i, F_{g - 1})
 
 ![[PNG-Bild.png]]
