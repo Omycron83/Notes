@@ -57,3 +57,18 @@ Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
 
 
 ### Bild, Faser, Kern:
+Sei $F$ eine lineare Abbildung. Dann gilt:
+- $im \; F \subset W$ ist ein Untervektorraum von $W$.
+	Beweis:
+
+- $ker \; F \subset W$ ist ein Untervektorraum von $V$.
+	Beweis:
+
+- $F$ surjektiv $\Leftrightarrow$ $im \; F = W$ 
+	Beweis: Per Definition
+
+- $F$ injektiv $\Leftrightarrow$ $ker \; F = \{o \}$ 
+	Beweis:
+
+- Ist $F$ injektiv, dann gilt: $v_1, ..., v_n$ linear unabhängig $\implies$ $
+
