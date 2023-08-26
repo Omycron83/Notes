@@ -43,8 +43,13 @@ After reaching $L_o$, the loss function $L(L_o, \hat{y})$ is evaluated between t
 It measures the distance between the two and is thus to be minimized, which is done using certain optimizers as well as backpropagation.     
 ## Backwards-Propagation
 In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$, $\nabla_{\theta_n} L$ is to be determined to then be used in various optimizers. 
-This can be done using the chain rule and other elementary calculus. However, doing this calculation reveals a very efficient procedure thats easily implemented.
-One generally notes that we apply a number of functions to the input.
+This can be done using elementary calculus. 
+Doing this calculation also reveals a very efficient procedure thats easily implemented.
+One generally notes that we just apply a number of functions to the input.
+Thus, $L(L_o, \hat{y}) = L(  f(l(L_{o - 1})) , \hat{y}) = L(  f(l(g(h(L_{o - 2})))) , \hat{y})...$
+Where $l,h$ would be the linear mappings and $f, g$ the activation functions applied between each layer.
+Thus, determining $\nabla_{\theta_n} L(L_o, \hat{y})$ requires us to 'pass the gradient' back to layer $n$ by using the chain rule:
+$\nabla_{\theta_n} L(L_o, \hat{y}) = \frac{\delta L(L_o, \hat{y})}{\delta \theta_n} 
 
 ## Optimizers
 ## Regularization and Hyperparameter-Tuning
