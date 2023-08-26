@@ -56,11 +56,15 @@
             }
           },
           {
-            "id": "99820a8fe7485914",
+            "id": "53f3ce73e3c32f0a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Untervektorräume.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -193,12 +197,14 @@
   },
   "active": "775fd7910a6bff19",
   "lastOpenFiles": [
+    "LinA/Untervektorräume.md",
     "LinA/Lineare Abbildungen.md",
+    "LinA/Symmetrie und Schiefsymmetrie.md",
+    "ML/DDQN - Architecture.md",
+    "ML/Neural Network.md",
     "LinA/Faser einer linearen Abbildung.md",
     "LinA/Kern einer linearen Abbildung.md",
     "LinA/Bild einer linearen Abbildung.md",
-    "ML/DDQN - Architecture.md",
-    "ML/Neural Network.md",
     "ML/Policy Gradient Methods.md",
     "Untitled.md",
     "ML/Early Stopping.md",
@@ -218,8 +224,6 @@
     "ML/Almost Surely.md",
     "conflict-files-obsidian-git.md",
     "ML/Actor-Critic Methods.md",
-    "ML/TRPO.md",
-    "LinA/Ressources.md",
     "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
     "School",

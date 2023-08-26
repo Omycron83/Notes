@@ -58,17 +58,22 @@ Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
 
 ### Bild, Faser, Kern:
 Sei $F$ eine lineare Abbildung. Dann gilt:
-- $im \; F \subset W$ ist ein Untervektorraum von $W$.
+- $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
+	Beweis: Untervektorraumaxiome abklappern:
+	1. $F(o) = o \in im \; F$
+	2. $F(v + w) \in im \; F \implies F(v) + F(w) \in im \; F$ nach linearer Abbildungsdefinition
+	3. $F(\lambda v) \in im \; F \implies \lambda F(v) \in im \; F$ nach linearer Abbildungsdefinition
+
+- $ker \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]]  von $V$.
 	Beweis:
 
-- $ker \; F \subset W$ ist ein Untervektorraum von $V$.
-	Beweis:
-
-- $F$ surjektiv $\Leftrightarrow$ $im \; F = W$ 
+- $F$ [[Abbildungen#^4b4823|surjektiv]] $\Leftrightarrow$ $im \; F = W$ 
 	Beweis: Per Definition
 
-- $F$ injektiv $\Leftrightarrow$ $ker \; F = \{o \}$ 
+- $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
 	Beweis:
 
-- Ist $F$ injektiv, dann gilt: $v_1, ..., v_n$ linear unabhängig $\implies$ $
+- Ist $F$ [[Abbildungen#^4b4823|injektiv]], dann gilt: $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]] $\implies$ $F(v_1), ..., F(v_n)$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]]
+	Beweis:
+
 
