@@ -75,8 +75,10 @@ Sei $F$ eine lineare Abbildung. Dann gilt:
 
 - $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
 	Beweis: 
+	1. Die 'hin' Richtung sei trivial
+	2. Nehma man an, der Kern besteht nur aus dem Nullvektor, d.h. es wenn $v \neq v'$ dann gibt es keine $v - v' = o$. Dann ist $F(v - v') \neq o \Leftrightarrow F(v) - F(v') \neq o \Leftrightarrow F(v) \neq F(v')$ $\square$
 
 - Ist $F$ [[Abbildungen#^4b4823|injektiv]], dann gilt: $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]] $\implies$ $F(v_1), ..., F(v_n)$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]]
-	Beweis:
+	Beweis: Seien $v_1, ..., v_n$ linear unabhängig. Dann ist $F(\lambda v_1 + ... + \lambda v_n)
 
 
