@@ -1,0 +1,1 @@
+Das Bild $F(V) := \{ w \in W | \exists v \in V: f(v) = w \} \subset W$ einer [] 

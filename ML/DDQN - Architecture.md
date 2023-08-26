@@ -1,1 +1,1 @@
-A double Deep-Q-Network is a reinforcement learning technique used to estimate the $Q$-Function of an environment using two {{neural networks
+A double Deep-Q-Network is a reinforcement learning technique used to estimate the $Q$-Function of an environment using two [[Neural Network|neural networks]].

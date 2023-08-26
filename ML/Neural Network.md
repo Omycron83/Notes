@@ -35,7 +35,7 @@ The sigmoid function
 In forward propagation, the output can be produced from the input in the following sequence:
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
 where $L_0$ is the input layer and $L_o$ the output layer, with $o - 1$ hidden layers in between.
-Here, $f_{n+1}$ is the non-linear activation function of the $n + 1$-Layer and $\theta_{n + 1}$ the weight matrix for the linear mapping between the two vector spaces of the vectors representing the layer values. 
+Here, $f_{n+1}$ is the non-linear activation function of the $n + 1$-Layer and $\theta_{n + 1}$ the weight matrix for the linear mapping between the two vector spaces of the [[Vektorraum|vectors]] representing the layer values. 
 (This means that, if we want to map between a layer of $l$ and a layer of $g$ neurons, we need a $\theta \in R^{l \times g}$ , where the an entry $\theta_{i, j}$ is the weight of the neuron $i$ for the neuron $j$.)
 One can see that, by sequentially transforming the input from layer to layer, it is 'propagated forward' to the output layer, thus the name.
 
