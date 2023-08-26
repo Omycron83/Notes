@@ -8,12 +8,21 @@ A standard feed-forward neural network consists of three main parts:
 3. An output layer, where projected labels are produced
 
 Where the number of hidden layers as well as their neuron count largely determine the model complexity.
+
+### Weight Initialization:
+The goal of a neural network is to find the optimal weight matrices to minimize the loss function. This, however, begs the question of how to initialize the weights initally. 
+The intuitive approach, i.e. initializing all entries to some constant value, doesn't work as there exist
+
+### Activation Functions:
+There are a number of widely used activation functions, which also all have a 
+
 ## Forward-propagation:
 In forward propagation, the output can be produced from the input in the following sequence:
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
 where $L_0$ is the input layer and $L_o$ the output layer, with $o - 1$ hidden layers in between.
 Here, $f_{n+1}$ is the non-linear activation function of the $n + 1$-Layer and $\theta_{n + 1}$ the weight matrix for the linear mapping between the two vector spaces of the vectors representing the layer values. 
 (This means that, if we want to map between a layer of $l$ and a layer of $g$ neurons, we need a $\theta \in R^{l \times g}$ .)
+One can see that, by sequentially transforming the input from layer to layer, it is 'propagated forward' to the output layer, thus the name.
 
 Here, we assume the input to be a matrix of datapoints of size $m \times n$  with $m$ datapoints each consisting of $n$ features. Thus, each layer is an $m \times g$ matrix, where $g$ is the number of neurons in that layer.
 
@@ -23,7 +32,8 @@ However, this has notable consequences in backwards propagation as well as regul
 After reaching $L_o$, the loss function $L(L_o, \hat{y})$ is evaluated between the predicted output layer values $L_o$ and the actual target values $\hat{y}$. 
 It measures the distance between the two and is thus to be minimized, which is done using certain optimizers as well as backpropagation.     
 ## Backwards-Propagation
-In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$  
+In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$, $\nabla_{\theta_n} L$ is to be determined to then be used in various optimizers. 
+This can be done using the chain rule and elementary  
 
 ## Optimizers
 ## Regularization and Hyperparameter-Tuning
