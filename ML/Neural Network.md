@@ -63,7 +63,7 @@ Thus, we can 'pass the gradient back' in one iteration and then use the appropri
 This act of once passing back the gradients back similarly to passing the input values forward is called **backwards propagation**. 
 
 If one uses some elementary calculus and knowledge of linear algebra, they can see that the gradient w.r.t. the layer $n$ (**not** the next layers weights) can be calculated by the gradient w.r.t. the layer $n + 1$ by the series:
-$\nabla L_{n} = \nabla L_{n + 1}$ 
+$\nabla L_{n} =  (\nabla L_{n + 1} \cdot \theta_{1:}^T ) * \frac{f(L_{n - 1})}{}$ 
 ## Optimizers:
 
 
