@@ -65,7 +65,9 @@ Sei $F$ eine lineare Abbildung. Dann gilt:
 	3. $F(\lambda v) \in im \; F \implies \lambda F(v) \in im \; F$ nach linearer Abbildungsdefinition
 
 - $ker \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]]  von $V$.
-	Beweis:
+	Beweis: Untervektorraumsaxiome abklappern
+	1. $F(o) = o \implies o \in ker \; F$
+	2. $F(v + w) = o = F(v) + F()
 
 - $F$ [[Abbildungen#^4b4823|surjektiv]] $\Leftrightarrow$ $im \; F = W$ 
 	Beweis: Per Definition
