@@ -11,11 +11,21 @@ Where the number of hidden layers as well as their neuron count largely determin
 
 ### Weight Initialization:
 The goal of a neural network is to find the optimal weight matrices to minimize the loss function. This, however, begs the question of how to initialize the weights initally. 
-The intuitive approach, i.e. initializing all entries to some constant value, doesn't work as there exists a symmetry between neurons: in backpropagation, each neuron has the same inputs, and its value is **only** determined by the 
+The intuitive approach, i.e. initializing all entries to some constant value, doesn't work as there exists a symmetry between neurons: in backpropagation, each neuron has the same inputs, and its value is thus **only** determined by the entries in the weight matrix. Therefore, with the same weights, all neurons in each layer would have the same output. And this would not change with backpropagation. 
+
+Thus, the weights ought to be initialized randomly. Usually, values sampled uniformly from $[0; 1]$ are fine in practice. However, there are optimal ways with regards to convergence to initialized weights depending on the activation function applied at this layer.
 
 ### Activation Functions:
-There are a number of widely used activation functions, which also all have a 
+There are a number of widely used activation functions, which also all have an optimal weight initialization procedure:
 
+#### Sigmoid:
+The sigmoid function
+
+##### Notes On Implementation:
+
+##### Derivative:
+
+##### 
 ## Forward-propagation:
 In forward propagation, the output can be produced from the input in the following sequence:
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
@@ -33,7 +43,8 @@ After reaching $L_o$, the loss function $L(L_o, \hat{y})$ is evaluated between t
 It measures the distance between the two and is thus to be minimized, which is done using certain optimizers as well as backpropagation.     
 ## Backwards-Propagation
 In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$, $\nabla_{\theta_n} L$ is to be determined to then be used in various optimizers. 
-This can be done using the chain rule and elementary  
+This can be done using the chain rule and other elementary calculus. However, doing this calculation reveals a very efficient procedure thats easily implemented.
+One generally notes that we apply a number of functions to the input.
 
 ## Optimizers
 ## Regularization and Hyperparameter-Tuning
