@@ -11,7 +11,7 @@ Where the number of hidden layers as well as their neuron count largely determin
 
 ### Weight Initialization:
 The goal of a neural network is to find the optimal weight matrices to minimize the loss function. This, however, begs the question of how to initialize the weights initally. 
-The intuitive approach, i.e. initializing all entries to some constant value, doesn't work as there exist
+The intuitive approach, i.e. initializing all entries to some constant value, doesn't work as there exists a symmetry between neurons: in backpropagation, each neuron has the same inputs, and its value is **only** determined by the 
 
 ### Activation Functions:
 There are a number of widely used activation functions, which also all have a 
@@ -21,7 +21,7 @@ In forward propagation, the output can be produced from the input in the followi
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
 where $L_0$ is the input layer and $L_o$ the output layer, with $o - 1$ hidden layers in between.
 Here, $f_{n+1}$ is the non-linear activation function of the $n + 1$-Layer and $\theta_{n + 1}$ the weight matrix for the linear mapping between the two vector spaces of the vectors representing the layer values. 
-(This means that, if we want to map between a layer of $l$ and a layer of $g$ neurons, we need a $\theta \in R^{l \times g}$ .)
+(This means that, if we want to map between a layer of $l$ and a layer of $g$ neurons, we need a $\theta \in R^{l \times g}$ , where the an entry $\theta_{i, j}$ is the weight of the neuron $i$ for the neuron $j$.)
 One can see that, by sequentially transforming the input from layer to layer, it is 'propagated forward' to the output layer, thus the name.
 
 Here, we assume the input to be a matrix of datapoints of size $m \times n$  with $m$ datapoints each consisting of $n$ features. Thus, each layer is an $m \times g$ matrix, where $g$ is the number of neurons in that layer.
