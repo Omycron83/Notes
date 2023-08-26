@@ -49,7 +49,8 @@ One generally notes that we just apply a number of functions to the input.
 Thus, $L(L_o, \hat{y}) = L(  f(l(L_{o - 1})) , \hat{y}) = L(  f(l(g(h(L_{o - 2})))) , \hat{y})...$
 Where $l,h$ would be the linear mappings and $f, g$ the activation functions applied between each layer.
 Thus, determining $\nabla_{\theta_n} L(L_o, \hat{y})$ requires us to 'pass the gradient' back to layer $n$ by using the chain rule:
-$\nabla_{\theta_n} L(L_o, \hat{y}) = \frac{\delta L(L_o, \hat{y})}{\delta \theta_n} 
+$\nabla_{\theta_n} L(L_o, \hat{y}) = \frac{\delta L(L_o, \hat{y})}{\delta \theta_n} =  \frac{\delta L(L_o, \hat{y})}{\delta L_o} \frac{\deltaL_o}{\delta\theta_n} = \frac{\delta L(L_o, \hat{y})}{\delta L_o} \frac{\delta L_o}{\delta l(L_{o - 1})} \frac{\delta l(L_{o - 1})}{\delta \theta_n} = \frac{\delta L(L_o, \hat{y})}{\delta L_o} \frac{L_o}{l(L_{o - 1})} \frac{l(L_{o - 1})}{\delta L_{o - 1}} \frac{\delta L_{o - 1}}{\delta \theta_n}$ 
+$= ... = \frac{\delta L(L_o, \hat{y})}{\delta L_o} \frac{L_o}{l(L_{o - 1})} \frac{l(L_{o - 1})}{\delta L_{o - 1}} \frac{\delta L_{o - 1}}{\delta \theta_n} ... \frac{\delta L_{o - 1}}{\delta \theta_n}$ 
 
 ## Optimizers
 ## Regularization and Hyperparameter-Tuning
