@@ -49,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Faser einer linearen Abbildung.md",
+                "file": "LinA/Lineare Abbildungen.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "99820a8fe7485914",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Faser einer linearen Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Faser einer linearen Abbildung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LinA/Faser einer linearen Abbildung.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -183,10 +187,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "775fd7910a6bff19",
+  "active": "99820a8fe7485914",
   "lastOpenFiles": [
-    "LinA/Kern einer linearen Abbildung.md",
+    "LinA/Lineare Abbildungen.md",
     "LinA/Faser einer linearen Abbildung.md",
+    "LinA/Kern einer linearen Abbildung.md",
     "LinA/Bild einer linearen Abbildung.md",
     "ML/DDQN - Architecture.md",
     "ML/Neural Network.md",
@@ -211,7 +216,6 @@
     "ML/Actor-Critic Methods.md",
     "ML/TRPO.md",
     "LinA/Ressources.md",
-    "ML/Transformers.md",
     "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
     "School",

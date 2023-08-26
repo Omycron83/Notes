@@ -54,3 +54,6 @@ Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
 	$(\lambda F)(\mu v + w) = \lambda F(\mu v + w) = \lambda \mu F(v) + \lambda F(w) = \mu (\lambda F(v)) + (\lambda F(w))$ 
 
 #### Ringe der Endomorphismen
+
+
+### Bild, Faser, Kern:
