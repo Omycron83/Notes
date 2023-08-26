@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Bild einer linearen Abbildung.md",
+                "file": "LinA/Faser einer linearen Abbildung.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Bild einer linearen Abbildung.md",
+                "file": "LinA/Faser einer linearen Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Bild einer linearen Abbildung.md",
+                "file": "LinA/Faser einer linearen Abbildung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Bild einer linearen Abbildung.md"
+                "file": "LinA/Faser einer linearen Abbildung.md"
               }
             }
           }
@@ -185,6 +185,9 @@
   },
   "active": "775fd7910a6bff19",
   "lastOpenFiles": [
+    "LinA/Kern einer linearen Abbildung.md",
+    "LinA/Faser einer linearen Abbildung.md",
+    "LinA/Bild einer linearen Abbildung.md",
     "ML/DDQN - Architecture.md",
     "ML/Neural Network.md",
     "ML/Policy Gradient Methods.md",
@@ -209,10 +212,7 @@
     "ML/TRPO.md",
     "LinA/Ressources.md",
     "ML/Transformers.md",
-    "Current Life.md",
     "Untitled 2.canvas",
-    "ML/Overfitting.md",
-    "ML/Ressources.md",
     "Pasted image 20230823005049.png",
     "School",
     "Pasted image 20230822213943.png",

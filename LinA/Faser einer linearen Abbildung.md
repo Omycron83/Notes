@@ -1,0 +1,1 @@
+Die Faser einer [[Lineare Abbildungen|linearen Abbildung]] $F^{-1}(w) := \{v \in V | F(v) = w \}$  
