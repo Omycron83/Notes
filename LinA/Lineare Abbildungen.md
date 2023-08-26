@@ -61,19 +61,20 @@ Sei $F$ eine lineare Abbildung. Dann gilt:
 - $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
 	Beweis: Untervektorraumaxiome abklappern:
 	1. $F(o) = o \in im \; F$
-	2. $F(v + w) \in im \; F \implies F(v) + F(w) \in im \; F$ nach linearer Abbildungsdefinition
-	3. $F(\lambda v) \in im \; F \implies \lambda F(v) \in im \; F$ nach linearer Abbildungsdefinition
+	2. $F(v), F(w) \in im \; F \implies F(v) + F(w) = F(v + w) \in im \; F$ nach linearer Abbildungsdefinition
+	3. $\lambda F(v) \in im \; F \implies \lambda F(v) = F(\lambda v) \in im \; F$ nach linearer Abbildungsdefinition
 
 - $ker \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]]  von $V$.
 	Beweis: Untervektorraumsaxiome abklappern
 	1. $F(o) = o \implies o \in ker \; F$
-	2. $F(v + w) = o = F(v) + F()
+	2. $F(v), F(w) = o \implies F(v) + F(w) = F(v + w) = o$ 
+	3. $\lambda F(v) = o \implies  \lambda F(v) = F(\lambda v) = o$ 
 
 - $F$ [[Abbildungen#^4b4823|surjektiv]] $\Leftrightarrow$ $im \; F = W$ 
 	Beweis: Per Definition
 
 - $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
-	Beweis:
+	Beweis: 
 
 - Ist $F$ [[Abbildungen#^4b4823|injektiv]], dann gilt: $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]] $\implies$ $F(v_1), ..., F(v_n)$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]]
 	Beweis:
