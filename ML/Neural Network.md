@@ -7,8 +7,12 @@ A standard feed-forward neural network consists of three main parts:
 
 Where the number of hidden layers as well as their neuron count largely determine the model complexity.
 ## Forward-propagation:
-In forward propagation, the output is produced from the input in the fol
-
+In forward propagation, the output can be produced from the input in the following sequence:
+$L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
+where $L_0$ is the input layer and $L_o$ the output layer, with $o - 1$ hidden layers in between.
+Here, $f_{n+1}$ is the non-linear activation function of the $n + 1$-Layer and $\theta_{n + 1}$ the matrix for the linear mapping between the two vector spaces of the vectors representing the layer values. 
+(This means that, if we want to )
 
 ## Backwards-Propagation
 
+## Regularization and Hyperparameter-Tuning
