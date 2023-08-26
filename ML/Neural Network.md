@@ -25,7 +25,12 @@ The sigmoid function
 
 ##### Derivative:
 
-##### 
+
+### Output Functions:
+
+### Loss Functions:
+
+
 ## Forward-propagation:
 In forward propagation, the output can be produced from the input in the following sequence:
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
@@ -54,8 +59,12 @@ $= ... = \frac{\delta L(L_o, \hat{y})}{\delta L_o} \frac{L_o}{l(L_{o - 1})} \fra
 
 One realizes that the gradient calculation is largely the similar for multiple layers, as the only difference between two successive layers is that one directly calculates $\frac{\delta L_n}{\delta \theta_n}$  while the other one continuous the gradient calculation to calculate $\frac{\delta L_{n- 1}}{\delta \theta_{n- 1}}$. 
 Thus, we can 'pass the gradient back' in one iteration and then use the appropriate values at each step to calculate the different weight gradients in just one step.
-This act of once passing back the gradients is 
 
-If one uses some elementary calculus and knowledge of linear algebra, they can see that the gra
-## Optimizers
-## Regularization and Hyperparameter-Tuning
+This act of once passing back the gradients back similarly to passing the input values forward is called **backwards propagation**. 
+
+If one uses some elementary calculus and knowledge of linear algebra, they can see that the gradient w.r.t. the layer $n$ (**not** the next layers weights) can be calculated by the gradient w.r.t. the layer $n + 1$ by the series:
+$\nabla L_{n} = \nabla L_{n + 1}$ 
+## Optimizers:
+
+
+## Regularization and Hyperparameter-Tuning:
