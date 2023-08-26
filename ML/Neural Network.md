@@ -11,8 +11,14 @@ In forward propagation, the output can be produced from the input in the followi
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
 where $L_0$ is the input layer and $L_o$ the output layer, with $o - 1$ hidden layers in between.
 Here, $f_{n+1}$ is the non-linear activation function of the $n + 1$-Layer and $\theta_{n + 1}$ the matrix for the linear mapping between the two vector spaces of the vectors representing the layer values. 
-(This means that, if we want to )
+(This means that, if we want to map between a layer of $l$ and a layer of $g$ neurons, we need a $\theta \in R^{l \times g}$ .)
 
+Here, we assume the input to be a matrix of datapoints of size $m \times n$  with $m$ datapoints each consisting of $n$ features. Thus, each layer is an $m \times g$ matrix, where $g$ is the number of neurons in that layer.
+
+Additionally, it is to note that, usually, an additional bias term is usually used instead of a usual [[Lineare Abbildungen|Linear Mapping]]. This can be implemented by adding a column of $1$'s to each neuron layer and adjusting the size of  
+
+After reaching $L_o$, the loss function $L_o, 
 ## Backwards-Propagation
+In backpropagtion
 
 ## Regularization and Hyperparameter-Tuning
