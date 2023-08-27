@@ -97,14 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Untervektorräume.md",
+                "file": "LinA/Faserung eines Vektorraumes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Rang einer Matrix.md",
+                "file": "LinA/Faserung eines Vektorraumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Rang einer Matrix.md",
+                "file": "LinA/Faserung eines Vektorraumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Rang einer Matrix.md"
+                "file": "LinA/Faserung eines Vektorraumes.md"
               }
             }
           }
@@ -231,13 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f33c4a30cd5509b",
+  "active": "53f3ce73e3c32f0a",
   "lastOpenFiles": [
+    "LinA/Untervektorräume.md",
+    "LinA/Faserung eines Vektorraumes.md",
+    "LinA/Bild einer linearen Abbildung.md",
     "LinA/Rang einer linearen Abbildung.md",
     "LinA/Rang einer Matrix.md",
     "LinA/Lineare Abbildungen.md",
-    "LinA/Bild einer linearen Abbildung.md",
-    "LinA/Untervektorräume.md",
     "Current Life.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Symmetrie und Schiefsymmetrie.md",
@@ -259,7 +260,6 @@
     "ML/Feature Bagging.md",
     "ML/Gaussian Processes.md",
     "PNG-Bild.png",
-    "ML/Actor-critic methods.md",
     "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
     "School",
