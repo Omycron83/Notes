@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "8998e4abc7fc797f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "775fd7910a6bff19",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -170,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Matrizen.md"
+                "file": "LinA/Untitled.md"
               }
             }
           }
@@ -231,8 +243,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c6f6aa6cbceeb285",
+  "active": "8998e4abc7fc797f",
   "lastOpenFiles": [
+    "LinA/Körper.md",
+    "LinA/Untitled.md",
+    "LinA/Matrizen.md",
     "ML/DDQN - Architecture.md",
     "ML/Policy Gradient Methods.md",
     "LinA/Lineare Abbildungen.md",
@@ -256,9 +271,6 @@
     "ML/Bootstrap Methods.md",
     "ML/Datapoint Bagging.md",
     "ML/Decision Trees.md",
-    "ML/Ensemble Learning.md",
-    "ML/Entropy.md",
-    "ML/Feature Bagging.md",
     "PNG-Bild.png",
     "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
