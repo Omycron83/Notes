@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "LinA/Lineare Gleichungssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "LinA/Lineare Gleichungssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Transformers.md"
+                "file": "LinA/Lineare Gleichungssysteme.md"
               }
             }
           }
@@ -207,8 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f19ba26c33aed9e",
+  "active": "c6f6aa6cbceeb285",
   "lastOpenFiles": [
+    "ML/DDQN - Architecture.md",
+    "ML/Policy Gradient Methods.md",
+    "ML/Transformers.md",
     "LinA/Faser einer linearen Abbildung.md",
     "LinA/Faserung eines Vektorraumes.md",
     "LinA/Lineare Gleichungssysteme.md",
@@ -216,9 +219,6 @@
     "LinA/Ringe.md",
     "LinA/Matrizen.md",
     "LinA/Körper.md",
-    "ML/DDQN - Architecture.md",
-    "ML/Policy Gradient Methods.md",
-    "ML/Transformers.md",
     "ML/Neural Network.md",
     "LinA/Rang einer Matrix.md",
     "LinA/Rang einer linearen Abbildung.md",
