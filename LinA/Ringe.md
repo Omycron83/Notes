@@ -8,3 +8,4 @@ Man nennt einen Ring **'mit Eins'**, wenn es ein $1 \in R$ mit $1 \cdot a = a \c
 Es gilt $0 \cdot a = a \cdot 0 = 0$, da $a \cdot 0 = a \cdot (0 + 0) = a \cdot 0 + a \cdot 0$.
 Ein Ring heißt **nullteilerfrei**, wenn gilt: $a \cdot b = 0 \implies a = 0 \lor b = 0 \forall a,b \in R$.
 
+# Eigenschaften
