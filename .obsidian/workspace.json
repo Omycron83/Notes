@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Rang einer linearen Abbildung.md",
+                "file": "LinA/Faserung eines Vektorraumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Rang einer linearen Abbildung.md",
+                "file": "LinA/Faserung eines Vektorraumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Rang einer linearen Abbildung.md"
+                "file": "LinA/Faserung eines Vektorraumes.md"
               }
             }
           }
@@ -231,10 +231,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc19a60db9609ee2",
+  "active": "53f3ce73e3c32f0a",
   "lastOpenFiles": [
-    "LinA/Faserung eines Vektorraumes.md",
     "LinA/Rang einer linearen Abbildung.md",
+    "LinA/Faserung eines Vektorraumes.md",
     "ML/DDQN - Architecture.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Rang einer Matrix.md",
