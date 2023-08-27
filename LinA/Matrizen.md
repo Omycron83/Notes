@@ -88,7 +88,12 @@ Beweis:
 	2. Sei ebenfalls klar, wenn man sich die individuellen Spalten / Zeilen anschaut.
 	3. Sei klar, das Vertauschen ist selbstinvers.
 ### Matrizenmultiplikation:
-Sei $A \in K^{m 
+Sei $A \in K^{m \times n}$ und $B \in K^{n \times r}$. Dann ist die Matrizenmultiplikation $K^{m \times n} \times K^{n \times r} \rightarrow K^{m \times r}$ definiert als $A \cdot B \rightarrow C$ mit $c_{i, j} = \sum_{l = 1}^n a_{i, l} \cdot b_{l, j}$.  
+
+### Matrizenmultiplikation ist Assoziativ:
+Die Matrizenmultiplikation ist Assoziativ, d.h. $A \cdot (B \cdot C) = (A \cdot B) \cdot C$.
+Beweis:
+	
 
 ### Inverse Matrizen:
 
@@ -105,6 +110,4 @@ Beweis:
 Eine $1 \times n$ Matrix wäre dann also eine 'Zeilenvektor' (den man normal als $n$-Tupel schreiben kann) und eine $m \times 1$ Matrix ein 'Spaltenvektor'. 
 ## Matrizen als Ring:
 
-
-
- 
+## Matrizen stellen lineare Abbildungen dar:
