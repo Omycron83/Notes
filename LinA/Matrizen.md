@@ -91,10 +91,10 @@ Beweis:
 Sei $A \in K^{m \times n}$ und $B \in K^{n \times r}$. Dann ist die Matrizenmultiplikation $K^{m \times n} \times K^{n \times r} \rightarrow K^{m \times r}$ definiert als $A \cdot B \rightarrow C$ mit $c_{i, j} = \sum_{l = 1}^n a_{i, l} \cdot b_{l, j}$.  
 
 ### Matrizenmultiplikation ist Assoziativ:
-Die Matrizenmultiplikation ist Assoziativ, d.h. $A \cdot (B \cdot C) = (A \cdot B) \cdot C$.
+Die Matrizenmultiplikation ist Assoziativ, d.h. $A \cdot (B \cdot C) = (A \cdot B) \cdot C = D$.
 Beweis:
 	Mache man sich zunächst die Dimensionalität klar: wenn $A \in K^{m \times n}$, $B \in K^{n \times r}$ und $C \in K^{r \times g}$ dann ist $B \cdot C \in K^{n \times g}$ und $A \cdot B \in K^{m \times r}$, wodurch die Dimensionen stimmen.
-	Zeige man nun, dass $\sum_{l = 1}^n a_{i, l} \cdot (\sum_{g = 1}^r b_{l, g} \cdot c_{g, j} )_{l, j} = \sum_{g = 1}^r (\sum_{l = 1}^n a_{i, l} \cdot b_{l, j})_{} \cdot c_{}$    
+	Zeige man nun, dass $d_{i, j} = \sum_{l = 1}^n a_{i, l} \cdot (\sum_{g = 1}^r b_{l, g} \cdot c_{g, j} )_{l, j} = \sum_{g = 1}^r (\sum_{l = 1}^n a_{i, l} \cdot b_{l, j})_{i,r} \cdot c_{r,j}$    
 
 ### Inverse Matrizen:
 
