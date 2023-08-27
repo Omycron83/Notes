@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "57d1e559894b96dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "53f3ce73e3c32f0a",
             "type": "leaf",
             "state": {
@@ -158,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Life.md",
+                "file": "LinA/Untervektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Life.md",
+                "file": "LinA/Untervektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Life.md"
+                "file": "LinA/Untervektorräume.md"
               }
             }
           }
@@ -219,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57d1e559894b96dc",
+  "active": "53f3ce73e3c32f0a",
   "lastOpenFiles": [
-    "ML/Gradient Boosted Trees.md",
     "LinA/Rang einer linearen Abbildung.md",
+    "Current Life.md",
+    "ML/Gradient Boosted Trees.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Untervektorräume.md",
     "LinA/Symmetrie und Schiefsymmetrie.md",
@@ -247,7 +236,6 @@
     "PNG-Bild.png",
     "ML/Actor-critic methods.md",
     "ML/Almost Surely.md",
-    "conflict-files-obsidian-git.md",
     "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
     "School",
