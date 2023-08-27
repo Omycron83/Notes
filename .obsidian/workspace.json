@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Lineare Gleichungssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Lineare Gleichungssysteme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Lineare Gleichungssysteme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Matrizen.md"
+                "file": "LinA/Lineare Gleichungssysteme.md"
               }
             }
           }
@@ -245,8 +245,9 @@
   },
   "active": "c6f6aa6cbceeb285",
   "lastOpenFiles": [
-    "LinA/Ringe.md",
     "LinA/Matrizen.md",
+    "LinA/Lineare Gleichungssysteme.md",
+    "LinA/Ringe.md",
     "LinA/Faserung eines Vektorraumes.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Körper.md",
@@ -270,7 +271,6 @@
     "ML/Bayesian Statistics.md",
     "ML/Bootstrap Methods.md",
     "ML/Datapoint Bagging.md",
-    "ML/Decision Trees.md",
     "PNG-Bild.png",
     "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
