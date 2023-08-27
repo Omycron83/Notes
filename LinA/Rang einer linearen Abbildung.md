@@ -1,1 +1,1 @@
-Der Rang einer [[Lineare Abbildungen|linearen Abbildung]] ist definiert als $rang \; F := rg \; F := dim(im \; F)$, also als [[Dimension]] des [[Bild einer linearen Abbildung|Bildes der linearen Abbildung]].
+Der Rang einer [[Lineare Abbildungen|linearen Abbildung]] ist definiert als $rang \; F := rg \; F := dim(im \; F)$, also als [[Dimension]] des [[Bild einer linearen Abbildung|Bildes der linearen Abbildung]], welches selbst ein [[Untervektorräume|Untervektorraum]] [[Lineare Abbildungen#^235c98|ist]]

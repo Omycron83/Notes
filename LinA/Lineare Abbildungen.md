@@ -59,7 +59,7 @@ Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
 ### Bild, Faser, Kern:
 Sei $F$ eine lineare Abbildung. Dann gilt:
 - $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
-	Beweis: Untervektorraumaxiome abklappern:
+	Beweis: Untervektorraumaxiome abklappern: ^235c98
 	1. $F(o) = o \in im \; F$
 	2. $F(v), F(w) \in im \; F \implies F(v) + F(w) = F(v + w) \in im \; F$ nach linearer Abbildungsdefinition
 	3. $\lambda F(v) \in im \; F \implies \lambda F(v) = F(\lambda v) \in im \; F$ nach linearer Abbildungsdefinition

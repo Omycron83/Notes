@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "f597a9f7006e00dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Bild einer linearen Abbildung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53f3ce73e3c32f0a",
             "type": "leaf",
             "state": {
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Untervektorräume.md",
+                "file": "LinA/Rang einer linearen Abbildung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Untervektorräume.md",
+                "file": "LinA/Rang einer linearen Abbildung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Untervektorräume.md"
+                "file": "LinA/Rang einer linearen Abbildung.md"
               }
             }
           }
@@ -207,19 +219,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53f3ce73e3c32f0a",
+  "active": "3f33c4a30cd5509b",
   "lastOpenFiles": [
+    "LinA/Bild einer linearen Abbildung.md",
     "LinA/Rang einer linearen Abbildung.md",
-    "Current Life.md",
-    "ML/Gradient Boosted Trees.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Untervektorräume.md",
+    "Current Life.md",
+    "ML/Gradient Boosted Trees.md",
     "LinA/Symmetrie und Schiefsymmetrie.md",
     "ML/DDQN - Architecture.md",
     "ML/Neural Network.md",
     "LinA/Faser einer linearen Abbildung.md",
     "LinA/Kern einer linearen Abbildung.md",
-    "LinA/Bild einer linearen Abbildung.md",
     "ML/Policy Gradient Methods.md",
     "Untitled.md",
     "ML/Early Stopping.md",
