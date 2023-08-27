@@ -94,7 +94,7 @@ Sei $A \in K^{m \times n}$ und $B \in K^{n \times r}$. Dann ist die Matrizenmult
 Die Matrizenmultiplikation ist Assoziativ, d.h. $A \cdot (B \cdot C) = (A \cdot B) \cdot C$.
 Beweis:
 	Mache man sich zunächst die Dimensionalität klar: wenn $A \in K^{m \times n}$, $B \in K^{n \times r}$ und $C \in K^{r \times g}$ dann ist $B \cdot C \in K^{n \times g}$ und $A \cdot B \in K^{m \times r}$, wodurch die Dimensionen stimmen.
-	Zeige man nun, dass $\sum_{l = 1}^n a_{i, l} \cdot (\sum_{g = 1}^r b_{} )_{l, j}$  
+	Zeige man nun, dass $\sum_{l = 1}^n a_{i, l} \cdot (\sum_{g = 1}^r b_{} \cdot c )_{l, j}$  
 
 ### Inverse Matrizen:
 
