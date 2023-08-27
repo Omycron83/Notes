@@ -86,10 +86,13 @@ Es gilt dabei:
 Beweis:
 	1. Erkennt man leicht.
 	2. Sei ebenfalls klar, wenn man sich die individuellen Spalten / Zeilen anschaut.
-	3. Sei klar, das Vertauschen ist invers.
+	3. Sei klar, das Vertauschen ist selbstinvers.
 ### Matrizenmultiplikation:
+Sei $A \in K^{m 
 
 ### Inverse Matrizen:
+
+
 ## Matrizen als Vektorraum:
 
 ^2d573a
