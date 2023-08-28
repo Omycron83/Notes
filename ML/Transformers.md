@@ -12,7 +12,7 @@ Then, this positional encoding is fed into an **encoder layer** that maps a sequ
 Here, in the multi-headed attention submodule, self-attention is used, where the model learns to associate between the positional encodings. This is done by feeding them into three 
 
 # Input Embedding:
-Input embedding refers to the 
+Input embedding refers to the practice of embedding 
 
 # Attention Mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
