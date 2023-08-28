@@ -12,4 +12,4 @@ A stochastic process fulfilling the Markov property is also called a Markov proc
 
 
 # (First Order) Markov Chains:
-A first order Markov chain refers to a markov process having either a discrete (or counta) state space or discrete index set (or both), i.e. it either has a discrete space of possible states or a discrete set of points in time.
+A first order Markov chain refers to a markov process having either a discrete (or countable) state space or discrete index set (or both), i.e. it either has a discrete space of possible states or a discrete set of points in time.
