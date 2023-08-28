@@ -4,7 +4,7 @@ Das Manifestieren eines solchen Wertes nennt man **Ereigniss**, und die Menge de
 
 Die Teilmengen von $\Omega$ nennt man **Ergebnisse**, wobei es offensichtlich $2^{|\Omega|}$ Ergebnisse gibt.
 
-Dabei kann die Wahrscheinlichkeit eines jeden Ereignisses 
+Dabei kann die Wahrscheinlichkeit eines jeden Ereignisses frequentistisch betrachtet werden als das Verhältnis $lim_{n \rightarrow \infty} \frac{}{}$
 
 
 
