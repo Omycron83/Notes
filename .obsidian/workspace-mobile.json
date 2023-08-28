@@ -66,18 +66,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8ac46851a633b2de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Stochastic Process.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 4
@@ -194,9 +182,9 @@
   },
   "active": "de2eaa8464a7ee57",
   "lastOpenFiles": [
-    "ML/Filtration.md",
-    "ML/Markov Chains.md",
     "ML/Stochastic Process.md",
+    "ML/Markov Chains.md",
+    "ML/Filtration.md",
     "ML/Probability Spaces.md",
     "ML/Transformers.md",
     "LinA/Matrizen.md",
