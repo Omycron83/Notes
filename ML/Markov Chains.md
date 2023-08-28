@@ -12,4 +12,4 @@ A stochastic process fulfilling the Markov property is also called a Markov proc
 
 
 # (First Order) Markov Chains:
-A first order Markov chain refers to a markov process
+A first order Markov chain refers to a markov process 
