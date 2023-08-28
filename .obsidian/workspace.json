@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92b12068c7a71958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Univariate Probability Distributions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+                "file": "ML/Univariate Probability Distributions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+                "file": "ML/Univariate Probability Distributions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md"
+                "file": "ML/Univariate Probability Distributions.md"
               }
             }
           }
@@ -243,10 +255,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dad2ececb4b1830e",
+  "active": "92b12068c7a71958",
   "lastOpenFiles": [
-    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
+    "ML/Unconditional Distributions.md",
     "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
     "Mathe-LK/Kombination.md",
     "Mathe-LK/Zufällige Variablen.md",
     "Mathe-LK/Satz von Bayes.md",
@@ -279,7 +292,6 @@
     "LinA/Lineare Abbildungen.md",
     "LinA/Ringe.md",
     "LinA/Matrizen.md",
-    "LinA/Körper.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",

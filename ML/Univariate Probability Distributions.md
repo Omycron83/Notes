@@ -11,3 +11,5 @@ It is obvious that $P$ needs to be monotonically increasing and have an infimum 
 
 We define the **probability density function** as the derivative of the **cdf**: $p(x) = \frac{d}{dx}P(x)$ .
 Now, we can compute the same probability by $\int^b_a  p(x)dx = P(b) - P(a)$. ^8517ec
+
+The **inverse cdf** function, also called the quantile function $P^{-1}(q), q \in [0; 1]$ produces the random va
