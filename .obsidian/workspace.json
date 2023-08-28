@@ -66,6 +66,30 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f4c959d5a9d9f974",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Satz von Bayes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c09063a6c363472a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Permutation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -197,11 +221,13 @@
   },
   "active": "0f19ba26c33aed9e",
   "lastOpenFiles": [
-    "Mathe-LK/Permutation.md",
+    "Mathe-LK/Satz von Bayes.md",
+    "ML/Bayes Theorem.md",
     "Mathe-LK/Kombination.md",
+    "Mathe-LK/Permutation.md",
     "Mathe-LK/Variation.md",
-    "ML/Transformers.md",
     "LinA/Faserung eines Vektorraumes.md",
+    "ML/Transformers.md",
     "Current Life.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
@@ -230,8 +256,6 @@
     "ML/Neural Network.md",
     "LinA/Rang einer Matrix.md",
     "LinA/Rang einer linearen Abbildung.md",
-    "LinA/Untervektorräume.md",
-    "LinA/Bild einer linearen Abbildung.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",

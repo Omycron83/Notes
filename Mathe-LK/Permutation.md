@@ -1,4 +1,4 @@
-Eine Permutation ist eine **geordnete** Anordnung von Objekten.
+Eine Permutation ist eine **geordnete** Anordnung **aller Objekte** einer Menge , mit oder ohne Wiederholung.
 
 ## Ohne Wiederholung:
 Die Anzahl der möglichen Permutationen von $n$ Objekten ist offensichtlich $P_n = n!$ .
