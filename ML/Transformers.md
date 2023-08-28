@@ -16,7 +16,7 @@ Input embedding refers to the practice of converting an arbitrary input into a r
 ## One-hot-encoding
 One-hot-encoding refers to the practice of creating a vector with one entry equal to one and all other entries equal to zero. The name stems from electrical engineering, where one … is ‘hot’ and the others ’cold’. 
 Each entry then refers to one specific input, i.e. if there are 100 registered words, each word can be represented by a $100$-tuple or vector which is one-hot at the specific word location inside of that vector. 
-When working with multiple inputs in a sequence, which transformers are optimized for, one can then simply convert mutliple vectors into a matrix by ‘stacking them’, i.e. using them as its column vectors
+When working with multiple inputs in a sequence, which transformers are optimized for, one can then simply convert mutliple vectors into a matrix by ‘stacking them’, i.e. using them as its column vectors. 
 
 
 # Attention Mechanisms:
