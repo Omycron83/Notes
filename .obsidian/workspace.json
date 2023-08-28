@@ -116,12 +116,12 @@
             }
           },
           {
-            "id": "92b12068c7a71958",
+            "id": "71432390e2707c34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Univariate Probability Distributions.md",
+                "file": "ML/Bayes Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Univariate Probability Distributions.md",
+                "file": "ML/Bayes Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Univariate Probability Distributions.md",
+                "file": "ML/Bayes Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Univariate Probability Distributions.md"
+                "file": "ML/Bayes Theorem.md"
               }
             }
           }
@@ -255,17 +255,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "92b12068c7a71958",
+  "active": "71432390e2707c34",
   "lastOpenFiles": [
-    "ML/Unconditional Distributions.md",
-    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
-    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
-    "Mathe-LK/Kombination.md",
-    "Mathe-LK/Zufällige Variablen.md",
     "Mathe-LK/Satz von Bayes.md",
-    "LinA/Faserung eines Vektorraumes.md",
-    "Mathe-LK/Variation.md",
+    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+    "ML/Univariate Probability Distributions.md",
+    "Mathe-LK/Zufällige Variablen.md",
+    "Mathe-LK/Kombination.md",
     "Mathe-LK/Permutation.md",
+    "Mathe-LK/Variation.md",
+    "ML/Unconditional Distributions.md",
+    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
+    "LinA/Faserung eines Vektorraumes.md",
     "ML/Bayes Theorem.md",
     "ML/Transformers.md",
     "Current Life.md",
@@ -291,7 +292,6 @@
     "LinA/Faser einer linearen Abbildung.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Ringe.md",
-    "LinA/Matrizen.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",
