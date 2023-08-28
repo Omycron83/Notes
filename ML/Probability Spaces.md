@@ -1,1 +1,1 @@
-A probability space $(\Omega, )
+A probability space $(\Omega, F, P)$ is a mathematical object
