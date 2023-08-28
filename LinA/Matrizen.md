@@ -103,6 +103,9 @@ Beweis:
 	Zeige man nun, dass $d_{i, j} = \sum_{l = 1}^n a_{i, l} \cdot (\sum_{g = 1}^r b_{l, g} \cdot c_{g, j} )_{l, j} = \sum_{g = 1}^r (\sum_{l = 1}^n a_{i, l} \cdot b_{l, g})_{i,g} \cdot c_{g,j}$    
 
 ### Inverse Matrizen:
+
+^28e346
+
 Eine Matrix $A^{-1} \in K^{n \times n}$ gilt als eindeutiges Inverses einer anderen Matrix $A \in K^{n \times n}$, wenn $A \cdot A^{-1} = A^{-1} \cdot A = I_n$ .
 
 ## Matrizen als Vektorraum:

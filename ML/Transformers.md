@@ -10,7 +10,21 @@ In general, inputs (usually words) are initially converted into real valued vect
 To those vectors, positional information (encoded through a vector of a function taking the position as an input) is then injected by adding it to the embedding in a process called **positional encoding**.
 Then, this positional encoding is fed into an **encoder layer** that maps a sequence to an abstract continuous representation which is supposed to hold the learned information of the entire sequence. This contains a multi-headed attention mechanism as well as a regular [[Neural Network]]. There are residual connections between each of the submodules followed by a layer normalization.
 Here, in the multi-headed attention submodule, self-attention is used, where the model learns to associate between the positional encodings. This is done by feeding them into three 
-# Attention mechanisms:
+
+# Input Embedding:
+Input embedding refers to the practice of converting an arbitrary input into a real-valued vector that can then be mathematically operated on.
+
+## One-hot-encoding
+One-hot-encoding refers to the practice of creating a vector with one entry equal to one and all other entries equal to zero. The name stems from electrical engineering, where one … is ‘hot’ and the others ’cold’. 
+Each entry then refers to one specific input, i.e. if there are 100 registered words, each word can be represented by a $100$-tuple or vector which is one-hot at the specific word location inside of that vector. 
+When working with multiple inputs in a sequence, which transformers are optimized for, one can then simply convert multiple vectors into a matrix by ‘stacking them’, i.e. using them as its column vectors. 
+
+
+
+
+
+
+# Attention Mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 
 ## Self-Attention:
