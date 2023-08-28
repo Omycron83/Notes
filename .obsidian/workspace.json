@@ -37,19 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/DDQN - Architecture.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6f6aa6cbceeb285",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Gleichungssysteme.md",
+                "file": "Current Life.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Lineare Gleichungssysteme.md",
+                "file": "Current Life.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Lineare Gleichungssysteme.md",
+                "file": "Current Life.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Lineare Gleichungssysteme.md"
+                "file": "Current Life.md"
               }
             }
           }
@@ -207,24 +195,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1232ad8be5aff38b",
+  "active": "d1393504f6e9a7da",
   "lastOpenFiles": [
+    "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
+    "PNG-Bild.png",
+    "README.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "ML/DDQN - Architecture.md",
+    "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
+    "LinA/Lineare Gleichungssysteme.md",
     "Pasted image 20230828092536.png",
     "ML/Probability Spaces.md",
     "ML/Markov Chains.md",
     "ML/Filtration.md",
-    "Länderklassifikation.md",
+    "Geographie/Länderklassifikation.md",
     "Geographie/Jahresplan.md",
     "Geographie",
-    "Entwicklungslandmerkmale.md",
-    "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
-    "ML/DDQN - Architecture.md",
+    "Geographie/Entwicklungslandmerkmale.md",
     "ML/Policy Gradient Methods.md",
     "ML/Transformers.md",
     "LinA/Faser einer linearen Abbildung.md",
     "LinA/Faserung eines Vektorraumes.md",
-    "LinA/Lineare Gleichungssysteme.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Ringe.md",
     "LinA/Matrizen.md",
@@ -237,19 +231,13 @@
     "Current Life.md",
     "ML/Gradient Boosted Trees.md",
     "LinA/Symmetrie und Schiefsymmetrie.md",
-    "LinA/Kern einer linearen Abbildung.md",
-    "PNG-Bild.png",
-    "Untitled 2.canvas",
     "Pasted image 20230823005049.png",
-    "School",
+    "Mathe-LK",
     "Pasted image 20230822213943.png",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
     "Pasted image 20230822160658.png",
     "Pasted image 20230822153344.png",
-    "Pasted image 20230822153228.png",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Analysis",
     "Optimization",
     "ML/Untitled",
