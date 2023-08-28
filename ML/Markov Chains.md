@@ -7,4 +7,4 @@ A [[Stochastic Process]] is said to fulfill the Markov property, if INSERT FORMA
 In the discrete case, one can nicely reformulate this as:
 $P(X_n = x_n | X_{n-1} = x_{n-1}, …, X_0 = x_0) = P(X_n = x_n | X_{n-1} = x_{n-1})$ 
 I.e. a stochastic process fulfills the Markov property if the probability of the 
-It is to note that 
+It is to note that the state space cannot 
