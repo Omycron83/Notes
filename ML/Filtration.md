@@ -1,1 +1,1 @@
-A filtration of [[Probability Spaces|Probability Space]] $(\Omega, F, P)$ is a totally ordered collection (i.e. a collection ordered by a reflexive, transitive and antisymmetrischem [[Relationen|relation]]) of subspacesordered by some index set $I$ of 
+A filtration of [[Probability Spaces|Probability Space]] $(\Omega, F, P)$ is a totally ordered collection (i.e. a collection ordered by a reflexive, transitive and antisymmetrischem [[Relationen|relation]]) of subsets of the ordered by some index set $I$ of 
