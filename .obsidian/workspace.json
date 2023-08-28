@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Kombination.md",
+                "file": "Mathe-LK/Permutation.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Kombination.md",
+                "file": "Mathe-LK/Permutation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Kombination.md",
+                "file": "Mathe-LK/Permutation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Kombination.md"
+                "file": "Mathe-LK/Permutation.md"
               }
             }
           }
@@ -195,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1232ad8be5aff38b",
+  "active": "0f19ba26c33aed9e",
   "lastOpenFiles": [
-    "Mathe-LK/Variation.md",
     "Mathe-LK/Kombination.md",
+    "Mathe-LK/Variation.md",
     "Mathe-LK/Permutation.md",
     "ML/Transformers.md",
     "LinA/Faserung eines Vektorraumes.md",
