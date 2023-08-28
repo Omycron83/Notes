@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f1b55bd944c9f48",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Lineare Gleichungssysteme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Lineare Gleichungssysteme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "LinA/Lineare Gleichungssysteme.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -131,15 +136,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c8249b45383512a",
+  "active": "8f1b55bd944c9f48",
   "lastOpenFiles": [
+    "LinA/Lineare Gleichungssysteme.md",
     "ML/Bayes Theorem.md",
     "LinA/Rang einer Matrix.md",
     "LinA/Kern einer linearen Abbildung.md",
     "LinA/Ringe.md",
     "ML/Bayesian Hyperparameter Optimization.md",
     "LinA/Rang einer linearen Abbildung.md",
-    "LinA/Lineare Gleichungssysteme.md",
     "LinA/Faser einer linearen Abbildung.md",
     "LinA/Faserung eines Vektorraumes.md",
     "ML/Decision Trees.md",
