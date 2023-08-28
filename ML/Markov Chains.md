@@ -4,4 +4,5 @@ They are characterized by the markov properly, which is usually assumed in dynam
 # Markov Property:
 A [[Stochastic Process]] is said to fulfill the Markov property, if the pro
 
-In the discrete case, one can nicely 
+In the discrete case, one can nicely reformulate this as:
+$P(X_n = x )
