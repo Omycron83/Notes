@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Markov Chains.md",
+            "file": "ML/Probability Spaces.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Markov Chains.md",
+            "file": "ML/Probability Spaces.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Markov Chains.md"
+            "file": "ML/Probability Spaces.md"
           }
         }
       }
@@ -192,7 +192,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de2eaa8464a7ee57",
+  "active": "1aeef5b05e667011",
   "lastOpenFiles": [
     "ML/Stochastic Process.md",
     "ML/Markov Chains.md",
