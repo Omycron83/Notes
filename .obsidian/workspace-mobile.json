@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Probability Spaces.md",
+                "file": "ML/Filtration.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Probability Spaces.md",
+            "file": "ML/Filtration.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Probability Spaces.md",
+            "file": "ML/Filtration.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Probability Spaces.md"
+            "file": "ML/Filtration.md"
           }
         }
       }
@@ -194,9 +194,10 @@
   },
   "active": "1aeef5b05e667011",
   "lastOpenFiles": [
+    "ML/Probability Spaces.md",
+    "ML/Filtration.md",
     "ML/Stochastic Process.md",
     "ML/Markov Chains.md",
-    "ML/Probability Spaces.md",
     "ML/Transformers.md",
     "LinA/Matrizen.md",
     "LinA/Lineare Gleichungssysteme.md",
@@ -230,7 +231,6 @@
     "LinA/Homomorphiesatz.md",
     "LinA/Vektorraum.md",
     "LinA/Lemma von Zorn.md",
-    "LinA/Gruppenhomomorphismen.md",
     "LinA",
     "Pasted image 20230822161939.png",
     "Untitled 1.canvas",
