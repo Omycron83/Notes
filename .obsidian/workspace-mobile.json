@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "LinA/Lineare Gleichungssysteme.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Bayes Theorem.md",
+            "file": "LinA/Lineare Gleichungssysteme.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Bayes Theorem.md",
+            "file": "LinA/Lineare Gleichungssysteme.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Bayes Theorem.md"
+            "file": "LinA/Lineare Gleichungssysteme.md"
           }
         }
       }
@@ -133,6 +133,15 @@
   },
   "active": "4c8249b45383512a",
   "lastOpenFiles": [
+    "ML/Bayes Theorem.md",
+    "LinA/Rang einer Matrix.md",
+    "LinA/Kern einer linearen Abbildung.md",
+    "LinA/Ringe.md",
+    "ML/Bayesian Hyperparameter Optimization.md",
+    "LinA/Rang einer linearen Abbildung.md",
+    "LinA/Lineare Gleichungssysteme.md",
+    "LinA/Faser einer linearen Abbildung.md",
+    "LinA/Faserung eines Vektorraumes.md",
     "ML/Decision Trees.md",
     "ML/Gradient Boosted Trees.md",
     "PNG-Bild.png",
@@ -161,15 +170,6 @@
     "LinA/Ketten.md",
     "LinA/Beweisarten.md",
     "LinA/Basen haben gleiche Länge.md",
-    "LinA/Relationen.md",
-    "LinA/Abbildungen.md",
-    "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
-    "LinA/Untergruppen.md",
-    "LinA/Austauschsatz von Steinitz.md",
-    "LinA/Faktorgruppe.md",
-    "LinA/Symmetrie und Schiefsymmetrie.md",
-    "LinA/Basisaustauschlemma.md",
-    "LinA/Familien.md",
     "LinA",
     "Pasted image 20230822161939.png",
     "Untitled 1.canvas",

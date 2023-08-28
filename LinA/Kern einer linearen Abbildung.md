@@ -1,0 +1,1 @@
+Der **Kern** einer [[Lineare Abbildungen|linearen Abbildung]] $ker F = F^{-1} := \{v \in V : F(v) = o \in W\}$ ist die Menge aller Vektoren $\in V$ der [[Abbildungen|Abbildung]] $F: V \rightarrow W$ die auf den Nullvektor abgebildet werden.

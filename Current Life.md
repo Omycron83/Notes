@@ -74,6 +74,8 @@ Carbs:
 # Fitness:
 Routine: Push-Pull-Legs
 6-12 reps, 5 sets
+Programm:
+https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/
 
 
 # Current links:

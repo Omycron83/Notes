@@ -7,4 +7,4 @@ Man nennt $M$ den Urbild, $N$ den Bildbereich.
 
 Man nennt eine Abbildung injektiv, wenn $h(x) = h(z) \implies x = z$.
 Man nennt eine Abbildung surjektiv, wenn $\{h(x) \forall x \in M\} = N$ 
-Man nennt eine Abbildung bijektiv, wenn sie surjektiv und injektiv ist.
+Man nennt eine Abbildung bijektiv, wenn sie surjektiv und injektiv ist. ^4b4823
