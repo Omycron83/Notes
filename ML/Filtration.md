@@ -1,1 +1,1 @@
-A filtration of [[Probability Spaces|Probability Space]] $(\Omega, F, P)$ i
+A filtration of [[Probability Spaces|Probability Space]] $(\Omega, F, P)$ is a totally ordered collection (i.e. a collection ordered by a reflexive, transitive and antisymmetrischem [[Relationen|relation]]) 
