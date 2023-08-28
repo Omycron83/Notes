@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Satz von Bayes.md",
+                "file": "ML/Bayes Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec9fcabb72cf9431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Kombination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Variation.md",
+                "file": "Mathe-LK/Kombination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Variation.md",
+                "file": "Mathe-LK/Kombination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Variation.md"
+                "file": "Mathe-LK/Kombination.md"
               }
             }
           }
@@ -219,13 +231,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0f19ba26c33aed9e",
+  "active": "ec9fcabb72cf9431",
   "lastOpenFiles": [
-    "Mathe-LK/Satz von Bayes.md",
-    "ML/Bayes Theorem.md",
-    "Mathe-LK/Kombination.md",
     "Mathe-LK/Permutation.md",
     "Mathe-LK/Variation.md",
+    "ML/Bayes Theorem.md",
+    "Mathe-LK/Satz von Bayes.md",
+    "Mathe-LK/Kombination.md",
     "LinA/Faserung eines Vektorraumes.md",
     "ML/Transformers.md",
     "Current Life.md",
