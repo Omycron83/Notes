@@ -109,14 +109,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Zufällige Variablen.md",
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Zufällige Variablen.md",
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Zufällige Variablen.md"
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md"
               }
             }
           }
@@ -243,12 +243,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6c410b4c00d532f",
+  "active": "dad2ececb4b1830e",
   "lastOpenFiles": [
     "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
-    "Mathe-LK/Satz von Bayes.md",
-    "Mathe-LK/Zufällige Variablen.md",
+    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
     "Mathe-LK/Kombination.md",
+    "Mathe-LK/Zufällige Variablen.md",
+    "Mathe-LK/Satz von Bayes.md",
     "LinA/Faserung eines Vektorraumes.md",
     "Mathe-LK/Variation.md",
     "Mathe-LK/Permutation.md",
@@ -279,7 +280,6 @@
     "LinA/Ringe.md",
     "LinA/Matrizen.md",
     "LinA/Körper.md",
-    "ML/Neural Network.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",
