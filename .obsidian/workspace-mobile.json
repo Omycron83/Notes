@@ -194,9 +194,9 @@
   },
   "active": "de2eaa8464a7ee57",
   "lastOpenFiles": [
-    "ML/Stochastic Process.md",
-    "ML/Markov Chains.md",
     "ML/Filtration.md",
+    "ML/Markov Chains.md",
+    "ML/Stochastic Process.md",
     "ML/Probability Spaces.md",
     "ML/Transformers.md",
     "LinA/Matrizen.md",
