@@ -2,7 +2,9 @@ Markov chains are a type of stochastic model describing a sequence where the nex
 They are characterized by the markov properly, which is usually assumed in dynamic programming and reinforcement learning.
 
 # Markov Property:
-A [[Stochastic Process]] is said to fulfill the Markov property, if the pro
+A [[Stochastic Process]] is said to fulfill the Markov property, if INSERT FORMAL DEFINITION
 
 In the discrete case, one can nicely reformulate this as:
-$P(X_n = x_n | X_{n-1} = x_{n-1}, …, X_0 = x_0) = P(X_n = x_n | )
+$P(X_n = x_n | X_{n-1} = x_{n-1}, …, X_0 = x_0) = P(X_n = x_n | X_{n-1} = x_{n-1})$ 
+I.e. a stochastic process fulfills the Markov property if the probability of the 
+It is to note that 
