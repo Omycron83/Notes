@@ -3,4 +3,16 @@
 
 Kosmos Welt-Almanach & Atlas 2023 bestellen
 
-Themen:
+Themen: Entwicklungsländer im Wandel
+- Länderclassifikation
+- Naturraumanalysen
+- Peer-Teaching
+- Mysteries
+- Pressure-Realease-Modell
+- Syndromkonzept
+- Eine SwWOT-Analyse
+- ein Planspiel
+
+Nächsten zwei Wochen:
+
+
