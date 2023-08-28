@@ -1,1 +1,0 @@
-Siehe [[Bayes Theorem]].

@@ -7,6 +7,6 @@ $P(A | B) = \frac{P(B | A) \cdot P(A)}{P(B)}$
 
 Proof:
 	We know that $P(A \land B) = P(A | B) \cdot P(B) = P(B | A) \cdot P(A)$. 
-	$\Leftrightarrow_{P(B) \neq 0} P(A | B)
+	$\Leftrightarrow_{P(B) \neq 0} P(A | B) = \frac{P(B | A) \cdot P(A)}{P(B)}$ 
 
 # Multivariate Bayes:

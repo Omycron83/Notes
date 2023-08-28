@@ -97,19 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Zufällige Variablen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dad2ececb4b1830e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+                "file": "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -194,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Bayes Theorem.md"
+                "file": "Mathe-LK/Satz von Bayes und Bedingte Variablen.md"
               }
             }
           }
@@ -255,19 +243,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71432390e2707c34",
+  "active": "b6c410b4c00d532f",
   "lastOpenFiles": [
-    "Mathe-LK/Satz von Bayes.md",
-    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
-    "ML/Univariate Probability Distributions.md",
-    "Mathe-LK/Zufällige Variablen.md",
     "Mathe-LK/Kombination.md",
+    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Mathe-LK/Permutation.md",
     "Mathe-LK/Variation.md",
+    "LinA/Faserung eines Vektorraumes.md",
+    "Mathe-LK/Zufällige Variablen.md",
+    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+    "ML/Bayes Theorem.md",
+    "ML/Univariate Probability Distributions.md",
     "ML/Unconditional Distributions.md",
     "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
-    "LinA/Faserung eines Vektorraumes.md",
-    "ML/Bayes Theorem.md",
     "ML/Transformers.md",
     "Current Life.md",
     "Pasted image 20230811163540.png",
