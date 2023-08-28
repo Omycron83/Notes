@@ -1,1 +1,1 @@
-A probability space $()
+A probability space $(\Omega, )
