@@ -20,6 +20,7 @@ Example:
 ![[Pasted image 20230828092536.png]]
 
 # Matrix Description:
-A Markov process can be described using a transition matrix similar to a usual matrix representation in a graph. This is done by having each row represent some state, with each corresponding column entry representing the probability of reaching the state represented by that column. For the above example:
-
+A Markov process can be described using a transition matrix similar to a usual matrix representation in a graph. This is done by having each row represent some state, with each corresponding column entry representing the probability of reaching the state represented by that column. 
+For the above example:
+![[Pasted image 20230828092620.png]]
 

@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "236326399ad4d890",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Markov Chains.md",
+            "file": "ML/Transformers.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +159,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Markov Chains.md",
+            "file": "ML/Transformers.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +171,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Markov Chains.md"
+            "file": "ML/Transformers.md"
           }
         }
       }
@@ -180,13 +188,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de2eaa8464a7ee57",
+  "active": "286ca2b807ee0b96",
   "lastOpenFiles": [
+    "ML/Filtration.md",
+    "ML/Markov Chains.md",
+    "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
     "ML/Stochastic Process.md",
-    "ML/Markov Chains.md",
-    "ML/Filtration.md",
     "ML/Probability Spaces.md",
     "ML/Transformers.md",
     "LinA/Matrizen.md",
@@ -209,10 +218,8 @@
     "Pasted image 20230810202617.png",
     "Pasted image 20230811163540.png",
     "Pasted image 20230812044531.png",
-    "Pasted image 20230813163919.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
-    "Pasted image 20230822153344.png",
     "LinA/Lineare Abbildungen.md",
     "LinA/Bild einer linearen Abbildung.md",
     "LinA/Halbordnungen.md",

@@ -19,6 +19,8 @@ Each entry then refers to one specific input, i.e. if there are 100 registered w
 When working with multiple inputs in a sequence, which transformers are optimized for, one can then simply convert mutliple vectors into a matrix by ‘stacking them’, i.e. using them as its column vectors. 
 
 
+
+
 # Attention Mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 
