@@ -5,4 +5,4 @@ They are characterized by the markov properly, which is usually assumed in dynam
 A [[Stochastic Process]] is said to fulfill the Markov property, if the pro
 
 In the discrete case, one can nicely reformulate this as:
-$P(X_n = x_n | )
+$P(X_n = x_n | X_{n-1} = x_{n-1}, …, X_0 = x_0) = P(X_n = x_n | )
