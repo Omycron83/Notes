@@ -16,6 +16,8 @@ Input embedding refers to the practice of converting an arbitrary input into a r
 ## One-hot-encoding
 One-hot-encoding refers to the practice of creating a vector with one entry equal to one and all other entries equal to zero. The name stems from electrical engineering, where one … is ‘hot’ and the others ’cold’.
 
+
+
 # Attention Mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 
