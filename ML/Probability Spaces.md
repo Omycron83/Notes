@@ -1,1 +1,1 @@
-A probability space $(\Omega, F, P)$ is a mathematical object
+A probability space $(\Omega, F, P)$ is a mathematical object describing a random process.
