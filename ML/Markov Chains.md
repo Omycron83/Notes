@@ -11,3 +11,4 @@ It is to note that the state space must be constant for all $i \in I$ of the ind
 
 
 # (First Order) Markov Chains:
+A first order Markov chain refers to a 
