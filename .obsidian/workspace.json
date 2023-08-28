@@ -68,18 +68,6 @@
             }
           },
           {
-            "id": "f4c959d5a9d9f974",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/Bayes Theorem.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c09063a6c363472a",
             "type": "leaf",
             "state": {
@@ -98,6 +86,18 @@
               "type": "markdown",
               "state": {
                 "file": "Mathe-LK/Kombination.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b6c410b4c00d532f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Bayes Theorem.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Kombination.md",
+                "file": "ML/Bayes Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Kombination.md",
+                "file": "ML/Bayes Theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Kombination.md"
+                "file": "ML/Bayes Theorem.md"
               }
             }
           }
@@ -231,13 +231,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec9fcabb72cf9431",
+  "active": "b6c410b4c00d532f",
   "lastOpenFiles": [
-    "Mathe-LK/Permutation.md",
     "Mathe-LK/Variation.md",
-    "ML/Bayes Theorem.md",
-    "Mathe-LK/Satz von Bayes.md",
     "Mathe-LK/Kombination.md",
+    "Mathe-LK/Permutation.md",
+    "Mathe-LK/Satz von Bayes.md",
+    "Mathe-LK/Zufällige Variablen.md",
+    "ML/Bayes Theorem.md",
     "LinA/Faserung eines Vektorraumes.md",
     "ML/Transformers.md",
     "Current Life.md",
@@ -267,7 +268,6 @@
     "LinA/Körper.md",
     "ML/Neural Network.md",
     "LinA/Rang einer Matrix.md",
-    "LinA/Rang einer linearen Abbildung.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",
