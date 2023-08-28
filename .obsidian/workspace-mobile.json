@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +146,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Filtration.md",
+            "file": "ML/Markov Chains.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Filtration.md",
+            "file": "ML/Markov Chains.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +175,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Filtration.md"
+            "file": "ML/Markov Chains.md"
           }
         }
       }
@@ -192,10 +192,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1aeef5b05e667011",
+  "active": "de2eaa8464a7ee57",
   "lastOpenFiles": [
-    "ML/Probability Spaces.md",
     "ML/Filtration.md",
+    "ML/Probability Spaces.md",
     "ML/Stochastic Process.md",
     "ML/Markov Chains.md",
     "ML/Transformers.md",

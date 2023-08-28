@@ -2,4 +2,4 @@ Markov chains are a type of stochastic model describing a sequence where the nex
 They are characterized by the markov properly, which is usually assumed in dynamic programming and reinforcement learning.
 
 # Markov Property:
-
+S
