@@ -3,7 +3,7 @@ If the likelihood is equal to the evidence, i.e. the posterior distribution is e
 # Single-variate Bayes:
 Given the prior probability $P(A)$ as well as the likelihood $P(B | A)$ and the marginal probability $P(B)$, one can compute the posterior probability $P(A | B)$ by
 $P(A | B) = \frac{P(B | A) \cdot P(A)}{P(B)}$
-
+	
 
 Proof:
 	We know that $P(A \land B) = P(A | B) \cdot P(B) = P(B | A) \cdot P(A)$. 
