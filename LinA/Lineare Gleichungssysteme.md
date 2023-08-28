@@ -6,5 +6,6 @@ Dies ist Fall, da sich die Punkte als Elemente des Urbildes der [[Abbildungen|Ab
 Ein lineares Gleichungssystem kann sich einfach mithilfe von [[Matrizen]] darstellen. Sei dabei $(x_1, ..., x_n)^T$ der Variablen-Spaltenvektor und $\begin{pmatrix} a_{1, 1} & ... & a_{1, n} \\ ...&...&... \\ a_{m, 1} & ... & a_{n, m} \end{pmatrix}$ eine Matrix der Koeffizienten.
 Dann lässt sich der Spaltenvektor der Konstanten $(c_1, ..., c_m)^T$ darstellen lassen als:
 $\begin{pmatrix} a_{1, 1} & ... & a_{1, n} \\ ...&...&... \\ a_{m, 1} & ... & a_{n, m} \end{pmatrix} \cdot (x_1, ..., x_n)^T = (c_1, …, c_n)^T$.
-Den Variablen-Vektor kann man dann bestimmen, indem man linksseitig mit der [[]]
+Den Variablen-Vektor kann man dann bestimmen, indem man linksseitig mit der [[Matrizen#^28e346|Inversen]] der Koeffizientenmatrix multipliziert:
+$
 
