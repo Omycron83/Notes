@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Markov Chains.md",
+                "file": "ML/Probability Spaces.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ML/Markov Chains.md",
+            "file": "ML/Probability Spaces.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ML/Markov Chains.md",
+            "file": "ML/Probability Spaces.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -151,7 +151,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ML/Markov Chains.md"
+            "file": "ML/Probability Spaces.md"
           }
         }
       }
@@ -171,6 +171,7 @@
   "active": "1aeef5b05e667011",
   "lastOpenFiles": [
     "ML/Markov Chains.md",
+    "ML/Probability Spaces.md",
     "ML/Transformers.md",
     "LinA/Matrizen.md",
     "LinA/Lineare Gleichungssysteme.md",
@@ -206,7 +207,6 @@
     "LinA/Lemma von Zorn.md",
     "LinA/Gruppenhomomorphismen.md",
     "LinA/Untervektorräume.md",
-    "LinA/Ketten.md",
     "LinA",
     "Pasted image 20230822161939.png",
     "Untitled 1.canvas",
