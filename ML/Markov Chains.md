@@ -19,5 +19,6 @@ A Markov chain can be represented using a graph, where each vertex is a reachabl
 Example:
 ![[A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg]]
 
+
 # Matrix Description:
-A Markov process can be described using a transition matrix 
+A Markov process can be described using a transition matrix similar to a usual matrix representation in a graph. This can be done by 
