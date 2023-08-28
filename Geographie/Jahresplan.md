@@ -14,5 +14,7 @@ Themen: Entwicklungsländer im Wandel
 - ein Planspiel
 
 Nächsten zwei Wochen:
+- Klassifikationssysteme HDI, IHDI, BNE, Weltbank, UN
+- 
 
 
