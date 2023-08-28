@@ -61,14 +61,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Transformers.md",
+                "file": "Mathe-LK/Combination.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Current Life.md",
+                "file": "Mathe-LK/Combination.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Current Life.md",
+                "file": "Mathe-LK/Combination.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Current Life.md"
+                "file": "Mathe-LK/Combination.md"
               }
             }
           }
@@ -195,8 +195,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1393504f6e9a7da",
+  "active": "0f19ba26c33aed9e",
   "lastOpenFiles": [
+    "Mathe-LK/Variation.md",
+    "Mathe-LK/Combination.md",
+    "Mathe-LK/Permutation.md",
+    "ML/Transformers.md",
+    "LinA/Faserung eines Vektorraumes.md",
+    "Current Life.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
@@ -216,9 +222,7 @@
     "Geographie",
     "Geographie/Entwicklungslandmerkmale.md",
     "ML/Policy Gradient Methods.md",
-    "ML/Transformers.md",
     "LinA/Faser einer linearen Abbildung.md",
-    "LinA/Faserung eines Vektorraumes.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Ringe.md",
     "LinA/Matrizen.md",
@@ -228,16 +232,12 @@
     "LinA/Rang einer linearen Abbildung.md",
     "LinA/Untervektorräume.md",
     "LinA/Bild einer linearen Abbildung.md",
-    "Current Life.md",
-    "ML/Gradient Boosted Trees.md",
-    "LinA/Symmetrie und Schiefsymmetrie.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",
     "Pasted image 20230822162001.png",
     "Pasted image 20230822161939.png",
     "Pasted image 20230822160658.png",
-    "Pasted image 20230822153344.png",
     "Analysis",
     "Optimization",
     "ML/Untitled",
