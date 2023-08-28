@@ -15,4 +15,5 @@ A stochastic process fulfilling the Markov property is also called a Markov proc
 A first order Markov chain refers to a markov process having either a discrete (or countable) state space or discrete index set (or both).
 
 ## Markov Chains in graph theory:
-A Markov chain can be represented using a graph, where each vertex is a reachable state and each edge is  
+A Markov chain can be represented using a graph, where each vertex is a reachable state and each edge is a transition between two states having a certain probability (thus all outgoing edges from some vertex having a sum of 1 (unless its a terminal state)).
+
