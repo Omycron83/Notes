@@ -10,4 +10,4 @@ I.e. a stochastic process fulfills the Markov property if the probability of the
 It is to note that the state space must be constant for all $i \in I$ of the index set of the stochastic process. 
 
 
-First order 
+# (First Order) Markov Chains:
