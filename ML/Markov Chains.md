@@ -17,7 +17,7 @@ A first order Markov chain refers to a markov process having either a discrete (
 ## Markov Chains in graph theory:
 A Markov chain can be represented using a graph, where each vertex is a reachable state and each edge is a transition between two states having a certain probability (thus all outgoing edges from some vertex having a sum of 1 (unless its a terminal state)).
 Example:
-!
+![[Pasted image 20230828092536.png]]
 
 # Matrix Description:
 A Markov process can be described using a transition matrix similar to a usual matrix representation in a graph. This is done by having each row represent some state, with each corresponding column entry representing the probability of reaching the state represented by that column. For the above example:
