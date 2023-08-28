@@ -1,1 +1,1 @@
-Markov chains are a type of stochastic model where 
+Markov chains are a type of stochastic model describing a sequence where the next state in that sequence is represented using 
