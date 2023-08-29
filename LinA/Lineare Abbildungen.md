@@ -56,7 +56,7 @@ Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
 #### Ringe der Endomorphismen
 
 
-### Bild, Faser, Kern:
+### Bild, Faser, Kern: 
 Sei $F$ eine lineare Abbildung. Dann gilt:
 - $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
 	Beweis: Untervektorraumaxiome abklappern: ^235c98
