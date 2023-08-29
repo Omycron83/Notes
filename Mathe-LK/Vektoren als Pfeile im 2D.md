@@ -7,4 +7,5 @@ Man sagt $v R u$ mit $R$ = ‘Ist Gegenvektor von’, wenn $v = -u$, d.h. $v_1 =
 Der Nullvektor $o$ hat keine Länge (Länge $0$), Richtung oder Orientierung und $o = (0, 0)$.
 Der Identitätsvektor, der jeden Punkt auf sich selbst abbildet, entspricht dem Nullvektor.
 
+$|| v ||$ heißt die Norm oder der Betrag von $v$ und entspricht der Länge des Vektorpfeils, wobei hier im Beispiel $||v|| = \sqrt{v_1^2 + v_2^2} = \sqrt{4^2 + 2^2} = \sqrt{20}$.
 
