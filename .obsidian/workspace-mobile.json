@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -186,6 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Geographie/HDI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -202,6 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Geographie/HDI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -212,7 +214,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Geographie/HDI.md"
+          }
         }
       }
     ],
@@ -228,11 +232,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a9eb361912e69ed7",
+  "active": "827303b0cb8be53d",
   "lastOpenFiles": [
+    "Geographie/Entwicklungslandmerkmale.md",
     "Geographie/HDI.md",
     "Geographie/Weltbank und UN.md",
-    "Geographie/Entwicklungslandmerkmale.md",
     "Geographie/BNE.md",
     "Geographie/Jahresplan.md",
     "Länderklassifikation.md",
