@@ -1,1 +1,1 @@
-Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl
+Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl, die den Wert aller hergestellten
