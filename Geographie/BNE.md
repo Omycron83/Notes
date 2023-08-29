@@ -1,1 +1,1 @@
-Das Bruttonationaleinko
+Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl
