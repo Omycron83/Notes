@@ -8,4 +8,4 @@ Diese werden durch die Mitgliedsstaaten finanziert.
 Die Kriterien für die Hilfevergabe 
 
 # UN
-Die UN, also die United Nations, 
+Die UN, also die United Nations, besitzt den sog
