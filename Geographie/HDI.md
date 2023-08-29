@@ -6,4 +6,5 @@ Die eingehenden Werte sind dabei jeweils:
 - Lebenserwartung bei Geburt
 **Hoher Wissensstand**:
 - Durchschnittliche Bildungsjahre eines über 25-jährigen
-- Erwartete Anzahl an Schuljahren 
+- Erwartete Anzahl an Schuljahren bei Schulbeginn
+**Hoher Lebensstandart**:
