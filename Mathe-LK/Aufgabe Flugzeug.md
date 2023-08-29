@@ -8,4 +8,4 @@ B) Es kommt ein Wind mir $50 \frac{km}{h}$ aus Nord-Östlicher Richtung.
 Windvektorlänge: 50
 Gleichmäßig: $(x, x)$ 
 Also $x =$ ca. 35,36
-Damit der neue Flugzeugvektor: $()$
+Damit der neue Flugzeugvektor: $(364.64, -35.36)$
