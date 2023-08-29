@@ -5,8 +5,18 @@ Die Arbeit besteht dabei u.a. Die Vergabe günstigerer Entwicklungskredite, die 
 
 Diese werden anteilmäßig durch die Mitgliedsstaaten finanziert.
 
-Die Kriterien für die Hilfevergabe 
-
+Ländereinteilung (2014, / Kopf):
+High-Income: BNE > 12.736$
+Upper-Middle-Income: BNE 4.126 - 12736$
+Lower-Middle-Income: 1.046 - 4125$
+Low-Income: < 1.045
 
 # UN
 Die UN, also die United Nations, 
+
+
+
+Die Kriterien für Unterentwicklung:
+1. BNE / Kopf < 1035$ (2015)
+2. ‘Soziales’ Anteil unterernährter Menschen, Kindersterblichkeitsrate, Einschulungsrate, Alphabetisierungsrate Erwachsener
+3. ‘Wirtschaftsverwundbarkeit’ Exporte und deren Stabilität, Stabilität Agrarsektor und BIP Anteil, Bevölkerung in Tiefgelegenen Küstenzonen, Anzahl Opfer Naturkatastrophen
