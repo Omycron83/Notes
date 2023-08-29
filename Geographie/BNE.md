@@ -6,4 +6,4 @@ Anders als das Bruttoinlandsprodukt wird hier nicht das ‚Inland‘, sondern da
 
 BNE = BIP + (Saldo der mit übrigen Welt gezahlten Primäreinkommen)
 	Primäreinkommen: Arbeitnehmerentgelte + Vermögenseinkommen + Subventionen + Steuern
-	BIP = Produktionswert - Vorleistungen + 
+	BIP = Produktionswert - Vorleistungen + Güterst
