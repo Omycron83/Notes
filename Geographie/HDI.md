@@ -8,17 +8,15 @@ Die eingehenden Werte sind dabei jeweils:
 - Durchschnittliche Bildungsjahre eines über 25-jährigen
 - Erwartete Anzahl an Schuljahren bei Schulbeginn
 **Hoher Lebensstandart**:
-- BIP auf logarithmische Skala
+- BIP (PPP) auf logarithmische Skala
 
 Einordnung UNDP:
 - Hohe: 1 - 0.8
 - Mittel: 0.799 - 0.5
 - Gering: 0 - 0.499
 
-
-
 # IHDI:
 Der IHDI soll der ‚Inequality-adjusted Human Development Index‘ sein, also die Ungleichheiten in den Ländern miteinbeziehen.
 
-Dabei werden nicht die Gesamtstatistiken genutzt (die durchaus Rechtsschief sein können), sondern die Werte der Medianperson und den BNE anstatt dem BIP.
+Dabei werden nicht die Gesamtstatistiken genutzt (die durchaus Rechtsschief sein können), sondern die Werte der Medianperson und der BNE anstatt dem BIP, um den Einfluss ausländischer Firmen zu mindern.
 

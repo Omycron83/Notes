@@ -18,6 +18,9 @@
 - Politische Unsicherheit, Bürgerkriege
 
 
-# Geographische Lage
 
-# 
+## Entwicklungsländer:
+
+## Schwellenländer:
+
+## Industrieländer:
