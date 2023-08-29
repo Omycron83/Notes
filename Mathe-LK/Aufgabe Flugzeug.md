@@ -2,7 +2,7 @@ Ein Flugzeug fliegt mit 400$\frac{km}{h}$ in östliche Richtung. Vektor: $(400, 
 
 A) Es kommt ein Wind mit 100$\frac{km}{h}$, was ist nun die Richtung?
 Windvektor: $(0, -100)$
-Neuer Flugzeugvektor: $(400, -100)$
+Neuer Flugzeugvektor: $(400, -100)$ (**Addition**) 
 
 B) Es kommt ein Wind mir $50 \frac{km}{h}$ aus Nord-Östlicher Richtung.
 Windvektorlänge: 50
