@@ -5,5 +5,5 @@ Die eingehenden Werte sind dabei jeweils:
 **Langes und gesundes Leben**:
 - Lebenserwartung bei Geburt
 **Hoher Wissensstand**:
-- Durchschnittliche Bildungsjahre eines 25-jährigen
+- Durchschnittliche Bildungsjahre eines über 25-jährigen
 - 
