@@ -3,9 +3,10 @@ Die Weltbank, eigentlich Internationale Bank für Wiederaufbau und Entwicklung, 
 
 Die Arbeit besteht dabei u.a. Die Vergabe günstigerer Entwicklungskredite, die Gewährung technischer Hilfe bei Projekten, die Koordination von Entwicklungshilfe sowie die Erleichterung der Zusammenarbeit mit weiteren Entwicklungshilfen.
 
-Diese werden durch die Mitgliedsstaaten finanziert.
+Diese werden anteilmäßig durch die Mitgliedsstaaten finanziert.
 
 Die Kriterien für die Hilfevergabe 
 
+
 # UN
-Die UN, also die United Nations, besitzt den sog. UN-N
+Die UN, also die United Nations, 
