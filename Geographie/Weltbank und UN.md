@@ -1,2 +1,2 @@
 # Weltbank:
-Die Weltbank, auch Internationale 
+Die Weltbank, eigentl Internationale 
