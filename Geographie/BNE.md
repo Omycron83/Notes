@@ -1,6 +1,6 @@
 Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl, die den Wert aller hergestellten Waren und Dienstleistungen misst, die den Einwohnern eines Landes zur Verfügung stehen. Er wird erstellt durch:
 
-BNE = Arbeitnehmerentgelder + Unternehmenseinkommen + Staatsabgaben - Subven
+BNE = Arbeitnehmerentgelder + Unternehmenseinkommen + Staatsabgaben - Subventionen + Abschreibungen
 
 Anders als das Bruttoinlandsprodukt wird hier nicht das ‚Inland‘, sondern das ‚Inländer‘ hervorgehoben. Es gilt:
 
