@@ -1,1 +1,1 @@
-Der Human-Development-Index ist eine Gesamtstatistik, die den Entwicklungsfortschritt eines Landes bezüglich bestimmter Merkm
+Der Human-Development-Index ist eine Gesamtstatistik, die den Entwicklungsfortschritt eines Landes bezüglich bestimmter Merkmale 
