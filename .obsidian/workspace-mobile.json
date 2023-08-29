@@ -35,8 +35,12 @@
             "id": "236326399ad4d890",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Vektorraum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -52,19 +56,31 @@
             }
           },
           {
-            "id": "3b96c3cf24777435",
+            "id": "e398b4a70e4c7fc3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analysis/Metric Spaces.md",
+                "file": "LinA/Faserung eines Vektorraumes.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b430656828a0fbaa",
+            "id": "baed8734ef5adf5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Lineare Abbildungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5919afa257527cf0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -72,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -180,10 +196,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b430656828a0fbaa",
+  "active": "5919afa257527cf0",
   "lastOpenFiles": [
+    "LinA/Lineare Abbildungen.md",
+    "LinA/Vektorraum.md",
     "Mathe-LK/3. Semester Mathe.md",
+    "LinA/Faserung eines Vektorraumes.md",
+    "ML/Filtration.md",
     "Analysis/Metric Spaces.md",
+    "ML/Bayes Theorem.md",
     "Analysis/Normed linear spaces.md",
     "Geographie/Weltbank und UN.md",
     "Geographie/BNE.md",
@@ -194,7 +215,6 @@
     "Geographie/Jahresplan.md",
     "Länderklassifikation.md",
     "Entwicklungslandmerkmale.md",
-    "ML/Filtration.md",
     "ML/Transformers.md",
     "Geographie",
     "ML/Markov Chains.md",
@@ -205,13 +225,9 @@
     "ML/Probability Spaces.md",
     "LinA/Matrizen.md",
     "LinA/Lineare Gleichungssysteme.md",
-    "ML/Bayes Theorem.md",
     "LinA/Rang einer Matrix.md",
     "LinA/Kern einer linearen Abbildung.md",
     "LinA/Ringe.md",
-    "ML/Bayesian Hyperparameter Optimization.md",
-    "LinA/Rang einer linearen Abbildung.md",
-    "LinA/Faser einer linearen Abbildung.md",
     "PNG-Bild.png",
     "Pasted image 20230822160658.png",
     "Pasted image 20230822151725.png",
