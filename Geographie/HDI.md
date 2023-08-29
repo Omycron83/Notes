@@ -1,1 +1,1 @@
-Der Human-Development-Index ist eine Gesamtstatist
+Der Human-Development-Index ist eine Gesamtstatistik, die den Entwicklungsfortschritt eines 
