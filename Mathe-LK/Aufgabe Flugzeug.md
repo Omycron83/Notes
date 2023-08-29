@@ -9,3 +9,5 @@ Windvektorlänge: 50
 Gleichmäßig: $(x, x)$ 
 Also $x =$ ca. 35,36
 Damit der neue Flugzeugvektor: $(364.64, -35.36)$
+
+![[Pasted image 20230829110558.png]]
