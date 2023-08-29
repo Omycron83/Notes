@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Vektorraum.md",
+                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
                 "mode": "source",
                 "source": false
               }
@@ -83,12 +83,16 @@
             "id": "5919afa257527cf0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,6 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -180,7 +186,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
+          }
         }
       }
     ],
@@ -196,10 +204,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5919afa257527cf0",
+  "active": "236326399ad4d890",
   "lastOpenFiles": [
-    "LinA/Lineare Abbildungen.md",
     "LinA/Vektorraum.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "LinA/Basen.md",
+    "LinA/Lineare Abbildungen.md",
     "Mathe-LK/3. Semester Mathe.md",
     "LinA/Faserung eines Vektorraumes.md",
     "ML/Filtration.md",
@@ -226,8 +236,6 @@
     "LinA/Matrizen.md",
     "LinA/Lineare Gleichungssysteme.md",
     "LinA/Rang einer Matrix.md",
-    "LinA/Kern einer linearen Abbildung.md",
-    "LinA/Ringe.md",
     "PNG-Bild.png",
     "Pasted image 20230822160658.png",
     "Pasted image 20230822151725.png",
