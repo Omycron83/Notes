@@ -1,2 +1,4 @@
 # Weltbank:
-Die Weltbank, eigentlich Internationale Bank für Wiederaufbau und Entwicklung, ist eine 1945 gegründete Institution, die durch erleichterte Kapitalerhältlichkeit sowie weiterer Entwicklungshilfe die wirtschaftliche Entwicklung sowie den Lebensstandard der Mitgliedsländer fördern  
+Die Weltbank, eigentlich Internationale Bank für Wiederaufbau und Entwicklung, ist eine 1945 gegründete Institution, die durch erleichterte Kapitalerhältlichkeit sowie weiterer Entwicklungshilfe die wirtschaftliche Entwicklung sowie den Lebensstandard der Mitgliedsländer fördern soll.
+
+Die 
