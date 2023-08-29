@@ -1,1 +1,1 @@
-Der Human-Development-Index
+Der Human-Development-Index ist eine Gesamtstatist
