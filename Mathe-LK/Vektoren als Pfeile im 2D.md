@@ -11,4 +11,4 @@ $|| v ||$ heißt die Norm oder der Betrag von $v$ und entspricht der Länge des 
 
 Analoges gilt für weitere $K^n$.
 
-Die Hintereinanderausführung zweier Vektoren bzw. Punktabbildungen ist die Addition der beiden Vektoren.
+Die Hintereinanderausführung zweier Vektoren bzw. Punktabbildungen ist die Addition der beiden Vektoren. Zeichnerische Interpretation: Diagonalvektor des durch die beiden Vektoren aufgespannten Parallelogramm.
