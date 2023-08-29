@@ -5,4 +5,5 @@ Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl, die den Wert
 Anders als das Bruttoinlandsprodukt wird hier nicht das ‚Inland‘, sondern das ‚Inländer‘ hervorgehoben. Es gilt:
 
 BNE = BIP + (Saldo der mit übrigen Welt gezahlten Primäreinkommen)
-	Primäreinkommen: Arbeitnehmerentgelte + Vermögenseinkommen + Subventionen + Steuern 
+	Primäreinkommen: Arbeitnehmerentgelte + Vermögenseinkommen + Subventionen + Steuern
+	BIP = 
