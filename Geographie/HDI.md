@@ -4,4 +4,5 @@ Er wird dabei als geometrisches Mittel normalisierter Werte gebildet.
 Die eingehenden Werte sind dabei jeweils:
 **Langes und gesundes Leben**:
 - Lebenserwartung bei Geburt
-**Hoher Wissensstand
+**Hoher Wissensstand**:
+- 
