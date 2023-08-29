@@ -11,3 +11,4 @@ Die eingehenden Werte sind dabei jeweils:
 - [[BNE]] auf logarithmische Skala
 
 # IHDI:
+Der IHDI soll der ‚
