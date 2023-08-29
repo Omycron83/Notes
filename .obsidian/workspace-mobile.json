@@ -86,9 +86,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5847a160ad1f2603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Entwicklungslandmerkmale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "827303b0cb8be53d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -154,7 +174,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geographie/Weltbank und UN.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -171,7 +190,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geographie/Weltbank und UN.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -182,9 +200,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Geographie/Weltbank und UN.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -200,11 +216,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f51a5bc125488f47",
+  "active": "827303b0cb8be53d",
   "lastOpenFiles": [
+    "Geographie/Entwicklungslandmerkmale.md",
+    "Geographie/Weltbank und UN.md",
     "Geographie/BNE.md",
     "Geographie/HDI.md",
-    "Geographie/Weltbank und UN.md",
     "Geographie/Jahresplan.md",
     "Länderklassifikation.md",
     "Entwicklungslandmerkmale.md",
@@ -240,7 +257,6 @@
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA/Lineare Abbildungen.md",
-    "LinA/Bild einer linearen Abbildung.md",
     "LinA",
     "Untitled 1.canvas",
     "Analysis",

@@ -16,3 +16,8 @@
 - Autokratie / Diktatur
 - Viel Korruption
 - Politische Unsicherheit, Bürgerkriege
+
+
+# Geographische Lage
+
+# 
