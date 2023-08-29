@@ -1,2 +1,2 @@
 # Weltbank:
-Die Weltbank, eigentlich Internationale Bank für Wi 
+Die Weltbank, eigentlich Internationale Bank für Wiederaufbau und Entwick 
