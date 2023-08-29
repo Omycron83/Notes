@@ -12,3 +12,6 @@ Die eingehenden Werte sind dabei jeweils:
 
 # IHDI:
 Der IHDI soll der ‚Inequality-adjusted Human Development Index‘ sein, also die Ungleichheiten in den Ländern miteinbeziehen.
+
+Dabei werden nicht die Gesamtstatistiken genutzt (die durchaus Rechtsschief sein können), sondern die Werte der Medianperson.
+
