@@ -1,1 +1,3 @@
-Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl, die den Wert aller hergestellten Waren und Dienstleistungen misst, die den Einwohnern eines Landes zur Verfügung stehen. Er wird erstellt durch
+Das Bruttonationaleinkommen ist eine volkswirtschaftliche Kennzahl, die den Wert aller hergestellten Waren und Dienstleistungen misst, die den Einwohnern eines Landes zur Verfügung stehen. Er wird erstellt durch:
+
+Anders als das Bruttoinlandsprodukt wird hier nicht das ‚Inland‘, sondern das ‚Inländer‘ hervorgehoben.
