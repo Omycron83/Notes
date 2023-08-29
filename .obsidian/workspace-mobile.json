@@ -55,8 +55,12 @@
             "id": "f51a5bc125488f47",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -84,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +154,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geographie/HDI.md",
+            "file": "Geographie/Untitled.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +171,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geographie/HDI.md",
+            "file": "Geographie/Untitled.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geographie/HDI.md"
+            "file": "Geographie/Untitled.md"
           }
         }
       }
@@ -196,11 +200,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16d264405d374f9f",
+  "active": "f51a5bc125488f47",
   "lastOpenFiles": [
+    "Geographie/Untitled.md",
+    "Geographie/HDI.md",
     "Geographie/Jahresplan.md",
     "Geographie/BNE.md",
-    "Geographie/HDI.md",
     "Länderklassifikation.md",
     "Entwicklungslandmerkmale.md",
     "ML/Filtration.md",
@@ -236,7 +241,6 @@
     "Untitled 2.canvas",
     "LinA/Lineare Abbildungen.md",
     "LinA/Bild einer linearen Abbildung.md",
-    "LinA/Halbordnungen.md",
     "LinA",
     "Untitled 1.canvas",
     "Analysis",
