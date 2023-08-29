@@ -84,7 +84,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geographie/BNE.md",
+            "file": "Geographie/HDI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geographie/BNE.md",
+            "file": "Geographie/HDI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -179,7 +179,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geographie/BNE.md"
+            "file": "Geographie/HDI.md"
           }
         }
       }
@@ -196,11 +196,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f82d47b852b79fba",
+  "active": "16d264405d374f9f",
   "lastOpenFiles": [
+    "Geographie/Jahresplan.md",
     "Geographie/BNE.md",
     "Geographie/HDI.md",
-    "Geographie/Jahresplan.md",
     "Länderklassifikation.md",
     "Entwicklungslandmerkmale.md",
     "ML/Filtration.md",

@@ -10,3 +10,4 @@ Die eingehenden Werte sind dabei jeweils:
 **Hoher Lebensstandart**:
 - [[BNE]] auf logarithmische Skala
 
+# IHDI:
