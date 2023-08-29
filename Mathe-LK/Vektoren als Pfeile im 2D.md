@@ -9,3 +9,4 @@ Der Identitätsvektor, der jeden Punkt auf sich selbst abbildet, entspricht dem 
 
 $|| v ||$ heißt die Norm oder der Betrag von $v$ und entspricht der Länge des Vektorpfeils, wobei hier im Beispiel $||v|| = \sqrt{v_1^2 + v_2^2} = \sqrt{4^2 + 2^2} = \sqrt{20}$.
 
+Analoges gilt für weitere $K^n$.
