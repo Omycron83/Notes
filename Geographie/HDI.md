@@ -11,4 +11,4 @@ Die eingehenden Werte sind dabei jeweils:
 - [[BNE]] auf logarithmische Skala
 
 # IHDI:
-Der IHDI soll der ‚Inequality-adjusted Human Development Index‘ sein, also 
+Der IHDI soll der ‚Inequality-adjusted Human Development Index‘ sein, also die Ungleichheiten in den Ländern miteinbeziehen.
