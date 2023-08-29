@@ -8,4 +8,5 @@ Die eingehenden Werte sind dabei jeweils:
 - Durchschnittliche Bildungsjahre eines über 25-jährigen
 - Erwartete Anzahl an Schuljahren bei Schulbeginn
 **Hoher Lebensstandart**:
-- BNE auf Lo
+- [[BNE]] auf logarithmische Skala
+
