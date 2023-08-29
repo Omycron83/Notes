@@ -12,4 +12,5 @@ $|| v ||$ heißt die Norm oder der Betrag von $v$ und entspricht der Länge des 
 Analoges gilt für weitere $K^n$.
 
 Die Hintereinanderausführung zweier Vektoren bzw. Punktabbildungen ist die eintragsweise Addition der beiden Vektoren. Zeichnerische Interpretation: Diagonalvektor des durch die beiden Vektoren aufgespannten Parallelogramm.
-	
+
+Multipliziert man mit einem Skalar $r$, dann entspricht dies der $r$-fachen Streckung bzw. der eintragsweisen Multiplikation mit diesem. Falls $r>0$ ändert sich dabei nur die Länge, falls $r < 0$ ändert sich die Richtung. 

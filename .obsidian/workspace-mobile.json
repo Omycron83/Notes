@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md"
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
           }
         }
       }
@@ -216,11 +216,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "236326399ad4d890",
+  "active": "f66dc227ccab89c4",
   "lastOpenFiles": [
+    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Pasted image 20230829110558.png",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
-    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Mathe-LK/3. Semester Mathe LK.md",
     "Pasted image 20230829101315.png",
     "LinA/Vektorraum.md",
@@ -254,7 +254,6 @@
     "Pasted image 20230822151725.png",
     "Pasted image 20230823005049.png",
     "Pasted image 20230810202617.png",
-    "Pasted image 20230811163540.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA",
