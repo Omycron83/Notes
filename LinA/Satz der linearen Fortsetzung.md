@@ -20,6 +20,12 @@ Betrachte man dabei beliebige $v, v'$. Dadurch, dass $v_1, ..., v_n$ eine Basis 
 Additivität:
 $F(v + v') = F(\sum_1^r \lambda_i v_i + \sum_1^r \mu_i v_i) = F(\sum_1^r (\lambda_i + \mu_i) v_i)$
 Nach der Definition: $F(\sum_1^r (\lambda_i + \mu_i) v_i) = \sum_1^r (\lambda_i + \mu_i)w_i = \sum_1^r \lambda_i w_i + \sum_1^r \mu_i w_i = F(v) + F(v_i)$
-Homogenität:
-$F(\mu v) = F(\mu \sum_1^r \lambda_i v_i) = \sum_1^r 
+Homogenität:$F(\mu v) = F(\mu \sum_1^r \lambda_i v_i) = F(\sum_1^r \mu \lambda_i v_i) = \sum_1^r \mu \lambda_i w_i = \mu \sum_1^r \lambda_i w_i = \mu F(v)$
+
+Eindeutigkeit:
+Angenommen es gibt ein weiteres $G \in Hom(V, W)$ mit $g(v_i) = w_i$ . Dann ist:
+$G(v)  = G(\sum_1^r \lambda_i v_i) = \sum_1^r \lambda_i G(v_i) = \sum_1^r \lambda_i w_i = F(v) 
+
+
+Also gibt es so ein $F$ 
 
