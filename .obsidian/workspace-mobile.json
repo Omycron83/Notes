@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Matrizen.md",
+            "file": "Bio GK/Jahresplan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Matrizen.md",
+            "file": "Bio GK/Jahresplan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Matrizen.md"
+            "file": "Bio GK/Jahresplan.md"
           }
         }
       }
@@ -228,8 +228,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f1b55bd944c9f48",
+  "active": "eab0b00e5206f2b0",
   "lastOpenFiles": [
+    "Mathe-LK/3. Semester Mathe LK.md",
+    "LinA/Basen.md",
+    "LinA/Matrizen.md",
     "LinA/Lineare Gleichungssysteme.md",
     "Bio GK/Jahresplan.md",
     "Bio GK",
@@ -243,10 +246,8 @@
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Pasted image 20230829110558.png",
-    "Mathe-LK/3. Semester Mathe LK.md",
     "Pasted image 20230829101315.png",
     "LinA/Vektorraum.md",
-    "LinA/Basen.md",
     "ML/Filtration.md",
     "Analysis/Metric Spaces.md",
     "ML/Bayes Theorem.md",
@@ -260,7 +261,6 @@
     "Geographie/Jahresplan.md",
     "Länderklassifikation.md",
     "Entwicklungslandmerkmale.md",
-    "ML/Transformers.md",
     "Geographie",
     "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
