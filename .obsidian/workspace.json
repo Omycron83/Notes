@@ -114,9 +114,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68c346ed8b7e0abe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Redox-Reaktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +206,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Redox-Reaktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,9 +227,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chemie/Redox-Reaktionen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -243,10 +247,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71432390e2707c34",
+  "active": "1232ad8be5aff38b",
   "lastOpenFiles": [
-    "ML/Bayes Theorem.md",
+    "Untitled.md",
+    "Informatik Unterricht/Q3 Informatik.md",
+    "Informatik Unterricht",
+    "Bio GK/Jahresplan.md",
+    "Bio GK",
+    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Chemie/Redox-Reaktionen.md",
+    "ML/Bayes Theorem.md",
     "Chemie",
     "Analysis/Untitled",
     "Pasted image 20230829110558.png",
@@ -258,7 +268,6 @@
     "Geographie/Korruptionswahrnehmungsindex.md",
     "Geographie/HDI.md",
     "Geographie/BNE.md",
-    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Mathe-LK/Kombination.md",
     "Mathe-LK/Permutation.md",
     "Mathe-LK/Variation.md",
@@ -279,10 +288,7 @@
     "Untitled.canvas",
     "ML/DDQN - Architecture.md",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
-    "LinA/Lineare Gleichungssysteme.md",
     "Pasted image 20230828092536.png",
-    "ML/Probability Spaces.md",
-    "ML/Markov Chains.md",
     "Geographie",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
@@ -291,8 +297,6 @@
     "Analysis",
     "Optimization",
     "ML/Untitled",
-    "ML",
-    "LinA/Untitled",
-    "LinA"
+    "ML"
   ]
 }
