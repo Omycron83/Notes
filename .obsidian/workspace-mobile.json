@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Lineare Abbildungen.md",
+                "file": "Informatik Unterricht/Q3 Informatik.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Lineare Abbildungen.md",
+            "file": "Informatik Unterricht/Q3 Informatik.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Lineare Abbildungen.md",
+            "file": "Informatik Unterricht/Q3 Informatik.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -199,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Lineare Abbildungen.md"
+            "file": "Informatik Unterricht/Q3 Informatik.md"
           }
         }
       }
@@ -218,6 +218,9 @@
   },
   "active": "baed8734ef5adf5e",
   "lastOpenFiles": [
+    "LinA/Lineare Abbildungen.md",
+    "Informatik Unterricht/Q3 Informatik.md",
+    "Informatik Unterricht",
     "LinA/Faserung eines Vektorraumes.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
@@ -226,7 +229,6 @@
     "Pasted image 20230829101315.png",
     "LinA/Vektorraum.md",
     "LinA/Basen.md",
-    "LinA/Lineare Abbildungen.md",
     "ML/Filtration.md",
     "Analysis/Metric Spaces.md",
     "ML/Bayes Theorem.md",
