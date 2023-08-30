@@ -127,4 +127,4 @@ Beweis:
 	3. Das Distributivgesetz ist Körperinduziert (man schaue sich diese lediglich Elementweise an)
 
 ## Matrizen stellen lineare Abbildungen dar:
-Betrachte man zwei Vektorräume $V, W$ mit Basen $v_1, …, v_r$ und $w_1, …, w_n$.
+Betrachte man zwei Vektorräume $V, W$ mit Basen $v_1, …, v_r$ und $w_1, …, w_n$. Dann kann jeder Vektor 

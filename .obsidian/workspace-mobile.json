@@ -114,9 +114,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8228a6d8bddd42e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Matrizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07f7b79ccbc611fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Lineare Abbildungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -182,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bio GK/Jahresplan.md",
+            "file": "LinA/Lineare Abbildungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +223,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bio GK/Jahresplan.md",
+            "file": "LinA/Lineare Abbildungen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +235,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bio GK/Jahresplan.md"
+            "file": "LinA/Lineare Abbildungen.md"
           }
         }
       }
@@ -228,13 +252,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab0b00e5206f2b0",
+  "active": "07f7b79ccbc611fc",
   "lastOpenFiles": [
-    "Mathe-LK/3. Semester Mathe LK.md",
-    "LinA/Basen.md",
     "LinA/Matrizen.md",
-    "LinA/Lineare Gleichungssysteme.md",
+    "LinA/Basen.md",
     "Bio GK/Jahresplan.md",
+    "Mathe-LK/3. Semester Mathe LK.md",
+    "LinA/Lineare Gleichungssysteme.md",
     "Bio GK",
     "Untitled.md",
     "Informatik Unterricht/Q3 Informatik.md",
