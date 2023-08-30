@@ -116,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Bio GK/Jahresplan.md",
+            "file": "LinA/Matrizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Bio GK/Jahresplan.md",
+            "file": "LinA/Matrizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -211,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Bio GK/Jahresplan.md"
+            "file": "LinA/Matrizen.md"
           }
         }
       }
@@ -228,8 +228,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eab0b00e5206f2b0",
+  "active": "8f1b55bd944c9f48",
   "lastOpenFiles": [
+    "LinA/Lineare Gleichungssysteme.md",
     "Bio GK/Jahresplan.md",
     "Bio GK",
     "Untitled.md",
@@ -261,7 +262,6 @@
     "Entwicklungslandmerkmale.md",
     "ML/Transformers.md",
     "Geographie",
-    "ML/Markov Chains.md",
     "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",

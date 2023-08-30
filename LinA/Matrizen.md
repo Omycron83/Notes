@@ -127,3 +127,4 @@ Beweis:
 	3. Das Distributivgesetz ist Körperinduziert (man schaue sich diese lediglich Elementweise an)
 
 ## Matrizen stellen lineare Abbildungen dar:
+Betrachte man zwei 
