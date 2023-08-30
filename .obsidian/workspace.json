@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "Chemie/Redox-Reaktionen.md",
                 "mode": "source",
                 "source": false
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "Chemie/Redox-Reaktionen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Bayes Theorem.md",
+                "file": "Chemie/Redox-Reaktionen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Bayes Theorem.md"
+                "file": "Chemie/Redox-Reaktionen.md"
               }
             }
           }
@@ -245,6 +245,19 @@
   },
   "active": "71432390e2707c34",
   "lastOpenFiles": [
+    "ML/Bayes Theorem.md",
+    "Chemie/Redox-Reaktionen.md",
+    "Chemie",
+    "Analysis/Untitled",
+    "Pasted image 20230829110558.png",
+    "Pasted image 20230829101315.png",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
+    "Mathe-LK/3. Semester Mathe LK.md",
+    "Geographie/Weltbank und UN.md",
+    "Geographie/Korruptionswahrnehmungsindex.md",
+    "Geographie/HDI.md",
+    "Geographie/BNE.md",
     "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Mathe-LK/Kombination.md",
     "Mathe-LK/Permutation.md",
@@ -252,7 +265,6 @@
     "LinA/Faserung eines Vektorraumes.md",
     "Mathe-LK/Zufällige Variablen.md",
     "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
-    "ML/Bayes Theorem.md",
     "ML/Univariate Probability Distributions.md",
     "ML/Unconditional Distributions.md",
     "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
@@ -271,21 +283,11 @@
     "Pasted image 20230828092536.png",
     "ML/Probability Spaces.md",
     "ML/Markov Chains.md",
-    "ML/Filtration.md",
-    "Geographie/Länderklassifikation.md",
-    "Geographie/Jahresplan.md",
     "Geographie",
-    "Geographie/Entwicklungslandmerkmale.md",
-    "ML/Policy Gradient Methods.md",
-    "LinA/Faser einer linearen Abbildung.md",
-    "LinA/Lineare Abbildungen.md",
-    "LinA/Ringe.md",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
     "Pasted image 20230822213943.png",
     "Pasted image 20230822162001.png",
-    "Pasted image 20230822161939.png",
-    "Pasted image 20230822160658.png",
     "Analysis",
     "Optimization",
     "ML/Untitled",
