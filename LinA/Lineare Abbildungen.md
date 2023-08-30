@@ -75,7 +75,7 @@ Sei $F$ eine lineare Abbildung. Dann gilt:
 	Beweis: Per Definition
 
 - $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
-	Beweis: 
+	Beweis:  ^683b21
 	1. Die 'hin' Richtung sei trivial
 	2. Nehma man an, der Kern besteht nur aus dem Nullvektor, d.h. es wenn $v \neq v'$ dann gibt es keine $v - v' = o$. Dann ist $F(v - v') \neq o \Leftrightarrow F(v) - F(v') \neq o \Leftrightarrow F(v) \neq F(v')$ $\square$
 
