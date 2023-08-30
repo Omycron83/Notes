@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "file": "LinA/Matrizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "file": "LinA/Matrizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md"
+                "file": "LinA/Matrizen.md"
               }
             }
           }
@@ -303,12 +303,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b117771a0c9f7a0",
+  "active": "68c346ed8b7e0abe",
   "lastOpenFiles": [
-    "LinA/Lineare Abbildungen.md",
-    "LinA/Satz der linearen Fortsetzung.md",
-    "LinA/Basisaustauschlemma.md",
     "LinA/Basen.md",
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Satz der linearen Fortsetzung.md",
+    "LinA/Lineare Abbildungen.md",
     "LinA/Matrizen.md",
     "Chemie/Redox-Reaktionen.md",
     "Untitled.md",

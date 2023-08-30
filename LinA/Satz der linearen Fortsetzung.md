@@ -41,4 +41,4 @@ $o = \sum_1^r \lambda_i w_i = \sum_1^r \lambda_i F(v_i) = F(\sum_1^r \lambda_i v
 nicht-trivial bilden wodurch $ker F \neq \{ o \}$ und so nach [[Lineare Abbildungen#^683b21|Kerneigenschaft keine Injektivität]].
 
 2.)
-Es sei klar, dass zumindest $im F \subset <w_1, ..., w_i>$. Sei nun ein beliebiges $w \in <w_1, ..., w_r>$. Dann gilt $w = \sum_1^r \lambda_i w_i = \sum_1^r  
+Es sei klar, dass zumindest $im F \subset <w_1, ..., w_r>$. Sei nun ein beliebiges $w \in <w_1, ..., w_r>$. Dann gilt $w = \sum_1^r \lambda_i w_i = \sum_1^r \lambda_i F(v_i) = F(\sum_1^r \lambda_i v_i)$. Nun muss man lediglich dass aus der Abgeschlossenheit existierende $v = \sum_1^r \lambda_i v_i$ wählen, sodass $F(v) = w$ und $w \in im F$, sodass auch $<w_1, ..., w_r> \subset im F$ 
