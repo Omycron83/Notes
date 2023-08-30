@@ -127,10 +127,7 @@ Beweis:
 	3. Das Distributivgesetz ist Körperinduziert (man schaue sich diese lediglich Elementweise an)
 
 ## Matrizen stellen lineare Abbildungen dar:
-Es fällt auf 
-
-##### Lemma: Lineare Abbildungen bilden Basen auf Basen ab:
-Wir wissen, dass 
+Es fällt auf, dass man Matrizen leicht zur Darstellung von Linearkombinationen nutzen lassen kann: $\begin{pmatrix} \end{pmatrix}
 
 
 Betrachte man zwei Vektorräume $V, W$ mit Basen $v_1, …, v_r$ und $w_1, …, w_n$. Dann kann jeder Vektor 

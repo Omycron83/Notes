@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Lineare Abbildungen.md",
+                "file": "LinA/Matrizen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Lineare Abbildungen.md",
+                "file": "LinA/Matrizen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Lineare Abbildungen.md"
+                "file": "LinA/Matrizen.md"
               }
             }
           }
@@ -267,8 +267,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c651714b12d8ac6",
+  "active": "68c346ed8b7e0abe",
   "lastOpenFiles": [
+    "LinA/Lineare Abbildungen.md",
     "LinA/Matrizen.md",
     "Chemie/Redox-Reaktionen.md",
     "Untitled.md",
@@ -303,7 +304,6 @@
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
-    "README.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
