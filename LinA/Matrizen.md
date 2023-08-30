@@ -126,9 +126,9 @@ Beweis:
 	2. Die Assoziativität ist [[Matrizen#^b1f482|gezeigt]]
 	3. Das Distributivgesetz ist Körperinduziert (man schaue sich diese lediglich Elementweise an)
 
-## Matrizen stellen lineare Abbildungen dar:
+## Matrizen stellen lineare Abbildungen dar (Darstellungssatz):
 
-Seien $V, W$ endlichdimensionale Vektorräume über $
+Seien $V, W$ endlichdimensionale Vektorräume über demselben Körper $K$ und $B \in V^m$ eine 
 
 #### Herleitung:
 Es fällt auf, dass man Matrizen leicht zur Darstellung von Linearkombinationen nutzen lassen kann: $\begin{pmatrix} b_1, & ... & ,b_n \end{pmatrix} \cdot \begin{pmatrix} \lambda_1 \\ ...\\ \lambda_n  \end{pmatrix} = \lambda_1 b_1 + ... + \lambda_n b_n = v$ 
