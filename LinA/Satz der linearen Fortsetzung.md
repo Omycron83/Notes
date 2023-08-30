@@ -4,6 +4,8 @@ Seien $v_1, ..., v_r \in V$ eine Basis und $w_1, ..., w_r \in W$ beliebige Vekto
 
 # Beweis:
 
+## Existenz und Eindeutigkeit:
+
 Sei $v \in V$, dann gilt: $v = \sum_1^r \lambda_i v_i$ nach Basisdefinition.
 Definiere man nun $F(v) = F(\sum_1^r \lambda_i v_i):= \sum_1^r \lambda_i w_i$
 
@@ -17,15 +19,23 @@ Dass diese Abbildung $F$ auch zusätzlich linear, d.h. $\in Hom(V, W)$ ist, gilt
 
 Betrachte man dabei beliebige $v, v'$. Dadurch, dass $v_1, ..., v_n$ eine Basis bilden, kann man $v$ wie oben und $v' = \sum_1^r \mu_i v_i$ darstellen. 
 
-Additivität:
+**Additivität:**
 $F(v + v') = F(\sum_1^r \lambda_i v_i + \sum_1^r \mu_i v_i) = F(\sum_1^r (\lambda_i + \mu_i) v_i)$
 Nach der Definition: $F(\sum_1^r (\lambda_i + \mu_i) v_i) = \sum_1^r (\lambda_i + \mu_i)w_i = \sum_1^r \lambda_i w_i + \sum_1^r \mu_i w_i = F(v) + F(v_i)$
-Homogenität:$F(\mu v) = F(\mu \sum_1^r \lambda_i v_i) = F(\sum_1^r \mu \lambda_i v_i) = \sum_1^r \mu \lambda_i w_i = \mu \sum_1^r \lambda_i w_i = \mu F(v)$
 
-Eindeutigkeit:
+**Homogenität:**$F(\mu v) = F(\mu \sum_1^r \lambda_i v_i) = F(\sum_1^r \mu \lambda_i v_i) = \sum_1^r \mu \lambda_i w_i = \mu \sum_1^r \lambda_i w_i = \mu F(v)$
+
+**Eindeutigkeit:**
 Angenommen es gibt ein weiteres $G \in Hom(V, W)$ mit $g(v_i) = w_i$ . Dann ist:
-$G(v)  = G(\sum_1^r \lambda_i v_i) = \sum_1^r \lambda_i G(v_i) = \sum_1^r \lambda_i w_i = F(v) 
+$G(v)  = G(\sum_1^r \lambda_i v_i) = \sum_1^r \lambda_i G(v_i) = \sum_1^r \lambda_i w_i = F(v)$.
+Dann wäre diese also identisch zu $F$.
+
+## Zusatzaussagen:
+1.)
+$F$ injektiv $\implies$ linear unabhängig:
+Folgt aus [[Lineare Abbildungen#^f38efc|Lineare Abbildungseigenschaft]]
+
+linear unabhängig $\implies$
 
 
-Also gibt es so ein $F$ 
-
+2.)
