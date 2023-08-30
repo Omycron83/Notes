@@ -27,6 +27,7 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 	Sind sie linear abhängig in $V$, dann gibt es Koeffizienten $\lambda_1, ..., \lambda_n$ mit mind. einem $\lambda_n \neq 0$ sodass die Linearkombination den Nullvektor ergibt, also:
 	$F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = \lambda_1 F(v_1) + ... + \lambda_n F(v_n)$ nach 2.
 	Und da wir aus 1. wissen, dass $F(o) = o$ ergibt die Linearkombination von $F(v_1), ..., F(v_n)$ auch hier den Nullvektor, und dies ebenfalls mit nichtrivialen Koeffizienten. $\square$
+	(Dies bedeutet außerdem, dass Basen auf Basen abgebildet werden).
 
 5.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
 	Beweis ist noch zu erbringen
