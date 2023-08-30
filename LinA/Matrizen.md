@@ -127,7 +127,8 @@ Beweis:
 	3. Das Distributivgesetz ist Körperinduziert (man schaue sich diese lediglich Elementweise an)
 
 ## Matrizen stellen lineare Abbildungen dar:
-Es fällt auf, dass man Matrizen leicht zur Darstellung von Linearkombinationen nutzen lassen kann: $\begin{pmatrix} \end{pmatrix}
+Es fällt auf, dass man Matrizen leicht zur Darstellung von Linearkombinationen nutzen lassen kann: $\begin{pmatrix} b_1, & ... & ,b_n \end{pmatrix} \cdot \begin{pmatrix} \lambda_1 \\ ...\\ \lambda_n  \end{pmatrix} = \lambda_1 b_1 + ... + \lambda_n b_n$ 
+wobei hier die L
 
 
 Betrachte man zwei Vektorräume $V, W$ mit Basen $v_1, …, v_r$ und $w_1, …, w_n$. Dann kann jeder Vektor 
