@@ -5,3 +5,6 @@ Seien $v_1, ..., v_r \in V$ und $w_1, ..., w_r \in W$. Dann gilt:
 	2. $im F = <w_1, ..., w_r>$ 
 
 # Beweis:
+$2. \implies 1.$:
+Angenommen, diese sei nicht eindeutig. Dann gäbe es zwei lineare Abbildungen $F, G$ mit $F(v_i) = w_i = G(v_i)$. 
+$\Leftrightarrow F(v_i - v_i) = o$
