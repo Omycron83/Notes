@@ -140,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -206,7 +206,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Lineare Abbildungen.md",
+            "file": "LinA/Matrizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Lineare Abbildungen.md",
+            "file": "LinA/Matrizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -235,7 +235,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Lineare Abbildungen.md"
+            "file": "LinA/Matrizen.md"
           }
         }
       }
@@ -252,8 +252,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07f7b79ccbc611fc",
+  "active": "8228a6d8bddd42e3",
   "lastOpenFiles": [
+    "LinA/Lineare Abbildungen.md",
     "LinA/Matrizen.md",
     "LinA/Basen.md",
     "Bio GK/Jahresplan.md",
@@ -264,7 +265,6 @@
     "Informatik Unterricht/Q3 Informatik.md",
     "Chemie",
     "Chemie/Redox-Reaktionen.md",
-    "LinA/Lineare Abbildungen.md",
     "Informatik Unterricht",
     "LinA/Faserung eines Vektorraumes.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
