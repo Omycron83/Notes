@@ -6,7 +6,8 @@ Seien $v_1, ..., v_r \in V$ eine Basis und $w_1, ..., w_r \in W$. Dann gilt: Es 
 Sei $v \in V$, dann gilt: $v = \sum_1^r \lambda_i v_i$ nach Basisdefinition.
 Definiere man nun $F(v) = F(\sum_1^r \lambda_i v_i) = \sum_1^r \lambda_i F(v_i) := \sum_1^r \lambda_i w_i$
 
-Man ordnet $v$ also einem $w \in W$ zu, der sich als Linearkombination der $w_i$ mit denselben Koeffizienten wie in der Basisdarstellung von $v$.
+Man ordnet $v$ also einem $w \in W$ zu, der sich als Linearkombination der $w_i$ mit denselben Koeffizienten wie in der Basisdarstellung von $v$. 
+Dass dies Äquivalent zur Satzaussage ist kann man sehen, da $f(v_i) = f(0 v_1 + ... + 1 v_i + ... + v_n)$ durch lineare Unabhängigkeit und so $f(v_i) = 1 \cdot F(w_i)$.
 
 Dass dabei 
 
