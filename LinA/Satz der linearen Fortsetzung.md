@@ -3,6 +3,7 @@ Seien $v_1, ..., v_r \in V$ eine Basis und $w_1, ..., w_r \in W$. Dann gilt: Es 
 	2. $im F = <w_1, ..., w_r>$ 
 
 # Beweis:
-Sei $v \in V$, dann gilt:
-$v = \sum_1^r \lambda_i v_i$.
-Dann ist $F(v) = F(\sum_1^r \lambda_i v_i) = \sum
+Sei $v \in V$, dann gilt: $v = \sum_1^r \lambda_i v_i$ nach Basisdefinition.
+Definiere man nun $F(v) = F(\sum_1^r \lambda_i v_i) = \sum_1^r \lambda_i F(v_i) := \sum_1^r \lambda_i w_i$
+
+Man ordnet $v$ also einem $w \in W$ zu, der sich als Lin
