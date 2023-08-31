@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "Bio GK/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "Bio GK/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "Bio GK/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
+                "file": "Bio GK/Untitled.md"
               }
             }
           }
@@ -317,12 +317,13 @@
   },
   "active": "b445394b9f5d113d",
   "lastOpenFiles": [
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "Bio GK/Untitled.md",
     "LinA/Satz der linearen Fortsetzung.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Basen.md",
     "LinA/Basisaustauschlemma.md",
     "LinA/Matrizen.md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Informatik Unterricht/Ablage.md",
     "Untitled 2.md",
     "Untitled 1.md",
@@ -352,7 +353,6 @@
     "Geographie/HDI.md",
     "Geographie/BNE.md",
     "Mathe-LK/Kombination.md",
-    "Mathe-LK/Permutation.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
