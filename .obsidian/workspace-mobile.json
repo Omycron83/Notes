@@ -50,9 +50,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f029e8f5a5a344bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Lehrbuchlösungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+            "file": "Mathe-LK/Lehrbuchlösungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+            "file": "Mathe-LK/Lehrbuchlösungen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
+            "file": "Mathe-LK/Lehrbuchlösungen.md"
           }
         }
       }
@@ -164,11 +176,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4baa98b3f9a1e104",
+  "active": "f029e8f5a5a344bd",
   "lastOpenFiles": [
+    "Mathe-LK/Lehrbuchlösungen.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Pasted image 20230831082125.png",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "LinA/Vektorraum.md",
     "Untitled 2.md",
     "LinA/Untitled.md",
@@ -205,7 +218,6 @@
     "Pasted image 20230822160658.png",
     "Pasted image 20230822151725.png",
     "Pasted image 20230823005049.png",
-    "Pasted image 20230810202617.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA",
