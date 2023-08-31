@@ -16,3 +16,4 @@ Die Hintereinanderausführung zweier Vektoren bzw. Punktabbildungen ist die eint
 
 Multipliziert man mit einem Skalar $r$, dann entspricht dies der $r$-fachen Streckung bzw. der eintragsweisen Multiplikation mit diesem. Falls $r>0$ ändert sich dabei nur die Länge, falls $r < 0$ ändert sich die Richtung. 
 
+Man nennt jeden Vektor $\vec{OA}$ den Ortsvektor zum Punkt $A$.

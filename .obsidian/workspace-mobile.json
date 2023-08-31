@@ -51,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -134,7 +135,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -146,7 +147,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
+            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
           }
         }
       }
@@ -163,12 +164,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9ddf243dc4cd76c6",
+  "active": "4baa98b3f9a1e104",
   "lastOpenFiles": [
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "LinA/Vektorraum.md",
     "Untitled 2.md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Untitled.md",
     "Untitled 1.md",
     "LinA/Satz der linearen Fortsetzung.md",
