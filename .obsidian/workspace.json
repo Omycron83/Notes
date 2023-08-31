@@ -140,18 +140,6 @@
             }
           },
           {
-            "id": "9b117771a0c9f7a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "611bfe817da92b86",
             "type": "leaf",
             "state": {
@@ -176,12 +164,12 @@
             }
           },
           {
-            "id": "cc20e7d698e7b93e",
+            "id": "9b117771a0c9f7a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "LinA/Satz der linearen Fortsetzung.md",
                 "mode": "source",
                 "source": false
               }
@@ -200,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -266,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md"
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
               }
             }
           }
@@ -327,8 +315,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b117771a0c9f7a0",
+  "active": "b445394b9f5d113d",
   "lastOpenFiles": [
+    "LinA/Satz der linearen Fortsetzung.md",
+    "LinA/Lineare Abbildungen.md",
+    "LinA/Basen.md",
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Matrizen.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Informatik Unterricht/Ablage.md",
     "Untitled 2.md",
@@ -339,11 +332,6 @@
     "Pasted image 20230831082125.png",
     "Mathe-LK/Lehrbuchlösungen.md",
     "LinA/Untitled.md",
-    "LinA/Basen.md",
-    "LinA/Basisaustauschlemma.md",
-    "LinA/Lineare Abbildungen.md",
-    "LinA/Matrizen.md",
-    "LinA/Satz der linearen Fortsetzung.md",
     "Chemie/Redox-Reaktionen.md",
     "Untitled.md",
     "Informatik Unterricht/Q3 Informatik.md",
