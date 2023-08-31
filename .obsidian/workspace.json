@@ -186,9 +186,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b445394b9f5d113d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +262,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +278,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,9 +299,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -315,11 +319,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cc20e7d698e7b93e",
+  "active": "b445394b9f5d113d",
   "lastOpenFiles": [
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Basen.md",
     "LinA/Basisaustauschlemma.md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Matrizen.md",
     "LinA/Satz der linearen Fortsetzung.md",
