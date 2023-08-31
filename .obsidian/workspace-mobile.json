@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geographie/Weltbank und UN.md",
+                "file": "Informatik Unterricht/Ablage.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geographie/Weltbank und UN.md",
+            "file": "Informatik Unterricht/Ablage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geographie/Weltbank und UN.md",
+            "file": "Informatik Unterricht/Ablage.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -191,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geographie/Weltbank und UN.md"
+            "file": "Informatik Unterricht/Ablage.md"
           }
         }
       }
@@ -210,11 +210,13 @@
   },
   "active": "e988f8a6c023765d",
   "lastOpenFiles": [
+    "Pasted image 20230831202640.png",
+    "Geographie/Weltbank und UN.md",
+    "Informatik Unterricht/Ablage.md",
     "Geographie/HDI.md",
     "Geographie/Länderklassifikation.md",
     "Geographie/BNE.md",
     "Geographie/Entwicklungslandmerkmale.md",
-    "Geographie/Weltbank und UN.md",
     "LinA/Vektorraum.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Lehrbuchlösungen.md",
@@ -242,8 +244,6 @@
     "Informatik Unterricht",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
-    "ML/Filtration.md",
-    "Analysis/Metric Spaces.md",
     "Geographie",
     "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
