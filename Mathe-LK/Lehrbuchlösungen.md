@@ -10,7 +10,7 @@ BC = $(4, 1, 0)$
 CD = $(-7, -3, -2)$
 DA = $(-4, -1, 0)$
 Also Parallelogramm, da AC = DC, BC = AD
-$\implies$ wenn zwei Seiten gleich (Vektormäßig) dann genug für Parallelogramm
+$\implies$ wenn zwei Seiten gleich (Vektormäßig) dann genug für Parallelogramm (da Länge und Richtung)
 
 8a)
 AB = $(-18, 18, -51)$ 
