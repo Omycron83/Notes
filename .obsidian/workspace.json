@@ -191,8 +191,12 @@
             "id": "b445394b9f5d113d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Informatik Unterricht/Ablage.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -262,6 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatik Unterricht/Ablage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,6 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Informatik Unterricht/Ablage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,7 +305,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Informatik Unterricht/Ablage.md"
+              }
             }
           }
         ],
@@ -321,6 +329,15 @@
   },
   "active": "b445394b9f5d113d",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Pasted image 20230831202640.png",
+    "Pasted image 20230831090934.png",
+    "Pasted image 20230831085517.png",
+    "Pasted image 20230831082125.png",
+    "Mathe-LK/Lehrbuchlösungen.md",
+    "LinA/Untitled.md",
+    "Informatik Unterricht/Ablage.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Basen.md",
     "LinA/Basisaustauschlemma.md",
@@ -348,11 +365,6 @@
     "Geographie/BNE.md",
     "Mathe-LK/Kombination.md",
     "Mathe-LK/Permutation.md",
-    "Mathe-LK/Variation.md",
-    "LinA/Faserung eines Vektorraumes.md",
-    "Mathe-LK/Zufällige Variablen.md",
-    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
-    "ML/Univariate Probability Distributions.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
@@ -360,12 +372,8 @@
     "Untitled 1.canvas",
     "Untitled.canvas",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
-    "Pasted image 20230828092536.png",
     "Geographie",
-    "Pasted image 20230823005049.png",
     "Mathe-LK",
-    "Pasted image 20230822213943.png",
-    "Pasted image 20230822162001.png",
     "Analysis",
     "Optimization",
     "ML/Untitled",
