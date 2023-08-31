@@ -181,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bio GK/Untitled.md",
+                "file": "Bio GK/Chromosomen.md",
                 "mode": "source",
                 "source": false
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bio GK/Untitled.md",
+                "file": "Bio GK/Chromosomen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bio GK/Untitled.md",
+                "file": "Bio GK/Chromosomen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bio GK/Untitled.md"
+                "file": "Bio GK/Chromosomen.md"
               }
             }
           }
@@ -317,8 +317,10 @@
   },
   "active": "b445394b9f5d113d",
   "lastOpenFiles": [
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "Bio GK/Jahresplan.md",
+    "Bio GK/Chromosomen.md",
     "Bio GK/Untitled.md",
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Satz der linearen Fortsetzung.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Basen.md",
@@ -337,7 +339,6 @@
     "Untitled.md",
     "Informatik Unterricht/Q3 Informatik.md",
     "Informatik Unterricht",
-    "Bio GK/Jahresplan.md",
     "Bio GK",
     "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "ML/Bayes Theorem.md",
@@ -352,7 +353,6 @@
     "Geographie/Korruptionswahrnehmungsindex.md",
     "Geographie/HDI.md",
     "Geographie/BNE.md",
-    "Mathe-LK/Kombination.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
