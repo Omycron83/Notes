@@ -17,4 +17,5 @@ AB = $(-18, 18, -51)$
 CD = $(18, 18, 51) = (d_1, d_2 - 4, d_3 - 5)$
 $\implies D = (18, 22, 56)$ <- Have to recheck that
 265 13a)
+Zuerst feststellen: AB, BC selber Betrag, deshalb Schenkel des gleichschenkligen Dreiecks.
 ![[Pasted image 20230831090934.png]]
