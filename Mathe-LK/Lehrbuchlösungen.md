@@ -15,6 +15,6 @@ $\implies$ wenn zwei Seiten gleich (Vektormäßig) dann genug für Parallelogram
 8a)
 AB = $(-18, 18, -51)$ 
 CD = $(18, 18, 51) = (d_1, d_2 - 4, d_3 - 5)$
-$\implies D = (18, 22, 56)$
+$\implies D = (18, 22, 56)$ <- Have to recheck that
 265 13a)
 ![[Pasted image 20230831090934.png]]
