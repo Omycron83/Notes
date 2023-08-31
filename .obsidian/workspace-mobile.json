@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -135,7 +134,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -147,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
           }
         }
       }
@@ -164,8 +163,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4baa98b3f9a1e104",
+  "active": "9ddf243dc4cd76c6",
   "lastOpenFiles": [
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "LinA/Vektorraum.md",
     "Untitled 2.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
@@ -179,7 +179,6 @@
     "LinA/Faserung eines Vektorraumes.md",
     "Informatik Unterricht/Q3 Informatik.md",
     "LinA/Basen.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Bio GK/Jahresplan.md",
     "LinA/Lineare Abbildungen.md",
     "Bio GK",
