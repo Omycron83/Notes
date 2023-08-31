@@ -4,143 +4,99 @@
     "type": "split",
     "children": [
       {
-        "id": "87f01a215820aae3",
+        "id": "067c4725742868b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8249b45383512a",
+            "id": "9ddf243dc4cd76c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Lineare Gleichungssysteme.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f1b55bd944c9f48",
+            "id": "71a322c23c91fd00",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a691597073cba6c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Vektorraum.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "236326399ad4d890",
+            "id": "4aabacc18b3619f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
+                "file": "Geographie/Entwicklungslandmerkmale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ca08e14ab263dacf",
+            "id": "e988f8a6c023765d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/3. Semester Mathe LK.md",
+                "file": "Informatik Unterricht/Ablage.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e398b4a70e4c7fc3",
+            "id": "40ce157943a4c1bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Faserung eines Vektorraumes.md",
+                "file": "Geographie/Länderklassifikation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "baed8734ef5adf5e",
+            "id": "6d4b008b4a0dd982",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik Unterricht/Q3 Informatik.md",
+                "file": "Geographie/HDI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5919afa257527cf0",
+            "id": "548ea87e95a74527",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f66dc227ccab89c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eab0b00e5206f2b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bio GK/Jahresplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8228a6d8bddd42e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Matrizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07f7b79ccbc611fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Abbildungen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -206,7 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Matrizen.md",
+            "file": "Informatik Unterricht/Ablage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,7 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Matrizen.md",
+            "file": "Informatik Unterricht/Ablage.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -235,7 +191,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Matrizen.md"
+            "file": "Informatik Unterricht/Ablage.md"
           }
         }
       }
@@ -252,48 +208,48 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8228a6d8bddd42e3",
+  "active": "e988f8a6c023765d",
   "lastOpenFiles": [
-    "LinA/Lineare Abbildungen.md",
+    "Pasted image 20230831202640.png",
+    "Geographie/Weltbank und UN.md",
+    "Informatik Unterricht/Ablage.md",
+    "Geographie/HDI.md",
+    "Geographie/Länderklassifikation.md",
+    "Geographie/BNE.md",
+    "Geographie/Entwicklungslandmerkmale.md",
+    "LinA/Vektorraum.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Mathe-LK/Lehrbuchlösungen.md",
+    "Pasted image 20230831090934.png",
+    "Pasted image 20230831085517.png",
+    "Pasted image 20230831082125.png",
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "Untitled 2.md",
+    "LinA/Untitled.md",
+    "Untitled 1.md",
+    "LinA/Satz der linearen Fortsetzung.md",
+    "LinA/Lineare Gleichungssysteme.md",
     "LinA/Matrizen.md",
+    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
+    "Mathe-LK/3. Semester Mathe LK.md",
+    "LinA/Faserung eines Vektorraumes.md",
+    "Informatik Unterricht/Q3 Informatik.md",
     "LinA/Basen.md",
     "Bio GK/Jahresplan.md",
-    "Mathe-LK/3. Semester Mathe LK.md",
-    "LinA/Lineare Gleichungssysteme.md",
+    "LinA/Lineare Abbildungen.md",
     "Bio GK",
     "Untitled.md",
-    "Informatik Unterricht/Q3 Informatik.md",
     "Chemie",
     "Chemie/Redox-Reaktionen.md",
     "Informatik Unterricht",
-    "LinA/Faserung eines Vektorraumes.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
-    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
-    "LinA/Vektorraum.md",
-    "ML/Filtration.md",
-    "Analysis/Metric Spaces.md",
-    "ML/Bayes Theorem.md",
-    "Analysis/Normed linear spaces.md",
-    "Geographie/Weltbank und UN.md",
-    "Geographie/BNE.md",
-    "Geographie/HDI.md",
-    "Geographie/Entwicklungslandmerkmale.md",
-    "Mathe-LK/Kombination.md",
-    "Geographie/Korruptionswahrnehmungsindex.md",
-    "Geographie/Jahresplan.md",
-    "Länderklassifikation.md",
-    "Entwicklungslandmerkmale.md",
     "Geographie",
     "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
     "PNG-Bild.png",
     "Pasted image 20230822160658.png",
-    "Pasted image 20230822151725.png",
-    "Pasted image 20230823005049.png",
-    "Pasted image 20230810202617.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA",
