@@ -114,9 +114,81 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "68c346ed8b7e0abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Matrizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c651714b12d8ac6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Lineare Abbildungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b117771a0c9f7a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "611bfe817da92b86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basisaustauschlemma.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c05c04045c02ad5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc20e7d698e7b93e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -182,7 +254,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemie/Redox-Reaktionen.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemie/Redox-Reaktionen.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemie/Redox-Reaktionen.md"
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
               }
             }
           }
@@ -243,10 +315,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71432390e2707c34",
+  "active": "cc20e7d698e7b93e",
   "lastOpenFiles": [
-    "ML/Bayes Theorem.md",
+    "LinA/Basen.md",
+    "LinA/Basisaustauschlemma.md",
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "LinA/Lineare Abbildungen.md",
+    "LinA/Matrizen.md",
+    "LinA/Satz der linearen Fortsetzung.md",
     "Chemie/Redox-Reaktionen.md",
+    "Untitled.md",
+    "Informatik Unterricht/Q3 Informatik.md",
+    "Informatik Unterricht",
+    "Bio GK/Jahresplan.md",
+    "Bio GK",
+    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
+    "ML/Bayes Theorem.md",
     "Chemie",
     "Analysis/Untitled",
     "Pasted image 20230829110558.png",
@@ -258,7 +342,6 @@
     "Geographie/Korruptionswahrnehmungsindex.md",
     "Geographie/HDI.md",
     "Geographie/BNE.md",
-    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Mathe-LK/Kombination.md",
     "Mathe-LK/Permutation.md",
     "Mathe-LK/Variation.md",
@@ -266,23 +349,14 @@
     "Mathe-LK/Zufällige Variablen.md",
     "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
     "ML/Univariate Probability Distributions.md",
-    "ML/Unconditional Distributions.md",
-    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
-    "ML/Transformers.md",
-    "Current Life.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
-    "README.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "ML/DDQN - Architecture.md",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
-    "LinA/Lineare Gleichungssysteme.md",
     "Pasted image 20230828092536.png",
-    "ML/Probability Spaces.md",
-    "ML/Markov Chains.md",
     "Geographie",
     "Pasted image 20230823005049.png",
     "Mathe-LK",
@@ -291,8 +365,6 @@
     "Analysis",
     "Optimization",
     "ML/Untitled",
-    "ML",
-    "LinA/Untitled",
-    "LinA"
+    "ML"
   ]
 }

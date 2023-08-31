@@ -126,7 +126,14 @@ Beweis:
 	2. Die Assoziativität ist [[Matrizen#^b1f482|gezeigt]]
 	3. Das Distributivgesetz ist Körperinduziert (man schaue sich diese lediglich Elementweise an)
 
-## Matrizen stellen lineare Abbildungen dar:
-Auffällig ist die Möglichkeit einer Matrix, die Linearkombination zwischen einem Vektor $v$ 
+## Matrizen stellen lineare Abbildungen dar (Darstellungssatz):
 
-Betrachte man zwei Vektorräume $V, W$ mit Basen $v_1, …, v_r$ und $w_1, …, w_n$. Dann kann jeder Vektor 
+Seien $V, W$ endlichdimensionale Vektorräume über demselben Körper $K$ und $B \in V^m$ eine 
+
+#### Herleitung:
+Es fällt auf, dass man Matrizen leicht zur Darstellung von Linearkombinationen nutzen lassen kann: $\begin{pmatrix} b_1, & ... & ,b_n \end{pmatrix} \cdot \begin{pmatrix} \lambda_1 \\ ...\\ \lambda_n  \end{pmatrix} = \lambda_1 b_1 + ... + \lambda_n b_n = v$ 
+wobei hier die Linearkombination eines Vektors $v$ durch die Basisvektoren dargestellt wird.
+
+Wir wissen außerdem, dass lineare Abbildungen stets Basen auf Basen abbilden: [[Lineare Abbildungen#^9fe493]].
+
+Betrachte man zwei Vektorräume $V, W$ über demselben Körper $K$ mit Basen $v_1, …, v_r$ und $w_1, …, w_n$. Dann kann jeder Vektor 

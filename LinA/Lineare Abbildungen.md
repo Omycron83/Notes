@@ -28,6 +28,7 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 	$F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = \lambda_1 F(v_1) + ... + \lambda_n F(v_n)$ nach 2.
 	Und da wir aus 1. wissen, dass $F(o) = o$ ergibt die Linearkombination von $F(v_1), ..., F(v_n)$ auch hier den Nullvektor, und dies ebenfalls mit nichtrivialen Koeffizienten. $\square$
 
+
 5.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
 	Beweis ist noch zu erbringen
 
@@ -74,13 +75,13 @@ Sei $F$ eine lineare Abbildung. Dann gilt:
 	Beweis: Per Definition
 
 - $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
-	Beweis: 
+	Beweis:  ^683b21
 	1. Die 'hin' Richtung sei trivial
 	2. Nehma man an, der Kern besteht nur aus dem Nullvektor, d.h. es wenn $v \neq v'$ dann gibt es keine $v - v' = o$. Dann ist $F(v - v') \neq o \Leftrightarrow F(v) - F(v') \neq o \Leftrightarrow F(v) \neq F(v')$ $\square$
 
 - Ist $F$ [[Abbildungen#^4b4823|injektiv]], dann gilt: $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]] $\implies$ $F(v_1), ..., F(v_n)$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]]
 	Beweis: Seien $v_1, ..., v_n$ linear unabhängig. Dann ist $\lambda_1 v_1 + ... + \lambda_n v_n = o \implies \lambda_1 = ... = \lambda_n$
 	Wir wissen nach obrigem, dass $ker \; F = \{o \} \Leftrightarrow$ Injektivität. So gilt $F(v) = o$ genau dann, wenn $v = o$. Also gilt $F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = o \implies \lambda_1 = ... = \lambda_n$.
-	Und dadurch auch $\lambda_1F( v_1) + ... + \lambda_n F( v_n) = o \implies \lambda_1 = ... = \lambda_n$
+	Und dadurch auch $\lambda_1F( v_1) + ... + \lambda_n F( v_n) = o \implies \lambda_1 = ... = \lambda_n$ ^f38efc
 
 
