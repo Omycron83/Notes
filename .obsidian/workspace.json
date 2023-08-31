@@ -193,14 +193,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik Unterricht/Ablage.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatik Unterricht/Ablage.md",
+                "file": "LinA/Satz der linearen Fortsetzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informatik Unterricht/Ablage.md",
+                "file": "LinA/Satz der linearen Fortsetzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informatik Unterricht/Ablage.md"
+                "file": "LinA/Satz der linearen Fortsetzung.md"
               }
             }
           }
@@ -327,8 +327,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b445394b9f5d113d",
+  "active": "9b117771a0c9f7a0",
   "lastOpenFiles": [
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "Informatik Unterricht/Ablage.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Pasted image 20230831202640.png",
@@ -337,8 +339,6 @@
     "Pasted image 20230831082125.png",
     "Mathe-LK/Lehrbuchlösungen.md",
     "LinA/Untitled.md",
-    "Informatik Unterricht/Ablage.md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Basen.md",
     "LinA/Basisaustauschlemma.md",
     "LinA/Lineare Abbildungen.md",
