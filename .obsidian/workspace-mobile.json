@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+            "file": "Mathe-LK/Lehrbuchlösungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+            "file": "Mathe-LK/Lehrbuchlösungen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -159,7 +159,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
+            "file": "Mathe-LK/Lehrbuchlösungen.md"
           }
         }
       }
@@ -176,10 +176,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4baa98b3f9a1e104",
+  "active": "f029e8f5a5a344bd",
   "lastOpenFiles": [
-    "Mathe-LK/Lehrbuchlösungen.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Mathe-LK/Lehrbuchlösungen.md",
     "Pasted image 20230831085517.png",
     "Pasted image 20230831082125.png",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
