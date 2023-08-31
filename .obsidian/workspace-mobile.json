@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "87f01a215820aae3",
+        "id": "067c4725742868b8",
         "type": "tabs",
         "children": [
           {
-            "id": "3c6b33daa42b0f93",
+            "id": "9ddf243dc4cd76c6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,7 +113,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
+          }
         }
       }
     ],
@@ -123,8 +131,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c6b33daa42b0f93",
+  "active": "22047024947fc662",
   "lastOpenFiles": [
+    "LinA/Untitled.md",
     "Untitled 1.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Satz der linearen Fortsetzung.md",
@@ -155,7 +164,6 @@
     "Geographie/HDI.md",
     "Geographie/Entwicklungslandmerkmale.md",
     "Mathe-LK/Kombination.md",
-    "Geographie/Korruptionswahrnehmungsindex.md",
     "Geographie",
     "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
