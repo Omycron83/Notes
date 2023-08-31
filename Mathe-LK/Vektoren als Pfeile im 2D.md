@@ -20,3 +20,4 @@ Man nennt jeden Vektor $\vec{OA}$ den Ortsvektor zum Punkt $A$.
 
 ![[Pasted image 20230831082125.png]]
 
+	
