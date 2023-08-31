@@ -40,27 +40,23 @@
             }
           },
           {
-            "id": "4baa98b3f9a1e104",
+            "id": "4aabacc18b3619f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "file": "Geographie/Entwicklungslandmerkmale.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f029e8f5a5a344bd",
+            "id": "e988f8a6c023765d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe-LK/Lehrbuchlösungen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -130,7 +126,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Lehrbuchlösungen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -147,7 +142,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Lehrbuchlösungen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -158,9 +152,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Mathe-LK/Lehrbuchlösungen.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -176,15 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f029e8f5a5a344bd",
+  "active": "e988f8a6c023765d",
   "lastOpenFiles": [
-    "Pasted image 20230831090934.png",
+    "Geographie/Entwicklungslandmerkmale.md",
+    "LinA/Vektorraum.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Lehrbuchlösungen.md",
+    "Pasted image 20230831090934.png",
     "Pasted image 20230831085517.png",
     "Pasted image 20230831082125.png",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
-    "LinA/Vektorraum.md",
     "Untitled 2.md",
     "LinA/Untitled.md",
     "Untitled 1.md",
@@ -217,7 +210,6 @@
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
     "PNG-Bild.png",
     "Pasted image 20230822160658.png",
-    "Pasted image 20230822151725.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA",
