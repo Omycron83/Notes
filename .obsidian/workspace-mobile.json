@@ -55,12 +55,48 @@
             "id": "e988f8a6c023765d",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Weltbank und UN.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "40ce157943a4c1bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/Länderklassifikation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d4b008b4a0dd982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geographie/HDI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "548ea87e95a74527",
+            "type": "leaf",
+            "state": {
               "type": "empty",
               "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -126,6 +162,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Geographie/HDI.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -142,6 +179,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Geographie/HDI.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -152,7 +190,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Geographie/HDI.md"
+          }
         }
       }
     ],
@@ -168,9 +208,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e988f8a6c023765d",
+  "active": "6d4b008b4a0dd982",
   "lastOpenFiles": [
+    "Geographie/Länderklassifikation.md",
+    "Geographie/BNE.md",
+    "Geographie/HDI.md",
     "Geographie/Entwicklungslandmerkmale.md",
+    "Geographie/Weltbank und UN.md",
     "LinA/Vektorraum.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Lehrbuchlösungen.md",
@@ -200,10 +244,6 @@
     "Pasted image 20230829101315.png",
     "ML/Filtration.md",
     "Analysis/Metric Spaces.md",
-    "ML/Bayes Theorem.md",
-    "Analysis/Normed linear spaces.md",
-    "Geographie/Weltbank und UN.md",
-    "Geographie/BNE.md",
     "Geographie",
     "Pasted image 20230828092620.png",
     "Pasted image 20230828092536.png",
