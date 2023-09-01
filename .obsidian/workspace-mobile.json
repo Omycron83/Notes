@@ -23,12 +23,15 @@
             "id": "37fddf584f56013b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -120,7 +125,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
+          }
         }
       }
     ],
@@ -136,8 +143,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37fddf584f56013b",
+  "active": "548ea87e95a74527",
   "lastOpenFiles": [
+    "LinA/Satz der linearen Fortsetzung.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Geographie/HDI.md",
     "Geographie/Länderklassifikation.md",
@@ -157,7 +165,6 @@
     "Untitled 2.md",
     "LinA/Untitled.md",
     "Untitled 1.md",
-    "LinA/Satz der linearen Fortsetzung.md",
     "LinA/Lineare Gleichungssysteme.md",
     "LinA/Matrizen.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
