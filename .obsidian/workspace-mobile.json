@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Darstellungssatz.md",
+            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Darstellungssatz.md",
+            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Darstellungssatz.md"
+            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md"
           }
         }
       }
@@ -180,10 +180,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b10c70af73b319b7",
+  "active": "b5d1c81f80974d91",
   "lastOpenFiles": [
-    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Darstellungssatz.md",
+    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Matrizen.md",
     "LinA/Satz der linearen Fortsetzung.md",
