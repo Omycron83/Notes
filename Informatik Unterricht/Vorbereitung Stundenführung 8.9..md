@@ -2,4 +2,6 @@ Ablage:
 ![[Pasted image 20230831202640.png]]
 
 Inhalte:
-1. 
+1. DFS & BFS
+2. Dijkstra
+3. Dynamic Programming
