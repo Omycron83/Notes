@@ -1,1 +1,1 @@
-Seien $V, W$ Vektorräume über demselben Körper $K$ mit Basen $v_1, …, v_n$ und $w_1, …, w_m$. Dann kann man die lineare Abbildung $F: V \rightarrow W, F(v) = F(w)$ 
+Seien $V, W$ Vektorräume über demselben Körper $K$ mit Basen $v_1, …, v_n$ und $w_1, …, w_m$. Dann kann man eine lineare Abbildung $F: V \rightarrow W, F(v) = w$ durch eine Matrix $M \in K^{m \times n}$  darstellen.

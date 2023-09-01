@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
+            "file": "LinA/Darstellungssatz.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
+            "file": "LinA/Darstellungssatz.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -163,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md"
+            "file": "LinA/Darstellungssatz.md"
           }
         }
       }
@@ -180,15 +180,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b5d1c81f80974d91",
+  "active": "b10c70af73b319b7",
   "lastOpenFiles": [
+    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Darstellungssatz.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Matrizen.md",
     "LinA/Satz der linearen Fortsetzung.md",
     "Geographie/HDI.md",
     "Geographie/Länderklassifikation.md",
-    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "Geographie/Entwicklungslandmerkmale.md",
     "LinA/Vektorraum.md",
     "Bio GK/Untitled.md",
