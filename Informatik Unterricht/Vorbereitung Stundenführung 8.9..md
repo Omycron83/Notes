@@ -21,5 +21,5 @@ Also Vorzubereiten:
 - “Problemprogramme” zur Algorithmenprüfung
 - Pseudocode + Zeitkomplexität Herleitung
 
-- Generell: Wie Unterrichtsdiskussion lenken? Zeitplan? Mögliche Automatische Korrektur? 
+- Generell: Wie Unterrichtsdiskussion lenken? Zeitplan? Mögliche Automatische Korrektur Wär Ge? 
 
