@@ -1,1 +1,1 @@
-Sei 
+Seien $V,w
