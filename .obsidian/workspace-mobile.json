@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9ddf243dc4cd76c6",
+            "id": "548ea87e95a74527",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,75 +20,7 @@
             }
           },
           {
-            "id": "71a322c23c91fd00",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a691597073cba6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Vektorraum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4aabacc18b3619f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/Entwicklungslandmerkmale.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e988f8a6c023765d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Informatik Unterricht/Ablage.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "40ce157943a4c1bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/Länderklassifikation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d4b008b4a0dd982",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geographie/HDI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "548ea87e95a74527",
+            "id": "37fddf584f56013b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -96,7 +28,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,7 +94,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Informatik Unterricht/Ablage.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -179,7 +110,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Informatik Unterricht/Ablage.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -190,9 +120,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Informatik Unterricht/Ablage.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -208,22 +136,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e988f8a6c023765d",
+  "active": "37fddf584f56013b",
   "lastOpenFiles": [
-    "Pasted image 20230831202640.png",
-    "Geographie/Weltbank und UN.md",
-    "Informatik Unterricht/Ablage.md",
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Geographie/HDI.md",
     "Geographie/Länderklassifikation.md",
-    "Geographie/BNE.md",
+    "Informatik Unterricht/Ablage.md",
     "Geographie/Entwicklungslandmerkmale.md",
     "LinA/Vektorraum.md",
+    "Bio GK/Untitled.md",
+    "Bio GK/Chromosomen.md",
+    "Pasted image 20230831202640.png",
+    "Geographie/Weltbank und UN.md",
+    "Geographie/BNE.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Lehrbuchlösungen.md",
     "Pasted image 20230831090934.png",
     "Pasted image 20230831085517.png",
     "Pasted image 20230831082125.png",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Untitled 2.md",
     "LinA/Untitled.md",
     "Untitled 1.md",
@@ -240,7 +170,6 @@
     "Bio GK",
     "Untitled.md",
     "Chemie",
-    "Chemie/Redox-Reaktionen.md",
     "Informatik Unterricht",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
@@ -249,7 +178,6 @@
     "Pasted image 20230828092536.png",
     "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
     "PNG-Bild.png",
-    "Pasted image 20230822160658.png",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA",
