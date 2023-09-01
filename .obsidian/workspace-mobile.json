@@ -67,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -133,7 +134,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -150,7 +151,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -162,7 +163,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
+            "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md"
           }
         }
       }
@@ -179,12 +180,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "548ea87e95a74527",
+  "active": "b5d1c81f80974d91",
   "lastOpenFiles": [
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Satz der linearen Fortsetzung.md",
     "LinA/Darstellungssatz.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Matrizen.md",
     "Geographie/HDI.md",
     "Geographie/Länderklassifikation.md",
