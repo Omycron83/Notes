@@ -6,7 +6,12 @@ Inhalte:
 2. Dijkstra
 3. Dynamic Programming
 
-Intuitionsidee: “Spiele” zum Algorithmen
+Gliederung:
+1. Algorithmenintuition
+2. Prinzipienbesprechung und Versuch eigene Implementation
+3. Pseudocode + Zeitkomplexitätsbesprechung
+
+Intuitionsidee: “Spiele” zur Algorithmenentdeckung
 1. Labyrinth / Directory Search?
-2. Kürzester Weg von Utrecht,  zu Rotterdamm
+2. Kürzester Weg mit 9 Euro Ticket durch Regionalzüge von Berlin nach Stuttgart or smth?
 3. Knappsack geringer Größe?

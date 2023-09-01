@@ -2,3 +2,6 @@ Seien $V, W$ Vektorräume über demselben Körper $K$ mit Basen $v_1, …, v_m$ 
 
 # Beweis:
 Durch den [[Fundamentalsatz für endlichdimensionale Vektorräume]] wissen wir, dass sich die beiden Vektorräume $V, W$ jeweils isomorph durch den $K^m$ und den $K^n$ darstellen lassen.
+Dann muss ein Homomorphismus zwischen $V$ und $W$ gleich sein zu dem Homomorphismus zwischen dem $K^m$ und dem $K^n$. 
+Ein Homomorphismus zwischen dem $K^m$ und dem $K^n$ kann man dabei durch eine Matrix $K^{m \times n}$ darstellen. 
+So kann man auch den isomorphen Homomorphismus zwischen $V, W$ durch dieselbe $K^{m \times n}$ Matrix darstellen.  
