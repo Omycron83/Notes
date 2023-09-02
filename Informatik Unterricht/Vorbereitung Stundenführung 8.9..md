@@ -2,7 +2,7 @@ Ablage:
 ![[Pasted image 20230831202640.png]]
 
 Inhalte:
-1. DFS & BFS -> Implizit am vorherigen Freitag genutzt (Ca. 25 min)
+1. DFS & BFS -> Implizit am vorherigen Freitag genutzt (Ca. 25 min) -> Nicht unb. Effizient, Eventuell bessere Algorithmen für spezifische Probleme? 
 2. Dijkstra (Ca. 30 Min)
 3. Dynamic Programming (Ca. 35 min)
 
@@ -14,7 +14,7 @@ Gliederung:
 Intuitionsidee: Eigene “Spiele” zur Algorithmenentdeckung
 1. Labyrinth / Directory Search? (Ca. 25 min)
 2. Kürzester Weg mit 9 Euro Ticket durch Regionalzüge von Berlin nach Stuttgart or smth?
-3. Knappsack geringer Größe?
+3. Knappsack geringer Größe? Anzahl an Hinbewegungsmöglichkeiten (aus Klausur)?
 
 Also Vorzubereiten:
 - Die Spiele
