@@ -124,7 +124,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "LinA/Darstellungssatz.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "LinA/Darstellungssatz.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
+                "file": "LinA/Darstellungssatz.md"
               }
             }
           }
@@ -251,8 +251,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f42404f11d07615c",
+  "active": "d80ee93c53f0f34b",
   "lastOpenFiles": [
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Darstellungssatz.md",
     "LinA/Basisaustauschlemma.md",
     "Current Life.md",
@@ -264,7 +265,6 @@
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "Bio GK/Chromosomen.md",
     "Bio GK/Untitled.md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "Informatik Unterricht/Ablage.md",
     "Untitled 2.md",
     "Untitled 1.md",
