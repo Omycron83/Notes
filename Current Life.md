@@ -1,7 +1,7 @@
 # To-Do
-1. Lin. Algebra Nachholen: Restklassenmult., Diedergruppe, Kern und Bild, 
+1. Lin. Algebra Nachholen
 2. KI-Paper: Rechnungen beenden
-3. ML-lernen: PPO, Transformer, Policy Gradient Theorem, BHO
+3. ML-lernen: Transformer, PPO Implementation
 4. Go to the gym 3x, Boxing 1-2x a week
 5. Talk to people as often as possible
 6. Still get great marks
@@ -73,7 +73,7 @@ Carbs:
 
 # Fitness:
 Routine: Push-Pull-Legs
-6-12 reps, 3 Sets?
+
 Programm Ideas:
 https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/
 
@@ -94,8 +94,8 @@ https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_
 - Leg press/Squats an smith maschine 3x 6-9 
 - Leg extensions 2x 9-12 
 - Leg curls 3x 6-9 
-- Calf raises 3x 9-12 Abs
-
+- Calf raises 3x 9-12 
+- (Abs)
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
@@ -161,9 +161,9 @@ Remember that if you're using two-factor authentication on GitHub, you might nee
 # Obsidian Layout:
 
 Introduction
-# General topics
-## Subtopics
-### Etc.
+## General topics
+### Subtopics
+#### Etc.
 
 *Sources:*
 
