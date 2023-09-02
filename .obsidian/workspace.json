@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -214,6 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "LinA/Satz der linearen Fortsetzung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,6 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "LinA/Satz der linearen Fortsetzung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,7 +253,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "LinA/Satz der linearen Fortsetzung.md"
+              }
             }
           }
         ],
@@ -271,12 +275,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3bdb3259a6fc0b7e",
+  "active": "d4d2a26d97ea158d",
   "lastOpenFiles": [
-    "LinA/Darstellungslemma von Körpervektorräumen.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Satz der linearen Fortsetzung.md",
+    "LinA/Darstellungslemma von Körpervektorräumen.md",
     "LinA/Basisaustauschlemma.md",
     "Current Life.md",
     "LinA/Matrizen.md",
