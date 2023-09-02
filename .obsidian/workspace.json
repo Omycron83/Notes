@@ -92,20 +92,24 @@
             }
           },
           {
-            "id": "3bdb3259a6fc0b7e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "f42404f11d07615c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4d2a26d97ea158d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Satz der linearen Fortsetzung.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,9 +138,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3bdb3259a6fc0b7e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -202,7 +214,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +230,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,9 +251,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -263,17 +271,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbce262113d1c003",
+  "active": "3bdb3259a6fc0b7e",
   "lastOpenFiles": [
-    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
+    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "LinA/Satz der linearen Fortsetzung.md",
     "LinA/Basisaustauschlemma.md",
     "Current Life.md",
     "LinA/Matrizen.md",
     "LinA/Lineare Abbildungen.md",
     "LinA/Basen.md",
-    "LinA/Satz der linearen Fortsetzung.md",
     "Bio GK/Jahresplan.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "Bio GK/Chromosomen.md",
