@@ -1,6 +1,6 @@
  Sei $V$ ein $K$-Vektorraum mit der Basis $B = (v_1, ..., v_n)$. Dann gibt es einen eindeutigen
  Isomorphismus $\phi_B : K^n \rightarrow V, \phi_B(e_i) = v_i$. 
-Jeder Vektorraum $V$ ist also strukturell gleich zu seinem $K^n$. 
+Jeder Vektorraum $V$ ist also strukturell gleich zu seinem $K^n$, und so sind Endlichdimensionale Vekto
 
 # Beweis:
 Der Beweis folgt aus dem [[Satz der linearen Fortsetzung]], zumindest was die Eindeutigkeit, Existenz und Injektivität angeht. Daraus, dass die Familie $B$ eine Basis ist und die Einheitsvektoren $e_i$die kanonische Basis des $K^n$ darstellen kann man die Surjektivität zeigen:
