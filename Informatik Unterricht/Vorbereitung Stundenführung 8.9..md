@@ -3,8 +3,9 @@ Ablage:
 
 Inhalte:
 1. DFS & BFS -> Implizit am vorherigen Freitag genutzt (Ca. 25 min) -> Nicht unb. Effizient, Eventuell bessere Algorithmen für spezifische Probleme? 
-2. Dijkstra (Ca. 30 Min)
-3. Dynamic Programming (Ca. 35 min)
+2. Minimax?
+3. Dijkstra (Ca. 30 Min)
+4. Dynamic Programming (Ca. 35 min)
 
 Gliederung:
 1. Algorithmenintuition (Ca. 1/3)
