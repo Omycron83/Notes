@@ -4,139 +4,152 @@
     "type": "split",
     "children": [
       {
-        "id": "8afe792fdc901662",
-        "type": "tabs",
+        "id": "970bbc80d9bee3e3",
+        "type": "split",
         "children": [
           {
-            "id": "68c346ed8b7e0abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Matrizen.md",
-                "mode": "source",
-                "source": false
+            "id": "87258205abe22a06",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bbce262113d1c003",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ]
           },
           {
-            "id": "3c651714b12d8ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Abbildungen.md",
-                "mode": "source",
-                "source": false
+            "id": "8afe792fdc901662",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "68c346ed8b7e0abe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Matrizen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3c651714b12d8ac6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Lineare Abbildungen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "611bfe817da92b86",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Basisaustauschlemma.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c05c04045c02ad5f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Basen.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9b117771a0c9f7a0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Satz der linearen Fortsetzung.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b445394b9f5d113d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Bio GK/Jahresplan.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2cbf84c5dce1e090",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Current Life.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "3bdb3259a6fc0b7e",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "f42404f11d07615c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "d80ee93c53f0f34b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "611bfe817da92b86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basisaustauschlemma.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c05c04045c02ad5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9b117771a0c9f7a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b445394b9f5d113d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bio GK/Jahresplan.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2cbf84c5dce1e090",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Current Life.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bdb3259a6fc0b7e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "d80ee93c53f0f34b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Darstellungssatz.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f42404f11d07615c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbce262113d1c003",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ],
+            "currentTab": 9
           }
         ],
-        "currentTab": 10
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -202,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md"
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md"
               }
             }
           }
@@ -263,10 +276,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbce262113d1c003",
+  "active": "d80ee93c53f0f34b",
   "lastOpenFiles": [
     "LinA/Darstellungslemma von Körpervektorräumen.md",
-    "LinA/Darstellungssatz.md",
+    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Basisaustauschlemma.md",
     "Current Life.md",
