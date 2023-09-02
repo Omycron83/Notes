@@ -148,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md",
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Darstellungslemma von Körpervektorräumen.md"
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md"
               }
             }
           }
@@ -275,7 +275,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bbce262113d1c003",
+  "active": "d80ee93c53f0f34b",
   "lastOpenFiles": [
     "LinA/Darstellungslemma von Körpervektorräumen.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
