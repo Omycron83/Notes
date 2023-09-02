@@ -77,10 +77,24 @@ Routine: Push-Pull-Legs
 Programm Ideas:
 https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/
 
-Stuff 
-
-
-
+## Custom Thing:
+### Push:
+- Chest press 3x 6-9 
+- Shoulder press 3x 6-9 
+- Machine fly 2x 9-12 
+- Seitheben maschine 2x 9-12
+- Trizeps maschine 2x 9-12
+### Pull:
+- Pull ups 3x 6-9
+- Pull downs 3x 6-9
+- Wide rows 3x 6-9 
+- Seated cable rows 3x 6-9 
+- Preacher curl maschine 3x 9-12
+### Legs:
+- Leg press/Squats an smith maschine 3x 6-9 
+- Leg extensions 2x 9-12 
+- Leg curls 3x 6-9 
+- Calf raises 3x 9-12 Abs
 
 # Current links:
 Habitica: https://habitica.com/
