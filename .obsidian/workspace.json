@@ -200,6 +200,16 @@
             }
           },
           {
+            "id": "bf10b9334543d370",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
+          },
+          {
             "id": "3bdb3259a6fc0b7e",
             "type": "leaf",
             "state": {
@@ -208,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -335,7 +345,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2cbf84c5dce1e090",
+  "active": "bf10b9334543d370",
   "lastOpenFiles": [
     "LinA/Darstellungssatz.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
