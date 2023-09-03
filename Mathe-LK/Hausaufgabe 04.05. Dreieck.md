@@ -28,20 +28,21 @@ Vereinfache man:
 $\Leftrightarrow c_1^2 - 14c_1 + 49 + c_2^2 + 6c_2 + 9 = c_1^2 - 8c_1 + 16 + c_2^2 - 2c_2 + 1$
 $\Leftrightarrow -6 c_1 + 41 = -8c_2$
 $\Leftrightarrow c_2 = \frac{6}{8} c_1 - \frac{41}{8}$
+$\Leftrightarrow c_2 = \frac{3}{4}c_1 - \frac{41}{8}$
 
 2.) $c_3 = 5$
 
 3.)
 $((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(5)= 12$
 $c_3 = 5$ einsetzen:
-$\Leftrightarrow c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (2.5) = 12$
+$\Leftrightarrow (c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (2.5) = 12$
 $\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 4.8$
 
 Nun kann man die 1. Gleichung in die 2. Einsetzen:
 $c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 4.8$
 $\Leftrightarrow c_1 = 5 \pm \sqrt{3.072} \Leftrightarrow c_{1, 1} \sim 7.253, c_{1, 2} \sim 3.747$
 
-Damit ist $c_{2, 1} \sim 0.314, c_{2, 2} \sim -2.314$
+Damit ist $c_{2, 1} \sim 0.3148, c_{2, 2} \sim -2.3146$
 
 
 Sodass $C = (c_1, c_2, c_3) = ()$
