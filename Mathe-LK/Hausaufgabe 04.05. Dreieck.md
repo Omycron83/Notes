@@ -11,9 +11,12 @@ $|| A - B|| = ||(3, -4, 0)|| = \sqrt{3^2 + 4^2} = 5$.
 
 b)
 Das Dreieck muss dann drei Gleichungen erfüllen:
+
 1) $|| A - C || = || B - C ||$ -> Schenkel gleich lang
 2) $MC = (0, 0, z)$  -> Orthogonal = Senkrecht auf, Produkt mit (0, 1, 1)
 3) $||MC|| \cdot ||\frac{1}{2} AB|| = 12$ -> Triviale Flächeninhaltsberechnung
 
 Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
+![[Pasted image 20230903183114.png]]
+
 

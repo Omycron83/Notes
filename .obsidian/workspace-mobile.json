@@ -83,8 +83,12 @@
             "id": "1ffc356b2acaf8d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -154,6 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,6 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -180,7 +186,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
+          }
         }
       }
     ],
@@ -198,6 +206,8 @@
   },
   "active": "1ffc356b2acaf8d4",
   "lastOpenFiles": [
+    "Pasted image 20230903183114.png",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "Pasted image 20230903163303.png",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
@@ -227,8 +237,6 @@
     "Untitled 1.md",
     "LinA/Lineare Gleichungssysteme.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
-    "Mathe-LK/3. Semester Mathe LK.md",
-    "LinA/Faserung eines Vektorraumes.md",
     "Bio GK",
     "Chemie",
     "Informatik Unterricht",

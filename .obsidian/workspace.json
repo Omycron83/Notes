@@ -182,9 +182,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "37c65150ce3446bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -250,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +302,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -311,9 +323,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "713b625f90fe533d",
+  "active": "37c65150ce3446bf",
   "lastOpenFiles": [
     "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20230903183114.png",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
@@ -349,10 +363,8 @@
     "Analysis/Untitled",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
-    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
-    "PNG-Bild.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
