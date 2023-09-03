@@ -14,3 +14,11 @@ Das Dreieck muss dann drei Gleichungen erfüllen:
 1) $|| A - C || = || B - C ||$ 
 2) $MC = (0, 0, z)$ 
 3) ||MC|| \cdot \frac{1||
+
+
+
+
+
+
+
+![[Pasted image 20230903183114.png]]
