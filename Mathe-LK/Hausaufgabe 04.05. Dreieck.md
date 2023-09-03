@@ -39,7 +39,7 @@ $\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 4.8$
 
 Nun kann man die 1. Gleichung in die 2. Einsetzen:
 $c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 4.8$
-$\Leftrightarrow d$
+$\Leftrightarrow x = $
 
 
 Sodass $C = (c_1, c_2, c_3) = ()$
