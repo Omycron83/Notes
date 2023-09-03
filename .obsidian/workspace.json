@@ -170,9 +170,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "713b625f90fe533d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -238,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
               }
             }
           }
@@ -299,8 +311,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19417d3c5fc228a7",
+  "active": "713b625f90fe533d",
   "lastOpenFiles": [
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
@@ -335,7 +349,6 @@
     "Analysis/Untitled",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
