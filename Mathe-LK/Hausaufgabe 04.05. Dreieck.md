@@ -12,7 +12,7 @@ b)
 Das Dreieck muss dann drei Gleichungen erfüllen:
 
 1) $|| C - A|| = ||C - B||$ -> Schenkel gleich lang
-2) $MC = (x, y, 5)$  -> Orthogonal = Senkrecht auf
+2) $C = (x, y, 5)$  -> Orthogonal = Senkrecht auf
 3) $||MC|| \cdot ||\frac{1}{2} AB|| = 12$ -> Triviale Flächeninhaltsberechnung
 
 Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
@@ -20,8 +20,25 @@ Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
 
 Sodass Bedingungen zu
 1) $(c_1 - 7)^2 + (c_2 + 3)^2 = (c_1 - 4)^2 + (c_2 - 1)^2$
-2) $(c_1 - 7, c_2 + 3, c_3 - 5) - (-1.5 , 2, 0) = (c_1 - 5.5, c_2 + 1, c_3 - 5) = (x, y, 5)$
-3) $||(c_1 - 5.5, c_2 + 1, c_3 - 5)|| \cdot \frac{1}{2}||(-1.5 , 2, 0)|| =$
-$((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(2.25 + 4)= 12$
+2) $c_3 = 5$
+3) $||(c_1 - 5.5, c_2 + 1, c_3 - 5)|| \cdot \frac{1}{2}||(-1.5 , 2, 0)|| = 12$ 
 
-werden
+Vereinfache man:
+1.)
+$\Leftrightarrow c_1^2 - 14c_1 + 49 + c_2^2 + 6c_2 + 9 = c_1^2 - 8c_1 + 16 + c_2^2 - 2c_2 + 1$
+$\Leftrightarrow -6 c_1 + 41 = -8c_2$
+
+2.) $c_3 = 5$
+
+3.)
+$((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(2.25 + 4)= 12$
+$\Leftrightarrow c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (3.125) = 12$
+$\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 3.84$
+
+Nun kann man die 1. Gleichung in die 2. Einsetzen:
+$c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 3.84$
+$\Leftrightarrow d$
+
+
+
+Sodass $C = (c_1, c_2, c_3) = ()$
