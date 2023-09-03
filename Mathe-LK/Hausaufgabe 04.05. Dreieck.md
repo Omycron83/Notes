@@ -12,4 +12,5 @@ $|| A - B|| = ||(3, -4, 0)|| = \sqrt{3^2 + 4^2} = 5$.
 b)
 Das Dreieck muss dann drei Gleichungen erfüllen:
 1) $|| A - C || = || B - C ||$ 
-2) $MC \cdot  (1, 1, 0)$ 
+2) $MC = (0, 0, z)$ 
+3) ||MC|| \cdot \frac{1||
