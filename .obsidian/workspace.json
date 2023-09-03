@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "file": "Geschichte/Faschismus.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "file": "Geschichte/Faschismus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "file": "Geschichte/Faschismus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md"
+                "file": "Geschichte/Faschismus.md"
               }
             }
           }
@@ -301,8 +301,12 @@
   },
   "active": "19417d3c5fc228a7",
   "lastOpenFiles": [
-    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "Geschichte/Aufstieg NSDAP.md",
+    "Geschichte/Faschismus.md",
+    "Geschichte/Weimarer Republik.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Geschichte",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "Pasted image 20230903201916.png",
     "Pasted image 20230903201525.png",
@@ -332,10 +336,8 @@
     "LinA/Untitled.md",
     "Chemie/Redox-Reaktionen.md",
     "Untitled.md",
-    "Informatik Unterricht/Q3 Informatik.md",
     "Informatik Unterricht",
     "Bio GK",
-    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Chemie",
     "Analysis/Untitled",
     "Pasted image 20230829110558.png",
@@ -347,7 +349,6 @@
     "Mathe-LK",
     "Analysis",
     "Optimization",
-    "ML/Untitled",
-    "ML"
+    "ML/Untitled"
   ]
 }
