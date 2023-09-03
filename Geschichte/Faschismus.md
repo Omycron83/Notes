@@ -1,3 +1,3 @@
-Der Faschismus ist 
+Der Faschismus ist und beschreibt eine Sammlung rechtsextremer, rassistischer und fremdenfeindlicher radikaler Bewegungen, die . Es ist also mehr eine Bewegungsform als  
 
-Enstanden ist die Bewegung 1915 mit der "Fascio de Azione Rivoluzionaria" unter Mussolini in Italien. Das Wort "Fascio", von dem der Name kommt, st
+Enstanden ist die Bewegung 1915 mit der "Fascio de Azione Rivoluzionaria" unter Mussolini in Italien. Das Wort "Fascio", von dem der Name kommt, heißt im italienischen so etwas wie "Bund", was den Faschismus zum "Bündlertum" macht und die Verbindung zum "Führerprinzip" des späteren alten Roms aufbaut.

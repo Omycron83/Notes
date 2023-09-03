@@ -165,7 +165,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Faschismus.md",
+                "file": "Geschichte/Weltwirtschaftskrise 1933.md",
                 "mode": "source",
                 "source": false
               }
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Faschismus.md",
+                "file": "Geschichte/Weltwirtschaftskrise 1933.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Faschismus.md",
+                "file": "Geschichte/Weltwirtschaftskrise 1933.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Faschismus.md"
+                "file": "Geschichte/Weltwirtschaftskrise 1933.md"
               }
             }
           }
@@ -301,8 +301,9 @@
   },
   "active": "19417d3c5fc228a7",
   "lastOpenFiles": [
-    "Geschichte/Aufstieg NSDAP.md",
     "Geschichte/Faschismus.md",
+    "Geschichte/Weltwirtschaftskrise 1933.md",
+    "Geschichte/Aufstieg NSDAP.md",
     "Geschichte/Weimarer Republik.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Geschichte",
@@ -335,7 +336,6 @@
     "Mathe-LK/Lehrbuchlösungen.md",
     "LinA/Untitled.md",
     "Chemie/Redox-Reaktionen.md",
-    "Untitled.md",
     "Informatik Unterricht",
     "Bio GK",
     "Chemie",
