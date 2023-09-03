@@ -1,6 +1,6 @@
 Sei $V$ ein $K$-Vektorraum mit der Basis $B = (v_1, ..., v_n)$. Dann gibt es einen eindeutigen Isomorphismus $\phi_B : K^n \rightarrow V, \phi_B(e_i) = v_i$. 
 
-Nach diesem ist eines jedes $v \in V$ bez. einer Basis darstellbar durch einen Tupelvektor, der die Linearkombinationskoeffizienten ein 
+Nach diesem ist eines jedes $v \in V$ bez. einer Basis darstellbar durch einen Tupelvektor, der die Linearkombinationskoeffizienten eines jeweiligen Basisvektors in seinem jeweiligen Eintrag enthält.
 
 Jeder Vektorraum $V$ ist also strukturell gleich zu seinem $K^n$, und so sind **endlichdimensionale Vektorräume gleicher Dimension isomorph** (dies folgt außerdem aus den Zusätzen des [[Satz der linearen Fortsetzung]]).
 
