@@ -165,14 +165,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geschichte/Faschismus.md",
+                "file": "Geschichte/Weimarer Republik.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geschichte/Faschismus.md",
+                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Geschichte/Faschismus.md",
+                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Geschichte/Faschismus.md"
+                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md"
               }
             }
           }
@@ -299,16 +299,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "19417d3c5fc228a7",
+  "active": "9f1a1f2d1d9857dd",
   "lastOpenFiles": [
     "Geschichte/Weimarer Republik.md",
-    "Geschichte/Weltwirtschaftskrise 1933.md",
     "Geschichte/Faschismus.md",
+    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
+    "Geschichte/Weltwirtschaftskrise 1933.md",
     "Geschichte/Aufstieg NSDAP.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Geschichte",
     "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
-    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "Pasted image 20230903201916.png",
     "Pasted image 20230903201525.png",
     "conflict-files-obsidian-git.md",
