@@ -45,4 +45,8 @@ $\Leftrightarrow c_1 = 5 \pm \sqrt{3.072} \Leftrightarrow c_{1, 1} \sim 7.253, c
 Damit ist $c_{2, 1} \sim 0.3148, c_{2, 2} \sim -2.3146$
 
 
-Sodass $C = (c_1, c_2, c_3) = ()$
+Sodass $C = (c_1, c_2, c_3) \sim (7.253, 0.3148, 5)$.
+Damit ist die Fläche $\sim 12$, dass Dreieck ist Gleichseitig und steht orthogonal zur XY-Ebene.
+
+![[Pasted image 20230903201916.png]]
+
