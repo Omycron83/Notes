@@ -22,3 +22,4 @@ $= \sum_1^n a_{ij} \cdot e_i$ Nach obiger Definition von $\phi_B$ als Isomorphis
 
 
 
+
