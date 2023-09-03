@@ -160,7 +160,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md"
+                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md"
               }
             }
           }
@@ -287,12 +287,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d80ee93c53f0f34b",
+  "active": "f42404f11d07615c",
   "lastOpenFiles": [
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
-    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Satz der linearen Fortsetzung.md",
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
+    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+    "Pasted image 20230903163303.png",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Basisaustauschlemma.md",
     "Current Life.md",
@@ -324,14 +325,12 @@
     "Pasted image 20230829101315.png",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
-    "Mathe-LK/3. Semester Mathe LK.md",
     "Pasted image 20230811163540.png",
     "Pasted image 20230828092620.png",
     "PNG-Bild.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
     "Geographie",
     "Mathe-LK",
     "Analysis",
