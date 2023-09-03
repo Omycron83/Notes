@@ -31,9 +31,10 @@ $\Leftrightarrow -6 c_1 + 41 = -8c_2$
 2.) $c_3 = 5$
 
 3.)
-$((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(2.25 + 4)= 12$
-$\Leftrightarrow c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (3.125) = 12$
-$\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 3.84$
+$((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(5)= 12$
+$c_3 = 5$ einsetzen
+$\Leftrightarrow c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (2.5) = 12$
+$\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 4.8$
 
 Nun kann man die 1. Gleichung in die 2. Einsetzen:
 $c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 3.84$
