@@ -39,7 +39,9 @@ $\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 4.8$
 
 Nun kann man die 1. Gleichung in die 2. Einsetzen:
 $c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 4.8$
-$\Leftrightarrow x = $
+$\Leftrightarrow c_1 = 5 \pm \sqrt{3.072} \Leftrightarrow c_{1, 1} \sim 7.253, c_{1, 2} \sim 3.747$
+
+Damit ist $c_{2, 1} \sim 0.314, c_{2, 2} \sim -2.314$
 
 
 Sodass $C = (c_1, c_2, c_3) = ()$
