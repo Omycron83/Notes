@@ -182,21 +182,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "37c65150ce3446bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -262,7 +250,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,7 +290,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
               }
             }
           }
@@ -323,10 +311,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37c65150ce3446bf",
+  "active": "713b625f90fe533d",
   "lastOpenFiles": [
-    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "conflict-files-obsidian-git.md",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "Pasted image 20230903183114.png",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",

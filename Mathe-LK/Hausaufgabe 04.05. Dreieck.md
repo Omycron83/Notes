@@ -19,4 +19,6 @@ Das Dreieck muss dann drei Gleichungen erfüllen:
 Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
 ![[Pasted image 20230903183114.png]]
 
-
+Sodass 2) und 3) zu
+2) $(c_1 - 7, c_2 + 3, c_3 - 5) - ( , , 0) = (0, 0, z)$
+werden
