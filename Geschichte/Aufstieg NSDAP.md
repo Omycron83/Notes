@@ -1,0 +1,2 @@
+Faktoren:
+1. 

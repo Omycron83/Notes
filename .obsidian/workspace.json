@@ -165,26 +165,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "713b625f90fe533d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "file": "Geschichte/Weimarer Republik.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -250,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +255,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,7 +278,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
+                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md"
               }
             }
           }
@@ -311,11 +299,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "713b625f90fe533d",
+  "active": "9f1a1f2d1d9857dd",
   "lastOpenFiles": [
-    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Geschichte/Weimarer Republik.md",
+    "Geschichte/Faschismus.md",
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
+    "Geschichte/Weltwirtschaftskrise 1933.md",
+    "Geschichte/Aufstieg NSDAP.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Geschichte",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "Pasted image 20230903201916.png",
+    "Pasted image 20230903201525.png",
+    "conflict-files-obsidian-git.md",
+    "Pasted image 20230903183114.png",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
@@ -339,20 +336,12 @@
     "Mathe-LK/Lehrbuchlösungen.md",
     "LinA/Untitled.md",
     "Chemie/Redox-Reaktionen.md",
-    "Untitled.md",
-    "Informatik Unterricht/Q3 Informatik.md",
     "Informatik Unterricht",
     "Bio GK",
-    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
-    "ML/Bayes Theorem.md",
     "Chemie",
     "Analysis/Untitled",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
-    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
-    "Pasted image 20230811163540.png",
-    "Pasted image 20230828092620.png",
-    "PNG-Bild.png",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -360,7 +349,6 @@
     "Mathe-LK",
     "Analysis",
     "Optimization",
-    "ML/Untitled",
-    "ML"
+    "ML/Untitled"
   ]
 }
