@@ -114,9 +114,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "69aba0efd82297e6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +190,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -199,7 +206,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -210,9 +216,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -228,9 +232,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b546f5541994356f",
+  "active": "69aba0efd82297e6",
   "lastOpenFiles": [
     "Geschichte/Faschismus.md",
+    "LinA/Vektorraum.md",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Geschichte/Weimarer Republik.md",
@@ -240,7 +246,6 @@
     "Geschichte/Aufstieg NSDAP.md",
     "Geschichte/Weltwirtschaftskrise 1933.md",
     "Geschichte",
-    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "Pasted image 20230903183114.png",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "Pasted image 20230903163303.png",
@@ -254,7 +259,6 @@
     "Geographie/HDI.md",
     "Geographie/Länderklassifikation.md",
     "Geographie/Entwicklungslandmerkmale.md",
-    "LinA/Vektorraum.md",
     "Bio GK/Untitled.md",
     "Bio GK/Chromosomen.md",
     "Pasted image 20230831202640.png",

@@ -1,3 +1,4 @@
+Falsch: **Orthogonalität zu einer Ebene ist bezogen auf die orthogonalität der Fläche.** Dann muss man nur entlang der z-Achse verschieben. Would be right otherwise tho.
 # Aufgabe:
 Seien $A = (7, -3, 5)$ und $B = (4, 1, 5)$. 
 
@@ -12,7 +13,7 @@ b)
 Das Dreieck muss dann drei Gleichungen erfüllen:
 
 1) $|| C - A|| = ||C - B||$ -> Schenkel gleich lang
-2) $C = (c_1, c_2, 5)$  -> Orthogonal = Normale der Fläche steht Senkrecht zur x-y-Ebene
+2) $C = (c_1, c_2, 5)$  -> Orthogonal = Normale der Fläche steht Senkrecht zur x-y-Ebene? 
 3) $||MC|| \cdot ||\frac{1}{2} AB|| = 10$ -> Triviale Flächeninhaltsberechnung
 
 Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
@@ -42,10 +43,10 @@ Nun kann man die 1. Gleichung in die 2. Einsetzen:
 $c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 4$
 $\Leftrightarrow c_1 = 5 \pm 1.6 \Leftrightarrow c_{1, 1} \sim 7.1, c_{1, 2} \sim 3.9$
 
-Damit ist $c_{2, 1} \sim 0.3148, c_{2, 2} \sim -2.3146$
+Damit ist $c_{2, 1} \sim \frac{1}{5}, c_{2, 2} \sim -2.2$
 
 
-Sodass $C = (c_1, c_2, c_3) \sim (7.253, 0.3148, 5)$ bzw. $\sim (3.747, -2.3146, 5)$
+Sodass $C = (c_1, c_2, c_3) = (,,)$ oder $(,,)$
 Damit ist die Fläche $\sim 12$, dass Dreieck ist Gleichseitig und steht orthogonal zur XY-Ebene.
 
 ![[Pasted image 20230903201916.png]]
