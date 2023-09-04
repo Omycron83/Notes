@@ -13,7 +13,7 @@ Das Dreieck muss dann drei Gleichungen erfüllen:
 
 1) $|| C - A|| = ||C - B||$ -> Schenkel gleich lang
 2) $C = (c_1, c_2, 5)$  -> Orthogonal = Normale der Fläche steht Senkrecht zur x-y-Ebene
-3) $||MC|| \cdot ||\frac{1}{2} AB|| = 12$ -> Triviale Flächeninhaltsberechnung
+3) $||MC|| \cdot ||\frac{1}{2} AB|| = 10$ -> Triviale Flächeninhaltsberechnung
 
 Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
 ![[Pasted image 20230903183114.png]]
@@ -21,7 +21,7 @@ Wir wissen dabei, dass $MC = AC - \frac{1}{2} AB$:
 Sodass Bedingungen zu
 1) $(c_1 - 7)^2 + (c_2 + 3)^2 = (c_1 - 4)^2 + (c_2 - 1)^2$
 2) $c_3 = 5$
-3) $||(c_1 - 5.5, c_2 + 1, c_3 - 5)|| \cdot \frac{1}{2}||(-3 , 4, 0)|| = 12$ 
+3) $||(c_1 - 5.5, c_2 + 1, c_3 - 5)|| \cdot \frac{1}{2}||(-3 , 4, 0)|| = 10$ 
 
 Vereinfache man:
 1.)
@@ -33,14 +33,14 @@ $\Leftrightarrow c_2 = \frac{3}{4}c_1 - \frac{41}{8}$
 2.) $c_3 = 5$
 
 3.)
-$((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(5)= 12$
+$((c_1 - 5.5)^2 + (c_2 + 1)^2 + (c_3 - 5)^2) \cdot \frac{1}{2}(5)= 10$
 $c_3 = 5$ einsetzen:
-$\Leftrightarrow (c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (2.5) = 12$
-$\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 4.8$
+$\Leftrightarrow (c_1^2 - 11c_1 + 30.25 + c_2^2 + 2c_2 + 1 + 0) \cdot (2.5) = 10$
+$\Leftrightarrow c_1^2 - 11c_1 + 31.25 + c_2^2 + 2c_2 = 4$
 
 Nun kann man die 1. Gleichung in die 2. Einsetzen:
-$c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 4.8$
-$\Leftrightarrow c_1 = 5 \pm \sqrt{3.072} \Leftrightarrow c_{1, 1} \sim 7.253, c_{1, 2} \sim 3.747$
+$c_1^2 - 11c_1 + 31.25 + (\frac{6}{8}c_1 - 5.125)^2 + 2(\frac{6}{8}c_1 - 5.125) = 4$
+$\Leftrightarrow c_1 = 5 \pm 1.6 \Leftrightarrow c_{1, 1} \sim 7.1, c_{1, 2} \sim 3.9$
 
 Damit ist $c_{2, 1} \sim 0.3148, c_{2, 2} \sim -2.3146$
 

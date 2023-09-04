@@ -95,8 +95,12 @@
             "id": "b546f5541994356f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -112,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +182,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Geschichte/Faschismus.md",
+            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -195,7 +199,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Geschichte/Faschismus.md",
+            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -207,7 +211,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Geschichte/Faschismus.md"
+            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
           }
         }
       }
@@ -224,8 +228,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6977ff84b9da5174",
+  "active": "b546f5541994356f",
   "lastOpenFiles": [
+    "Geschichte/Faschismus.md",
     "Untitled 4.md",
     "Untitled 3.md",
     "Geschichte/Weimarer Republik.md",
@@ -233,7 +238,6 @@
     "Pasted image 20230903201916.png",
     "Pasted image 20230903201525.png",
     "Geschichte/Aufstieg NSDAP.md",
-    "Geschichte/Faschismus.md",
     "Geschichte/Weltwirtschaftskrise 1933.md",
     "Geschichte",
     "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
