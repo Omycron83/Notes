@@ -18,5 +18,6 @@ Dabei nennt man die Körperelemente **Skalare** und die **Gruppenelemente** Vekt
 	2. $v \neq o : \Leftrightarrow \lambda = 0$  
 ## Beispiele:
 1. Der $K^n$ als Menge der $n$-Tupel mit der elementweisen Addition und Skalarmultiplikation erfüllt als typischer $n$-Vektorraum aus dem Tupelkörper induziert alle Vektorraumeigenschaften ^6e22e7
-2. Jeder Köper ist ein Vektorraum über sich selbst., bzw. über einem seiner beliebigen Untervektorräume.
-3. 
+2. 
+3. Jeder Köper ist ein Vektorraum über sich selbst., bzw. über einem seiner beliebigen Untervektorräume.
+4. 

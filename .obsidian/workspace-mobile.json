@@ -119,8 +119,12 @@
             "id": "69aba0efd82297e6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Vektorraum.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -190,6 +194,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LinA/Vektorraum.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -206,6 +211,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LinA/Vektorraum.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -216,7 +222,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "LinA/Vektorraum.md"
+          }
         }
       }
     ],
