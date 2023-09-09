@@ -11,11 +11,23 @@ Damit bildet sich das Diagramm:
 ![[Pasted image 20230903163303.png]]
 
 Wobei $A_F$ darstellbar ist durch
-$A_F(e_j) = \phi^{-1}_B \circ F \circ \phi_A)(e_j) = \phi_B^{-1}(F(\phi_A))$
+$A_F(e_j) = (\phi^{-1}_B \circ F \circ \phi_A)(e_j) = \phi_B^{-1}(F(\phi_A))$
 $= \phi_B^{-1}(F(v_j))$   Nach obiger Definition von $\phi_A$ als Isomorphismus
 $= \phi_B^{-1}(\sum_1^n a_{ij} w_i)$  Darstellbarkeit des Bildes durch Linearkombination
 $= \sum_1^n a_{ij} \cdot \phi_B^{-1}(w_i)$ Definition lineare Abbildung
 $= \sum_1^n a_{ij} \cdot e_i$ Nach obiger Definition von $\phi_B$ als Isomorphismus
+
+Betrachte man nun entgegengesetzt, wie man $F$ aus $A_F$ darstellen kann:
+$F(v) = F(\lambda_1 v_1 + … + \lambda_n v_n) = (\phi_B \circ A_F \circ \phi_A^{-1})(\lambda_1 v_1 + … + \lambda_n v_n)$
+$= $
+Nach dem [[Fundamentalsatz für endlichdimensionale Vektorräume]] kann jeder Vektor $v$ bez. einer Basis dargestellt werden durch den Tupelvektor seiner Basislinearkombinationskoeffizienten, d.h. Durch $(\lambda_1, …, \lambda_n)$, sodass
+$= (\phi_B \circ A_F)(\lambda_1, …, \lambda_n)$ durch das [[Darstellungslemma von Körpervektorräumen]]
+$= \phi_B \circ (\begin{pmatrix} | & … & | \\ F(e_1) & … & F(e_n) \\ | & … & | \end{pmatrix} \begin{pmatrix} \lambda_1 \\ … \\ \lambda_n \end{pmatrix})$
+$= \phi_B \circ (\lambda_1 F(e_1) + … + \lambda_n F(e_n))$
+Nutze man den [[Fundamentalsatz für endlichdimensionale Vektorräume]] erneut, wobei $\phi_B (F(e_1)) = \phi_B()$
+$= \lambda $ 
+$= \begin{pmatrix}  \end{pmatrix} \begin{pmatrix} \lambda_1 \\ … \\ \lambda_n \end{pmatrix}$
+
 
 
 
