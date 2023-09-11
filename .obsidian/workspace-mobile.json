@@ -126,9 +126,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "57f4398a87a76c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Matrizen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3bd31d51139faa61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Permutationen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "275dd0c12619db71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -194,7 +226,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Determinanten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -211,7 +242,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Determinanten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -222,9 +252,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "LinA/Determinanten.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -240,10 +268,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72cefe4647f6d86a",
+  "active": "275dd0c12619db71",
   "lastOpenFiles": [
-    "LinA/Ringe.md",
+    "LinA/Permutationen.md",
+    "LinA/Matrizen.md",
+    "Mathe-LK/Permutation.md",
     "LinA/Determinanten.md",
+    "LinA/Ringe.md",
     "LinA/Abbildungen.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
     "LinA/Basen haben gleiche Länge.md",
@@ -265,9 +296,6 @@
     "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "LinA/Gruppen.md",
     "Bio GK/Jahresplan.md",
-    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
-    "LinA/Matrizen.md",
-    "LinA/Satz der linearen Fortsetzung.md",
     "Pasted image 20230903201916.png",
     "Pasted image 20230903201525.png",
     "Geschichte",
