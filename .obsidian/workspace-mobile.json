@@ -90,9 +90,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a2eb945af2bdae99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Körper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53b608033dda13fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Ringe.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "193e41db52929091",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Determinanten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -146,7 +182,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "81463304102ce6d3",
@@ -158,7 +194,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Basen.md",
+            "file": "LinA/Determinanten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +211,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Basen.md",
+            "file": "LinA/Determinanten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -187,7 +223,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "LinA/Basen.md"
+            "file": "LinA/Determinanten.md"
           }
         }
       }
@@ -204,12 +240,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "edd6c08458d059a9",
+  "active": "193e41db52929091",
   "lastOpenFiles": [
+    "LinA/Abbildungen.md",
+    "LinA/Determinanten.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
     "LinA/Basen haben gleiche Länge.md",
-    "LinA/Austauschsatz von Steinitz.md",
+    "Untitled 8.md",
+    "LinA/Körper.md",
+    "LinA/Ringe.md",
+    "Untitled 7.md",
+    "Untitled 6.md",
     "LinA/Basen.md",
+    "LinA/Austauschsatz von Steinitz.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "Untitled 5.md",
     "LinA/Dimension.md",
@@ -225,18 +268,11 @@
     "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
     "LinA/Matrizen.md",
     "LinA/Satz der linearen Fortsetzung.md",
-    "Geschichte/Weimarer Republik.md",
-    "Untitled 4.md",
-    "Untitled 3.md",
     "Pasted image 20230903201916.png",
     "Pasted image 20230903201525.png",
-    "Geschichte/Aufstieg NSDAP.md",
-    "Geschichte/Weltwirtschaftskrise 1933.md",
     "Geschichte",
     "Pasted image 20230903183114.png",
     "Pasted image 20230903163303.png",
-    "LinA/Darstellungssatz.md",
-    "Geographie/HDI.md",
     "Pasted image 20230831202640.png",
     "Pasted image 20230831090934.png",
     "Pasted image 20230831085517.png",
