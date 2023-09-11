@@ -37,7 +37,7 @@ Das vielfache der $j$'ten Zeile $\lambda a_j$ wird auf die $i$'te Zeile addiert.
 Beweis Zeilenraumerhaltung:
 	Der Beweis folgt daraus, dass $ZR(A) = ZR(A_1)$ und $ZR(A) = ZR(A_2)$ wodurch trivial $ZR(A_3) = ZR(A)$ gilt.
 
-#### Typ 4: Addition zweier Zeilen:
+#### Typ 4: Vertauschungen zweier Zeilen:
 Die $j$'te Zeile wird mit der $i$'ten Zeile vertauscht.
 Beweis Zeilenraumerhaltung:
 	Der Beweis ist trivial, da die Linearkombination reihenfolgeninvariant ist.
