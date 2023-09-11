@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "193e41db52929091",
+            "id": "72cefe4647f6d86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -240,15 +240,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "193e41db52929091",
+  "active": "72cefe4647f6d86a",
   "lastOpenFiles": [
-    "LinA/Abbildungen.md",
+    "LinA/Ringe.md",
     "LinA/Determinanten.md",
+    "LinA/Abbildungen.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
     "LinA/Basen haben gleiche Länge.md",
     "Untitled 8.md",
     "LinA/Körper.md",
-    "LinA/Ringe.md",
     "Untitled 7.md",
     "Untitled 6.md",
     "LinA/Basen.md",
