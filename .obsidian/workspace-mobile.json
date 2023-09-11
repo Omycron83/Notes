@@ -155,8 +155,12 @@
             "id": "275dd0c12619db71",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Matrizen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -226,6 +230,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LinA/Matrizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -242,6 +247,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LinA/Matrizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -252,7 +258,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "LinA/Matrizen.md"
+          }
         }
       }
     ],
