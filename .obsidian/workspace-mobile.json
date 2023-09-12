@@ -162,9 +162,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b35b515c7f274574",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "92286bdd8ccaab1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28d17d2bffdafe53",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -230,7 +262,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Matrizen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -247,7 +278,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Matrizen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -258,9 +288,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "LinA/Matrizen.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -276,10 +304,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "275dd0c12619db71",
+  "active": "28d17d2bffdafe53",
   "lastOpenFiles": [
-    "LinA/Permutationen.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "LinA/Basen.md",
     "LinA/Matrizen.md",
+    "LinA/Permutationen.md",
     "Mathe-LK/Permutation.md",
     "LinA/Determinanten.md",
     "LinA/Ringe.md",
@@ -290,9 +320,7 @@
     "LinA/Körper.md",
     "Untitled 7.md",
     "Untitled 6.md",
-    "LinA/Basen.md",
     "LinA/Austauschsatz von Steinitz.md",
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "Untitled 5.md",
     "LinA/Dimension.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
