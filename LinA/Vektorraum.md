@@ -9,14 +9,21 @@ Dabei nennt man die Körperelemente **Skalare** und die **Gruppenelemente** Vekt
 ### Eigenschaften:
 1. $0 \cdot v = o$ : 
 	$0 \cdot v = (0 + 0) \cdot v = 0 \cdot v + 0 \cdot v \implies 0 \cdot v = o$  Nur das Neutrale addiert zu sich selbst. $\square$ 
+		Alternativer Beweis: $v = 1 \cdot v \Leftrightarrow v = (1 + 0)\cdot v \Leftrightarrow 1 \cdot v + 0 \cdot v = v \Leftrightarrow 0 \cdot v = o$ 
 2. $(-1) \cdot v = -v$
-	$v - v = o = 0 \cdot v = (1 - 1) \cdot v = v + (-1) \cdot v = o \Leftrightarrow (-1) \cdot v = -v$ $\square$ 
+	$o = 0 \cdot v = (1 - 1) \cdot v = v + (-1) \cdot v \Leftrightarrow (-1) \cdot v = -v$ $\square$ 
 3. $\lambda \cdot o = o$ 
 	$\lambda \cdot o = \lambda \cdot (v - v) = \lambda \cdot v - \lambda \cdot v = (\lambda - \lambda) \cdot v = 0 \cdot v = o$  $\square$ 
 4. $\lambda \cdot v = o \implies v = o \lor \lambda = 0$
 	1. $\lambda \neq 0: \Leftrightarrow \lambda^{-1} * \lambda \cdot v = o  \cdot \lambda^{-1} \Leftrightarrow v = o$
-	2. $v \neq o : \Leftrightarrow \lambda = 0$  
+	2. $v \neq o :$ Wäre $\lambda \neq 0$, dann könnte man mit dessen inversen Multiplizieren, sodass $v = o$, was einen Widerspruch bildet. Sodass dann $\lambda = 0$ $\square$ 
 ## Beispiele:
-1. Der $K^n$ als Menge der $n$-Tupel mit der elementweisen Addition und Skalarmultiplikation erfüllt als typischer n-Vektorraum aus dem Tupelkörper induziert alle Vektorraumeigenschaften ^6e22e7
+1. Der $K^n$ als Menge der $n$-Tupel mit der elementweisen Addition und Skalarmultiplikation erfüllt als typischer $n$-Vektorraum aus dem Tupelkörper induziert alle Vektorraumeigenschaften ^6e22e7
 2. Jeder Köper ist ein Vektorraum über sich selbst., bzw. über einem seiner beliebigen Untervektorräume.
-3. 
+3. Der $P(R^2)$ mit der symmetrischen Differenz $\Delta$ und der Multiplikation mit $0, 1$ wobei $M \cdot 0 = \emptyset$ und $M \cdot 1 = M$.
+4. $\{0\}$ über $R$.
+5. 
+
+10 Minuten abstrakter Vektorraum über $R$ vorstellen? 
+
+ Kein Vektorraum:

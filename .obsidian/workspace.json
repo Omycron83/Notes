@@ -158,9 +158,57 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "4b7504dd80fa1b65",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Vektoren als Pfeile im 2D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fdca37c3e71eaa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Vektorraum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "531e09f7be926f27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Untervektorräume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd65d88c273f2b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -226,6 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,6 +291,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +313,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              }
             }
           }
         ],
@@ -283,8 +335,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0cca3065f174bdf",
+  "active": "cd65d88c273f2b38",
   "lastOpenFiles": [
+    "LinA/Untervektorräume.md",
+    "conflict-files-obsidian-git.md",
+    "LinA/Vektorraum.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Untitled 5.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
     "Geschichte/Weimarer Republik.md",
     "LinA/Darstellungslemma von Körpervektorräumen.md",
     "ML/TRPO.md",
@@ -292,12 +351,10 @@
     "Geschichte/Faschismus.md",
     "Geschichte/Weltwirtschaftskrise 1933.md",
     "Geschichte/Aufstieg NSDAP.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
     "Geschichte",
     "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "Pasted image 20230903201916.png",
     "Pasted image 20230903201525.png",
-    "conflict-files-obsidian-git.md",
     "Pasted image 20230903183114.png",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
@@ -311,15 +368,10 @@
     "Bio GK/Jahresplan.md",
     "Bio GK/Chromosomen.md",
     "Bio GK/Untitled.md",
-    "Informatik Unterricht/Ablage.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
     "Pasted image 20230831202640.png",
     "Pasted image 20230831090934.png",
     "Pasted image 20230831085517.png",
     "Pasted image 20230831082125.png",
-    "Mathe-LK/Lehrbuchlösungen.md",
-    "LinA/Untitled.md",
     "Informatik Unterricht",
     "Bio GK",
     "Chemie",

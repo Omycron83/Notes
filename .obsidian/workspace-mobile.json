@@ -4,88 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "067c4725742868b8",
+        "id": "804b98f443a0e07e",
         "type": "tabs",
         "children": [
           {
-            "id": "548ea87e95a74527",
+            "id": "122ee51c988a676f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "37fddf584f56013b",
+            "id": "ba64ffd800020f43",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Satz der linearen Fortsetzung.md",
+                "file": "LinA/Dimension.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "afbd5468ce773dd9",
+            "id": "6d9254b7e25f331c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Matrizen.md",
+                "file": "LinA/Basen haben gleiche Länge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b5d1c81f80974d91",
+            "id": "acecb4dc0b787f4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
+                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ba2a8eaeb993a407",
+            "id": "579122f315ab8115",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bio GK/Jahresplan.md",
+                "file": "LinA/Basen haben gleiche Länge.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "519ae4ecdd434b3b",
+            "id": "bcf0e6730866d389",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LinA/Gruppen.md",
+                "file": "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1ffc356b2acaf8d4",
+            "id": "edd6c08458d059a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+                "file": "LinA/Basen.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "81463304102ce6d3",
@@ -158,7 +158,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+            "file": "LinA/Basen.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+            "file": "LinA/Basen.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -187,7 +187,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Mathe-LK/Hausaufgabe 04.05. Dreieck.md"
+            "file": "LinA/Basen.md"
           }
         }
       }
@@ -204,48 +204,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ffc356b2acaf8d4",
+  "active": "edd6c08458d059a9",
   "lastOpenFiles": [
-    "Pasted image 20230903183114.png",
-    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
+    "LinA/Basen haben gleiche Länge.md",
+    "LinA/Austauschsatz von Steinitz.md",
+    "LinA/Basen.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
+    "Untitled 5.md",
+    "LinA/Dimension.md",
     "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
-    "Pasted image 20230903163303.png",
-    "LinA/Darstellungslemma von Körpervektorräumen.md",
-    "LinA/Gruppen.md",
-    "LinA/Darstellungssatz.md",
-    "LinA/Matrizen.md",
-    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
-    "Bio GK/Jahresplan.md",
-    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
-    "LinA/Satz der linearen Fortsetzung.md",
-    "Geographie/HDI.md",
-    "Geographie/Länderklassifikation.md",
-    "Geographie/Entwicklungslandmerkmale.md",
     "LinA/Vektorraum.md",
-    "Bio GK/Untitled.md",
-    "Bio GK/Chromosomen.md",
+    "LinA/Untervektorräume.md",
+    "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
+    "LinA/Darstellungslemma von Körpervektorräumen.md",
+    "Geschichte/Faschismus.md",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "LinA/Gruppen.md",
+    "Bio GK/Jahresplan.md",
+    "Informatik Unterricht/Vorbereitung Stundenführung 8.9..md",
+    "LinA/Matrizen.md",
+    "LinA/Satz der linearen Fortsetzung.md",
+    "Geschichte/Weimarer Republik.md",
+    "Untitled 4.md",
+    "Untitled 3.md",
+    "Pasted image 20230903201916.png",
+    "Pasted image 20230903201525.png",
+    "Geschichte/Aufstieg NSDAP.md",
+    "Geschichte/Weltwirtschaftskrise 1933.md",
+    "Geschichte",
+    "Pasted image 20230903183114.png",
+    "Pasted image 20230903163303.png",
+    "LinA/Darstellungssatz.md",
+    "Geographie/HDI.md",
     "Pasted image 20230831202640.png",
-    "Geographie/Weltbank und UN.md",
-    "Geographie/BNE.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
-    "Mathe-LK/Lehrbuchlösungen.md",
     "Pasted image 20230831090934.png",
     "Pasted image 20230831085517.png",
     "Pasted image 20230831082125.png",
-    "Untitled 2.md",
-    "LinA/Untitled.md",
-    "Untitled 1.md",
-    "LinA/Lineare Gleichungssysteme.md",
-    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Bio GK",
     "Chemie",
     "Informatik Unterricht",
     "Pasted image 20230829110558.png",
     "Pasted image 20230829101315.png",
     "Geographie",
-    "Pasted image 20230828092620.png",
-    "Pasted image 20230828092536.png",
-    "A7AF59B3-6B26-46B5-B584-02E05A86F18D.jpeg",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "LinA",
