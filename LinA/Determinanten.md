@@ -14,6 +14,6 @@ Betrachte man eine multilineare Funktion $\Delta : V^n \rightarrow K$. Dann sind
 
 Beweis:
 Da die multilinearität in beiden Fällen gilt, lässt sich durch die lineare Abhängigkeit umschreiben:
-$\Delta(a_1, …, a_i, …, a_n) = \Delta (a_1, …, \lambda_1 a_1 + … + \lambda_{i-2})
+$\Delta(a_1, …, a_i, …, a_n) = \Delta (a_1, …, \lambda_1 a_1 + … + \lambda_{i-2})$
 ### Argumentänderung, Argumentpermutationen, Lineare Invarianz
 Sei $\Delta$ eine Determinantenfunktion.

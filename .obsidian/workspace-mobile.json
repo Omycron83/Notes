@@ -8,195 +8,23 @@
         "type": "tabs",
         "children": [
           {
-            "id": "122ee51c988a676f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba64ffd800020f43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Dimension.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d9254b7e25f331c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basen haben gleiche Länge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "acecb4dc0b787f4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "579122f315ab8115",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basen haben gleiche Länge.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcf0e6730866d389",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edd6c08458d059a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2eb945af2bdae99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Körper.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53b608033dda13fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Ringe.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "72cefe4647f6d86a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Determinanten.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "57f4398a87a76c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Matrizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3bd31d51139faa61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Permutationen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "275dd0c12619db71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Matrizen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b35b515c7f274574",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92286bdd8ccaab1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinA/Basen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "28d17d2bffdafe53",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "fd057f7d8131b920",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,7 +90,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Determinanten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -279,7 +106,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Determinanten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -290,9 +116,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "LinA/Determinanten.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -308,26 +132,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "72cefe4647f6d86a",
+  "active": "fd057f7d8131b920",
   "lastOpenFiles": [
-    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Basen.md",
+    "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Matrizen.md",
     "LinA/Permutationen.md",
-    "Mathe-LK/Permutation.md",
     "LinA/Determinanten.md",
     "LinA/Ringe.md",
-    "LinA/Abbildungen.md",
+    "LinA/Körper.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
     "LinA/Basen haben gleiche Länge.md",
+    "LinA/Dimension.md",
+    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+    "Mathe-LK/Permutation.md",
+    "LinA/Abbildungen.md",
     "Untitled 8.md",
-    "LinA/Körper.md",
     "Untitled 7.md",
     "Untitled 6.md",
     "LinA/Austauschsatz von Steinitz.md",
     "Untitled 5.md",
-    "LinA/Dimension.md",
-    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
     "LinA/Vektorraum.md",
     "LinA/Untervektorräume.md",
     "LinA/Fundamentalsatz für endlichdimensionale Vektorräume.md",
