@@ -22,14 +22,14 @@ Bemerkung:
 
 ^b227ab
 
-Vektoren $v_1, ..., v_r$ sind genau dann linear unabhängig, wenn sich jedes $v \in \{v_1, ..., v_r\}$ eindeutig als Linearkombination der anderen $v_i$ darstellen lässt.
+Vektoren $v_1, ..., v_r$ sind genau dann linear unabhängig, wenn sich jedes $v \in <v_1, ..., v_r>$ eindeutig als Linearkombination der Familienmitglieder $v_i$ darstellen lässt.
 
 Beweis:
-	Nehme man an, es gäbe zwei unterschiedliche Darstellungen $v_i = \lambda_1 v_1 + ... + \lambda_{i - 1} v_{i - 1} + \lambda_{i + 1} v_{i + 1} + ... + \lambda_r v_r= \mu_1 v_1 + ... + \mu_{i - 1} v_{i - 1} + \mu_{i + 1} v_{i + 1} +... + \mu_r v_r$ 
+	Nehme man an, es gäbe zwei unterschiedliche Darstellungen $v = \lambda_1 v_1 + ... + \lambda_r v_r= \mu_1 v_1 + ... \mu_r v_r$ 
 	Dann wäre:
-	$o = (\lambda_1 v_1 + ... + \lambda_{i - 1} v_{i - 1} + \lambda_{i + 1} v_{i + 1} + ... + \lambda_r v_r) - (\mu_1 v_1 + ... + \mu_{i - 1} v_{i - 1} + \mu_{i + 1} v_{i + 1} +... + \mu_r v_r)$ 
+	$o = (\lambda_1 v_1 + ... + \lambda_r v_r) - (\mu_1 v_1 + ... + \mu_r v_r)$ 
 	Und somit
-	$o = (\lambda_1 - \mu_1) v_1 + ... + (\lambda_{i-1} - \mu_{i - 1}) v_{i-1}+ (\lambda_{i + 1} - \mu_{i + 1}) v_{i + 1} + ... + (\lambda_r - \mu_r) v_r$
+	$o = (\lambda_1 - \mu_1) v_1 + ... + (\lambda_r - \mu_r) v_r$
 	Genau dann, wenn $v_1, ... v_r$ linear unabhängig sind muss [[Lineare Erzeugnisse & Unabhängigkeit#^e183ff|per Definition]] jeweils
 	$(\lambda_1 - \mu_1) = ... = (\lambda_r - \mu_r) = 0$
 	Und somit

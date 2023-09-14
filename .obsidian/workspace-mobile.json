@@ -40,14 +40,6 @@
             }
           },
           {
-            "id": "851ea3849b8d6f6b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "dd0bf3cfe72152f1",
             "type": "leaf",
             "state": {
@@ -58,9 +50,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a8c082a050105632",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Basen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2ee7ff3c5c9ecfe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "LinA/Determinanten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -143,7 +154,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "LinA/Determinanten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -154,9 +164,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "LinA/Determinanten.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -172,14 +180,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd0bf3cfe72152f1",
+  "active": "b2ee7ff3c5c9ecfe",
   "lastOpenFiles": [
+    "LinA/Determinanten.md",
     "LinA/Basen.md",
     "LinA/Beweisarten.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Matrizen.md",
     "LinA/Permutationen.md",
-    "LinA/Determinanten.md",
     "LinA/Ringe.md",
     "LinA/Körper.md",
     "LinA/Basisexistenzsatz für unendliche Vektorräume.md",
