@@ -1,6 +1,6 @@
 # Definition:
 Eine Abbildung $V^n \rightarrow K, \Delta (a_1, …, a_n) = l \in K$ wird Determinantenabbildung genannt, wenn 
-- Sie multilinear ist, d.h. $\Delta(a_1, …,\lambda a + \mu a‘,…, a_n) = \Delta(a_1, …, \lambda a + \mu a‘, …, a_n) \forall a_i \in V$ 
+- Sie multilinear ist, d.h. $\Delta(a_1, …,\lambda a + \mu a‘,…, a_n) = \lambda \Delta(a_1, …, \lambda a + \mu a‘, …, a_n) + \mu  \forall a_i \in V$ 
  - Sie alternierend ist, d.h. $\Delta (a_1, …, a, …, a, …, a_n)= 0$
 
 Bemerkung: 
@@ -13,7 +13,10 @@ Betrachte man eine multilineare Funktion $\Delta : V^n \rightarrow K$. Dann sind
 2. Für jeden n-Tupel linear abhängiger Vektoren $(a_1, …, a_n)$ gilt: $\Delta (a_1,…, a_n) = 0$
 
 Beweis:
-Da die multilinearität in beiden Fällen gilt, lässt sich durch die lineare Abhängigkeit umschreiben:
-$\Delta(a_1, …, a_i, …, a_n) = \Delta (a_1, …, \lambda_1 a_1 + … + \lambda_{i-2})$
+Der Beweis erfolgt durch das zeigen der beidseitigen Implikation:
+$1. \implies 2.:$ Nehme man einen linear abhängigen Tupel
+$\Delta (a_1, …, a_i, …,  a_n) = \Delta(a_1, …, \lambda_1 a_1 + … + \lambda_{i - 1} a_{i-1} + \lambda_{i + 1} a_{i + 1} + … \lambda_n a_n, …, a_n)$
+und wende dann die Multilinearität an:
+$\Delta(a_1, …, \lambda_1 a_1 + … + \lambda_{i - 1} a_{i-1} + \lambda_{i + 1} a_{i + 1} + … \lambda_n a_n, …, a_n) = \Delta() 
 ### Argumentänderung, Argumentpermutationen, Lineare Invarianz
 Sei $\Delta$ eine Determinantenfunktion.
