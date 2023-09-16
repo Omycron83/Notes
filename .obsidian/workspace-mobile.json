@@ -72,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,6 +138,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "LinA/Determinanten.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -154,6 +155,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "LinA/Determinanten.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -164,7 +166,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "LinA/Determinanten.md"
+          }
         }
       }
     ],
@@ -180,10 +184,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b2ee7ff3c5c9ecfe",
+  "active": "dd0bf3cfe72152f1",
   "lastOpenFiles": [
-    "LinA/Determinanten.md",
     "LinA/Basen.md",
+    "LinA/Determinanten.md",
     "LinA/Beweisarten.md",
     "LinA/Lineare Erzeugnisse & Unabhängigkeit.md",
     "LinA/Matrizen.md",
