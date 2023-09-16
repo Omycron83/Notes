@@ -19,16 +19,21 @@ $= \sum_1^n a_{ij} \cdot e_i$ Nach obiger Definition von $\phi_B$ als Isomorphis
 
 Betrachte man nun entgegengesetzt, wie man $F$ aus $A_F$ darstellen kann:
 $F(v) = F(\lambda_1 v_1 + … + \lambda_n v_n) = (\phi_B \circ A_F \circ \phi_A^{-1})(\lambda_1 v_1 + … + \lambda_n v_n)$
-$= $
 Nach dem [[Fundamentalsatz für endlichdimensionale Vektorräume]] kann jeder Vektor $v$ bez. einer Basis dargestellt werden durch den Tupelvektor seiner Basislinearkombinationskoeffizienten, d.h. Durch $(\lambda_1, …, \lambda_n)$, sodass
 $= (\phi_B \circ A_F)(\lambda_1, …, \lambda_n)$ durch das [[Darstellungslemma von Körpervektorräumen]]
 $= \phi_B \circ (\begin{pmatrix} | & … & | \\ F(e_1) & … & F(e_n) \\ | & … & | \end{pmatrix} \begin{pmatrix} \lambda_1 \\ … \\ \lambda_n \end{pmatrix})$
 $= \phi_B \circ (\lambda_1 F(e_1) + … + \lambda_n F(e_n))$
-Nutze man den [[Fundamentalsatz für endlichdimensionale Vektorräume]] erneut, wobei $\phi_B (F(e_1)) = \phi_B()$
-$= \lambda $ 
-$= \begin{pmatrix}  \end{pmatrix} \begin{pmatrix} \lambda_1 \\ … \\ \lambda_n \end{pmatrix}$
+Nutze man den [[Fundamentalsatz für endlichdimensionale Vektorräume]] erneut, wobei $\phi_B (F(e_1)) = \phi_B(\mu_1 e_1 + ... + \mu_m) = \mu_1 w_1 + ... + \mu_m w_m$
 
+Diese Werte kann man nun wieder äquivalent in die Matrixrepräsentation einsetzen:
 
+$= \begin{pmatrix} \mu_{1, 1} & ... & \mu_{1, n} \\ ... & ... & ... \\ \mu_{m, 1} & ... & \mu_{m, n} \end{pmatrix} \begin{pmatrix} \lambda_1 \\ … \\ \lambda_n \end{pmatrix}$
+
+wobei $\mu_{i, j}$ der Koeffizient des Basisvektors $w_i$ für die Darstellung des Basisvektors $v_j$.
+
+**Zusammengefasst**: Durch mehrfache Isomorphismusdarstellung ist gezeigt, dass sich die direkte lineare Abbildung $F$ darstellen lässt durch eine Abbildungsmatrix $A_F$, indem $A_F$ in seinen Spalten jeweils die Koeffizienten der Basisvektordarstellung (in $W$ ) von dem Bild der Basisvektoren $F(v_i)$. Das Bild eines Vektors $v$ kann dann ermittelt werden, indem dessen Koeffizienten der Basisvektordarstellung (in $V$) gleichgeordnet rechtsseitig [[Matrizen#^bcdd4e|Matrizenmultipliziert]] werden.
+
+**Bemerkung**: Dass das Ergebniss insbesondere für die Basisvektoren von $V$ selbst gilt sei einfach ersichtlich.
 
 
 

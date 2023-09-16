@@ -5,6 +5,8 @@ Eine Menge $M$ zusammen mit einer Abbildung bzw. **Verknüpfung** $\circ$ ($\cir
 3. Ein eindeutiges (links)**neutrales Element** $e$  gibt, mit $a \circ e = e \circ a = a \, \forall a \in M$
 4. Für jedes Element ein (links)**inverses** $a^{-1}$ existiert: $\exists \, a^{-1} \in M \, \forall a \in M:  a^{-1} \circ a = a \circ a^{-1}= e$
 
+Gruppen sind also [[Halbgruppen]] mit inversen Elementen.
+
 Dabei muss das Kommutativgesetz nicht gelten. Das heißt insbesondere, dass die rechtsseitige Verknüpfung i.A. nicht gleich der Linksseitigen ist. 
 
 Ist die Gruppe jedoch **kommutativ**, d.h. gilt es für jede ihrer Elementverknüpfungen, so nennt man diese **abelsche** Gruppe, und die Verknüpfungen sind wieder äquivalent. ^b82401

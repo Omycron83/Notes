@@ -1,4 +1,4 @@
-Sei $A \in K^{m \times n}$, dann ist der [[Rang einer linearen Abbildung|Rang]] der von $A$ characterisierten [[Lineare Abbildungen|linearen Abbildung]] die Dimension des von den Spalten $a_1, ..., a_n$ von $A$ [[Lineare Erzeugnisse & Unabhängigkeit|erzeugten]] [[Untervektorräume|Untervektorraumes]] von $K^m$.
+Sei $A \in K^{m \times n}$ eine [[Matrizen|Matrix]], dann ist der [[Rang einer linearen Abbildung|Rang]] der von $A$ characterisierten [[Lineare Abbildungen|linearen Abbildung]] die Dimension des von den Spalten $a_1, ..., a_n$ von $A$ [[Lineare Erzeugnisse & Unabhängigkeit|erzeugten]] [[Untervektorräume|Untervektorraumes]] von $K^m$.
 Dies gilt, da $im A = <a_1, ..., a_n>$ .
 
 Beweis:

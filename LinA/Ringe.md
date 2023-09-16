@@ -1,5 +1,5 @@
 Eine algebraische Struktur $(R, +, \cdot$) ist ein **Ring**, wenn gilt:
-1. $(R, +)$ ist eine abel'sche Gruppe
+1. $(R, +)$ ist eine abel'sche [[Gruppen|Gruppe]]
 2. $\cdot$ ist eine assoziative Operation $R \times R \rightarrow R$
 3. Das Distributivgesetz zwischen Addition und Multiplikation
 

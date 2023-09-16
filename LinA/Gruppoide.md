@@ -1,0 +1,1 @@
+Eine Menge $G$ mit einer Verknüpfung $\circ : G \times G \rightarrow G$ nennt man **Gruppoid**.
