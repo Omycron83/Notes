@@ -23,6 +23,7 @@ Elementare Zeilenumformungen werden dann auf allen Spalten ausgeführt, was der 
 Die Inversion lässt sich in beiden Fällen über [[Zeilenraum und Zeilenumformungen einer Matrix#^6ef525|elementare Zeilenumformungen]] 
 mithilfe des Gauss-Algorithmus durchführen. 
 
-Eine Lösbarkeit gibt es dann, wenn die Anzahl der [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängigen]] Zeilen  $\le n$ ist. Eine Eindeutigkeit der Lösung existiert beim Gleichheitsfall.
-
+Gilt dann [[Rang einer Matrix|rg(A)]] $= n$, dann gibt es eine eindeutige Lösung.
+Gilt $rg(A) < n$, dann gibt es unendlich Lösungen mit $n - rg(A)$ freien Variablen.
+Gilt aber $rg(A) \neq rg(A, b)$, dann gibt es keine Lösung, da es eine Zeile $a_{i, 1} 0 + ... + a_{i, n} 0 = b , b \neq 0$ gibt, was nicht möglich ist.
 
