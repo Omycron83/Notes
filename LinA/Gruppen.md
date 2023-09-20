@@ -23,10 +23,7 @@ $\Leftrightarrow a_1^{-1} \circ a \circ a_2^{-1} = a_2^{-1}$
 $\Leftrightarrow a_1^{-1} = a_2^{-1}$               
 
 - Dass das linksneutrale Element gleich dem Rechtsneutralen ist:
-$a \circ e_r = e_l \circ a$              
-$\Leftrightarrow e_r = a^{-1} \circ e_l \circ a$ 
-$\Leftrightarrow e_r = e_l \circ (a^{-1} \circ a)$
-$\Leftrightarrow e_r = e_l$
+$e_l = e_l \circ e_r := e$
 
 - Dass das neutrale Element auch wirklich eindeutig ist:
 $e_1 = e_2 \circ e_1 = e_1 \circ e_2 = e_2$
