@@ -1,1 +1,0 @@
-Beschreibt Staatsform seit 

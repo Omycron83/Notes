@@ -1,8 +1,6 @@
 # Zeilenraum:
-
 ^7a07fe
-
-Der Zeilenraum $ZR(A)$ einer [[Matrix]] $A \in K^{m \times n}$ ist das Erzeugniss der Zeilen $a_i$ von $A$, also $span(a_1, ..., a_n)$, also alle möglichen Linearkombinationen der Zeilenvektoren (wenn [[Matrizen#^2d573a|als Vektorraum interpretiert]]).
+Der Zeilenraum $ZR(A)$ einer [[Matrizen|Matrix]] $A \in K^{m \times n}$ ist das Erzeugniss der Zeilen $a_i$ von $A$, also $span(a_1, ..., a_n)$, also alle möglichen Linearkombinationen der Zeilenvektoren (wenn [[Matrizen#^2d573a|als Vektorraum interpretiert]]).
 # Zeilenumformungen:
 
 ^6ef525
