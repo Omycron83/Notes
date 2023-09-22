@@ -34,8 +34,14 @@ Two cases:
 
 1. $T_x = T_y$, i.e. we predict at each point in time:
 ![[Pasted image 20230922173623.png]]
-Example: 
+Example: Name entity recognition
 
 2. $T_x \neq T_y$, i.e. we sometimes predict, sometimes we don't:
 ![[Pasted image 20230922173722.png]]
 Example: Machine translation
+
+
+
+# Training:
+The loss function of a sequence of time steps in a RNN is defined as
+$L(\hat{y}, y) = \sum_{t = 1}^{T_y} L(\hat{y}^{<t>}, y^{<t>})$, i.e. the loss 
