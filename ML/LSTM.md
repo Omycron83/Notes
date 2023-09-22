@@ -2,7 +2,5 @@ Long-Short-Term-Memory units are a [[RNN]] variant trying to alleviate multiple 
 
 ![[Pasted image 20230922182147.png]]
 # Gates:
-
 ^5aa079
-
 ![[Pasted image 20230922182004.png]]

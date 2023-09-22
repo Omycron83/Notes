@@ -70,8 +70,6 @@ In order to alleviate the exploding gradient problem, one can cap the maximum va
 ![[Pasted image 20230922181858.png]]
 
 ### Gates:
-
 ^9221f9
-
 In order to alleviate the vanishing gradient problem, specific gates with a well-defined purpose can be employed. They are usually denoted $\Gamma$ and are of the form $\Gamma = \sigma(Wx^{<t>} + U a^{<t -1>} + b)$, where $W, U$ and $b$ are gate-specific.
 
