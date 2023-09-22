@@ -6,3 +6,4 @@ https://spinningup.openai.com/en/latest/index.html
 https://paperswithcode.com/
 https://medium.com/
 https://arxiv.org/
+https://stanford.edu/~shervine/teaching/
