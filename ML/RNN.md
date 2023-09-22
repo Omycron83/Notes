@@ -1,0 +1,1 @@
+Recurrent neural networks are a [[Neural Network]] variant used in either sequence-to-input, input-to-sequence or sequence-to-sequence tasks. This is done by adding a recurrent layer, where 
