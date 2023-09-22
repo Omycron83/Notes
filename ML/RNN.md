@@ -1,5 +1,4 @@
 Recurrent neural networks are a [[Neural Network]] variant used in sequence processing tasks. This enables one to deal with variables size sequences (without increasing complexity) and retain invariance while still sharing information between sequence members. However, the state representation limits the amount of information sharable between points in time.
-
 # Architecture:
 RNNs, as a basis, take in input sequence members ordered into *points in time* $1, ..., t$. Each point in time has its own input $x^{<1>}, ..., x1^{<t>}$, and some states (depending on the architecture) have a target label $y^{<t>}$ that is conditioned on. (Going forward, I will denote points in time using superscripts).
 
@@ -16,3 +15,27 @@ One can see how this can be simplified by row-stacking $W_{aa}$ and $W_{ax}$ as 
 As usually done, the bias can be included into the matrix representation by adding a column of $1$'s to the new input matrix while adding a corresponding row to the weight matrix, making the dimensions $m \times n + g + 1$ and $n + g + 1 \times n$, respectively. 
 
 ## Types of RNNs
+### One-to-One:
+Is just a regular [[Neural Network]]:
+![[Pasted image 20230922173248.png]]
+Example: Image recognition
+### One-to-Many:
+$T_x = 1, T_y > 0$, i.e. we start with one input, and then build a sequence out of it:
+![[Pasted image 20230922173402.png]]
+Example: Music generation
+
+### Many-to-One:
+$T_x > 1, T_y = 1$, i.e. we predict only at the last timestep of the sequence:
+![[Pasted image 20230922173504.png]]
+Example: Sentiment classification
+
+### Many-to-Many:
+Two cases:
+
+1. $T_x = T_y$, i.e. we predict at each point in time:
+![[Pasted image 20230922173623.png]]
+Example: 
+
+2. $T_x \neq T_y$, i.e. we sometimes predict, sometimes we don't:
+![[Pasted image 20230922173722.png]]
+Example: Machine translation
