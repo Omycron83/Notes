@@ -1,5 +1,5 @@
 Based on https://arxiv.org/abs/1511.05952
-Usually, in the experience-replay mechanism used in i.e. DQN-Methods, transitions (or traces) are stored in some datastructure and then uniformly sampled to facilitate training on them. 
+Usually, in the experience-replay mechanism used in i.e.  [[DDQN - Architecture|DQN-Methods]], transitions (or traces) are stored in some datastructure and then uniformly sampled to facilitate training on them. 
 This removes temporal correlation between recent and past experiences, making one able to learn efficiently from experiences.
 
 This, however, is inefficient as the relevance of samples may drastically change with the current policy: some samples may be more or less suprising, redundant or relevant than others and thus provide different amounts of information in the training of the neural network.

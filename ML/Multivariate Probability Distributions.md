@@ -1,0 +1,1 @@
+Multivariate probability distributions are distributions concerning multiple variables. They are the generalization of [[Univariate Probability Distributions]] to higher dimensions.
