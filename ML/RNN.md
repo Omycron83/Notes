@@ -1,6 +1,6 @@
 Recurrent neural networks are a [[Neural Network]] variant used in sequence processing tasks. This enables one to deal with variables size sequences (without increasing complexity) and retain invariance while still sharing information between sequence members. 
 However, the state representation limits the amount of information sharable between points in time, especially going far back in time and having to process each step in time sequentially leads to poor parallelizability and thus long computing times.
-This and the vanishing gradient problem led to the invention of the [[GRU]] and the [[LSTM]]
+This and the vanishing gradient problem led to the invention of the [[GRU]] and the [[LSTM]].
 # Architecture:
 RNNs, as a basis, take in input sequence members ordered into *points in time* $1, ..., t$. Each point in time has its own input $x^{<1>}, ..., x1^{<t>}$, and some states (depending on the architecture) have a target label $y^{<t>}$ that is conditioned on. (Going forward, I will denote points in time using superscripts).
 
@@ -65,4 +65,13 @@ There is no reason to exclude multiple hidden state representation layers:
 ![[Pasted image 20230922180620.png]]
 If we assume to roughly discover different patterns at each layer, this may yield special interpretations.
 
-### Gradient Clipping
+### Gradient Clipping:
+In order to alleviate the exploding gradient problem, one can cap the maximum value for the gradient:
+![[Pasted image 20230922181858.png]]
+
+### Gates:
+
+^9221f9
+
+In order to alleviate the vanishing gradient problem, specific gates with a well-defined purpose can be employed. They are usually denoted $\Gamma$ and are of the form $\Gamma = \sigma(Wx^{<t>} + U a^{<t -1>} + b)$, where $W, U$ and $b$ are gate-specific.
+
