@@ -103,16 +103,13 @@ Visualization:
 One may ask for the motivation of the matrices $Q, K$ and $V$ and the implicit theory behind them. This can be explained using [[Markov Chains]]: 
 we can view our sequence as a markov chain, as in that the different sequence points represent states and the way they lead to each other are the conditional probability between them. The probability of the point in the sequence (given another point in the sequence) times the value can then be interpreted as the expected value given that there was the other point in the sequence. 
 
-And as we know, a markov chain can be expressed using a matrix, which we yielded here by multiplying the query and key matrices and which we then multiplied by the value matrix after enabling the probabilistic interpretation using the softmax function.
+And as we know, a markov chain can be expressed using a matrix, which we yielded here by multiplying the query and key matrices and which we then multiplied by the value matrix after enabling the probabilistic interpretation using the softmax function:
+![[Pasted image 20230924181055.png]]
 
 The multiplication of the query and key matrices can then further be viewed as mask lookup: [[Masks]] are a way to exclude unnecessary features 
 
-
-
-
-
 #### Multi-head attention:
-
+Instead of only performing one variant of self-attention, i.e. a representation of each vector as one combination of features, one can yield multiple representation subspaces by using multiple sets of Query/Key/Value weight matrices, that are all independ
 
 # History
 The central attention mechanism was first used in [[RNN|RNNs]] in order to combat the problem of information loss in long sequences. It weighs the previous states according to **learned** measure of relevance. This has first been implemented by Bahdanau et al (2014). It was then combined with embedding and self-attention to get rid of the RNN-component altogether, which then formed the original transformer in Vaswani et al (2017), after decomposable attention had been proven successful in 2016 when used in combination with a feedforward network. Convergence problems with the architecture where then mitigated by Xiong et al (2020) using layer normalization before multiheaded attention.
