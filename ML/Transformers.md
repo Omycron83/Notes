@@ -93,9 +93,12 @@ Thus, the corresponding query, key and value **matrices** can be obtained by mul
 
 The score of each word can then be obtained by multiplying $Q \cdot K^T$, which produces a $d_{sequence} \times d_{sequence}$ Matrix. This represents the score of each sequence member (row) for each sequence member (column).  
 
-As previously stated, each entry is then scaled and each row then put throu
+As previously stated, each entry is then scaled and each row (?) then put through the softmax-function.
 
+Afterwards, this matrix is then multiplied by the value matrix $V$ to the final score matrix, so that each row (representing the weight of each ) is multiplied by each column (representing the corresponding feature values for each sequence member) yielding the weighted 'impact' values.
 
+Visualization:
+![[Pasted image 20230924165950.png]]
 ##### Matrices as lookup-tables:
 
 
