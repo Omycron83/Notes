@@ -33,12 +33,16 @@ Let $p_t$ denote the positional encoding vector corresponding to the position $t
 
 Then $f: N \rightarrow R^{d_{model}}, t \mapsto p_t^{(i)} = sin(\frac{t}{10000^{2k / d_{model}}})$ if $i = 2k$, $cos(\frac{t}{10000^{2k / d_{model}}})$ else
 satisfies this equation. This forms a geometric progression from $2\pi$ to $10000 \cdot 2\pi$ on the wavelength, with vectors of the form
-$\begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix} = \begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix}$
+$\begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix} = \begin{pmatrix} sin(\frac{t}{1}) \\  cos(\frac{t}{1}) \\ ... \\ sin(\frac{t}{10000}) \\ cos(\frac{t}{10000})\end{pmatrix}$
 
 Proof:
-	Left to do
+	While the other assertions are easy to see, the first assertion requires more comprehensive consideration. We essentially have to show that there exists a linear transformation $M$ (which is the basis of the neural network) that is able to transform $M \cdot \begin{pmatrix} sin(\frac{t}{10000^{2k / d_{model}}}) \\ cos(\frac{t}{10000^{2k / d_{model}}}) \end{pmatrix} = \begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) \end{pmatrix}$.
+	
+	
 
-This corresponds to 
+This is actually similar to binary encoding: if one wants to binarily encode numbers, the least significant bit (the last one) is alternated on every number, the second-lowest bit is rotating on every two numbers etc. The sinusoidal functions are actually equivalent to alternating these bits, but can effectively be used in combination with the typically used floating point numbers. Decreasing their frequencies like we are doing with the geometric progression enables us to 'address not only the first few, but also the last bits'.
+![[Pasted image 20230924142803.png|320]] ![[Pasted image 20230924142815.png|320]]
+
 ## Encoder:
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
 ## Decoder:
