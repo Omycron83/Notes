@@ -17,6 +17,9 @@ One can see how this can be simplified by row-stacking $W_{aa}$ and $W_{ax}$ as 
 As usually done, the bias can be included into the matrix representation by adding a column of $1$'s to the new input matrix while adding a corresponding row to the weight matrix, making the dimensions $m \times n + g + 1$ and $n + g + 1 \times n$, respectively. 
 
 ## Types of RNNs
+
+^991e61
+
 ### One-to-One:
 Is just a regular [[Neural Network]]:
 ![[Pasted image 20230922173248.png]]
