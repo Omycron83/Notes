@@ -21,6 +21,7 @@ This is done by constructing a positional-encoding vector containing information
 Thus, a position-dependent signal is added to each embedding and thus positional encoding infused, which avoids destroying the embedded information (empirically) while not increasing dimensionality (as would happen with concatenation). 
 
 It turns out that linearly adding the positional values (i.e. adding $(0, ..., 0), (1, ..., 1)$ etc. ) faces problems with 'variable-length' sequences. This leads to the following requirements for a positional-encoding mechanism:
+- The model should easily be able to learn to attend by relative positions for any fixed offset
 - It should be injective, i.e. output a unique encoding for each time step
 - The distance between any two time steps should be consistent across varying lengths
 - It should generalize to longer sequences without any effort
@@ -31,10 +32,13 @@ The mechanism introduced by Vitya et al satisfies the above equations:
 Let $p_t$ denote the positional encoding vector corresponding to the position $t$ in the given sequence.
 
 Then $f: N \rightarrow R^{d_{model}}, t \mapsto p_t^{(i)} = sin(\frac{t}{10000^{2k / d_{model}}})$ if $i = 2k$, $cos(\frac{t}{10000^{2k / d_{model}}})$ else
-satisfies this equation. 
-Proof:
-	
+satisfies this equation. This forms a geometric progression from $2\pi$ to $10000 \cdot 2\pi$ on the wavelength, with vectors of the form
+$\begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix} = \begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix}$
 
+Proof:
+	Left to do
+
+This corresponds to 
 ## Encoder:
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
 ## Decoder:
