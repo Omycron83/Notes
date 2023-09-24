@@ -53,7 +53,10 @@ This is actually similar to binary encoding: if one wants to binarily encode num
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
 
 The entire encoder is made up from multiple encoder structures, which are all identical in nature, though they do not share weights:
-each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently. Thus, while the self-attention layer includes dependencies between the 'paths' of each input at some point in time, the feed-forward-layer does not, allowing for parallelization.
+
+Each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently. 
+![[Pasted image 20230924154026.png]]
+Thus, while the self-attention layer includes dependencies between the 'paths' of each input at some point in time, the feed-forward-layer does not, allowing for parallelization. This is one of the key properties of the transformer.
 ## Decoder:
 The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 
@@ -69,13 +72,13 @@ Scaled dot-product attention uses
 
 
 # History
-The central attention mechanism was first used in [[RNN|RNNs]] in order to combat the problem of information loss in long sequences. It weighs the previous states according to **learned** measure of relevance. This has first been implemented by Bahdanau et al (2014). It was then combined with embedding and self-attention to get rid of the RNN-component altogether, which then formed the original transformer in Vitya et al (2017), after decomposable attention had been proven successful in 2016 when used in combination with a feedforward network. Convergence problems with the architecture where then mitigated by Xiong et al (2020) using layer normalization before multiheaded attention.
+The central attention mechanism was first used in [[RNN|RNNs]] in order to combat the problem of information loss in long sequences. It weighs the previous states according to **learned** measure of relevance. This has first been implemented by Bahdanau et al (2014). It was then combined with embedding and self-attention to get rid of the RNN-component altogether, which then formed the original transformer in Vaswani et al (2017), after decomposable attention had been proven successful in 2016 when used in combination with a feedforward network. Convergence problems with the architecture where then mitigated by Xiong et al (2020) using layer normalization before multiheaded attention.
 # Intuition:
 They achieve their success in part due to their parallelizability in sequence modelling tasks compared to previous state-of-the-art algorithms, which enables large scaling and model sizes.
 [[RNN]]s, [[LSTM]]s and [[GRU]]s only effectively have access to a certain reference window of previous datapoints in time or outputs previously generated, where LSTMs and GRUs improve on RNNs by elongating that window.
 Transformers on the other hand can theoretically use all the previous datapoints and outputs, which it can do effectively by learning and then only focusing on the information currently relevant, which is done through **attention**.
 
-# The Vitya-Transformer:
+# The Vaswani-Transformer:
 In general, inputs (usually words) are initially converted into real valued vectors using a lookup table in a process called **input embedding**.
 To those vectors, positional information (encoded through a vector of a function taking the position as an input) is then injected by adding it to the embedding in a process called **positional encoding**.
 Then, this positional encoding is fed into an **encoder layer** that maps a sequence to an abstract continuous representation which is supposed to hold the learned information of the entire sequence. This contains a multi-headed attention mechanism as well as a regular [[Neural Network]]. There are residual connections between each of the submodules followed by a layer normalization.
