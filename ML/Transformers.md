@@ -54,9 +54,12 @@ The goal of the encoder is to output a set of encoded vectors for each sequence 
 
 The entire encoder is made up from multiple encoder structures, which are all identical in nature, though they do not share weights:
 
-Each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently. 
+Each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently. The outputs of that layer are then fed into the next encoder etc.
+
 ![[Pasted image 20230924154026.png]]
 Thus, while the self-attention layer includes dependencies between the 'paths' of each input at some point in time, the feed-forward-layer does not, allowing for parallelization. This is one of the key properties of the transformer.
+
+
 ## Decoder:
 The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 
@@ -64,7 +67,6 @@ The goal of the decoder is to generate the next sequence member in the output se
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 ### Self-Attention:
 Self attention is a type of attention mechanism that uses observation on a set of datapoints to make predictions about that same set. It is permutation-invariant, i.e. is an operation on sets.
-There are multiple forms of self attention out there, with the one originally used being scaled dot-product attention.
 #### Scaled dot-product attention:
 Scaled dot-product attention uses 
 
