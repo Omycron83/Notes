@@ -36,9 +36,9 @@ satisfies this equation. This forms a geometric progression from $2\pi$ to $1000
 $\begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix} = \begin{pmatrix} sin(\frac{t}{1}) \\  cos(\frac{t}{1}) \\ ... \\ sin(\frac{t}{10000}) \\ cos(\frac{t}{10000})\end{pmatrix}$
 
 Proof:
-	While the other assertions are easy to see, the first assertion requires more comprehensive consideration. We essentially have to show that there exists a linear transformation $M$ (which is the basis of the neural network) that is able to transform $M \cdot \begin{pmatrix} sin(\frac{t}{10000^{2k / d_{model}}}) \\ cos(\frac{t}{10000^{2k / d_{model}}}) \end{pmatrix} = \begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) \end{pmatrix}$.
-	
-	
+	While the other assertions are easy to see, the first assertion requires more comprehensive consideration. We essentially have to show that there exists a linear transformation $M \in R^{2 \times 2}$ (which is the basis of the neural network) that is able to transform $M \cdot \begin{pmatrix} sin(\frac{t}{10000^{2k / d_{model}}}) \\ cos(\frac{t}{10000^{2k / d_{model}}}) \end{pmatrix} = \begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) \end{pmatrix}$ for every sine-cosine pair *irrespective* of $t$.
+	This can be done by parameterizing $M = \begin{pmatrix}u_1 & v_1 \\ u_2 & v_2\end{pmatrix}$
+	And then, by the additive theorem, substituting $\begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) = \begin{pmatrix} \end{pmatrix}$
 
 This is actually similar to binary encoding: if one wants to binarily encode numbers, the least significant bit (the last one) is alternated on every number, the second-lowest bit is rotating on every two numbers etc. The sinusoidal functions are actually equivalent to alternating these bits, but can effectively be used in combination with the typically used floating point numbers. Decreasing their frequencies like we are doing with the geometric progression enables us to 'address not only the first few, but also the last bits'.
 ![[Pasted image 20230924142803.png|320]] ![[Pasted image 20230924142815.png|320]]
