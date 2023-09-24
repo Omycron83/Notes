@@ -62,7 +62,8 @@ Thus, while the self-attention layer includes dependencies between the 'paths' o
 Additionally, after each sub-layer, there is a residual connection between the inputs and the outputs of the two mechanisms (self-attention and feedforward-layer) that is then used in an addition and layer-normalization step:
 ![[Pasted image 20230924190341.png]]
 
-Here, layer normalization refers to the process of 
+Here, layer normalization refers to the process of normalizing the input matrix using the average and standard deviation of all inputs in a single training case (contrary to batch-normalization, where this is independently done for each singular input across a batch).
+
 ## Decoder:
 The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 
