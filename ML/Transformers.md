@@ -89,18 +89,18 @@ This individual process can easily be represented using matrices.
 
 We note that the input to each self-attention layer is a $X \in R^{d_{sequence} \times d_n}$ matrix, where each row represents the encoded representation for some sequence member.
 
-Thus, the corresponding query, key and value **matrices** can be obtained by multiplying $Q = X \cdot W^Q, K = X \cdot W^K, V = X \cdot W^V$.
+Thus, the corresponding query, key and value **matrices** can be obtained by multiplying $Q = X \cdot W^Q, K = X \cdot W^K, V = X \cdot W^V$. Each of the matrices has size $R^{d_{sequence} \times d_k}$, and represents the query/key/value score (column) for each sequence member (row).
 
-The score of each word can then be obtained by multiplying $Q \cdot K^T$, which produces a $d_{sequence} \times d_{sequence}$ Matrix. This represents the score of each sequence member (row) for each sequence member (column).  
+The score of each word can then be obtained by multiplying $Q \cdot K^T$, which produces a $d_{sequence} \times d_{sequence}$ Matrix. This represents the score/weight for each sequence member (row) of each sequence member (column).  
 
-As previously stated, each entry is then scaled and each row (?) then put through the softmax-function.
+As previously stated, each entry is then scaled and each row then put through the softmax-function (so that each row, i.e. the score for each each sequence member sums up to one).
 
-Afterwards, this matrix is then multiplied by the value matrix $V$ to the final score matrix, so that each row (representing the weight of each ) is multiplied by each column (representing the corresponding feature values for each sequence member) yielding the weighted 'impact' values.
+Afterwards, this matrix is then multiplied by the value matrix $V$ to the final score matrix, so that each row (representing the weight of each sequence member of the column for the corresponding sequence member) is multiplied by each column (representing the corresponding feature values for each sequence member) yielding the weighted 'impact' values in the corresponding sequence point row in the corresponding feature value column.
 
 Visualization:
 ![[Pasted image 20230924165950.png]]
 ##### Matrices as lookup-tables:
-
+One may ask for the motivation of the matrices $Q, K$ and $V$ and the proccesses behind them.
 
 
 #### Multi-head attention:
