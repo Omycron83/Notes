@@ -21,8 +21,17 @@ The goal of the decoder is to generate the next sequence member in the output se
 ## Positional Encoding:
 The vector representation of the input does, contrary to [[RNN|RNNs]], not contain positional information anymore, which is necessary when working with input sequences.
 
-This is done by constructing a positional-encoding vector containing information about the position of the sequence member, which is then added to the embedded sequence member vector. Thus, a position-dependent signal is added to each embedding and thus positional encoding infused.
+This is done by constructing a positional-encoding vector containing information about the position of the sequence member, which is then added to the embedded sequence member vector. 
+Thus, a position-dependent signal is added to each embedding and thus positional encoding infused, which avoids destroying the embedded information.
+
+It turns out that linearly adding the positional values faces problems with 'variable-length' sequences. This leads to the following requirements for a positional-encoding mechanism:
+- It should be injective, i.e. output a unique encoding for each time step
+- The distance between any two time steps should be consistent across varying lengths
+- It should generalize to longer sequences without any effort
+- Its values should be bounded
+- It must be deterministic
 ### Sin-Encoding:
+
 
 
 ## Attention Mechanisms:
@@ -58,3 +67,5 @@ https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
 https://e2eml.school/transformers.html
 https://www.youtube.com/watch?v=4Bdc55j80l8
 https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/
+https://datascience.stackexchange.com/questions/51065/what-is-the-positional-encoding-in-the-transformer-model
+https://kazemnejad.com/blog/transformer_architecture_positional_encoding/
