@@ -100,7 +100,7 @@ Afterwards, this matrix is then multiplied by the value matrix $V$ to the final 
 Visualization:
 ![[Pasted image 20230924165950.png]]
 ##### Matrices as lookup-tables:
-One may ask for the motivation of the matrices $Q, K$ and $V$ and the proccesses behind them.
+One may ask for the motivation of the matrices $Q, K$ and $V$ and the implicit behind them.
 
 
 #### Multi-head attention:
