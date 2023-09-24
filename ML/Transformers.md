@@ -95,7 +95,8 @@ The score of each word can then be obtained by multiplying $Q \cdot K^T$, which 
 
 As previously stated, each entry is then scaled and each row then put through the softmax-function (so that each row, i.e. the score for each each sequence member sums up to one).
 
-Afterwards, this matrix is then multiplied by the value matrix $V$ to the final score matrix, so that each row (representing the weight of each sequence member of the column for the corresponding sequence member) is multiplied by each column (representing the corresponding feature values for each sequence member) yielding the weighted 'impact' values in the corresponding sequence point row in the corresponding feature value column.
+Afterwards, this matrix is then multiplied by the value matrix $V$ to the final score matrix, so that each row (representing the weight of each sequence member of the column for the corresponding sequence member) is multiplied by each column (representing the corresponding feature values for each sequence member) yielding the weighted 'impact' values in the corresponding sequence point row in the corresponding feature value column. 
+This matrix of size $d_{sequence} \times d_k$ is then fed into the subsequent feedforward layer.
 
 Visualization:
 ![[Pasted image 20230924165950.png]]
@@ -109,8 +110,15 @@ And as we know, a markov chain can be expressed using a matrix, which we yielded
 The multiplication of the query and key matrices can then further be viewed as mask lookup: [[Masks]] are a way to exclude unnecessary features 
 
 #### Multi-head attention:
-Instead of only performing one variant of self-attention, i.e. a representation of each vector as one combination of features, one can yield multiple representation subspaces by using multiple sets of Query/Key/Value weight matrices, that are all independ
+Instead of only performing one variant of self-attention, i.e. learning one representation of each vector as one combination of features, one can yield multiple representation subspaces by using multiple sets of Query/Key/Value weight matrices denoted $W_i^Q, W_i^K, W_i^V$, that are all independently randomly initialized and subsequently learned. These are called **attention heads**.
 
+As an example, if we had eight different weight-matrix-sets, we would yield eight different z-matrices:
+![[Pasted image 20230924181831.png]]
+
+However, the next feedforward layer assumes a $d_{sequence} \times d_k$ input matrix. This can be alleviated by interpreting each representation of $Z_i$ as a different set of features for each sequence member. Thus, we can concatenate the matrices $d_{sequence} \times d_k$ matrices to one $d_{sequence} \times n \cdot d_k$ matrix:
+![[Pasted image 20230924182337.png]]
+
+In order to yield a matrix with $d_k$ columns again, one can then multiply this concatenated matrix by another learned weight matrix $W^O \in R^{n \cdot d_k \times d_k}$ 
 # History
 The central attention mechanism was first used in [[RNN|RNNs]] in order to combat the problem of information loss in long sequences. It weighs the previous states according to **learned** measure of relevance. This has first been implemented by Bahdanau et al (2014). It was then combined with embedding and self-attention to get rid of the RNN-component altogether, which then formed the original transformer in Vaswani et al (2017), after decomposable attention had been proven successful in 2016 when used in combination with a feedforward network. Convergence problems with the architecture where then mitigated by Xiong et al (2020) using layer normalization before multiheaded attention.
 # Intuition:
