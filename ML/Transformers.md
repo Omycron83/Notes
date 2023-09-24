@@ -27,7 +27,7 @@ There are multiple forms of self attention out there, with the one originally us
 Scaled dot-product attention uses 
 
 # Training:
-Typically, unsupervised pretraining is done before moving onto supervised "fine-tuning", as the amount of required labeled training data is often not nearly sufficient for the amount of parameters trained. 
+Typically, unsupervised pretraining is done before moving onto supervised "fine-tuning", as the amount of required labeled training data is often not nearly sufficient for the amount of parameters trained. However, unlabeled data is often available on a large scale.
 
 
 *Sources:*
