@@ -1,7 +1,11 @@
 Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory to improve pattern recognition when dealing with sequential or high dimensional data. This is done by selectively focusing only on a part of the information.  
 
 # Architecture:
-Fundamentally, all transformers architectures are based on dealing with sequence modelling problems. However, as [[RNN#^991e61|with RNNs]], different types of problems require different types of architectures. One open question is whether or not 
+Fundamentally, all transformers architectures are based on dealing with sequence modelling problems. 
+Contrary to [[RNN|RNNs]], the transformer architecture requires a fixed-size input, which in practice gives a maximum sequence length. Different sequence lengths are usually padded to this maximum.  
+
+
+However, as [[RNN#^991e61|with RNNs]], different types of problems require different types of architectures. One open question is whether or not 
 # Encoder:
 
 # Decoder:
@@ -40,3 +44,4 @@ Typically, unsupervised pretraining is done before moving onto supervised "fine-
 https://lilianweng.github.io/posts/2023-01-27-the-transformer-family-v2/
 https://e2eml.school/transformers.html
 https://www.youtube.com/watch?v=4Bdc55j80l8
+https://jinglescode.github.io/2020/05/27/illustrated-guide-transformer/
