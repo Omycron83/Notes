@@ -100,7 +100,10 @@ Afterwards, this matrix is then multiplied by the value matrix $V$ to the final 
 Visualization:
 ![[Pasted image 20230924165950.png]]
 ##### Matrices as lookup-tables:
-One may ask for the motivation of the matrices $Q, K$ and $V$ and the implicit behind them.
+One may ask for the motivation of the matrices $Q, K$ and $V$ and the implicit behind them. This can be explained using [[Markov Chains]]: 
+we can view our sequence as a markov chain, as in that the different sequence points represent states and the way they lead to each other are the conditional probability between them. The probability of the point in the sequence (given another point in the sequence) times the value can then be interpreted as the expected value given that there was the other point in the sequence. 
+And as we know, a markov chain can be expressed using a matrix, which we did here by multiplying the query and key matrices. 
+
 
 
 #### Multi-head attention:
