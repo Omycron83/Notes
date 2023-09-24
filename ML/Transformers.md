@@ -66,11 +66,13 @@ The goal of the decoder is to generate the next sequence member in the output se
 ## Attention Mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 ### Self-Attention:
-Self attention is a type of attention mechanism that uses observation on a set of datapoints to make predictions about that same set. It is permutation-invariant, i.e. is an operation on sets.
+Self attention is a family of type of attention mechanisms that uses observation on a set of datapoints to make predictions about that same set (usually the weight of each element for some value). It is permutation-invariant, i.e. is an operation on sets. 
 #### Scaled dot-product attention:
-Scaled dot-product attention uses 
+In scaled dot-product attention, three vectors are created from each encoded vector $w_t$ at some point in time $t$: a query vector $q_t$, a key vector $k_t$ and a value vector $v_t$. 
 
-### Multi-head attention:
+They are each ca
+
+#### Multi-head attention:
 
 
 # History
