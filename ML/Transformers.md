@@ -118,7 +118,7 @@ As an example, if we had eight different weight-matrix-sets, we would yield eigh
 However, the next feedforward layer assumes a $d_{sequence} \times d_k$ input matrix. This can be alleviated by interpreting each representation of $Z_i$ as a different set of features for each sequence member. Thus, we can concatenate the matrices $d_{sequence} \times d_k$ matrices to one $d_{sequence} \times n \cdot d_k$ matrix:
 ![[Pasted image 20230924182337.png]]
 
-In order to yield a matrix with $d_k$ columns again, one can then multiply this concatenated matrix by another learned weight matrix $W^O \in R^{n \cdot d_k \times d_k}$ 
+In order to yield a matrix with $d_k$ columns again, one can then multiply this concatenated matrix by another learned weight matrix $W^O \in R^{n \cdot d_k \times d_k}$ to yield 
 # History
 The central attention mechanism was first used in [[RNN|RNNs]] in order to combat the problem of information loss in long sequences. It weighs the previous states according to **learned** measure of relevance. This has first been implemented by Bahdanau et al (2014). It was then combined with embedding and self-attention to get rid of the RNN-component altogether, which then formed the original transformer in Vaswani et al (2017), after decomposable attention had been proven successful in 2016 when used in combination with a feedforward network. Convergence problems with the architecture where then mitigated by Xiong et al (2020) using layer normalization before multiheaded attention.
 # Intuition:
