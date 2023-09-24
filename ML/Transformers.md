@@ -1,5 +1,8 @@
 Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory to improve pattern recognition when dealing with sequential or high dimensional data (often in Sequence-to-Sequence tasks). This is done by selectively focusing only on a part of the information.  
 
+# Architecture:
+
+
 # History
 The central attention mechanism was first used in [[RNN|RNNs]] in order to combat the problem of information loss in long sequences. It weighs the previous states according to **learned** measure of relevance. This has first been implemented by Bahdanau et al (2014). It was then combined with embedding and self-attention to get rid of the RNN-component altogether, which then formed the original transformer in Vitya et al (2017), after decomposable attention had been proven successful in 2016 when used in combination with a feedforward network. Convergence problems with the architecture where then mitigated by Xiong et al (2020) using layer normalization before multiheaded attention.
 # Intuition and the initial Transformer:
