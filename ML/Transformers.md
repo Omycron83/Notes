@@ -59,8 +59,10 @@ Each encoders input is first processed by a self-attention layer, and its result
 ![[Pasted image 20230924154026.png]]
 Thus, while the self-attention layer includes dependencies between the 'paths' of each input at some point in time, the feed-forward-layer does not, allowing for parallelization. This is one of the key properties of the transformer.
 
-Additionally, in each sub-layer, 
+Additionally, after each sub-layer, there is a residual connection between the inputs and the outputs of the two mechanisms (self-attention and feedforward-layer) that is then used in an addition and layer-normalization step:
+![[Pasted image 20230924190341.png]]
 
+Here, layer normalization refers to the process of 
 ## Decoder:
 The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 
