@@ -66,11 +66,21 @@ The goal of the decoder is to generate the next sequence member in the output se
 ## Attention Mechanisms:
 Attention mechanisms are a family of mechanism in transformer models that learn to make predictions by selectively attending to a given set of data. The amount of attention is usually quantified by a certain, learned weight and then formed by a weighted average.
 ### Self-Attention:
-Self attention is a family of type of attention mechanisms that uses observation on a set of datapoints to make predictions about that same set (usually the weight of each element for some value). It is permutation-invariant, i.e. is an operation on sets. 
+Self attention is a family of type of attention mechanisms that uses observation on a set of datapoints to make predictions about that same set (usually some importance-score of each element for some value). It is permutation-invariant, i.e. is an operation on sets. 
 #### Scaled dot-product attention:
-In scaled dot-product attention, three vectors are created from each encoded vector $w_t$ at some point in time $t$: a query vector $q_t$, a key vector $k_t$ and a value vector $v_t$. 
+In scaled dot-product attention, three vectors are created from each encoded vector $w_t$ at some point in time $t$: a query vector $q_t$, a key vector $k_t$ and a value vector $v_t$, all of the same size $d_k$, which form different projections and abstractions of the vector. 
+They are obtained by multiplying each vector my the corresponding, learned weight matrix $W^Q$, $W^K$ and $W^V$.
 
-They are each ca
+Using these abstractions, a score for the importance of this datapoint for the value of the next time-step can be calculated by scoring each datapoint of the previous sequence against this new datapoint. 
+This score is obtained by taking the **dot-product** of the query and key vector $q_t \cdot k_t^T$. 
+
+Then, the scores for each point in the sequence are divided by $\sqrt{d_k}$ in order to guarantee more stable gradients. 
+
+Afterwards, the normalized scores for each point in the sequence are passed through the softmax-function, which obtains sharper weights summing to one.
+The softmax score then determines how impactful each previous sequence member is for the next sequence member.
+
+This is 
+
 
 #### Multi-head attention:
 
