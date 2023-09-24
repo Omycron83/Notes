@@ -68,9 +68,10 @@ Attention mechanisms are a family of mechanism in transformer models that learn 
 ### Self-Attention:
 Self attention is a family of type of attention mechanisms that uses observation on a set of datapoints to make predictions about that same set (usually some importance-score of each element for some value). It is permutation-invariant, i.e. is an operation on sets. 
 #### Scaled dot-product attention:
+##### Process:
 In scaled dot-product attention, for each encoded vector in a sequence, three vectors are created for every encoded vector $w_t$ at some point in time $t$: a query vector $q_t$, a key vector $k_t$ and a value vector $v_t$, all of the same size $d_k$, which form different abstractions of the vector. 
 
-They are obtained by multiplying each vector my the corresponding, learned weight matrix $W^Q$, $W^K$ and $W^V$.
+They are obtained by multiplying each vector my the corresponding, learned weight matrix $W^Q$, $W^K$ and $W^V \in R^{d_n \times d_k}$ .
 
 Using these abstractions, a score for the importance of each point in the sequence for the value of this point in the sequence can be calculated by scoring each datapoint of the sequence against this datapoint (even the datapoint itself). This score is obtained by taking the **dot-product** of the query and key vector $q_t \cdot k_t^T$. 
 
@@ -80,7 +81,23 @@ Afterwards, the normalized scores for each point in the sequence are passed thro
 The softmax score then determines how impactful each sequence member is for this sequence member. Clearly, the sequence member itself will probably have one of the highest scores, but other scores may be high as well.
 
 This softmax score is then multiplied by the values vectors $v_t$, forming a weighted representation. This is then summed up to gain an importance-weighted average $z_t$ for this point in the sequence, which can be passed on. 
-This can be interpreted as 
+
+Example for determining the score of the word 'thinking' in the sequence 'thinking machines':
+![[Pasted image 20230924164750.png]]
+##### Matrix Representation:
+This individual process can easily be represented using matrices. 
+
+We note that the input to each self-attention layer is a $X \in R^{d_{sequence} \times d_n}$ matrix, where each row represents the encoded representation for some sequence member.
+
+Thus, the corresponding query, key and value **matrices** can be obtained by multiplying $Q = X \cdot W^Q, K = X \cdot W^K, V = X \cdot W^V$.
+
+The score of each word can then be obtained by multiplying $Q \cdot K^T$, which produces a $d_{sequence} \times d_{sequence}$ Matrix. This represents the score of each sequence member (row) for each sequence member (column).  
+
+As previously stated, each entry is then scaled and each row then put throu
+
+
+##### Matrices as lookup-tables:
+
 
 
 #### Multi-head attention:
