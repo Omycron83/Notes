@@ -47,14 +47,13 @@ Abschnittsweise:
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
 
 ## In-Class:
-- Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"**
+- Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
 - Inhaltlich nur relevantes aufschreiben
-
 ## After-Class:
 - Durchgehen & Verstehen
 - Von wichtigem Lernzettel schreiben
 - ggf. Vorarbeiten
--> ca. 30 min / Fach / Tag
+-> ca. 20-30 min / Fach (das am nächsten Tag ist)/ Nachmittag
 
 ## Notizenverwaltung:
 - Für Verständnis / "Working-Memory" -> Hefter
@@ -64,20 +63,15 @@ Abschnittsweise:
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 
 # Ernährung:
-
 Proteinquellen:
 - Lentils
 - Eggs
 - Whey-Protein
 Carbs:
+- Potatoes
 
 # Fitness:
 Routine: Push-Pull-Legs
-
-Programm Ideas:
-https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/
-
-## Custom Thing:
 ### Push:
 - Chest press 3x 6-9 
 - Shoulder press 3x 6-9 
@@ -96,6 +90,8 @@ https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_
 - Leg curls 3x 6-9 
 - Calf raises 3x 9-12 
 - (Abs)
+
+
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
@@ -158,13 +154,6 @@ Remember that if you're using two-factor authentication on GitHub, you might nee
 ## Get files from there to here in reverse
 
 
-# Obsidian Layout:
 
-Introduction
-## General topics
-### Subtopics
-#### Etc.
-
-*Sources:*
 
 
