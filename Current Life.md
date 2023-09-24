@@ -3,27 +3,17 @@
 2. KI-Paper: Rechnungen beenden
 3. ML-lernen: Transformer, PPO Implementation
 4. Go to the gym 3x, Boxing 1-2x a week
-5. Talk to people as often as possible
-6. Still get great marks
-# Goals
-1. Prepare for next semester (Uni & School)
-2. Finish the paper
-3. Become a god at ML
-4. Get fit
-5. Become sociable
-
+5. Talk to people as often as possible, Increase Drip
+6. Still get great marks -> Vorarbeiten (+ MA), viel Engagement in Projekten, Viel für Klausuren lernen
 # Rythmus
-07:00 - 07:20 : Get up, do bodyweight exercises (5x10+ Pushups, 5x40s Plank-holds, Wallsits)
-07:20 - 10:30 : Erste Schicht
-10:30 - 11:00 : Breakfast
-11:00 - 13:30 : Zweite Schicht
-13:30 - 15:00 : Gym
-15:00 - 18:00 : Dritte Schicht
-18:00 - 18:30 : Pause, Essen (ggf. Meal-prep)
-18:30 - 21:30 : Vierte Schicht
-21:30 - 22:30 : Gaming
-22:30 - 23:00 : Bettfertig, Leisure-Lesen, Einschlafen
-
+6:45 - 7:10 : Get up, get ready for school
+07:10 - 16:20 : Be in school, spend time APAP
+16:20 - 17:40 : First Pomodoro (Gym)
+17:40 - 18:55 : Second (First) Pomodoro
+19:00 - 20:15 : Third (Second) Pomodoro
+20:15 - 21:15 : Fourth (Third) Pomodoro
+21:20 - 22:35 : Menial Labor/Free Time/Eating (Fourth Pomodoro)
+22:35 - 23:00 : Going to bed, reflecting
 # Lern-Strategie:
 0. **Goals** - Setze dir konkrete, erreichbare Ziele in der Study-Session (u.A. 75% Zeit) + Zeitaufgabe
 1. **Survey** - Erstes Lesen, Einordnen, anfängliches Verstehen
