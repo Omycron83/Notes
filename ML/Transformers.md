@@ -53,7 +53,7 @@ This is actually similar to binary encoding: if one wants to binarily encode num
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
 
 The entire encoder is made up from multiple encoder structures, which are all identical in nature, though they do not share weights:
-each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently.
+each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently. Thus, while the self-attention layer includes dependencies between the 'paths' of each input at some point in time, the feed-forward-layer does not, allowing for parallelization.
 ## Decoder:
 The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 
