@@ -7,7 +7,7 @@ Different sequence lengths are usually padded to this maximum, and the added dim
 ### Input Embedding:
 When working with multiple inputs in a sequence, which transformers are optimized for, one can then simply convert the corresponding vectors into a matrix by ‘stacking them’, i.e. using them as its column vectors. 
 The size of each vector is referred to as $d_{model}$. 
-Thus, each sequence input is a $d_{sequence} \times d_{model}$ matrix.
+Thus, each sequence input is a $d_{sequence} \times d_{model}$ [[Matrizen|matrix]].
 
 Input embedding refers to the practice of converting an arbitrary input into a real-valued vector that can then be mathematically operated on. It is often desirable to keep relationships between words, i.e. have the 'close-ness' in reality be reflected in the distance in the embedding space. This is not necessarily the case when dealing with numerical inputs.
 #### One-hot-embedding
@@ -51,6 +51,9 @@ This is actually similar to binary encoding: if one wants to binarily encode num
 
 ## Encoder:
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
+
+The entire encoder is made up from multiple encoder structures, which are all identical in nature, though they do not share weights:
+each encoders input is first processed by a self-attention layer, and its results are then fed into a feed-forward-layer, which is applied to each position independently.
 ## Decoder:
 The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 
