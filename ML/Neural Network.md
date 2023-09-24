@@ -1,6 +1,4 @@
 A neural network is a parameter function for function approximation that, according to the [[Universal Approximation Theorem]], can theoretically approximate any function to any degree of accuracy, depending on the architecture. 
-It sequentially applies [[Lineare Abbildungen|linear mappings]] and non-linear activation functions to the function arguments in a process called [[Neural Network#Forward-propagation |Forward-Propagation]] , where the linear weights are to be learned. 
-They are then typically adjusted through gradient- or hessian-based methods through non-convex optimization methods in a process called [[Neural Network#Backwards-Propagation|Backwards-Propagation]] in order to minimize some objective function, usually a distance function between the desired and current outputs of the model.
 ## Architecture:
 A standard feed-forward neural network consists of three main parts:
 1. An input layer, where Inputs get fed in
@@ -8,6 +6,9 @@ A standard feed-forward neural network consists of three main parts:
 3. An output layer, where projected labels are produced
 
 Where the number of hidden layers as well as their respective neuron count largely determine the model complexity.
+
+It sequentially applies [[Lineare Abbildungen|linear mappings]] and non-linear activation functions to the function arguments in a process called [[Neural Network#Forward-propagation |Forward-Propagation]] , where the linear weights are to be learned. 
+They are then typically adjusted through gradient- or hessian-based methods through non-convex optimization methods in a process called [[Neural Network#Backwards-Propagation|Backwards-Propagation]] in order to minimize some objective function, usually a distance function between the desired and current outputs of the model.
 
 ### Weight Initialization:
 The goal of a neural network is to find the optimal weight matrices to minimize the loss function. This, however, begs the question of how to initialize the weights initally. 
@@ -48,7 +49,7 @@ The sigmoid function
 ### Loss Functions:
 
 
-## Forward-propagation:
+### Forward-propagation:
 In forward propagation, the output can be produced from the input in the following sequence:
 $L_{n + 1} =  f_{n + 1} (L_{n} \cdot \theta_{n + 1})$ 
 where $L_0$ is the input layer and $L_o$ the output layer, with $o - 1$ hidden layers in between.
@@ -63,7 +64,7 @@ However, this has notable consequences in backwards propagation as well as regul
 
 After reaching $L_o$, the loss function $L(L_o, \hat{y})$ is evaluated between the predicted output layer values $L_o$ and the actual target values $\hat{y}$. 
 It measures the distance between the two and is thus to be minimized, which is done using certain optimizers as well as backpropagation.     
-## Backwards-Propagation
+### Backwards-Propagation
 In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$, $\nabla_{\theta_n} L$ is to be determined to then be used in various optimizers. 
 This can be done using elementary calculus. 
 Doing this calculation also reveals a very efficient procedure thats easily implemented.
@@ -81,9 +82,7 @@ This act of once passing back the gradients back similarly to passing the input 
 
 If one uses some elementary calculus and knowledge of linear algebra, they can see that the gradient w.r.t. the layer $n$ (**not** the next layers weights) can be calculated by the gradient w.r.t. the layer $n + 1$ by the series: NEEDS FIX:
 $\nabla L_{n} =  (\nabla L_{n + 1} \cdot \theta_n^T ) * f'(L_n \cdot \theta_{n + 1})$  
-## Optimizers:
+## Training:
 However, one cannot simply train the neural network by only applying backpropagation, as that only yields the gradient values. However, those can be used by a variety of gradient- and hessian-based optimizers:
-
-
-## Regularization and Hyperparameter-Tuning:
+## Regularization and Hyperparameters:
 

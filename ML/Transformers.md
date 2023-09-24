@@ -1,37 +1,28 @@
 Transformers are a [[Neural Network]] variant mainly utilizing attention, encoding and embedding as well as context memory to improve pattern recognition when dealing with sequential or high dimensional data. This is done by selectively focusing only on a part of the information.  
 
 # Architecture:
-Fundamentally, all transformers architectures are based on dealing with sequence modelling problems. 
-
-## Input
-
-Contrary to [[RNN|RNNs]], the transformer architecture requires a fixed-size input, which in practice gives a maximum sequence length. 
-Different sequence lengths are usually padded to this maximum.  
-The added dimensionality of this can then be mitigated by only focusing on a part of the input, i.e. through attention.
-
-
-However, as [[RNN#^991e61|with RNNs]], different types of problems require different types of architectures. One open question is whether or not 
-## Encoder:
-The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
-
-## Decoder:
-The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
-
-## Input Embedding:
-Input embedding refers to the practice of converting an arbitrary input into a real-valued vector that can then be mathematically operated on. It is often desirable to keep relationships between words, i.e. have the 'close-ness' in reality be reflected in the distance in the embedding space. 
+## Inputs:
+Contrary to [[RNN|RNNs]], the transformer architecture requires a fixed-size input, which in practice gives a maximum sequence length. We will denote this length as $d_{sequence}$.
+Different sequence lengths are usually padded to this maximum, and the added dimensionality then mitigated by the other components.  
+### Input Embedding:
+Input embedding refers to the practice of converting an arbitrary input into a real-valued vector that can then be mathematically operated on. It is often desirable to keep relationships between words, i.e. have the 'close-ness' in reality be reflected in the distance in the embedding space. This is not necessarily the case when dealing with numerical inputs.
 
 When working with multiple inputs in a sequence, which transformers are optimized for, one can then simply convert multiple vectors into a matrix by ‘stacking them’, i.e. using them as its column vectors. 
-The size of the 
-
-This is not necessarily the case when dealing with numerical inputs.
-### One-hot-embedding
+The size of each vector is referred to as $d_{model}$. 
+Thus, each sequence input is a $d_{sequence} \times d_{model}$ matrix.
+#### One-hot-embedding
 One-hot-encoding refers to the practice of creating a vector with one entry equal to one and all other entries equal to zero. The name stems from electrical engineering, where one … is ‘hot’ and the others ’cold’. 
 
 Each entry then refers to one specific input, i.e. if there are 100 registered words, each word can be represented by a $100$-tuple or vector which is one-hot at the specific word location inside of that vector. 
-
-
+## Encoder:
+The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
+## Decoder:
+The goal of the decoder is to generate the next sequence member in the output sequence. For this, it takes in the previously generated output sequence as well as the encoded vectors of the encoder. 
 ## Positional Encoding:
-The vector representation of the input does, contrary to [[RNN|RNNs]], not contain positional information anymore, which is necessary when working with input sequences. 
+The vector representation of the input does, contrary to [[RNN|RNNs]], not contain positional information anymore, which is necessary when working with input sequences.
+
+This is done by constructing a positional-encoding vector containing information about the position of the sequence member, which is then added to the embedded sequence member vector. Thus, a position-dependent signal is added to each embedding and thus positional encoding infused.
+### Sin-Encoding:
 
 
 ## Attention Mechanisms:
