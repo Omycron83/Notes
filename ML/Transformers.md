@@ -18,7 +18,7 @@ Each entry then refers to one specific input, i.e. if there are 100 registered w
 The vector representation of the input does, contrary to [[RNN|RNNs]], not contain positional information anymore, which is necessary when working with input sequences. Thus, we need to infuse positional encoding again to the input.
 
 This is done by constructing a positional-encoding vector containing information about the position of the sequence member, which is then added to the embedded sequence member vector. 
-Thus, a position-dependent signal is added to each embedding and thus positional encoding infused, which avoids destroying the embedded information.
+Thus, a position-dependent signal is added to each embedding and thus positional encoding infused, which avoids destroying the embedded information (empirically) while not increasing dimensionality (as would happen with concatenation). 
 
 It turns out that linearly adding the positional values (i.e. adding $(0, ..., 0), (1, ..., 1)$ etc. ) faces problems with 'variable-length' sequences. This leads to the following requirements for a positional-encoding mechanism:
 - It should be injective, i.e. output a unique encoding for each time step
@@ -29,8 +29,11 @@ It turns out that linearly adding the positional values (i.e. adding $(0, ..., 0
 #### Sin-Encoding:
 The mechanism introduced by Vitya et al satisfies the above equations:
 Let $p_t$ denote the positional encoding vector corresponding to the position $t$ in the given sequence.
-Then $f: N \rightarrow R^{d_{model}}, t \mapsto p_t = sin($ 
 
+Then $f: N \rightarrow R^{d_{model}}, t \mapsto p_t^{(i)} = sin(\frac{t}{10000^{2k / d_{model}}})$ if $i = 2k$, $cos(\frac{t}{10000^{2k / d_{model}}})$ else
+satisfies this equation. 
+Proof:
+	
 
 ## Encoder:
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
