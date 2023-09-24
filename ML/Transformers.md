@@ -35,13 +35,19 @@ Then $f: N \rightarrow R^{d_{model}}, t \mapsto p_t^{(i)} = sin(\frac{t}{10000^{
 satisfies this equation. This forms a geometric progression from $2\pi$ to $10000 \cdot 2\pi$ on the wavelength, with vectors of the form
 $\begin{pmatrix} sin(\frac{t}{10000^{2\cdot 0 / d}}) \\  cos(\frac{t}{10000^{2\cdot 0 / d}}) \\ ... \\ sin(\frac{t}{10000^{2 \cdot d / 2 / d} }) \\ cos(\frac{t}{10000^{2 \cdot d / 2 / d}})\end{pmatrix} = \begin{pmatrix} sin(\frac{t}{1}) \\  cos(\frac{t}{1}) \\ ... \\ sin(\frac{t}{10000}) \\ cos(\frac{t}{10000})\end{pmatrix}$
 
+representable as ![[Pasted image 20230924151254.png]]
+
 Proof:
 	While the other assertions are easy to see, the first assertion requires more comprehensive consideration. We essentially have to show that there exists a linear transformation $M \in R^{2 \times 2}$ (which is the basis of the neural network) that is able to transform $M \cdot \begin{pmatrix} sin(\frac{t}{10000^{2k / d_{model}}}) \\ cos(\frac{t}{10000^{2k / d_{model}}}) \end{pmatrix} = \begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) \end{pmatrix}$ for every sine-cosine pair *irrespective* of $t$.
 	This can be done by parameterizing $M = \begin{pmatrix}u_1 & v_1 \\ u_2 & v_2\end{pmatrix}$
-	And then, by the additive theorem, substituting $\begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) = \begin{pmatrix} \end{pmatrix}$
+	And then, by the additive theorem, substituting $\begin{pmatrix} sin(\frac{t + \phi}{10000^{2k / d_{model}}}) \\ cos(\frac{t + \phi}{10000^{2k / d_{model}}}) \end{pmatrix}= \begin{pmatrix} sin(t...)cos(\phi...) + cos(t...)sin(\phi...) \\ cos(t...)cos(\phi...) - sin(t...)sin(\phi ...) \end{pmatrix}$
+	yields a system of linear equations with the solution
+	$u_1 = cos(\phi...), v_1 = sin(\phi...), u_2 = -sin(\phi...), v_2 = cos(\phi...)$ 
+	Thus proving that the model is able to capture relative positions for a fixed offset $\phi$.
 
 This is actually similar to binary encoding: if one wants to binarily encode numbers, the least significant bit (the last one) is alternated on every number, the second-lowest bit is rotating on every two numbers etc. The sinusoidal functions are actually equivalent to alternating these bits, but can effectively be used in combination with the typically used floating point numbers. Decreasing their frequencies like we are doing with the geometric progression enables us to 'address not only the first few, but also the last bits'.
 ![[Pasted image 20230924142803.png|320]] ![[Pasted image 20230924142815.png|320]]
+
 
 ## Encoder:
 The goal of the encoder is to output a set of encoded vectors for each sequence member. As discussed above, it takes in a fixed-length vector.
