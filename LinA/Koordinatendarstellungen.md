@@ -1,1 +1,2 @@
-Man nennt $v = (x_1, ..., x_n)$  **Koordinatendarstellung** von einem [[Vektorraum|Vektor]] $v \in V$ in einem [[Affiner Punkt-Vektor-Raum|affinen Punkt-Vektor-Raum]], wenn 
+Betrachte man ein [[Affines Koordinatensystem]] von einem [[Affiner Punkt-Vektor-Raum|affinem Punkt-Vektor-Raum]]. Dann nennt man
+- $\phi(O, P) = \

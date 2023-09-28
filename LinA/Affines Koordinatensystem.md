@@ -1,0 +1,2 @@
+
+Sei $O \in A^n$ ein besonders ausgezeichneter Punkt und $B = (b_1, ..., b_n)$ eine [[Basen|Basis]]von $V$. Dann nennt man $\{O, B\}$ affines Koordinatensystem vom [[Affiner Punkt-Vektor-Raum|affinem Punkt-Vektor-Raum]] $A^n$. 

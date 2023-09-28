@@ -11,4 +11,3 @@ Man kann dies als eine Einbettung eines [[Vektorraum|Vektorraumes]] in einen geo
 - $-\vec{AB} = \vec{BA}$ 
 	$\phi(A, B) + \phi(B, A) = \phi(A, A) = o$
 
-# Affines Koordinatensystem:
