@@ -1,1 +1,1 @@
-Man nennt $v = (x_1, ..., x_n)$  **Koordinatendarstellung** von einem [[Vektorraum|Vektor]] $v \in V$ in einem 
+Man nennt $v = (x_1, ..., x_n)$  **Koordinatendarstellung** von einem [[Vektorraum|Vektor]] $v \in V$ in einem [[Affiner Punkt-Vektor-Raum|affinen Punkt-Vektor-Raum]], wenn 
