@@ -25,3 +25,4 @@
 [[Determinanten von Endomorphismen]]
 [[Determinantenformel von Cauchy-Binet]]
 [[Das Lemma von Lindström-Gessel-Viennot]]
+[[Polynome]]
