@@ -23,7 +23,8 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 3. Ist $U$ ein Untervektorraum von $V$, dann ist $F(U)$ ein Untervektorraum von $W$.
 	Durch die linearität der Abbildung lassen sich die [[Untervektorräume|Untervektorraumkriterien]] von $F(U)$ leicht auf den Untervektorraumstatus von $U$ zurückführen:
 	1. Die Teilmengenrelation sei trivial, und da $o \in U$ ist $F(o) = o \in F(U)$
-	2. Sei $v, w \in F(U)$, mit $v = F(l), w = F(g), f,g \in U$. Dann ist durch den Untervektorraumstatus von $U$ auch $l + g \in U$, und damit $F(l + g) = F(l) + F(g)   
+	2. Sei $v, w \in F(U)$, mit $v = F(l), w = F(g), f,g \in U$. Dann ist durch den Untervektorraumstatus von $U$ auch $l + g \in U$, und damit $F(l + g) = F(l) + F(g) = v + w \in F(U)$ im [[Bild einer linearen Abbildung|Bild der Abbildung]]. 
+	3. Sei $\lambda \in K, v \in F(U)$, mit $v = F(l), l \in U$. Dann ist durch den Untervektorraumstatus auch $\lambda l \in U$, und damit auch $F(\lambda l) = \lambda F(l) = \lambda v \in F(U)$.
 
 4. Sind $v_1, ..., v_n$ linear abhängig in $V$, dann sind auch $F(v_1), ..., F(v_n)$ linear abhängig in $W$:
 	Sind sie linear abhängig in $V$, dann gibt es Koeffizienten $\lambda_1, ..., \lambda_n$ mit mind. einem $\lambda_n \neq 0$ sodass die Linearkombination den Nullvektor ergibt, also:
