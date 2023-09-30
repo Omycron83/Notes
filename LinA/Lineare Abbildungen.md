@@ -45,7 +45,10 @@ $G(F(\lambda v + w)) = G(\lambda F(v) + F(w))$
 Und dann durch die Linearität von $G$:
 $G(\lambda F(v) + F(w)) = \lambda G(F(v)) + G(F(w))$ $\square$
 
-### Bild, Faser, Kern: 
+## Bild, Faser, Kern einer lineare Abbildung:
+
+
+###  Eigenschaften
 Sei $F$ eine lineare Abbildung. Dann gilt:
 - $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
 	Beweis: Untervektorraumaxiome abklappern: ^235c98
