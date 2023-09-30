@@ -4,7 +4,6 @@
 [[Laplace-Entwicklung]]
 [[Determinanten]]
 [[Gruppe der invertierbaren Matrizen]]
-[[Faserung eines Vektorraumes]]
 [[Faktorisierungssatz]]
 [[Quotienten]]
 [[Quotientenabbildungen]]
