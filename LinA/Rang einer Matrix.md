@@ -8,4 +8,4 @@ Beweis:
 	Es ist $a_i \in im A$, da $A \cdot e_i = a_i \in Im A$. Und da dann $a_1, ..., a_n \in Im A$ auch durch Vektorreigenschaft  $<a_1, ..., a_n> \subset im A$.
 
 ## Zeilenrang = Spaltenrang:
-Wir wissen, dass Spalten $a_1, ..., a_r$ (mit $dim(im(A)) = r$) eine Basis bilden. 
+Der Spaltenrang einer Matrix, d.h. die Dimension des von ihm erzeugten Unterraumes 
