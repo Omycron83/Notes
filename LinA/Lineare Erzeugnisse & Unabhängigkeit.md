@@ -18,7 +18,7 @@ $\Leftrightarrow \frac{-\lambda_1}{\lambda_g} v_1 + .... + \frac{-\lambda_r}{\la
 Bemerkung: 
 - Eine Familie, die den Nullvektor enthält, ist nie linear unabhängig.
 - Eine Familie mit nur einem Vektor, ist nur dann linear abhängig, wenn es der Nullvektor ist
-### Lineare Unabhängigkeit <-> Eindeutige Linearkombination:
+## Lineare Unabhängigkeit <-> Eindeutige Linearkombination:
 
 ^b227ab
 
@@ -42,3 +42,12 @@ Beweis:
 
 
 
+
+
+## $span(v_1, ..., v_n)$ ist ein Untervektorraum von $V$
+Sei $span(v_1, ..., v_n)$ das Erzeugniss der mindestens einelementigen Familie $v_i \in V$. Dann konstituiert dieses Erzeugniss einen [[Untervektorräume|Untervektorraum]] von $V$. ^2f6e6d
+
+Beweis:
+	1. $o \in span(v_1, ..., v_n)$ sei klar, wenn alle Koeffizienten null gesetzt werden
+	2. $v, w \in span(v_1, ..., v_n) \implies v + w = \lambda_1 v_1 + ... + \lambda_n v_n + \mu_1 v_1 + ... + \mu_n v_n$  $= (\lambda_1 + \mu_1) v_1 + ... + (\lambda_n + \mu_n) v_n \in span(v_1, ..., v_n)$ 
+	3. $\lambda \in K, v \in span(v_1, ..., v_n) \implies \lambda v = \lambda (\lambda_1 v_1 + ... + \lambda_n v_n)$ $= \lambda \lambda_1 v_1 + ... + \lambda \lambda_n v_n \in span(v_1, ..., v_n)$ 
