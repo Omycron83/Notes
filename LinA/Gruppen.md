@@ -44,6 +44,10 @@ $a \circ b = a \circ c$
 $\Leftrightarrow a^{-1} \circ a \circ b = a^{-1} \circ a \circ c$
 $\Leftrightarrow e \circ b = e \circ c$
 $\Leftrightarrow b = c$  ^c379c5
+
+- Dass $a \circ a = a \implies a = e$:
+	$a \circ a = a \Leftrightarrow a \circ a \circ a^{-1} = a \circ a^{-1} \Leftrightarrow a = e$ 
+	
 ## Beispiele:
 Die Permutationsgruppe $Sym(X)$  enthält als Elemente alle bijektiven Abbildungen auf der Menge $X$ mit der Verknüpfung der Verkettung. Ihre Elemente nennt man auch Permutationen.
 	Abgeschlossenheit und Wohldefiniertheit seien klar.
