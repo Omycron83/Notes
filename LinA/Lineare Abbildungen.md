@@ -6,7 +6,7 @@ $\forall v,w \in V, \lambda \in K$
 
 **Bemerkung**: Dies kann zusammengefasst werden zu: $F(\lambda v + w) = \lambda F(v) + F(w)$
 
-Dabei bilden lineare Abbildungen also Vektorraumhomomorphismen, da sie die generelle Vektorraumstruktur sowohl in der Addition als auch der Skalarmultiplikation erhalten, die **Additivität stellt den [[Gruppenhomomorphismen|Gruppenhomomorphismus]]**, die **Homogenität den Skalarhomomorphismus**.
+Dabei bilden lineare Abbildungen also Vektorraumhomomorphismen, da sie die generelle Vektorraumstruktur sowohl in der Addition als auch der Skalarmultiplikation erhalten, die **Additivität stellt den [[Gruppenhomomorphismen|Gruppenhomomorphismus]]**, die **Homogenität den Skalarhomomorphismus**. ^587427
 
 Ist $V = W$, dann nennt man eine lineare Abbildung einen **Endomorphismus**.
 Ist $F$ bijektiv, dann nennt man die lineare Abbildungen einen **Vektorraumisomorphismus**.
@@ -26,15 +26,14 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 	2. Sei $v, w \in F(U)$, mit $v = F(l), w = F(g), f,g \in U$. Dann ist durch den Untervektorraumstatus von $U$ auch $l + g \in U$, und damit $F(l + g) = F(l) + F(g) = v + w \in F(U)$ im [[Bild einer linearen Abbildung|Bild der Abbildung]]. 
 	3. Sei $\lambda \in K, v \in F(U)$, mit $v = F(l), l \in U$. Dann ist durch den Untervektorraumstatus auch $\lambda l \in U$, und damit auch $F(\lambda l) = \lambda F(l) = \lambda v \in F(U)$.
 
-4. Sind $v_1, ..., v_n$ linear abhängig in $V$, dann sind auch $F(v_1), ..., F(v_n)$ linear abhängig in $W$:
+4. Sind $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear abhängig]] in $V$, dann sind auch $F(v_1), ..., F(v_n)$ linear abhängig in $W$:
 	Sind sie linear abhängig in $V$, dann gibt es Koeffizienten $\lambda_1, ..., \lambda_n$ mit mind. einem $\lambda_n \neq 0$ sodass die Linearkombination den Nullvektor ergibt, also:
 	$F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = \lambda_1 F(v_1) + ... + \lambda_n F(v_n)$ nach 2.
 	Und da wir aus 1. wissen, dass $F(o) = o$ ergibt die Linearkombination von $F(v_1), ..., F(v_n)$ auch hier den Nullvektor, und dies ebenfalls mit nichtrivialen Koeffizienten. $\square$
 
 
 5.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
-	Beweis ist noch zu erbringen
-
+	$dim(U)$ ist nach der [[Dimension|Dimensionsdefinition]] die [[Basen|maximale Länge linear unabhängiger Familien]] in $U$. Selbiges gilt für $dim(F(U))$ mit $F(U)$. So ist jede Familie mit mehr als $dim(U)$ Mitgliedern linear abhängig in $U$, und somit auch nach 5. ihre jeweiligen Bildvektoren linear abhängig in $F(U)$. Da dies die einzigen Elemente von $F(U)$ kann die Dimension von $F(U)$ maximal so groß sein wie die Dimension von $U$, da jede Familie mit größerer Länge als $dim(U)$ linear abhängig in $F(U)$ ist.  $\square$
 
 #### Kompositionen linearer Abbildungen sind linear
 Seien $F : V \rightarrow W$, $G: W \rightarrow U$  lineare Abbildungen. Dann ist auch $G \circ F$ linear.
@@ -45,20 +44,6 @@ Durch die Linearität von $F$ wissen wir:
 $G(F(\lambda v + w)) = G(\lambda F(v) + F(w))$
 Und dann durch die Linearität von $G$:
 $G(\lambda F(v) + F(w)) = \lambda G(F(v)) + G(F(w))$ $\square$
-
-#### Vektorraum der Homomorphismen:
-Die Menge aller Vektorraumhomomorphismen $Hom(V,W)$ ist ein Untervektorraum von $Abb(V, W) = W^V$  .
-##### Beweis:
-Hier müssen lediglich die [[Untervektorräume|Untervektorraumaxiome]] gelten:
-1. Die Nullabbildung $F(v) = 0$ ist linear, also in $Hom(V,W)$ enthalten.
-2. Abgeschlossen ggü. Addition, da die Summe zweier linearen Abbildungen ebenfalls linear ist:
-	$(F + G)(\lambda v + w) = F(\lambda v + w) + G(\lambda v + w) = \lambda F(v) + F(w) + \lambda G(v) + G(w)$ 
-	$= \lambda (F(v) + G(v)) + F(w) + G(w) \lambda (F + G)(v) + (F + G)(w)$
-3. Abgeschlossen ggü. Skalarmultiplikation, da:
-	$(\lambda F)(\mu v + w) = \lambda F(\mu v + w) = \lambda \mu F(v) + \lambda F(w) = \mu (\lambda F(v)) + (\lambda F(w))$ 
-
-#### Ringe der Endomorphismen
-
 
 ### Bild, Faser, Kern: 
 Sei $F$ eine lineare Abbildung. Dann gilt:
