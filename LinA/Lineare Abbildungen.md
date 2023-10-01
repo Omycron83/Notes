@@ -31,9 +31,15 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 	$F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = \lambda_1 F(v_1) + ... + \lambda_n F(v_n)$ nach 2.
 	Und da wir aus 1. wissen, dass $F(o) = o$ ergibt die Linearkombination von $F(v_1), ..., F(v_n)$ auch hier den Nullvektor, und dies ebenfalls mit nichtrivialen Koeffizienten. $\square$
 
+5. Ist $F$ [[Abbildungen#^4b4823|injektiv]], dann gilt: $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]] $\implies$ $F(v_1), ..., F(v_n)$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]]
+	Beweis: Seien $v_1, ..., v_n$ linear unabhängig. Dann ist $\lambda_1 v_1 + ... + \lambda_n v_n = o \implies \lambda_1 = ... = \lambda_n$
+	Wir wissen nach obrigem, dass $ker \; F = \{o \} \Leftrightarrow$ Injektivität. So gilt $F(v) = o$ genau dann, wenn $v = o$. Also gilt $F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = o \implies \lambda_1 = ... = \lambda_n$.
+	Und dadurch auch $\lambda_1F( v_1) + ... + \lambda_n F( v_n) = o \implies \lambda_1 = ... = \lambda_n$ ^f38efc
 
-5.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
+
+6.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
 	$dim(U)$ ist nach der [[Dimension|Dimensionsdefinition]] die [[Basen|maximale Länge linear unabhängiger Familien]] in $U$. Selbiges gilt für $dim(F(U))$ mit $F(U)$. So ist jede Familie mit mehr als $dim(U)$ Mitgliedern linear abhängig in $U$, und somit auch nach 5. ihre jeweiligen Bildvektoren linear abhängig in $F(U)$. Da dies die einzigen Elemente von $F(U)$ kann die Dimension von $F(U)$ maximal so groß sein wie die Dimension von $U$, da jede Familie mit größerer Länge als $dim(U)$ linear abhängig in $F(U)$ ist.  $\square$
+
 
 #### Kompositionen linearer Abbildungen sind linear
 Seien $F : V \rightarrow W$, $G: W \rightarrow U$  lineare Abbildungen. Dann ist auch $G \circ F$ linear.
@@ -44,30 +50,4 @@ Durch die Linearität von $F$ wissen wir:
 $G(F(\lambda v + w)) = G(\lambda F(v) + F(w))$
 Und dann durch die Linearität von $G$:
 $G(\lambda F(v) + F(w)) = \lambda G(F(v)) + G(F(w))$ $\square$
-
-## Bild, Faser, Kern einer lineare Abbildung:
-
-###  Eigenschaften
-Sei $F$ eine lineare Abbildung. Dann gilt:
-- $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
-	Beweis: Untervektorraumaxiome abklappern: ^235c98
-	1. $F(o) = o \in im \; F$
-	2. $F(v), F(w) \in im \; F \implies F(v) + F(w) = F(v + w) \in im \; F$ nach linearer Abbildungsdefinition
-	3. $\lambda F(v) \in im \; F \implies \lambda F(v) = F(\lambda v) \in im \; F$ nach linearer Abbildungsdefinition
-
-- $ker \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]]  von $V$.
-	Beweis: Untervektorraumsaxiome abklappern
-	1. $F(o) = o \implies o \in ker \; F$
-	2. $F(v), F(w) = o \implies F(v) + F(w) = F(v + w) = o$ 
-	3. $\lambda F(v) = o \implies  \lambda F(v) = F(\lambda v) = o$ 
-
-- $F$ [[Abbildungen#^4b4823|surjektiv]] $\Leftrightarrow$ $im \; F = W$ 
-	Beweis: Per Definition
-
-- $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
-	Beweis:  ^683b21
-	1. Die 'hin' Richtung sei trivial
-	2. Nehma man an, der Kern besteht nur aus dem Nullvektor, d.h. es wenn $v \neq v'$ dann gibt es keine $v - v' = o$. Dann ist $F(v - v') \neq o \Leftrightarrow F(v) - F(v') \neq o \Leftrightarrow F(v) \neq F(v')$ $\square$
-
-
 
