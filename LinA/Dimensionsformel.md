@@ -17,8 +17,11 @@ Sei $w_1, ..., w_r$ Basis von $im F$ sowie $v_1, ..., v_k$ Basis von $ker F$ sow
 # Faserfolgerung:
 Für jede Faser $F^{-1}(w)$ von $F: V \rightarrow W$ gilt:
 $dim(F^{-1}(w)) = dim(v_0 + ker F) = dim(ker F) = dim(V) - dim(im F)$
-	Beweis:
+
+Beweis:
 	Nach der [[Faserung eines Vektorraumes]] ergibt sich die erste Gleichheit.
-	Die zweite ergibt sich, da 
+	Die zweite ergibt sich ebenfalls aus dieser, da $v_0 + ker F = \{v_0 + v | v \in ker F\}$, sodass $v_1, ..., v_r$ genau dann linear unabhängig sind, wenn $\lambda_1 (v_0 + v_1) + ... + \lambda_r (v_0 + v_r) = \lambda_1 v_1 + ... + \lambda_r v_r + (\lambda_1 + ... + \lambda_r) v_0 = 0$
+	$\implies \lambda_1 = ... = \lambda_r = 0$.
+	
 
 # Endomorphismusrelationen:

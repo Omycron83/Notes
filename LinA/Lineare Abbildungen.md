@@ -47,7 +47,6 @@ $G(\lambda F(v) + F(w)) = \lambda G(F(v)) + G(F(w))$ $\square$
 
 ## Bild, Faser, Kern einer lineare Abbildung:
 
-
 ###  Eigenschaften
 Sei $F$ eine lineare Abbildung. Dann gilt:
 - $im \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]] von $W$.
@@ -70,9 +69,5 @@ Sei $F$ eine lineare Abbildung. Dann gilt:
 	1. Die 'hin' Richtung sei trivial
 	2. Nehma man an, der Kern besteht nur aus dem Nullvektor, d.h. es wenn $v \neq v'$ dann gibt es keine $v - v' = o$. Dann ist $F(v - v') \neq o \Leftrightarrow F(v) - F(v') \neq o \Leftrightarrow F(v) \neq F(v')$ $\square$
 
-- Ist $F$ [[Abbildungen#^4b4823|injektiv]], dann gilt: $v_1, ..., v_n$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]] $\implies$ $F(v_1), ..., F(v_n)$ [[Lineare Erzeugnisse & Unabhängigkeit|linear unabhängig]]
-	Beweis: Seien $v_1, ..., v_n$ linear unabhängig. Dann ist $\lambda_1 v_1 + ... + \lambda_n v_n = o \implies \lambda_1 = ... = \lambda_n$
-	Wir wissen nach obrigem, dass $ker \; F = \{o \} \Leftrightarrow$ Injektivität. So gilt $F(v) = o$ genau dann, wenn $v = o$. Also gilt $F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = o \implies \lambda_1 = ... = \lambda_n$.
-	Und dadurch auch $\lambda_1F( v_1) + ... + \lambda_n F( v_n) = o \implies \lambda_1 = ... = \lambda_n$ ^f38efc
 
 
