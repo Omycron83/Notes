@@ -20,8 +20,15 @@ Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $dim(U_1 + U_2) = dim(U_1) 
 Beweis:
 	Sei $b_1, ..., b_r$ eine Basis von $U_1 \cap U_2$. Dann kann man die Familie nach [[Basisaustauschlemma|dem Basisaustauschsatz]] jeweils zu einer Basis von $U_1$ mit $B_1 = b_1, ..., b_r, w_1, ..., w_k$ und von $U_2$ mit $B_2 = b_1, ..., b_r, v_1, ..., v_l$.
 	Dann ist $b_1, ..., b_r, w_1, ..., w_k, v_1, ..., v_l$ eine Basis von $U_1 + U_2$, wonach dann die obige Aussage gilt, da $r + k + l = (r + k) + (r + l) - r$:
-		Erzeugendensystem: Sei $v + w \in U_1 + U_2$. Dann ist jeweils $v \in <b_1, ..., b_r, w_1, ...., w_k$ und $w \in <b_1, ..., b_r, v_1, ..., v_l>$ 
-		Linear Unabhängig:
+		Erzeugendensystem: Sei $v + w \in U_1 + U_2$. Dann ist jeweils $v \in <b_1, ..., b_r, w_1, ...., w_k>$ und $w \in <b_1, ..., b_r, v_1, ..., v_l>$ wodurch $v + w \in <b_1, ..., b_r, w_1, ..., w_k, v_1, ..., v_l>$. 
+		Linear Unabhängig: Sei $o = \lambda_1 b_1 + ... + \lambda_r b_r + \phi_1 w_1 + ... + \phi_k w_k + \mu_1 v_1 + ... + \mu_l v_l$ 
+		Dann ist 
+		$\mu_1 v_1 + ... + \mu_l v_l = -(\lambda_1 b_1 + ... + \lambda_r b_r + \phi_1 w_1 + ... \phi_k w_k)$
+		Wobei ersterer Term $\in U_2$, zweiterer $\in U_1$ ist, wodurch der linke Term $\in U_1 \cap U_2$ ist.
+		Damit ist $\mu_1 v_1 + \mu_l v_l = \xi_1 b_1 + ... + \xi_r b_r \Leftrightarrow \mu_1 v_1 + \mu_l v_l - (\xi_1 b_1 + ... + \xi_r b_r) = o$   
+		Da aber $v_1, ..., v_l, b_1, ..., b_r$ Basis von $U_2$ ist, gilt also insbesondere $\mu_1 = ... = \mu_l$.
+		
+		
 
 ## Summe und Erzeugnis:
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $<U_1, U_2> = U_1 + U_2$, also dass [[Lineare Erzeugnisse & Unabhängigkeit|lineare Erzeugniss]] gleich der Summe.
