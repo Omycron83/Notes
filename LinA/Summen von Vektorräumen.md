@@ -18,7 +18,7 @@ Beweis:
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $dim(U_1 + U_2) = dim(U_1) + dim (U_2) - dim(U_1 \cap U_2)$ die [[Dimension|Dimension des Vektorraumes]].
 
 Beweis:
-	
+	Sei $b_1, ..., b_n$ eine Basis von $U_1 + U_2$. Dann 
 
 ## Summe und Erzeugnis:
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $<U_1, U_2> = U_1 + U_2$, also dass [[Lineare Erzeugnisse & Unabhängigkeit|lineare Erzeugniss]] gleich der Summe.
