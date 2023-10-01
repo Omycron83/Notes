@@ -40,6 +40,13 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 6.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
 	$dim(U)$ ist nach der [[Dimension|Dimensionsdefinition]] die [[Basen|maximale Länge linear unabhängiger Familien]] in $U$. Selbiges gilt für $dim(F(U))$ mit $F(U)$. So ist jede Familie mit mehr als $dim(U)$ Mitgliedern linear abhängig in $U$, und somit auch nach 5. ihre jeweiligen Bildvektoren linear abhängig in $F(U)$. Da dies die einzigen Elemente von $F(U)$ kann die Dimension von $F(U)$ maximal so groß sein wie die Dimension von $U$, da jede Familie mit größerer Länge als $dim(U)$ linear abhängig in $F(U)$ ist.  $\square$
 
+7. Wenn $dim V = dim W$, dann ist für $F: V \rightarrow W$ linear äquivalent:
+1. $F$ ist injektiv
+2. $F$ ist surjektiv
+3. $F$ ist injektiv
+	Beweis durch beidseitige Implikation der ersten beiden Aussagen, woraus sich die dritte Äquivalent [[Abbildungen#^4b4823|äquivalent ergibt]]:
+	$1. \implies 2.:$ $1.$ ist  [[Kern einer linearen Abbildung#^f1cf24|äquivalent zu]] $kerF = \{0\}$. Nach dem [[Dimensionsformel|Dimensionssatz]] gilt: $dim Im F + dim ker F = dim V$, wobei durch $ker F = \{o\}$ $\Leftrightarrow dim ImF = dimV$ und nach der Vorraussetzung $dim Im F = dim W$. Und da jede Basis minimal Erzeugend ist gilt so $\Leftrightarrow F$ surjektiv.
+	$2. \implies 1.:$ 2. ist äquivalent zu $dim Im F = dim W$, nach Dimensionsformel also $dim Im F + ker F = dim W \Leftr
 
 #### Kompositionen linearer Abbildungen sind linear
 Seien $F : V \rightarrow W$, $G: W \rightarrow U$  lineare Abbildungen. Dann ist auch $G \circ F$ linear.

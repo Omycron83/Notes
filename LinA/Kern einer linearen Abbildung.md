@@ -8,6 +8,9 @@ $ker \; F \subset W$ ist ein [[Untervektorräume|Untervektorraum]]  von $V$.
 	2. $F(v), F(w) = o \implies F(v) + F(w) = F(v + w) = o$ 
 	3. $\lambda F(v) = o \implies  \lambda F(v) = F(\lambda v) = o$ 
 ## $F$ injektiv $\Leftrightarrow kerF = \{o\}$ 
+
+^f1cf24
+
 $F$ [[Abbildungen#^4b4823|injektiv]] $\Leftrightarrow$ $ker \; F = \{o \}$ 
 	Beweis:  ^683b21
 	1. Die 'hin' Richtung sei trivial
