@@ -7,7 +7,6 @@
 [[Faktorisierungssatz]]
 [[Quotienten]]
 [[Quotientenabbildungen]]
-[[Summen von Vektorräumen]]
 [[Direkte Summen]]
 [[Eindeutigkeit der Determinante]]
 [[Isomorphismus M(m, n) <-> Hom(V, W)]]

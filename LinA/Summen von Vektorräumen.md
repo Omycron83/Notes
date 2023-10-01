@@ -1,7 +1,6 @@
 Seien $U_1, U_2$ [[Untervektorräume|Unterräume]] eines $K$-[[Vektorraum|Vektorraumes]] $V$. Dann heißt $U_1 + U_2 := \{x + y |x \in U_1, y \in U_2\}$ die **Summe** von $U_1 + U_2$.
 
 # Eigenschaften:
-
 ## $U_1 + U_2$ als kleinster Untervektorraum
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $U_1 + U_2$ ist der kleinste Untervektorraum, der $U_1 \cup U_2$ enthält.
 
@@ -27,8 +26,11 @@ Beweis:
 		Wobei ersterer Term $\in U_2$, zweiterer $\in U_1$ ist, wodurch der linke Term $\in U_1 \cap U_2$ ist.
 		Damit ist $\mu_1 v_1 + \mu_l v_l = \xi_1 b_1 + ... + \xi_r b_r \Leftrightarrow \mu_1 v_1 + \mu_l v_l - (\xi_1 b_1 + ... + \xi_r b_r) = o$   
 		Da aber $v_1, ..., v_l, b_1, ..., b_r$ Basis von $U_2$ ist, gilt also insbesondere $\mu_1 = ... = \mu_l$.
-		
-		
+		Somit ist, wenn man dies in die obere Gleichung einsetzt,
+		$o = \lambda_1 b_1 + ... + \lambda_r b_r + \phi_1 w_1 + ... + \phi_k w_k + 0 v_1 + ... + 0 v_l$
+		Und dadurch, dass $b_1, ...,b_r, w_1, ..., w_k$ Basis von $U_1$ ist,
+		folgt zusätzlich $\lambda_1 = ... = \lambda_r = \phi_1 = ... = \phi_k$ 
+		Und somit müssen alle Koeffizienten $0$ sein. $\square$
 
 ## Summe und Erzeugnis:
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $<U_1, U_2> = U_1 + U_2$, also dass [[Lineare Erzeugnisse & Unabhängigkeit|lineare Erzeugniss]] gleich der Summe.
