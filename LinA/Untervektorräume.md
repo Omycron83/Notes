@@ -18,7 +18,6 @@ $W$ ist immernoch eine abel'sche Gruppe, da es eine [[Untergruppen|Untergruppe]]
 # Durchschnitte von Untervektorräumen:
 
 Seien $W_1, ..., W_n$ Untervektorräume eines Vektorraumes $V$. Dann ist $W = \bigcap_{i \in \{1, ..., n\}} W_i$ ebenfalls ein Untervektorraum von $V$. 
-
 # Beweis:
 Prüfe man die oben gezeigten Untervektorraumaxiome:
 1. $o \in W$, da durch Untervektorraumstatus $o \in W_i$

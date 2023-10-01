@@ -18,7 +18,10 @@ Beweis:
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $dim(U_1 + U_2) = dim(U_1) + dim (U_2) - dim(U_1 \cap U_2)$ die [[Dimension|Dimension des Vektorraumes]].
 
 Beweis:
-	Sei $b_1, ..., b_n$ eine Basis von $U_1 + U_2$, sodass $
+	Sei $b_1, ..., b_r$ eine Basis von $U_1 \cap U_2$. Dann kann man die Familie nach [[Basisaustauschlemma|dem Basisaustauschsatz]] jeweils zu einer Basis von $U_1$ mit $B_1 = b_1, ..., b_r, w_1, ..., w_k$ und von $U_2$ mit $B_2 = b_1, ..., b_r, v_1, ..., v_l$.
+	Dann ist $b_1, ..., b_r, w_1, ..., w_k, v_1, ..., v_l$ eine Basis von $U_1 + U_2$, wonach dann die obige Aussage gilt, da $r + k + l = (r + k) + (r + l) - r$:
+		Erzeugendensystem: Sei $v + w \in U_1 + U_2$. Dann ist jeweils $v \in <b_1, ..., b_r, w_1, ...., w_k$ und $w \in <b_1, ..., b_r, v_1, ..., v_l>$ 
+		Linear Unabhängig:
 
 ## Summe und Erzeugnis:
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $<U_1, U_2> = U_1 + U_2$, also dass [[Lineare Erzeugnisse & Unabhängigkeit|lineare Erzeugniss]] gleich der Summe.
