@@ -29,7 +29,7 @@ Diese Werte kann man nun wieder äquivalent in die Matrixrepräsentation einsetz
 
 $= \begin{pmatrix} \mu_{1, 1} & ... & \mu_{1, n} \\ ... & ... & ... \\ \mu_{m, 1} & ... & \mu_{m, n} \end{pmatrix} \begin{pmatrix} \lambda_1 \\ … \\ \lambda_n \end{pmatrix}$
 
-wobei $\mu_{i, j}$ der Koeffizient des Basisvektors $w_i$ für die Darstellung des Basisvektors $v_j$.
+wobei $\mu_{i, j}$ der Koeffizient des Basisvektors $w_i$ für die Darstellung des Basisvektors $v_j$ ist.
 
 **Zusammengefasst**: Durch mehrfache Isomorphismusdarstellung ist gezeigt, dass sich die direkte lineare Abbildung $F$ darstellen lässt durch eine Abbildungsmatrix $A_F$, indem $A_F$ in seinen Spalten jeweils die Koeffizienten der Basisvektordarstellung (in $W$ ) von dem Bild der Basisvektoren $F(v_i)$. Das Bild eines Vektors $v$ kann dann ermittelt werden, indem dessen Koeffizienten der Basisvektordarstellung (in $V$) gleichgeordnet rechtsseitig [[Matrizen#^bcdd4e|Matrizenmultipliziert]] werden.
 
