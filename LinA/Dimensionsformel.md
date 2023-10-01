@@ -16,6 +16,9 @@ Sei $w_1, ..., w_r$ Basis von $im F$ sowie $v_1, ..., v_k$ Basis von $ker F$ sow
   $\square$ 
 # Faserfolgerung:
 Für jede Faser $F^{-1}(w)$ von $F: V \rightarrow W$ gilt:
-$dim(F^{-1}(w)) = dim(v_0 + ker F)
+$dim(F^{-1}(w)) = dim(v_0 + ker F) = dim(ker F) = dim(V) - dim(im F)$
+	Beweis:
+	Nach der [[Faserung eines Vektorraumes]] ergibt sich die erste Gleichheit.
+	Die zweite ergibt sich, da 
 
 # Endomorphismusrelationen:
