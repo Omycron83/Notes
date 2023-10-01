@@ -46,8 +46,10 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
 3. $F$ ist injektiv
 	Beweis durch beidseitige Implikation der ersten beiden Aussagen, woraus sich die dritte Äquivalent [[Abbildungen#^4b4823|äquivalent ergibt]]:
 	$1. \implies 2.:$ $1.$ ist  [[Kern einer linearen Abbildung#^f1cf24|äquivalent zu]] $kerF = \{0\}$. Nach dem [[Dimensionsformel|Dimensionssatz]] gilt: $dim Im F + dim ker F = dim V$, wobei durch $ker F = \{o\}$ $\Leftrightarrow dim ImF = dimV$ und nach der Vorraussetzung $dim Im F = dim W$. Und da jede Basis minimal Erzeugend ist gilt so $\Leftrightarrow F$ surjektiv.
-	$2. \implies 1.:$ 2. ist äquivalent zu $dim Im F = dim W$, nach Dimensionsformel also $dim Im F + ker F = dim W \Leftr
-
+	$2. \implies 1.:$ 2. ist äquivalent zu $dim Im F = dim W$, nach Dimensionsformel also $dim Im F + dim ker F = dim V$, durch Vorraussetzung  $\Leftrightarrow  dim Im F + dim ker F = dim W$, durch Gleichheit
+	$\Leftrightarrow dim ker F = 0$, dadurch dass inklusion jeglichen Vektors $\neq o$ zu $dim > 0$ führt
+	$\Leftrightarrow ker F = \{o\}$, nach o.g. Äquivalenz:
+	$\Leftrightarrow F$ injektiv.
 #### Kompositionen linearer Abbildungen sind linear
 Seien $F : V \rightarrow W$, $G: W \rightarrow U$  lineare Abbildungen. Dann ist auch $G \circ F$ linear.
 ##### Beweis:

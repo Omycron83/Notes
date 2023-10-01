@@ -9,7 +9,6 @@
 [[Quotientenabbildungen]]
 [[Summen von Vektorräumen]]
 [[Direkte Summen]]
-[[Dimensionsformel]]
 [[Eindeutigkeit der Determinante]]
 [[Isomorphismus M(m, n) <-> Hom(V, W)]]
 [[Komposition und Multiplikation]]
