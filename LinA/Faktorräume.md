@@ -5,7 +5,7 @@ $v - v = o \in U \forall v \in V$, also ist die Relation **reflexiv**
 $v - v' \in U \implies -(v - v') = v' - v \in U$, also ist die Relation **symmetrisch**
 $v -w \in U \land w - v' \in U \implies (v - w) + (w - v') = v - v' \in U$, also **transitiv**
 
-Mit $V / U$ bezeichnet man dann die Menge der Äquivalenzklassen $[v]_U = v + U$, die man **Faktorraum** nennt. Denn man sagt, dass $V / U$ entsteht, wenn 
+Mit $V / U$ bezeichnet man dann die Menge der Äquivalenzklassen $[v]_U = v + U$, die man **Faktorraum** nennt. Denn man sagt, dass $V / U$ aus $V$ entsteht, wenn man $U$ 'herausfaktorisiert', also abzieht.
 
 # Faktorräume als $K$-Vektorräume:
 Definiere man folgende Operationen:
@@ -18,5 +18,14 @@ Diese sind wohldefiniert.
 
 Die Vektorraumaxiome werden dabei aus $V$ induziert, da 'im Herzen' ja mit Differenzen von Vektoren aus $V$ gearbeitet wird. Dabei ist insbesondere $[0]$ das neutrale Element der Addition. Ihre Differenz liegt dann nämlich auf der Linie.
 
+# Quotientenabbildungen:
+Die Abbildung $q: V \rightarrow V / U, v \mapsto [v]$ ist linear und surjektiv (die Linearität wurde oben bewiesen, die Surjektivität ist leicht erkennbar).
+Weiterhin ist $ker (q) = U$, da sich jeder Vektor in $V / U$ als Summe des Nullvektors mit sich selbst ergibt.
+
+Die Dimension ergibt sich aus der [[Dimensionsformel]] für [[Lineare Abbildungen]]:
+$dim V / U = dim(imq) = dim V - dim(ker q) = dim V - dim U$.
+
+Man nennt $q$ die **Quotientenabbildung**.
 # Beispiele
 - Betrachte man eine Linie im $R^2$, die einen Untervektorraum konstituiert, sowie einen beliebigen Vektor $v$, also Punkt im $R^2$. Dann entspricht $[v]$ der 'Verschiebung' der Linie zu diesem Punkt. Alle Punkte, die in dieser neuen Linie liegen, entsprechen dann einer Äquivalenzklasse.
+

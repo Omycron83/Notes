@@ -4,8 +4,6 @@
 [[Laplace-Entwicklung]]
 [[Determinanten]]
 [[Gruppe der invertierbaren Matrizen]]
-[[Quotienten]]
-[[Quotientenabbildungen]]
 [[Eindeutigkeit der Determinante]]
 [[Isomorphismus M(m, n) <-> Hom(V, W)]]
 [[Komposition und Multiplikation]]
