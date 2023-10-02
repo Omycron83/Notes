@@ -1,5 +1,7 @@
 Seien $U_1, U_2$ [[Untervektorräume|Unterräume]] eines $K$-[[Vektorraum|Vektorraumes]] $V$. Dann heißt $U_1 + U_2 := \{x + y |x \in U_1, y \in U_2\}$ die **Summe** von $U_1 + U_2$.
 
+Es ist zu notieren, dass man tangential verwandt auch konventionell 
+$v + U := \{v + w|w \in U \}$ schreibt. ^ea229e
 # Eigenschaften:
 ## $U_1 + U_2$ als kleinster Untervektorraum
 Seien $U_1, U_2$ Untervektorräume von $V$. Dann ist $U_1 + U_2$ ist der kleinste Untervektorraum, der $U_1 \cup U_2$ enthält.
