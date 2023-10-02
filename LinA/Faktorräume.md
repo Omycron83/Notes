@@ -5,7 +5,7 @@ $v - v = o \in U \forall v \in V$, also ist die Relation **reflexiv**
 $v - v' \in U \implies -(v - v') = v' - v \in U$, also ist die Relation **symmetrisch**
 $v -w \in U \land w - v' \in U \implies (v - w) + (w - v') = v - v' \in U$, also **transitiv**
 
-Mit $V / U$ bezeichnet man dann die Menge der Äquivalenzklassen $[v]_U = v + U$, die man **Faktorraum** nennt.
+Mit $V / U$ bezeichnet man dann die Menge der Äquivalenzklassen $[v]_U = v + U$, die man **Faktorraum** nennt. Denn man sagt, dass $V / U$ entsteht, wenn 
 
 # Faktorräume als $K$-Vektorräume:
 Definiere man folgende Operationen:
@@ -13,7 +13,10 @@ $+ : V/U \times V/U \rightarrow V/U, [v] + [v'] := [v + v']$
 $\cdot: K \times [v] \rightarrow V/U, [\lambda \cdot v]$ 
 
 Diese sind wohldefiniert. 
-	Betrachte man $[v] = [u], [v'] = [u']$, d.h. $v - u \in U$ und $v' - u' \in U$, also auch $(v - u)
+	Betrachte man $[v] = [u], [v'] = [u']$, d.h. $v - u \in U$ und $v' - u' \in U$, also auch $(v - u) + (v' - u') = (v + v') - (u + u') = [v + v'] = [u + u'] \in U$ 
+	Außerdem ist dann $\lambda \cdot (v - u) = (\lambda \cdot v - \lambda \cdot u) = \lambda \cdot [v] = [\lambda \cdot v] \in U$
 
+Die Vektorraumaxiome werden dabei aus $V$ induziert, da 'im Herzen' ja mit Differenzen von Vektoren aus $V$ gearbeitet wird. Dabei ist insbesondere $[0]$ das neutrale Element der Addition. Ihre Differenz liegt dann nämlich auf der Linie.
 
- 
+# Beispiele
+- Betrachte man eine Linie im $R^2$, die einen Untervektorraum konstituiert, sowie einen beliebigen Vektor $v$, also Punkt im $R^2$. Dann entspricht $[v]$ der 'Verschiebung' der Linie zu diesem Punkt. Alle Punkte, die in dieser neuen Linie liegen, entsprechen dann einer Äquivalenzklasse.
