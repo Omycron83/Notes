@@ -7,3 +7,4 @@ https://paperswithcode.com/
 https://medium.com/
 https://arxiv.org/
 https://stanford.edu/~shervine/teaching/
+Damn: https://d2l.ai/index.html
