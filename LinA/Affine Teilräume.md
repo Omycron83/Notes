@@ -4,10 +4,22 @@ In der [[Faserung eines Vektorraumes]] haben wir gesehen, dass die Fasern einer 
 
 # Eigenschaften:
 Sei $X = v + U = v' + U'$ ein affiner Teilraum von $V$. Dann gilt:
-1. $v \in X, v' \in X$ und außerdem $v - v' \in U$
+1. $v \in X, v' \in X$, $U = U'$ und außerdem $v - v' \in U$
 Beweis:
 	Die ersten beiden Aussagen folgen aus $o \in U$.
-	Die zweite Aussage folgt daraus, dass wenn $x = v + u = v' + u'$ dann $\Leftrightarrow 
+	Aus der ersten Aussage folgt dann, dass $v \in X \implies v = v' + u'$ sowie $v' \in X \implies v' = v + u$, sodass  $v' - v = u \in U$ und außerdem
+	$v = v + u + u' \Leftrightarrow o = u + u' \Leftrightarrow u = -u' \Leftrightarrow u \in U, U' \Leftrightarrow U = U'$
+
+2. $X = x + U \forall x \in X$:
+Beweis:
+	$x = v + u \forall x \in X \implies x + U = (v + u) + U = v + (u + U) = v+ U = X$ 
+
+## Dimension affiner Teilräume:
+Sei $X = v + U$ ein affiner Teilraum von $V$. Dann definiere man
+$dim X := dim U$, wobei die wohldefiniertheit aus der ersten Eigenschaft hervorgeht. 
+
+## Komplementäre Unterräume und affine Teilräume:
+Seien $U, W$ Untervektorräume von V wobei $V = U \oplus W$. Dann schneidet jeder affine Unterraum $v + U, v \in V$ den komplemen
 
 # Beispiele:
 1. Insbesondere ist jeder [[Untervektorräume|Unterraum]] selbst ein affiner Teilraum mit dem Nullvektor und sich selbst.
