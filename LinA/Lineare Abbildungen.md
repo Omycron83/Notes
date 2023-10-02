@@ -10,7 +10,7 @@ Dabei bilden lineare Abbildungen also Vektorraumhomomorphismen, da sie die gener
 
 Ist $V = W$, dann nennt man eine lineare Abbildung einen **Endomorphismus**.
 Ist $F$ bijektiv, dann nennt man die lineare Abbildungen einen **Vektorraumisomorphismus**.
-Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**.
+Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**. ^d82a1b
 
 ### Eigenschaften:
 1. **$F(o) = o$**
