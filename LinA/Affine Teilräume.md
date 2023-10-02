@@ -19,7 +19,10 @@ Sei $X = v + U$ ein affiner Teilraum von $V$. Dann definiere man
 $dim X := dim U$, wobei die wohldefiniertheit aus der ersten Eigenschaft hervorgeht. 
 
 ## Komplementäre Unterräume und affine Teilräume:
-Seien $U, W$ Untervektorräume von V wobei $V = U \oplus W$. Dann schneidet jeder affine Unterraum $v + U, v \in V$ den komplemen
+Seien $U, W$ Untervektorräume von V wobei $V = U \oplus W$. Dann schneidet jeder affine Unterraum $v + U, v \in V$ den komplementären Unterraum $W$ nur im Nullvektor.
+
+Beweis:
+	Aus $v \in V = U \oplus W$ wissen wir, dass $v + U = u + w + U = w + U = \{w + u | u \in U \}$ gilt. Nehme man nun an, dass $w + u \in W \implies u \in W \implies u = o$ nach der Definition der [[Direkte Summen|direkten Summe]]. 
 
 # Beispiele:
 1. Insbesondere ist jeder [[Untervektorräume|Unterraum]] selbst ein affiner Teilraum mit dem Nullvektor und sich selbst.
