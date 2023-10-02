@@ -1,3 +1,5 @@
 Eine Teilmenge $X \subset V$ eines [[Vektorraum|Vektorraumes]] nennt man **affiner Teilraum**, falls es einen [[Untervektorräume|Unterraum]] $U$ von $V$ gibt, sodass $X = v + U$ für ein $v \in V$, also als [[Summen von Vektorräumen#^ea229e|modifizierte Summe]] dargestellt werden kann.
 
-In der [[Faserung eines Vektorraumes]] haben wir gesehen, dass die Fasern einer linearen Abbildung affine Teilräume von $V$ sind, da sie als Summe des [[Kern einer linearen Abbildung|Kerns]] 
+In der [[Faserung eines Vektorraumes]] haben wir gesehen, dass die Fasern einer linearen Abbildung affine Teilräume von $V$ sind, da sie als Summe des [[Kern einer linearen Abbildung|Kerns]] und eines [[Faser einer linearen Abbildung|Faserelementes]] darstellbar ist.
+
+# 
