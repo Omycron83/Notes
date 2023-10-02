@@ -1,4 +1,4 @@
-Seien $V, W$ endlichdimensionale $K$-Vektorräume und $F: V \rightarrow W$ linear. Dann gilt: $dim V = dim(ker F) = dim(im F)$ 
+Seien $V, W$ endlichdimensionale $K$-Vektorräume und $F: V \rightarrow W$ linear. Dann gilt: $dim V = dim(ker F) + dim(im F)$ 
 # Beweis:
 Sei $w_1, ..., w_r$ Basis von $im F$ sowie $v_1, ..., v_k$ Basis von $ker F$ sowie $F(u_i) = w_i$. Ist $v_1, ..., v_k, u_1, ..., u_r$ Basis von $V$, dann ist $dim V = k + r = dim(im F) + dim(ker F)$.
 
