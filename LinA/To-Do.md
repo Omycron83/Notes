@@ -4,7 +4,6 @@
 [[Laplace-Entwicklung]]
 [[Determinanten]]
 [[Gruppe der invertierbaren Matrizen]]
-[[Faktorisierungssatz]]
 [[Quotienten]]
 [[Quotientenabbildungen]]
 [[Eindeutigkeit der Determinante]]
