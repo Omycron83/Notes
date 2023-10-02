@@ -2,4 +2,10 @@ Eine Teilmenge $X \subset V$ eines [[Vektorraum|Vektorraumes]] nennt man **affin
 
 In der [[Faserung eines Vektorraumes]] haben wir gesehen, dass die Fasern einer linearen Abbildung affine Teilräume von $V$ sind, da sie als Summe des [[Kern einer linearen Abbildung|Kerns]] und eines [[Faser einer linearen Abbildung|Faserelementes]] darstellbar ist.
 
-# 
+# Beispiele:
+1. Insbesondere ist jeder [[Untervektorräume|Unterraum]] selbst ein affiner Teilraum mit dem Nullvektor und sich selbst.
+
+2. Betrachte man den $R^3$ über $R$: 
+	- Jeder Punkt $M = \{(x, y, z)\}$ ist ein affiner Unterraum, da $M = (x, y, z) + \{o\}$ 
+	- Jede Gerade $G = \{(g, p, l) + r \cdot (x, y, z) | r \in R \}$ ist ein affiner Unterraum mit dem Stützvektor und dem Untervektorraum des Richtungsvektors.
+	- Jede Ebene $E = \{(g, p, l) + r\cdot (x, y, z) + s \cdot (u, i, e) | r,s \in R \}$ ist ein affiner Unterraum mit dem Stützvektor und dem Untervektorraum der Richtungsvektoren
