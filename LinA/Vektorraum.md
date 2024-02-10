@@ -15,8 +15,8 @@ Dabei nennt man die Körperelemente **Skalare** und die **Gruppenelemente** Vekt
 3. $\lambda \cdot o = o$ 
 	$\lambda \cdot o = \lambda \cdot (v - v) = \lambda \cdot v - \lambda \cdot v = (\lambda - \lambda) \cdot v = 0 \cdot v = o$  $\square$ 
 4. $\lambda \cdot v = o \implies v = o \lor \lambda = 0$
-	1. $\lambda \neq 0: \Leftrightarrow \lambda^{-1} * \lambda \cdot v = o  \cdot \lambda^{-1} \Leftrightarrow v = o$
-	2. $v \neq o :$ Wäre $\lambda \neq 0$, dann könnte man mit dessen inversen Multiplizieren, sodass $v = o$, was einen Widerspruch bildet. Sodass dann $\lambda = 0$ $\square$ 
+	1. $\lambda \neq 0: \Leftrightarrow \lambda^{-1} * \lambda \cdot v = \lambda^{-1} \cdot o \Leftrightarrow v = o$
+	2. $v \neq o :$ Wäre $\lambda \neq 0$, dann könnte man mit dessen inversen Multiplizieren, sodass $v = o$, was i.A. einen Widerspruch bildet. Sodass dann $\lambda = 0$ $\square$ 
 ## Beispiele:
 1. Der $K^n$ als Menge der $n$-Tupel mit der elementweisen Addition und Skalarmultiplikation erfüllt als typischer $n$-Vektorraum aus dem Tupelkörper induziert alle Vektorraumeigenschaften ^6e22e7
 2. Jeder Köper ist ein Vektorraum über sich selbst., bzw. über einem seiner beliebigen Untervektorräume.

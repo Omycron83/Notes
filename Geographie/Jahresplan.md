@@ -10,7 +10,7 @@ Themen: Entwicklungsländer im Wandel
 - Mysteries
 - Pressure-Realease-Modell
 - Syndromkonzept
-- Eine SwWOT-Analyse
+- Eine SWOT-Analyse
 - ein Planspiel
 
 Nächsten zwei Wochen:

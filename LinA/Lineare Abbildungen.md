@@ -11,7 +11,6 @@ Dabei bilden lineare Abbildungen also Vektorraumhomomorphismen, da sie die gener
 Ist $V = W$, dann nennt man eine lineare Abbildung einen **Endomorphismus**.
 Ist $F$ bijektiv, dann nennt man die lineare Abbildungen einen **Vektorraumisomorphismus**.
 Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**. ^d82a1b
-
 ### Eigenschaften:
 1. **$F(o) = o$**
 	$F(o + o) = F(o) + F(o) = F(o)$, folgt direkt aus der [[Gruppenhomomorphismen#^9d8893|Gruppenhomomorphismuseigenschaft]]  $\square$ 
@@ -36,14 +35,13 @@ Gilt beides, so nennt man die lineare Abbildung einen **Automorphismus**. ^d82a1
 	Wir wissen nach obrigem, dass $ker \; F = \{o \} \Leftrightarrow$ Injektivität. So gilt $F(v) = o$ genau dann, wenn $v = o$. Also gilt $F(\lambda_1 v_1 + ... + \lambda_n v_n) = F(o) = o \implies \lambda_1 = ... = \lambda_n$.
 	Und dadurch auch $\lambda_1F( v_1) + ... + \lambda_n F( v_n) = o \implies \lambda_1 = ... = \lambda_n$ ^f38efc
 
-
 6.Sei $U$ ein Unterraum von $V$. Dann gilt: $dim(F(U)) \le dim(U)$:
 	$dim(U)$ ist nach der [[Dimension|Dimensionsdefinition]] die [[Basen|maximale Länge linear unabhängiger Familien]] in $U$. Selbiges gilt für $dim(F(U))$ mit $F(U)$. So ist jede Familie mit mehr als $dim(U)$ Mitgliedern linear abhängig in $U$, und somit auch nach 5. ihre jeweiligen Bildvektoren linear abhängig in $F(U)$. Da dies die einzigen Elemente von $F(U)$ kann die Dimension von $F(U)$ maximal so groß sein wie die Dimension von $U$, da jede Familie mit größerer Länge als $dim(U)$ linear abhängig in $F(U)$ ist.  $\square$
 
 7. Wenn $dim V = dim W$, dann ist für $F: V \rightarrow W$ linear äquivalent:
 1. $F$ ist injektiv
 2. $F$ ist surjektiv
-3. $F$ ist injektiv
+3. $F$ ist bijektiv
 	Beweis durch beidseitige Implikation der ersten beiden Aussagen, woraus sich die dritte Äquivalent [[Abbildungen#^4b4823|äquivalent ergibt]]:
 	$1. \implies 2.:$ $1.$ ist  [[Kern einer linearen Abbildung#^f1cf24|äquivalent zu]] $kerF = \{0\}$. Nach dem [[Dimensionsformel|Dimensionssatz]] gilt: $dim Im F + dim ker F = dim V$, wobei durch $ker F = \{o\}$ $\Leftrightarrow dim ImF = dimV$ und nach der Vorraussetzung $dim Im F = dim W$. Und da jede Basis minimal Erzeugend ist gilt so $\Leftrightarrow F$ surjektiv.
 	$2. \implies 1.:$ 2. ist äquivalent zu $dim Im F = dim W$, nach Dimensionsformel also $dim Im F + dim ker F = dim V$, durch Vorraussetzung  $\Leftrightarrow  dim Im F + dim ker F = dim W$, durch Gleichheit

@@ -8,7 +8,7 @@ Die eingehenden Werte sind dabei jeweils:
 - Durchschnittliche Bildungsjahre eines über 25-jährigen
 - Erwartete Anzahl an Schuljahren bei Schulbeginn
 **Hoher Lebensstandart**:
-- BIP (PPP) auf logarithmische Skala
+- BIP (PPP) auf logarithmischer Skala
 
 Einordnung UNDP:
 - Hohe: 1 - 0.8

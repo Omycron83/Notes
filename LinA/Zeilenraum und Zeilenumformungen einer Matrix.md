@@ -2,7 +2,6 @@
 ^7a07fe
 Der Zeilenraum $ZR(A)$ einer [[Matrizen|Matrix]] $A \in K^{m \times n}$ ist das Erzeugniss der Zeilen $a_i$ von $A$, also $span(a_1, ..., a_n)$, also alle möglichen Linearkombinationen der Zeilenvektoren (wenn [[Matrizen#^2d573a|als Vektorraum interpretiert]]).
 # Zeilenumformungen:
-
 ^6ef525
 
 Es gibt zwei elementare Zeilenumformungen, die den Zeilenraum erhalten:
@@ -17,17 +16,23 @@ Das bedeuted, dass $ZR(A) = ZR(A_1)$.
 Die $j$'te Zeile wird auf die $i$'te Zeile aufaddiert. Man schreibt $A \rightarrow A_2$
 Beweis Zeilenraumerhaltung:
 $span(a_1, ..., a_m) = \mu_1 a_1 + ... + \mu_j a_j + ... +\mu_i a_i + ... + \mu_m a_m$
-	Setzt man nun $a_j + a_i$  ein, so kann man $\hat{\mu}_i_ := 
-	So ist $\mu_1 a_1 + .... + \mu_j a_j + ... + \hat{\mu}_i (a_i + a_j) + ... \mu_m a_m = span(a_1, ..., a_m)$ 
+	Setzt man nun $a_j + a_i$  ein, so kommt man mit $\hat{\mu}_j := \mu_j - \mu_i$
+	auf $\mu_1 a_1 + .... + \hat{\mu}_j a_j + ... + \mu_i (a_i + a_j) + ... \mu_m a_m = span(a_1, ..., a_m)$ 
 	und die Linearkombinationen stimmen überein.
 Das bedeuted, dass $ZR(A) = ZR(A_2)$.
+#### Typ 3: Addition des Vielfachen einer Zeile auf eine andere:
 
-#### Typ 3: Addition zweier Zeilen:
+^ce7e9c
+
 Das vielfache der $j$'ten Zeile $\lambda a_j$ wird auf die $i$'te Zeile addiert. 
 Beweis Zeilenraumerhaltung:
 	Der Beweis folgt daraus, dass $ZR(A) = ZR(A_1)$ und $ZR(A) = ZR(A_2)$ wodurch trivial $ZR(A_3) = ZR(A)$ gilt.
+Insbesondere gilt hier die Einschränkung $\lambda \neq 0$ **nicht**, weil die Addition einer Nullzeile den Zeilenraum offensichtlich nicht ändert.
 
 #### Typ 4: Vertauschungen zweier Zeilen:
+
+^c76087
+
 Die $j$'te Zeile wird mit der $i$'ten Zeile vertauscht.
 Beweis Zeilenraumerhaltung:
-	Der Beweis ist trivial, da die Linearkombination reihenfolgeninvariant ist.
+	Der Beweis ist trivial, da die Linearkombination reihenfolgeninvariant ist. Man setze einfach $\mu_i := \mu_j, \mu_j = \mu_i$ paarweise vertauscht

@@ -7,7 +7,7 @@ Neuer Flugzeugvektor: $(400, -100)$ (**Addition**)
 B) Es kommt ein Wind mir $50 \frac{km}{h}$ aus Nord-Östlicher Richtung.
 Windvektorlänge: 50
 Gleichmäßig: $(x, x)$ 
-Also $x =$ ca. 35,36
+Also $x =$ ca. 35,36, damit $\sqrt{x^2 + x^2} = 50$ 
 Damit der neue Flugzeugvektor: $(364.64, -35.36)$
 
 ![[Pasted image 20230829110558.png]]

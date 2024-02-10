@@ -1,7 +1,7 @@
 # To-Do
-1. Lin. Algebra Nachholen
+1. Lin. Algebra & Analysis Nachholen
 2. KI-Paper: Rechnungen beenden
-3. ML-lernen: Transformer, PPO Implementation
+3. BLL & Abitur
 4. Go to the gym 3x, Boxing 1-2x a week
 5. Talk to people as often as possible, Increase Drip
 6. Still get great marks -> Vorarbeiten (+ MA), viel Engagement in Projekten, Viel für Klausuren lernen
@@ -67,6 +67,7 @@ Proteinquellen:
 - Lentils
 - Eggs
 - Whey-Protein
+- Harzer Cheese
 Carbs:
 - Potatoes
 
@@ -96,7 +97,6 @@ Routine: Push-Pull-Legs
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
-
 
 # Github:
 ## Backup files:

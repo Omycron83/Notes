@@ -1,0 +1,1 @@
+Wenn aehnliche Matrizen dieselbe [[Lineare Abbildungen|lineare Abbildung]] [[Determinanten von Matrizen#^9a19c3|besitzen]], so gibt es zu einem Endomorphismus genau eine [[Determinantenabbildungen|Determinante]], die sich als $det(f) = det(A_f)$ definieren laesst.

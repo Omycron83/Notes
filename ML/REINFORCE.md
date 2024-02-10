@@ -4,7 +4,7 @@ We take the proportionality obtained by the [[Policy Gradient Theorem]], and rea
 Thus, we use $\Delta J(\theta) \propto E_\pi  [\, \sum_a  q_\pi (S_t, a) \Delta \pi(a | S_t, \theta) \, ]$ and then multiply and divide by $\pi(a | S_t, \theta)$ :
 $\Leftrightarrow \Delta J(\theta) = E_\pi [\, \sum_a  \pi(a | S_t, \theta) q_\pi (S_t, a) \frac{\Delta \pi(a | S_t, \theta)}{\pi(a | S_t, \theta)}  \,]$ Now, we can replace a with $A_t \sim \pi$ :
 $\Leftrightarrow \Delta J(\theta) = E_\pi [\, q_\pi (S_t, A_t) \frac{\Delta \pi(A_t | S_t, \theta)}{\pi(A_t | S_t, \theta)}  \,]$ Now, we know that $q_\pi (S_t, A_t) = E_\pi [ G_t | S_t, A_t ]$ 
-$\Leftrightarrow \Delta J(\theta) = E_\pi [ \,  G_t \frac{\Delta \pi(A_t | S_t, \theta)}{\pi(A_t | S_t, \theta)}  \,]$  Where $G_t$ is just the return expected from thereon forward
+$\Leftrightarrow \Delta J(\theta) = E_\pi [ \,  G_t \frac{\Delta \pi(A_t | S_t, \theta)}{\pi(A_t | S_t, \theta)}  \,]$  Where $G_t$ is just the return expected from thereon forward, also called the 'return to go' $\hat{R}_t = \sum_{n = t}^T R_t$.
 
 Thus, the gradient-ascent update rule yields:
 $\Leftrightarrow \theta_{t + 1} = \theta_t + \alpha G_t \frac{\Delta \pi(A_t | S_t, \theta)}{\pi(A_t | S_t, \theta)}$
@@ -18,14 +18,20 @@ This can be optimized using some optimizer, for example directly through gradien
 ### Reinforce with baseline:
 The policy gradient theorem can be altered to also include an arbitrary baseline estimator $b(s)$:
 $\Delta J(\theta) \propto \sum_s \mu(s) \sum_a (q_\pi (s, a) - b(s)) \Delta \pi(a | s, \theta)$
+
 This can be an arbitrary function, as long as it doesn't depend on $a$ , as the subtracted quantity is then zero:
 $\sum_a b(s) \Delta \pi(a | s, \theta) = b(s) \sum_a  \Delta \pi(a | s, \theta) = b(s) \Delta \sum_a  \pi(a | s, \theta) = b(s) \Delta 1 = b(s) 0 = 0$
 
-Analog to our previous update rule, we can now generalize this. It often makes sense, for convergence reasons, to use an estimator of the value function as a baseline: $b(s) := \hat{v} (s, w)$, where $w$ is another feature vector to be learned, which can also be done through a [[Monte Carlo Methods|monte-carlo method]].
+Analog to our previous update rule, we can now generalize this. It often makes sense, for convergence reasons, to use an estimator of the value function as a baseline: $b(s) := \hat{v} (s, w)$, where $w$ is another feature vector to be learned.
+
+In that case, we with $q_\pi(s, a) - v(s)$ have the 'advantage' of having picked the action $a$ in $s$ over just having followed our 'usual' policy. While this might have an expected error of $0$ (as shown above), its variance will still identify advantagous actions from those disatvantagous, reducing the variance while still being unbiased.
+
+This can also be done through a [[Monte Carlo Methods|monte-carlo method]].
+
 This yields:
 ![[Pasted image 20230822160658.png]]
 
-
+where $G$ is also called the 'reward to go' $\hat{R}$.
 
 
 

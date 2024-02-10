@@ -1,0 +1,1 @@
+Sei $f: K \rightarrow K$ ein Ausdruck in einem [[Körper]] mit $f(x) = a_0 + a_1 \cdot x + ... + a_n x^n$ wobei $n \in N_0$ und $a_i \in K$ Koeffizienten sowie $x$ unbekannte heißen. (Alternativ kann ein Polynom auch über einem [[Ringe#^ee24a3|Ring mit Eins]] definieren).

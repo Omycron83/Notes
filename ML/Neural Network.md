@@ -65,10 +65,9 @@ However, this has notable consequences in backwards propagation as well as regul
 After reaching $L_o$, the loss function $L(L_o, \hat{y})$ is evaluated between the predicted output layer values $L_o$ and the actual target values $\hat{y}$. 
 It measures the distance between the two and is thus to be minimized, which is done using certain optimizers as well as backpropagation.     
 ### Backwards-Propagation
-In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$, $\nabla_{\theta_n} L$ is to be determined to then be used in various optimizers. 
-This can be done using elementary calculus. 
-Doing this calculation also reveals a very efficient procedure thats easily implemented.
-One generally notes that we just apply a number of functions to the input.
+In backpropagtion, the gradient w.r.t. each weight matrix $\theta_n$, $\nabla_{\theta_n} L$ is to be determined so it can then be used in various optimizers. 
+
+Note that, mathematically speaking, a neural network is nothing but a chain of parameterized functions (that follow a certain form, but that can be disregarded for now).
 Thus, $L(L_o, \hat{y}) = L(  f(l(L_{o - 1})) , \hat{y}) = L(  f(l(g(h(L_{o - 2})))) , \hat{y})...$
 Where $l,h$ would be the linear mappings and $f, g$ the activation functions applied between each layer.
 Thus, determining $\nabla_{\theta_n} L(L_o, \hat{y})$ requires us to 'pass the gradient' back to layer $n$ by using the chain rule:
@@ -81,7 +80,11 @@ Thus, we can 'pass the gradient back' in one iteration and then use the appropri
 This act of once passing back the gradients back similarly to passing the input values forward is called **backwards propagation**. 
 
 If one uses some elementary calculus and knowledge of linear algebra, they can see that the gradient w.r.t. the layer $n$ (**not** the next layers weights) can be calculated by the gradient w.r.t. the layer $n + 1$ by the series: NEEDS FIX:
-$\nabla L_{n} =  (\nabla L_{n + 1} \cdot \theta_n^T ) * f'(L_n \cdot \theta_{n + 1})$  
+$\nabla L_{n} =  (\nabla L_{n + 1} \cdot \theta_n^T ) * f'(L_{n-1})$  
+where $*$ is the [[Hadamard-Operator]].
+#### Autograd
+An implementation of the computation above works fairly well 
+
 ## Training:
 However, one cannot simply train the neural network by only applying backpropagation, as that only yields the gradient values. However, those can be used by a variety of gradient- and hessian-based optimizers:
 ## Regularization and Hyperparameters:

@@ -1,7 +1,6 @@
 ## [[Matrizen]] als Vektorraum:
 
 ^2d573a
-
 Betrachte man $K^{m \times n}$ zusammen mit der elementweisen Addition und Skalarmultiplikation mit $K$. Dann ist $K^{m \times n}$ ein $K$-[[Vektorraum]]. In diesem Fall kann man Matrizen also als 'umgeschriebene Vektoren' betrachten.
 
 Beweis:

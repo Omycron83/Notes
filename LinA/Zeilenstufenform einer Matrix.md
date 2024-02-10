@@ -1,6 +1,5 @@
 
 ^7d6af4
-
 Eine [[Matrizen|Matrix]] ist **in Zeilenstufenform**, wenn:
 - Es ein $r \in \{0, 1, ..., n \}$ gibt, sodass  $\forall i \in \{1, ..., m\}, j > r: a_{i, j} = 0$
 - Es $j_1, ..., j_r$ gibt mit $0 < j_1 ... < j_r$ und $j_i := min\{j | a_{i, j} \neq 0 \}$ 

@@ -6,8 +6,8 @@ We will derive the concept by first figuring out how the new parameter $\theta$ 
 
 $\theta_{k + 1} = arg \; max_\theta \; E_{s,t \sim \pi_{\theta_k}} [ \frac{ \pi_\theta (a | s)} {\pi_\theta^{k}  (a | s)}  (q_\pi (s,a) - v_\pi(s)) ]$ s.t. $E_{s \sim \pi_\theta^k} [ D_{KL} (\pi_\theta(\cdot | s), \pi_{\theta^k}(\cdot | s) ) ] \le \delta$
 
-Unfortunately, now, this can't be optimzed using gradient ascent methods anymore, due to the
-$KL$-constraint.
+
+Unfortunately, now, this can't be optimzed using gradient ascent methods anymore, due to the $KL$-constraint.
 
 One can then Taylor-expand both terms w.r.t. $\theta$ around $\theta_k$ to leading order, which approximates this practically insolvable problem to:
 

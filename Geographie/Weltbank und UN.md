@@ -3,7 +3,7 @@ Die Weltbank, eigentlich Internationale Bank für Wiederaufbau und Entwicklung, 
 
 Die Arbeit besteht dabei u.a. Die Vergabe günstigerer Entwicklungskredite, die Gewährung technischer Hilfe bei Projekten, die Koordination von Entwicklungshilfe sowie die Erleichterung der Zusammenarbeit mit weiteren Entwicklungshilfen.
 
-Diese werden anteilmäßig durch die Mitgliedsstaaten finanziert.
+Diese werden anteilmäßig durch die Mitgliedsstaaten finanziert.   
 
 Ländereinteilung (2014, jeweils pro Kopf):
 High-Income: BNE > 12.736$
@@ -16,5 +16,5 @@ Die UN, also die United Nations,
 
 Die Kriterien für Unterentwicklung:
 1. BNE / Kopf < 1.035$ (2015)
-2. ‘Soziales’ Anteil unterernährter Menschen, Kindersterblichkeitsrate, Einschulungsrate, Alphabetisierungsrate Erwachsener
-3. ‘Wirtschaftsverwundbarkeit’ Exporte und deren Stabilität, Stabilität Agrarsektor und BIP Anteil, Bevölkerung in Tiefgelegenen Küstenzonen, Anzahl Opfer Naturkatastrophen
+2. ‘Soziales’: Anteil unterernährter Menschen, Kindersterblichkeitsrate, Einschulungsrate, Alphabetisierungsrate Erwachsener
+3. ‘Wirtschaftsverwundbarkeit’: Exporte und deren Stabilität, Stabilität Agrarsektor und BIP Anteil, Bevölkerung in Tiefgelegenen Küstenzonen, Anzahl Opfer Naturkatastrophen

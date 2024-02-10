@@ -8,9 +8,11 @@ Es gilt dabei:
 1. $(\lambda A)^T = \lambda A^T$
 2. $(A + B)^T = A^T + B^T$
 3. $(A^T)^T = A$
+4. $(AB)^T = B^TA^T$
 Beweis:
 	1. Erkennt man leicht.
 	2. Sei ebenfalls klar, wenn man sich die individuellen Spalten / Zeilen anschaut.
 	3. Sei klar, das Vertauschen ist selbstinvers.
+	4. ![[Pasted image 20231031221201.png]] ^a24551
 
 

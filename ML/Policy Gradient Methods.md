@@ -7,7 +7,7 @@ The advantage of those kinds of models are usually:
 - Able to learn stochastic policies
 - Not needing to fully understand the environment, but only to learn how to act
 ### Reasoning and algorithm:
-It is generally optimized by gradient ascent: $\theta_{t + 1} = theta_t + \alpha \cdot \Delta \hat{J}(\theta_t)$ , where $\hat{J}$ is some performance measure w.r.t. the policy parameters.
+It is generally optimized by gradient ascent: $\theta_{t + 1} = \theta_t + \alpha \cdot \Delta \hat{J}(\theta_t)$ , where $\hat{J}$ is some performance measure w.r.t. the policy parameters.
 And usually, in the episodic case, we can define $J(\theta) = v_{\pi_\theta}(s_0)$.
 
 For this to be possible, we need the policy to be differentiable, $\Delta \pi$ w.r.t. $\theta$ needs to exist. 
@@ -28,8 +28,6 @@ This method is called the all-action method.
 Sometimes, when the proportionality is supposed to become an equality, one must normalize by dividing by the policy, and  :
 $\Delta J(\theta) = 
 ### Using a baseline:
-
-
 Often, such algorithms compute a baseline to form an advantage function instead of using $\hat{q}$ directly, as it betters convergence due to immediatly 'going in the right direction', i.e. using $\hat{q} - b(s)$, which is not a problem as long as $b(s)$ doesn't depend on the action taken. 
 
 Usually, this is an estimate of the value function. Thus, $\hat{q}(s, a) - v_\pi(s)$ calculates, how much better taking the action $a$ would be than just usually following the policy, which is called an advantage function. 
