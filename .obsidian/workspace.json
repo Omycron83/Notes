@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "717c5ded100925c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e9f615f8de04cdb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac55ee009d9d45b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Actor-critic methods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a130818416d4070c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e12cb9c53020bfa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1cca2d37f4e3c899",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "419baed8935ade7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5fd27548ff0320d4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "42b0366b999424cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ebf2a43a646b898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac68076c694a6733",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ML/Actor-critic methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8f0ea9e7f497a897",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ML/Actor-critic methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e7f3720768d6fa6f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aff91f7d3adb1d6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ML/Actor-critic methods.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "eac55ee009d9d45b",
+  "lastOpenFiles": [
+    "semi-gradient rule.md",
+    "Schnitteigenschaft.md",
+    "Rang einer Matrix.md",
+    "Welcome.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "README.md",
+    "Pasted image 20240210125721.png",
+    "Pasted image 20240209232554.png",
+    "Pasted image 20240209232540.png",
+    "Pasted image 20240208215731.png",
+    "Pasted image 20240208202159.png",
+    "Pasted image 20240208200911.png",
+    "Pasted image 20240208200553.png",
+    "Pasted image 20231031223701.png",
+    "Pasted image 20231031223336.png",
+    "Pasted image 20231031222055.png",
+    "Mathe-LK/3. Semester Mathe LK.md",
+    "Mathe-LK/Zufällige Variablen.md",
+    "Mathe-LK/Vektoren als Pfeile im 2D.md",
+    "Mathe-LK/Variation.md",
+    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
+    "Mathe-LK/Permutation.md",
+    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+    "Mathe-LK/Lehrbuchlösungen.md",
+    "Mathe-LK/Kombination.md",
+    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
+    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
+    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
+    "Mathe-LK",
+    "ML/Universal Approximation Theorem.md",
+    "ML/Univariate Probability Distributions.md",
+    "ML/Unconditional Distributions.md",
+    "ML/TRPO.md",
+    "ML/Transformers.md",
+    "ML/Temporal Difference Methods.md",
+    "ML/Stochastic Process.md",
+    "ML",
+    "LinA",
+    "Geographie",
+    "Analysis"
+  ]
+}
