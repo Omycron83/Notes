@@ -30,8 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d73d57f6c22486e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/BPPO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc5a774292b5a2bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ML/Proximal Policy Optimization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/Actor-critic methods.md",
+                "file": "ML/Proximal Policy Optimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/Actor-critic methods.md",
+                "file": "ML/Proximal Policy Optimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/Actor-critic methods.md"
+                "file": "ML/Proximal Policy Optimization.md"
               }
             }
           }
@@ -158,10 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eac55ee009d9d45b",
+  "active": "bc5a774292b5a2bb",
   "lastOpenFiles": [
-    "ML/REINFORCE.md",
+    "ML/BPPO.md",
+    "Pasted image 20240211130610.png",
+    "Pasted image 20240211130520.png",
+    "ML/TD3.md",
+    "ML/DDPG.md",
     "ML/Actor-critic methods.md",
+    "ML/REINFORCE.md",
     "semi-gradient rule.md",
     "Schnitteigenschaft.md",
     "Rang einer Matrix.md",
@@ -177,8 +207,6 @@
     "Pasted image 20240208200911.png",
     "Pasted image 20240208200553.png",
     "Pasted image 20231031223701.png",
-    "Pasted image 20231031223336.png",
-    "Pasted image 20231031222055.png",
     "Mathe-LK/3. Semester Mathe LK.md",
     "Mathe-LK/Zufällige Variablen.md",
     "Mathe-LK/Vektoren als Pfeile im 2D.md",
@@ -193,10 +221,6 @@
     "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
     "Mathe-LK",
     "ML/Universal Approximation Theorem.md",
-    "ML/Univariate Probability Distributions.md",
-    "ML/Unconditional Distributions.md",
-    "ML/TRPO.md",
-    "ML/Transformers.md",
     "ML",
     "LinA",
     "Geographie",

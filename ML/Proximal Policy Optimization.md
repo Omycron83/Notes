@@ -1,4 +1,4 @@
-Proximal policy optimization tries to implement the general idea used in [[TRPO|Trust Region Policy Optimization]] in a more efficient way by, instead of enforcing a certain maximum $KL$-Divergence, one just clips the ratio between the two policies $r(\theta) = \frac{\pi_\theta (a | s)} {\pi_\theta^{k}(a | s)}$ to a value $[1 - \epsilon, 1 + \epsilon]$, where $\epsilon$ is another hyperparameter. 
+Proximal policy optimization tries to implement the general idea used in [[TRPO|Trust Region Policy Optimization]] in a more efficient way by, instead of enforcing a certain maximum $KL$-Divergence, one just clips the ratio between the two policies $r(\theta) = \frac{\pi_\theta (a | s)} {\pi_\theta^{k}(a | s)}$ to a value $[1 - \epsilon, 1 + \epsilon]$, where $\epsilon$ is another hyperparameter.
 
 Thus, if $r > 1$, the action is more likely in the current than the old policy. However, if $r$ is $\in [0; 1]$, the action is less likely. Thus, this is an easy divergence measure.
 
