@@ -10,4 +10,4 @@ Die Wahrscheinlichkeit, dass ein Ergebnis $A$ **oder** ein Ergebnis $B$ stattfin
 $P(A \lor B) = P(A) + P(B) - P(A \land B)$ **(Summenregel)**
 
 Falls sich die beiden Ergebnisse ausschließen wird dabei $P(A \land B)$ gleich $0$. 
-# Bedignte Wahrscheinlichkeit:
+# Bedingte Wahrscheinlichkeit:
