@@ -66,9 +66,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b043d51f0bb315bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +142,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +158,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,9 +179,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -195,8 +199,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6dddc4b561e8556",
+  "active": "b043d51f0bb315bc",
   "lastOpenFiles": [
+    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
     "Mathe-LK/Kombination.md",
     "ML/Proximal Policy Optimization.md",
     "ML/BPPO.md",
@@ -227,7 +232,6 @@
     "Mathe-LK/Variation.md",
     "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
     "Mathe-LK/Permutation.md",
-    "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
     "Mathe-LK/Lehrbuchlösungen.md",
     "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
