@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/TD3.md",
+                "file": "ML/DDPG.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/TD3.md",
+                "file": "ML/DDPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/TD3.md",
+                "file": "ML/DDPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/TD3.md"
+                "file": "ML/DDPG.md"
               }
             }
           }
@@ -209,8 +209,8 @@
   },
   "active": "b043d51f0bb315bc",
   "lastOpenFiles": [
-    "ML/DDPG.md",
     "ML/TD3.md",
+    "ML/DDPG.md",
     "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
     "Mathe-LK/Kombination.md",
     "ML/Proximal Policy Optimization.md",
