@@ -1,5 +1,4 @@
 Eligibility traces are a way to combine both [[Temporal Difference Methods|Temporal Difference]] targets and [[Monte Carlo Methods|Monte-Carlo]] returns by unifying both updates. They use a short-term memory vector for the weight $\theta$, the eligibility trace $\theta_t$, that parallels the original weight and 
-
 # $\lambda$-Methods
 ## The $\lambda$-Return
 One finds that, averaging multiple [[n-Step Return|n-step-returns]] with overlapping time horizons $w_1 G_{t:t+1} + w_2 G_{t:t+2} + ... + w_n G_{t:t + n}$, $w_1 + ... + w_n = 1$, it creates a new way to interrelate the methods, and can only be applied when $G_{t:t + n}$ has been finished.
