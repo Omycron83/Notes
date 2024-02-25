@@ -73,6 +73,8 @@ Carbs:
 
 # Fitness:
 Routine: Push-Pull-Legs
+https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
+
 ### Push:
 - Chest press 3x 6-9 
 - Shoulder press 3x 6-9 
