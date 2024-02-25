@@ -7,9 +7,9 @@
 - Eat smth decent
 - Go to school / Uni, Memorize on the way
 - Go to the gym (1hr)
-- Eat smth decent
 - Get on the clock
-- Go to bed at 8pm
+- Eat smth decent
+- Go to bed at 11pm
 
 
 # Lern-Strategie:
