@@ -1,19 +1,17 @@
 # To-Do
-1. Lin. Algebra & Analysis Nachholen
-2. KI-Paper: Rechnungen beenden
-3. BLL & Abitur
-4. Go to the gym 3x, Boxing 1-2x a week
-5. Talk to people as often as possible, Increase Drip
-6. Still get great marks -> Vorarbeiten (+ MA), viel Engagement in Projekten, Viel für Klausuren lernen
+1. Abi-Sachen
+2. Uni-Sachen
+3. 1 Projekt / Woche (alternierend Mathe und Info)
 # Rythmus
-6:45 - 7:10 : Get up, get ready for school
-07:10 - 16:20 : Be in school, spend time APAP
-16:20 - 17:40 : First Pomodoro (Gym)
-17:40 - 18:55 : Second (First) Pomodoro
-19:00 - 20:15 : Third (Second) Pomodoro
-20:15 - 21:15 : Fourth (Third) Pomodoro
-21:20 - 22:35 : Menial Labor/Free Time/Eating (Fourth Pomodoro)
-22:35 - 23:00 : Going to bed, reflecting
+- Get up at 6:45
+- Eat smth decent
+- Go to school / Uni, Memorize on the way
+- Go to the gym (1hr)
+- Get on the clock
+- Eat smth decent
+- Go to bed at 11pm
+
+
 # Lern-Strategie:
 0. **Goals** - Setze dir konkrete, erreichbare Ziele in der Study-Session (u.A. 75% Zeit) + Zeitaufgabe
 1. **Survey** - Erstes Lesen, Einordnen, anfängliches Verstehen
@@ -71,8 +69,23 @@ Proteinquellen:
 Carbs:
 - Potatoes
 
+**Meal 1:** The Quick Take-With (20c + 30c = 50c)
+- Overnight-Oats: 10g protein, ca. 200 kcal
+- Protein Shake: 30g protein, ca. 150 kcal
+
+**Meal 2:** Edeka Be Like (1.80 + 1.60 = 3.40)
+- Bread: 30g protein, ca. 750 kcal
+- Harzer Cheese: 30g protein, ca. 150 kcal
+
+**Meal 3:** The Rice Cooker Angle (30c + 30c = 60c)
+- Rice: 10g protein, ca. 500 kcal
+- Lentils: 30g protein, ca. 300 kcal
+
+**Total:** 140g protein, 2050 kcal, 4.5 Euro
 # Fitness:
 Routine: Push-Pull-Legs
+https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
+
 ### Push:
 - Chest press 3x 6-9 
 - Shoulder press 3x 6-9 
