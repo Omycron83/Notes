@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ML/DDPG.md",
+                "file": "Mathe-LK/Massendefekt.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/DDPG.md",
+                "file": "Mathe-LK/Massendefekt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/DDPG.md",
+                "file": "Mathe-LK/Massendefekt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ML/DDPG.md"
+                "file": "Mathe-LK/Massendefekt.md"
               }
             }
           }
@@ -209,8 +209,9 @@
   },
   "active": "b043d51f0bb315bc",
   "lastOpenFiles": [
-    "ML/TD3.md",
     "ML/DDPG.md",
+    "Mathe-LK/Massendefekt.md",
+    "ML/TD3.md",
     "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
     "Mathe-LK/Kombination.md",
     "ML/Proximal Policy Optimization.md",
@@ -245,7 +246,6 @@
     "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
     "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
     "Mathe-LK",
-    "ML/Universal Approximation Theorem.md",
     "ML",
     "LinA",
     "Geographie",
