@@ -43,7 +43,6 @@ Abschnittsweise:
 5. Übungsaufgaben machen:
 	1. Wenn einfach: nächste Aufgabe
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
-
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
 - Inhaltlich nur relevantes aufschreiben
@@ -52,14 +51,12 @@ Abschnittsweise:
 - Von wichtigem Lernzettel schreiben
 - ggf. Vorarbeiten
 -> ca. 20-30 min / Fach (das am nächsten Tag ist)/ Nachmittag
-
 ## Notizenverwaltung:
 - Für Verständnis / "Working-Memory" -> Hefter
 - Für Leistungsvorbereitung / Klausur -> Zusammenfassung
 - Für Leben -> Obsidian
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
-
 # Ernährung:
 Proteinquellen:
 - Lentils
@@ -71,7 +68,7 @@ Carbs:
 
 **Meal 1:** The Quick Take-With (20c + 30c = 50c)
 - Overnight-Oats: 10g protein, ca. 200 kcal
-- Protein Shake: 30g protein, ca. 150 kcal
+- Protein Shake: 60g protein, ca. 150 kcal
 
 **Meal 2:** Edeka Be Like (1.80 + 1.60 = 3.40)
 - Bread: 30g protein, ca. 750 kcal
@@ -81,31 +78,10 @@ Carbs:
 - Rice: 10g protein, ca. 500 kcal
 - Lentils: 30g protein, ca. 300 kcal
 
-**Total:** 140g protein, 2050 kcal, 4.5 Euro
+**Total:** 170g protein, 2050 kcal, 4.5 Euro
 # Fitness:
 Routine: Push-Pull-Legs
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
-
-### Push:
-- Chest press 3x 6-9 
-- Shoulder press 3x 6-9 
-- Machine fly 2x 9-12 
-- Seitheben maschine 2x 9-12
-- Trizeps maschine 2x 9-12
-### Pull:
-- Pull ups 3x 6-9
-- Pull downs 3x 6-9
-- Wide rows 3x 6-9 
-- Seated cable rows 3x 6-9 
-- Preacher curl maschine 3x 9-12
-### Legs:
-- Leg press/Squats an smith maschine 3x 6-9 
-- Leg extensions 2x 9-12 
-- Leg curls 3x 6-9 
-- Calf raises 3x 9-12 
-- (Abs)
-
-
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83

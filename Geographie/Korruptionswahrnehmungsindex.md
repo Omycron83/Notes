@@ -1,1 +1,0 @@
-Der Korruptionswahrnehmungsindex misst anhand von Umfragen, wie hoch die Korruption in ihrem Land eingeschätzt wird. Dies wird normalisiert und mit 100 multipliziert.
