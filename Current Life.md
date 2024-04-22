@@ -6,7 +6,7 @@ Gym:
 - Deadlift 140kg
 - Barbell Row 70kg
 - OHP 45kg
-= Total 715 lbs on the big ones
+= Total 700+ lbs on the big ones
 
 Running:
 - Run a 5k in 26 mins
