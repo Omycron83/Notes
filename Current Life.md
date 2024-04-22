@@ -1,3 +1,37 @@
+
+## End-Of-Year-Goals:
+Gym:
+- Bench 85kg
+- Squat 100kg
+- Deadlift 140kg
+- Barbell Row 70kg
+- OHP 45kg
+= Total 715 lbs on the big ones
+
+Running:
+- Run a 5k in 26 mins
+- Run 2x a week (on pull days)
+
+Life:
+- Get into routine w.r.t. getting up/going to bed
+- Fix procrastination once and for all (everything purpose-driven, even relaxing)
+- Start to work on one extra thing/day 
+- Start volunteering?
+- Get better at socializing/connecting
+- Get a gf? (Optional, not a priority but would be nice ig)
+- 
+
+Abi:
+- 1.0
+- Thats it, dont care
+
+Uni:
+- Module mit 1.7 Durchschnitt abschneiden
+- Herausfinden, wo man was studieren will
+
+
+
+
 # To-Do
 1. Abi-Sachen
 2. Uni-Sachen
