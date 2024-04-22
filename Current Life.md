@@ -10,16 +10,22 @@ Gym:
 
 Running:
 - Run a 5k in 26 mins
-- Run 2x a week (on pull days)
+- Run 2x a week (on pull days?)
 
 Life:
 - Get into routine w.r.t. getting up/going to bed
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
+- Start to look at things that help for background noises
 - Start to work on one extra thing/day 
 - Start volunteering?
 - Get better at socializing/connecting
 - Get a gf? (Optional, not a priority but would be nice ig)
+- Meal Prep 3 high protein meals/day
+- Become a better person in terms of at-home stuff
 - 
+
+Languages:
+- Gain basic knowledge of the chinese language, including
 
 Abi:
 - 1.0
@@ -29,7 +35,10 @@ Uni:
 - Module mit 1.7 Durchschnitt abschneiden
 - Herausfinden, wo man was studieren will
 
-
+General Education:
+- Learn more about quant
+- Learn more about ML
+- Master LinA, Ana, WT, NlOpt
 
 
 # To-Do
