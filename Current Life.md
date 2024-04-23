@@ -2,11 +2,11 @@
 ## End-Of-Year-Goals:
 Gym:
 - Bench 85kg
-- Squat 100kg
+- Squat 110kg
 - Deadlift 140kg
-- Barbell Row 70kg / 16 Pull-Ups
-- OHP 45kg
-= Total 700+ lbs on the big ones
+- Barbell Row 70kg / 16 clean Pull-Ups
+- OHP 50kg
+= Total 800+ lbs on the big ones
 
 Running:
 - Run a 5k in 26 mins
