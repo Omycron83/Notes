@@ -4,7 +4,7 @@ Gym:
 - Bench 85kg
 - Squat 100kg
 - Deadlift 140kg
-- Barbell Row 70kg
+- Barbell Row 70kg / 16 Pull-Ups
 - OHP 45kg
 = Total 700+ lbs on the big ones
 
