@@ -15,14 +15,13 @@ Running:
 Life:
 - Get into routine w.r.t. getting up/going to bed
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
+- Plan days entirely -> Have a binding deadline for everything
 - Start to look at things that help for background noises
 - Start to work on one extra thing/day 
 - Start volunteering?
 - Get better at socializing/connecting
-- Get a gf? (Optional, not a priority but would be nice ig)
 - Meal Prep 3 high protein meals/day
 - Become a better person in terms of at-home stuff
-- 
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
@@ -75,8 +74,6 @@ Abschnittsweise:
 	1. Wenn Einfach -> Gehe zum nächsten Abschnitt
 	2. Wenn noch schwierig -> Gehe zu 1.
 	=> Alternativ: das Szenario üben, in dem man gut sein sollte
-
-
 ## Learning for tests (Uni-Tests, Schul-Klausuren)
 0. Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen
 1. Material durchlesen, wiederverstehen
@@ -88,7 +85,7 @@ Abschnittsweise:
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
-- Inhaltlich nur relevantes aufschreiben
+- Inhaltlich nur relevantes aufschreiben, es ist keine Schreibaufgabe (insb. wenn es ein Skript gib)
 ## After-Class:
 - Durchgehen & Verstehen
 - Von wichtigem Lernzettel schreiben
