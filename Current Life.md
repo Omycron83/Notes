@@ -16,6 +16,7 @@ Life:
 - Get into routine w.r.t. getting up/going to bed
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
 - Plan days entirely -> Have a binding deadline for everything
+- Work more with pen and paper to fix thinking and spare memory slots (its not about recalling something, but about knowing where to look)
 - Start to look at things that help for background noises
 - Start to work on one extra thing/day 
 - Start volunteering?
@@ -64,6 +65,7 @@ General Education:
 - Clear Desk
 - Other account
 - Obsidian notes
+- Some blank pages and a pen
 - **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
 ## Working through textbooks
 0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell?
@@ -100,7 +102,9 @@ Abschnittsweise:
 - Have a predetermined goal you actually want to achieve
 - Dont remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
 - Actively focus:
-	- Engage in
+	- Engage information while summarizing
+	- Set predetermined time for tasks
+- Practice attention meditation to focus 
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 # Ernährung:
