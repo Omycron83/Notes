@@ -70,7 +70,7 @@ General Education:
 ## Working through textbooks
 0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell?
 Abschnittsweise:
-1. Durchlesen & Verstehen
+1. Durchlesen & Verstehen (Skimmen, wenn inhaltsarm)
 2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
 3. Übungsaufgaben machen: 
 	1. Wenn Einfach -> Gehe zum nächsten Abschnitt
@@ -104,7 +104,7 @@ Abschnittsweise:
 - Actively focus:
 	- Engage information while summarizing
 	- Set predetermined time for tasks
-- Practice attention meditation to focus 
+- Practice attention meditation to focus on breathing and point in front of head for 5 minutes every morning
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 # Ernährung:
