@@ -25,7 +25,7 @@ Life:
 - 
 
 Languages:
-- Gain basic knowledge of the chinese language, including
+- Gain basic knowledge of the chinese language, including the character system
 
 Abi:
 - 1.0
@@ -44,6 +44,7 @@ General Education:
 1. Abi-Sachen
 2. Uni-Sachen
 3. 1 Projekt / Woche (alternierend Mathe und Info)
+4. Sonderprojekt
 # Rythmus
 - Get up at 6:45
 - Eat smth decent
