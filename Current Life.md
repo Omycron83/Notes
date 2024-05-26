@@ -85,7 +85,7 @@ Abschnittsweise:
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
-- Inhaltlich nur relevantes aufschreiben, es ist keine Schreibaufgabe (insb. wenn es ein Skript gib)
+- Inhaltlich nur relevantes aufschreiben, es ist keine Schreibaufgabe (insb. wenn es ein Skript gibt)
 ## After-Class:
 - Durchgehen & Verstehen
 - Von wichtigem Lernzettel schreiben
@@ -95,6 +95,12 @@ Abschnittsweise:
 - Für Verständnis / "Working-Memory" -> Hefter
 - Für Leistungsvorbereitung / Klausur -> Zusammenfassung
 - Für Leben -> Obsidian
+
+## How to focus longer and better:
+- Have a predetermined goal you actually want to achieve
+- Dont remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
+- Actively focus:
+	- Engage in
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 # Ernährung:
