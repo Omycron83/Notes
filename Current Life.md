@@ -53,8 +53,6 @@ General Education:
 - Get on the clock
 - Eat smth decent
 - Go to bed at 11pm
-
-
 # Lern-Strategie:
 0. **Goals** - Setze dir konkrete, erreichbare Ziele in der Study-Session (u.A. 75% Zeit) + Zeitaufgabe
 1. **Survey** - Erstes Lesen, Einordnen, anfängliches Verstehen
@@ -63,19 +61,21 @@ General Education:
 4. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 5. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
 ## Environment:
-- Lofi-Music
+- Music depending on mood
 - Clear Desk
 - Other account
 - Obsidian notes
 - **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
 ## Working through textbooks
-0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das?
+0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell?
 Abschnittsweise:
 1. Durchlesen & Verstehen
 2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
 3. Übungsaufgaben machen: 
 	1. Wenn Einfach -> Gehe zum nächsten Abschnitt
 	2. Wenn noch schwierig -> Gehe zu 1.
+	=> Alternativ: das Szenario üben, in dem man gut sein sollte
+
 
 ## Learning for tests (Uni-Tests, Schul-Klausuren)
 0. Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen
