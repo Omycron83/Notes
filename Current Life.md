@@ -1,9 +1,9 @@
 
 ## End-Of-Year-Goals:
 Gym:
-- Bench 85kg
-- Squat 110kg
-- Deadlift 140kg
+- Bench 100kg
+- Squat 130kg
+- Deadlift 160kg
 - Barbell Row 70kg / 16 clean Pull-Ups
 - OHP 50kg
 = Total 800+ lbs on the big ones
@@ -39,7 +39,6 @@ General Education:
 - Learn more about quant
 - Learn more about ML
 - Master LinA, Ana, WT, NlOpt
-
 
 # To-Do
 1. Abi-Sachen
@@ -109,19 +108,17 @@ Proteinquellen:
 Carbs:
 - Potatoes
 
-**Meal 1:** The Quick Take-With (20c + 30c = 50c)
+**Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00)
 - Overnight-Oats: 10g protein, ca. 200 kcal
-- Protein Shake: 60g protein, ca. 150 kcal
+- Protein Shake (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
 
-**Meal 2:** Edeka Be Like (1.80 + 1.60 = 3.40)
-- Bread: 30g protein, ca. 750 kcal
-- Harzer Cheese: 30g protein, ca. 150 kcal
+**Meal 2:**  The Quick At-Home (1.00 + 0.9 = 1.90)
+- Pizza w/ Mozarella: 51g, 820kcal
 
-**Meal 3:** The Rice Cooker Angle (30c + 30c = 60c)
-- Rice: 10g protein, ca. 500 kcal
-- Lentils: 30g protein, ca. 300 kcal
+**Meal 3:** Mac'n Cheese (14c + 56c = 70c)
+- 100g Noodles, 80g Cheese: 652 kcal, 31g
 
-**Total:** 170g protein, 2050 kcal, 4.5 Euro
+**Total:** 138g protein, 2002 kcal, 3.6 Euro 
 # Fitness:
 Routine: Push-Pull-Legs
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
