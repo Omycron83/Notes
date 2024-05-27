@@ -112,9 +112,12 @@ Proteinquellen:
 - Lentils
 - Eggs
 - Whey-Protein
+- Cheese
 - Harzer Cheese
 Carbs:
 - Potatoes
+- Rice
+- Noodles
 
 **Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00)
 - Overnight-Oats: 10g protein, ca. 200 kcal
