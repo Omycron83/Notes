@@ -62,7 +62,7 @@ General Education:
 4. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 5. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
 ## Environment:
-- Clear, realistic goals in both time spend and goals a
+- Clear, realistic goals in both time spend and goals achieved
 - Music depending on mood
 - Clear Desk
 - Other account
@@ -90,8 +90,10 @@ Abschnittsweise:
 	1. Wenn einfach: nächste Aufgabe
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
 
-Gnerelle Lernstrategie:
-
+## Generelle Lernstrategie:
+0. Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
+-> Projektaufgaben identifizieren, die zum Unterricht passen
+1. Material durchlesen, anfaengliches verstehen, gerne
 
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
