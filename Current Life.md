@@ -62,6 +62,7 @@ General Education:
 4. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 5. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
 ## Environment:
+- Clear, realistic goals in both time spend and goals a
 - Music depending on mood
 - Clear Desk
 - Other account
@@ -69,7 +70,9 @@ General Education:
 - Some blank pages and a pen
 - **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
 ## Working through textbooks
-0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell? -> Animationen, Anwendungen finden, um an diesen Parallel zu arbeiten und dich zu motivieren
+0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell? 
+-> Animationen, Anwendungen finden, um an diesen Parallel zu arbeiten und dich zu motivieren
+
 Abschnittsweise:
 1. Durchlesen & Verstehen (Skimmen, wenn inhaltsarm)
 2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
@@ -87,6 +90,7 @@ Abschnittsweise:
 	1. Wenn einfach: nächste Aufgabe
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
 
+Gnerelle Lernstrategie:
 
 
 ## In-Class:
