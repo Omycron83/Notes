@@ -108,6 +108,10 @@ Abschnittsweise:
 - Practice attention meditation to focus on breathing and point in front of head for 5 minutes every morning
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
+## Motivational Mantra:
+Steh auf. Fang an. Du musst nicht arbeiten, du musst dich nicht beweisen, du musst nicht dein bestes geben. Denn du musst nichts erreichen. Doch willst du etwas erreichen, dann ist eines klar: 
+Feuer frei!
+
 # Ernährung:
 Proteinquellen:
 - Lentils
@@ -192,7 +196,6 @@ Your local files are now added to your GitHub repository. You can continue worki
 
 Remember that if you're using two-factor authentication on GitHub, you might need to use a personal access token instead of your GitHub password when pushing changes. This token needs the appropriate permissions for repository access.
 
-## Motivational
 
 
 
