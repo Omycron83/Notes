@@ -109,7 +109,7 @@ Abschnittsweise:
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 ## Motivational Mantra:
-Steh auf. Fang an. Du musst nicht arbeiten, du musst dich nicht beweisen, du musst nicht dein bestes geben. Denn du musst nichts erreichen. Doch willst du etwas erreichen, dann ist eines klar: 
+Steh auf. Fang an. You dont have to work, you dont have to bother, you dont have to prove yourself. Because you dont have to reach your goals. But if you want to, let me tell you one thing: you have work, you have to bother, you have to prove yourself, right here, right now. Dont let your laziness get in th
 Feuer frei!
 
 # Ernährung:
