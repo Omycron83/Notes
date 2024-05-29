@@ -91,19 +91,17 @@ Abschnittsweise:
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
 
 ## Generelle Lernstrategie:
-0. Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
--> Projektaufgaben identifizieren, die zum Unterricht passen
-1. Material durchlesen, anfaengliches verstehen, gerne per Video, Animationen
-2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
-4. Übungsaufgaben machen: 
+0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
+-> Projektaufgaben identifizieren, die zum Thema passen
+1. **Exploration** - Material durchlesen, anfaengliches verstehen, gerne per Video, Animationen
+2. **Conceptualization** -  Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
+4. **Application** - Übungsaufgaben machen: 
 	1. Wenn Einfach -> Gehe zum nächsten Abschnitt
 	2. Wenn noch schwierig -> Gehe zu 1.
 	=> Alternativ: das Szenario üben, in dem man gut sein sollte
-5. KonsolidierunLernblaetter, Flashcards (Anki) erstellen
-4. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
-5. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
-
-
+5. **Consolidation** - Lernblaetter, Flashcards (Anki) erstellen
+6. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
+7. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
 - Inhaltlich nur relevantes aufschreiben, es ist keine Schreibaufgabe (insb. wenn es ein Skript gibt)
