@@ -69,7 +69,7 @@ General Education:
 - Some blank pages and a pen
 - **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
 ## Working through textbooks
-0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell? -> Animationen, Anwendungen finden
+0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell? -> Animationen, Anwendungen finden, um an diesen Parallel zu arbeiten und dich zu motivieren
 Abschnittsweise:
 1. Durchlesen & Verstehen (Skimmen, wenn inhaltsarm)
 2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
@@ -86,6 +86,9 @@ Abschnittsweise:
 5. Übungsaufgaben machen:
 	1. Wenn einfach: nächste Aufgabe
 	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
+
+
+
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
 - Inhaltlich nur relevantes aufschreiben, es ist keine Schreibaufgabe (insb. wenn es ein Skript gibt)
