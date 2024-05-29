@@ -56,7 +56,7 @@ General Education:
 - Go to bed at 11pm
 # Lern-Strategie:
 0. **Goals** - Setze dir konkrete, erreichbare Ziele in der Study-Session (u.A. 75% Zeit) + Zeitaufgabe
-1. **Survey** - Erstes Lesen, Einordnen, anfängliches Verstehen
+1. **Survey** - Erstes Lesen, Einordnen, anfängliches Verstehen -> Animationen, Anwendungen finden
 2. **Question** - Übungsaufgaben , max. 45 min lösen, Change of setting, 20 min lösen, in Lösung schauen, nochmal lösen
 3. **Rephrase** - Informationen/Vorgehen verstehen, dann unabhängig aufschreiben, "Rubber-Duck erklären", Fragen: Warum, Wofür, Mit was verwandt, Wie?
 4. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
@@ -69,7 +69,7 @@ General Education:
 - Some blank pages and a pen
 - **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
 ## Working through textbooks
-0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell?
+0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell? -> Animationen, Anwendungen finden
 Abschnittsweise:
 1. Durchlesen & Verstehen (Skimmen, wenn inhaltsarm)
 2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
