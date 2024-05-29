@@ -54,43 +54,7 @@ General Education:
 - Get on the clock
 - Eat smth decent
 - Go to bed at 11pm
-# Lern-Strategie:
-0. **Goals** - Setze dir konkrete, erreichbare Ziele in der Study-Session (u.A. 75% Zeit) + Zeitaufgabe
-1. **Survey** - Erstes Lesen, Einordnen, anfängliches Verstehen -> Animationen, Anwendungen finden
-2. **Question** - Übungsaufgaben , max. 45 min lösen, Change of setting, 20 min lösen, in Lösung schauen, nochmal lösen
-3. **Rephrase** - Informationen/Vorgehen verstehen, dann unabhängig aufschreiben, "Rubber-Duck erklären", Fragen: Warum, Wofür, Mit was verwandt, Wie?
-4. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
-5. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
-## Environment:
-- Clear, realistic goals in both time spend and goals achieved
-- Music depending on mood
-- Clear Desk
-- Other account
-- Obsidian notes
-- Some blank pages and a pen
-- **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
-## Working through textbooks
-0. Preparation: Buch(er) und Kapitel identifizieren, alle Seiten skimmen, Übungsaufgaben anschauen -> Was ist wichtig? Warum machen wir das? Wie integriert sich das? Wie strukturiert sich das Thema generell? 
--> Animationen, Anwendungen finden, um an diesen Parallel zu arbeiten und dich zu motivieren
-
-Abschnittsweise:
-1. Durchlesen & Verstehen (Skimmen, wenn inhaltsarm)
-2. Rephrase (v.a. Begriffe, Definitionen, Lemmas, Grafiken) & **kurz** notieren (Beweise wie Questions betrachten)
-3. Übungsaufgaben machen: 
-	1. Wenn Einfach -> Gehe zum nächsten Abschnitt
-	2. Wenn noch schwierig -> Gehe zu 1.
-	=> Alternativ: das Szenario üben, in dem man gut sein sollte
-## Learning for tests (Uni-Tests, Schul-Klausuren)
-0. Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen
-1. Material durchlesen, wiederverstehen
-2. Notizen durchgehen, ggf. Konzeptionell anpassen
-3. Lernblätter auf Basis von ^ **formulieren**, ggf. Flashcards erstellen
-4. Kurzes Auswendiglernen
-5. Übungsaufgaben machen:
-	1. Wenn einfach: nächste Aufgabe
-	2. Wenn schwer: Gehe ggf. zu 1., sonst zu 4.
-
-## Generelle Lernstrategie:
+## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen
 1. **Exploration** - Material durchlesen, anfaengliches verstehen, gerne per Video, Animationen
@@ -102,6 +66,15 @@ Abschnittsweise:
 5. **Consolidation** - Lernblaetter, Flashcards (Anki) erstellen
 6. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 7. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
+In Vorbereitung: 4-> 6 -> 7 -> 4
+## Environment:
+- Clear, realistic goals in both time spend and goals achieved
+- Music depending on mood
+- Clear Desk
+- Other account
+- Obsidian notes
+- Some blank pages and a pen
+- **Notetaking must be functional, as its procrastination otherwise!** (Conceptual instead of Sequential Note-Taking, in all but final study pages)
 ## In-Class:
 - Aktives lernen bevorzugen, "Mitlernen", Konzentriert sein: **"Ich sitze da, dann kann ich auch mein bestes geben"** / Alles ist eine mündliche Prüfung
 - Inhaltlich nur relevantes aufschreiben, es ist keine Schreibaufgabe (insb. wenn es ein Skript gibt)
