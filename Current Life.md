@@ -98,7 +98,6 @@ Abschnittsweise:
 - Für Verständnis / "Working-Memory" -> Hefter
 - Für Leistungsvorbereitung / Klausur -> Zusammenfassung
 - Für Leben -> Obsidian
-
 ## How to focus longer and better:
 - Have a predetermined goal you actually want to achieve
 - Dont remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
@@ -125,7 +124,6 @@ Carbs:
 - Noodles
 
 **Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00)
-- Overnight-Oats: 10g protein, ca. 200 kcal
 - Protein Shake (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
 
 **Meal 2:**  The Quick At-Home (1.00 + 0.9 = 1.90)
