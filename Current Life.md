@@ -18,8 +18,8 @@ Life:
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
 - Plan days entirely -> Have a binding deadline for everything
 - Work more with pen and paper to fix thinking and spare memory slots (its not about recalling something, but about knowing where to look)
-- Start to look at things that help for background noises
-- Start to work on one extra thing/day 
+- Start to look at things that help for background noises -> Language acquisition, 
+- Start to work on one extra thing/day
 - Start volunteering?
 - Get better at socializing/connecting
 - Meal Prep 3 high protein meals/day
@@ -129,7 +129,6 @@ https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8A
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
-
 # Github:
 ## Backup files:
 Creating a new Git repository locally, syncing it with a remote repository on GitHub, and adding your local files involves a series of steps. Here's a step-by-step guide to help you achieve this:
