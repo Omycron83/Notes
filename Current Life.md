@@ -99,7 +99,7 @@ In Vorbereitung: 4-> 6 -> 7 -> 4
 ## Motivational Mantra:
 Steh auf. Fang an. 
 You dont have to work, you dont have to bother, you dont have to prove yourself. Because you dont have to reach your goals. But if you want to, let me tell you one thing: you have work, you have to bother, you have to prove yourself, right here, right now. Dont let your laziness get in the way of your success. Because there is somebody out there with the same goals, looking to get into the same position in life. And they are smarter, more hard working and more motivated than you with all the advantages in life. If you want to get where you want to be, you have to work so hard, that its impossible for that person to win: because the ordinary person cant and wont go as far as you do. So know one thing: If you work hard now, you wont regret anything! 
-Feuer frei!
+Nur eins kann man dir nicht nehmen: deinen Willen, lass diesen triumphieren! Feuer frei!
 # Ernährung:
 Proteinquellen:
 - Lentils
