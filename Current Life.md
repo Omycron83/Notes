@@ -98,7 +98,7 @@ In Vorbereitung: 4-> 6 -> 7 -> 4
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
 ## Motivational Mantra:
 Steh auf. Fang an. 
-You dont have to work, you dont have to bother, you dont have to prove yourself. Because you dont have to reach your goals. But if you want to, let me tell you one thing: you have work, you have to bother, you have to prove yourself, right here, right now. Dont let your laziness get in the way of your success. Because there is somebody out there with the same goals, looking to get into the same position in life. And they are smarter, more hard working and more motivated than you with all the advantages in life. If you want to get where you want to be, you have to work so hard, that its impossible for that person to win: because the ordinary person cant and wont go as far as you do. So know one thing: If you work hard now, you wont regret anything! 
+You dont have to work, you dont have to bother, you dont have to prove yourself. Because you dont have to reach your goals. But if you want to, let me tell you one thing: you have work, you have to bother, you have to prove yourself, right here, right now. Dont let your laziness get in the way of your success. Because there is somebody out there with the same goals, looking to get into the same position in life. And they are smarter, more hard working and more motivated than you with all the advantages in life. If you want to get where you want to be, you have to work so hard, that its impossible for that person to keep up: because the ordinary person cant and wont go as far as you do. So know one thing: If you work hard now, you wont regret anything! 
 Nur eins kann man dir nicht nehmen: deinen Willen, lass diesen triumphieren! Feuer frei!
 # Ernährung:
 Proteinquellen:
@@ -112,7 +112,7 @@ Carbs:
 - Rice
 - Noodles
 
-**Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00)
+**Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00) 
 - Protein Shake (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
 
 **Meal 2:**  The Quick At-Home (1.00 + 0.9 = 1.90)
@@ -122,6 +122,7 @@ Carbs:
 - 100g Noodles, 80g Cheese: 652 kcal, 31g
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
+Goal
 # Fitness:
 Routine: Push-Pull-Legs
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
