@@ -122,7 +122,6 @@ Carbs:
 - 100g Noodles, 80g Cheese: 652 kcal, 31g
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
-Goal
 # Fitness:
 Routine: Push-Pull-Legs
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
