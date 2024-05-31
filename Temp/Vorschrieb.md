@@ -1,6 +1,6 @@
 If thats all right with you, I'd like to start with the text and first read out loud lines ... to ... .
 
-As you may have already noticed, the ... authored by ... and published ... on ...  generally deals with ..., 
+As you may have already somewhat noticed, the ... authored by ... and published ... on ...  generally deals with ..., but 
 
 Types of texts:
 - Novel
@@ -12,12 +12,19 @@ Types of texts:
 	- Opinion pieces
 	- News analyses
 	- Columns
+	- Investigative article
+	- Research article
+	- Roundup article
 - Report
 - Review
 - Biography/Autobiography
 - Memoir
 - Journal
 - Letter
+
+
+
+
 
 ## Discussion:
 
