@@ -28,7 +28,17 @@ Types of texts:
 
 (2:00)
 ### Discussion 1
-As I've already 
+As I've already alluded to, there exists 
+
+Lets start with the arguments in favor of ...
+
+This actually brings us to arguments against ...
+/ Moving onto arguments against ...
+
+Now ultimately, an opinion on the question at hand is largely determined by the weight one attributes to either points. Personally, I believe that ...
+
+Taking all the these aspects into account, I can't fully agree with either side, but would rather ...\
+If there was an obvious solution, the problem would have already been solved
 
 ### Cartoon analysis
 
@@ -51,19 +61,17 @@ So, in order to reach an appropriate, nuanced conclusion, one must both deeply e
 - 
 - 
 
-Lets start with the arguments in favor of ...
 
 
 
-This actually brings us to arguments against ...
-/ Moving onto arguments against ...
-
-Now ultimately, an opinion on the question at hand is largely determined by the weight one attributes to either points. Personally, I believe that ...
 
 
 
-Taking all the these aspects into account, I can't fully agree with either side, but would rather ...\
-If there was an obvious solution, the problem would have already been solved
+
+
+
+
+
 
 
 ## Mini-Inputs zu den Themen:
