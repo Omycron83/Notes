@@ -2,6 +2,17 @@ If thats all right with you, I'd like to start with the text and first read out 
 
 As you may have already noticed, the ... authored by ... and published ... on ...  generally deals with ..., 
 
+Types of texts:
+- Novel
+- Short Story
+- Essay
+- Article
+- Report
+- Review
+- Biography/Autobiography
+- Memoir
+- Journal
+- Letter
 
 ## Discussion:
 
