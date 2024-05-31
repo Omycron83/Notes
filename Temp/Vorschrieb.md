@@ -9,8 +9,9 @@ Types of texts:
 - Article
 	- News Stories
 	- Features 
-	- Editorial
-	- 
+	- Opinion pieces
+	- News analyses
+	- Columns
 - Report
 - Review
 - Biography/Autobiography
