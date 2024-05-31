@@ -2,8 +2,9 @@
 ### Vorlesen
 If thats all right with you, I'd like to start with the text and first read out loud lines ... to ... .
 
+(30s)
 ### Outline
-As you may have already noticed, the ... titled "..." authored by ... and published ... on ...  centers around/on ..., a topic that has garnered significant attention .... . Moreover, the author elaborates on ... .
+As you may have already noticed, the ... titled "..." authored by ... and published on ... in/on ...  centers around/on ..., a topic that has garnered significant attention .... . Moreover, the author elaborates on ... .
 
 Types of texts:
 - Novel
@@ -25,7 +26,7 @@ Types of texts:
 - Journal
 - Letter
 
-
+(2:00)
 ### Discussion 1
 
 
