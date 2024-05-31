@@ -1,5 +1,8 @@
+
+### Vorlesen
 If thats all right with you, I'd like to start with the text and first read out loud lines ... to ... .
 
+### Outline
 As you may have already somewhat noticed, the ... authored by ... and published ... on ...  generally deals with ..., but 
 
 Types of texts:
@@ -22,6 +25,13 @@ Types of texts:
 - Journal
 - Letter
 
+### Discussion 1
+
+
+### Cartoon analysis
+
+
+### Discussion 2
 
 
 
