@@ -3,7 +3,7 @@
 If thats all right with you, I'd like to start with the text and first read out loud lines ... to ... .
 
 ### Outline
-As you may have already somewhat noticed, the ... titled "..." authored by ... and published ... on ...  generally deals with ..., a topic that has garnered significant attention .... . Furthermore, the author goes into detail about ... .
+As you may have already noticed, the ... titled "..." authored by ... and published ... on ...  generally deals with ..., a topic that has garnered significant attention .... . Moreover, the author elaborates ... .
 
 Types of texts:
 - Novel
