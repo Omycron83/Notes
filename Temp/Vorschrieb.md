@@ -1,6 +1,6 @@
 
 ### Vorlesen
-If thats all right with you, I'd like to start with the text and first read out loud lines ... to ... .
+If it's all right with you, I'd like to begin with the text and first read out loud lines ... to ... .
 
 (30s)
 ### Outline
@@ -28,7 +28,7 @@ Types of texts:
 
 (2:00)
 ### Discussion 1
-
+As I've already 
 
 ### Cartoon analysis
 
