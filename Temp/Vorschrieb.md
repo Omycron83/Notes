@@ -30,9 +30,8 @@ Types of texts:
 ### Discussion 1
 As I've already alluded to, there exists 
 
-I think by know, everyone has heard about the issue of ..., which has garnered significant media attention over ... .
-And it is my impression that public opinion on the matter is somewhat irreconcilably divided: on one end of the spectrum, we have people claiming that ..., but on the other side, some argue that . 
-Thats because the topic is not only very complex with a lot of distinct talking points and ideas, but also highly emotive, largely due to ... .
+And it is my impression that public opinion on the matter is somewhat irreconcilably divided: on one end of the spectrum, we have people claiming that ..., but on the other side, some argue that ... . 
+This is because the topic is not only very complex with a lot of distinct talking points and ideas, but also highly emotive, largely due to ... .
 So, in order to reach an appropriate, nuanced conclusion, one must both deeply examine and subsequently weigh the pros and cons associated with ...
 
 - Climate change will have such a detrimental effect on the environment and, subsequently, our day-to-day-lifes, that it warrants immediate, sweeping reforms to our societal and economocial structures.
@@ -55,7 +54,7 @@ Personally, I believe that ...
 
 ### Discussion 2
 
-
+I think by know, everyone has heard about the issue of ..., which has garnered significant media attention over ... . This is because 
 
 Taking all the these aspects into account, I can't fully agree with either side, but would rather propose...\
 
