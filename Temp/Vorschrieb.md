@@ -27,8 +27,7 @@ Types of texts:
 - Letter
 
 - Chronological order
-- 
-
+- Summarize aspects without going into detail or using words from the text
 
 (2:00)
 ### Discussion 1
