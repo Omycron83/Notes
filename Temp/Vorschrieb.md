@@ -30,15 +30,25 @@ Types of texts:
 ### Discussion 1
 As I've already alluded to, there exists 
 
+I think by know, everyone has heard about the issue of ..., which has garnered significant media attention over ... .
+And it is my impression that public opinion on the matter is somewhat irreconcilably divided: on one end of the spectrum, we have people claiming that ..., but on the other side, some argue that . 
+Thats because the topic is not only very complex with a lot of distinct talking points and ideas, but also highly emotive, largely due to ... .
+So, in order to reach an appropriate, nuanced conclusion, one must both deeply examine and subsequently weigh the pros and cons associated with ...
+
+- Climate change will have such a detrimental effect on the environment and, subsequently, our day-to-day-lifes, that it warrants immediate, sweeping reforms to our societal and economocial structures.
+- Climate change, or at least anthropological climate change either doesnt exist or atleast wont have such large of an impact as to require actions that will irrevocably decrease the standard of living across the board. 
+
 Lets start with the arguments in favor of ...
 
 This actually brings us to arguments against ...
 / Moving onto arguments against ...
 
-Now ultimately, an opinion on the question at hand is largely determined by the weight one attributes to either points. Personally, I believe that ...
+Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there was an obvious, universal solution, the problem would have already been solved. 
 
-Taking all the these aspects into account, I can't fully agree with either side, but would rather ...\
-If there was an obvious solution, the problem would have already been solved
+Personally, I believe that ...
+
+
+
 
 ### Cartoon analysis
 
@@ -47,19 +57,11 @@ If there was an obvious solution, the problem would have already been solved
 
 
 
+Taking all the these aspects into account, I can't fully agree with either side, but would rather ...\
 
 ## Discussion:
 
-I think by know, everyone has heard about the issue of ..., which has garnered significant media attention over ... .
-And it is my impression that public opinion on the matter is somewhat irreconcilably divided: on one end of the spectrum, we have people claiming that ..., but on the other side, some argue that . 
-Thats because the topic is not only very complex with a lot of distinct talking points and ideas, but also highly emotive, largely due to ... .
-So, in order to reach an appropriate, nuanced conclusion, one must both deeply examine and subsequently weigh the pros and cons associated with ...
 
-- Climate change will have such a detrimental effect on the environment and, subsequently, our day-to-day-lifes, that it warrants immediate, sweeping reforms to our societal and economocial structures.
-- Climate change, or at least anthropological climate change either doesnt exist or atleast wont have such large of an impact as to require actions that will irrevocably decrease the standard of living across the board.
-
-- 
-- 
 
 
 
