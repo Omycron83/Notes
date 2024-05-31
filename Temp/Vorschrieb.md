@@ -43,7 +43,7 @@ Lets start with the arguments in favor of ...
 This actually brings us to arguments against ...
 / Moving onto arguments against ...
 
-Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there were an obvious, universal solution, the problem would have already been solved. 
+Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there were an obvious, universal solution/answer, the problem would have already been solved. 
 
 Personally, I believe that ...
 
@@ -57,7 +57,7 @@ Personally, I believe that ...
 
 
 
-Taking all the these aspects into account, I can't fully agree with either side, but would rather ...\
+Taking all the these aspects into account, I can't fully agree with either side, but would rather propose...\
 
 ## Discussion:
 
