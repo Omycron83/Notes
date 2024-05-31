@@ -7,6 +7,9 @@ Types of texts:
 - Short Story
 - Essay
 - Article
+	- News Article
+	- Feature Article
+	- Op
 - Report
 - Review
 - Biography/Autobiography
