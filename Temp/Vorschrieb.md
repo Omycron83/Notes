@@ -6,25 +6,25 @@ If it's all right with you, I'd like to begin with the text and first read out l
 ### Outline
 As you may have already noticed, the ... titled "..." authored by ... and published on ... in/on ...  centers around/on ..., a topic that has garnered significant attention .... . Moreover, the author elaborates on ... .
 
-Types of texts:
-- Novel
-- Short Story
-- Essay
-- Article
-	- News Stories
-	- Features 
-	- Opinion pieces
-	- News analyses
-	- Columns
-	- Investigative article
-	- Research article
-	- Roundup article
-- Report
-- Review
-- Biography/Autobiography
-- Memoir
-- Journal
-- Letter
+	Types of texts:
+	- Novel
+	- Short Story
+	- Essay
+	- Article
+		- News Stories
+		- Features 
+		- Opinion pieces
+		- News analyses
+		- Columns
+		- Investigative article
+		- Research article
+		- Roundup article
+	- Report
+	- Review
+	- Biography/Autobiography
+	- Memoir
+	- Journal
+	- Letter
 
 - Chronological order
 - Summarize aspects without going into detail or using words from the text
@@ -48,10 +48,6 @@ This actually brings us to arguments against ...
 Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there were an obvious, universal solution/answer, the problem/question would have already been solved. 
 
 Personally, I believe that ... 
-
-
-
-
 ### Cartoon analysis
 Alright, let’s then transition to the given cartoon, titled '...' and drawn by ..., published on ... in ....
 
