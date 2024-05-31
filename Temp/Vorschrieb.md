@@ -1,5 +1,7 @@
 If thats all right with you, I'd like to start with the text and first read out loud lines ... to ... .
 
+As you may have already noticed, the ... authored by ... and published ... on ...  generally deals with ..., 
+
 
 ## Discussion:
 
