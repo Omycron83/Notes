@@ -53,7 +53,7 @@ Personally, I believe that ...
 
 
 ### Cartoon analysis
-Ok, lets move onto the given cartoon, titled " " and drawn by the  
+Alright, let’s now transition to the given cartoon, titled '...' and drawn by ..., published on ... in ....
 
 ### Discussion 2
 
