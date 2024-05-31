@@ -26,6 +26,10 @@ Types of texts:
 - Journal
 - Letter
 
+- Chronological order
+- 
+
+
 (2:00)
 ### Discussion 1
 As I've already alluded to, there exists 
@@ -42,15 +46,15 @@ Lets start with the arguments in favor of ...
 This actually brings us to arguments against ...
 / Moving onto arguments against ...
 
-Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there were an obvious, universal solution/answer, the problem would have already been solved. 
+Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there were an obvious, universal solution/answer, the problem/question would have already been solved. 
 
-Personally, I believe that ...
+Personally, I believe that ... 
 
 
 
 
 ### Cartoon analysis
-
+Ok, lets move onto the given cartoon, titled " " and drawn by the  
 
 ### Discussion 2
 
