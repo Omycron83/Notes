@@ -25,6 +25,7 @@ Types of texts:
 - Journal
 - Letter
 
+
 ### Discussion 1
 
 
