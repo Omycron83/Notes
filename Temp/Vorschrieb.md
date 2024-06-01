@@ -361,7 +361,30 @@ Green washing refers to the act (of an individual or an organization) of making 
 In class, we have identified some greenwashing techniques often observed in even the most ... such as shell: firstly, they often employ language that, while sounding like a promise of significan, isn"t defined in any way that would make claiming it a promise of any kind. Calling yourself "eco-friendly" for example seems like an arguable claim, that however lacks any formal definition to make it such. Additionaly, there is often an emphasis put on small details or products that, while technically being environmentally friendly, dont ecompass a large part of the actual operations of the company: for example, there is often a large emphasis on the footpring and recyclability of the packaging, even if the main product, e.g. a dishwasher, wasn"t produced ecologically at all.
 
 ### Problems with plastic:
+**What He Learned About Plastic:** Andrew Forrest learned that plastic pollution is an escalating global crisis with dire consequences for marine life and ecosystems. He discovered that plastic waste is ubiquitous, breaking down into microplastics that permeate oceans, waterways, and eventually, the food chain. The Ellen MacArthur Foundation predicts that by 2025, the ocean could contain one ton of plastic for every three tons of fish, highlighting the urgent need for action.
 
+**Why It Is So Worrisome:** The worrisome aspect of plastic pollution lies in its longevity and pervasive nature. Plastics do not biodegrade but rather break down into smaller pieces, which are ingested by marine organisms and enter the food web. This not only threatens marine biodiversity but also poses health risks to humans. Furthermore, the massive volume of plastic waste generated annually exacerbates environmental degradation and contributes to the loss of marine life.
+
+**Why Nothing Is Done:** Forrest identifies several reasons for the lack of substantial action against plastic pollution:
+
+- **Economic Interests:** The profitability of plastic production and petrochemical industries creates resistance to change.
+- **Infrastructure Gaps:** Many countries lack the infrastructure for effective waste management and recycling.
+- **Consumer Habits:** Widespread reliance on single-use plastics and insufficient consumer awareness hinder progress.
+- **Policy and Regulation:** Inadequate regulations and enforcement mechanisms fail to hold producers accountable for plastic waste.
+
+**What Should Be Done with the Resin:** Forrest proposes that plastic resin, the raw material for plastic production, should be transformed into a valuable commodity through recycling. By incentivizing the recycling of plastic resin, it can become a sustainable resource rather than waste. This involves:
+
+- **Corporate Responsibility:** Encouraging large corporations to fund and drive recycling initiatives.
+- **Technological Innovation:** Investing in advanced recycling technologies that can efficiently process plastic waste.
+- **Support for Informal Recyclers:** Empowering informal waste collectors, or "ragpickers," by improving their working conditions and integrating them into formal recycling systems.
+
+**How It May Benefit the Industry and Environment:**
+
+- **Economic Opportunities:** Creating a circular economy around plastic can generate jobs and stimulate economic growth. Recycling industries can thrive, providing new business opportunities and reducing dependency on virgin plastic.
+- **Environmental Benefits:** Reducing plastic waste through effective recycling lowers environmental pollution, protects marine life, and conserves natural resources. It also decreases the carbon footprint associated with plastic production.
+- **Social Impact:** Supporting informal recyclers and integrating them into the formal economy improves their livelihoods and working conditions, contributing to social equity and economic inclusion.
+
+By transforming the economic incentives around plastic and mobilizing corporate and technological resources, Forrest believes it is possible to mitigate the plastic crisis and create a sustainable future.
 
 ### History of media:
 1. **Early Forms of Communication:**
