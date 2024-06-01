@@ -87,6 +87,9 @@ Taking all the these aspects into account, I can't fully agree with either side,
 
 Its important to first shed some light on the background to answer this question comprehensively: ...
 
+### Results of climate change:
+
+
 
 ### Reason for climate change:
 The main mechanism behind anthropological climate change is the emission and effect of greenhouse gasses in the earths athmosphere. 
