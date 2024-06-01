@@ -312,9 +312,49 @@ Also, this data is then used to "enhance the user experience" which, realistical
 And the only real advantage for you as a user is that you get free content, because the companies can make profit off of you in such an efficient way as to render direct payments unnessisary.
 
 ### The green new deal:
-The green new deal refers to an idea of public policy that aims to address climate change along with achieving auxilliary goals such as job creation, economic growth and the reduction of inequality at large. There have been significant attempts to get legislation passed in order to introduce these ideas into public policy in a number of contries such as the EU and the US.
-The policies mainly focus on creating environmental justice for those disproportionately affected by climate change.
+The Green New Deal is an ambitious and comprehensive public policy framework designed to address the urgent issue of climate change while simultaneously achieving a range of complementary goals. These include creating jobs, stimulating economic growth, and reducing societal inequalities. At its core, the Green New Deal envisions a transformative shift towards a sustainable and equitable future.
 
+In recent years, significant efforts have been made to translate this vision into actionable legislation in various countries, notably within the European Union and the United States. These legislative attempts aim to integrate the principles of the Green New Deal into national and regional policies, driving forward the necessary changes to combat climate change effectively.
+
+The central focus of the Green New Deal is to promote environmental justice, particularly for communities disproportionately affected by climate change. These communities often bear the brunt of environmental degradation, pollution, and the adverse effects of a changing climate, despite contributing the least to the problem. By addressing these inequities, the Green New Deal seeks to ensure that the benefits of a green economy are shared widely and that vulnerable populations are protected and empowered.
+
+In summary, the Green New Deal represents a holistic approach to tackling climate change, intertwining environmental sustainability with social and economic justice. It advocates for a paradigm shift in how we approach policy-making, prioritizing the health of the planet and the well-being of all its inhabitants.
+
+1. **Historical Context:**
+    
+    - The term "Green New Deal" draws inspiration from the New Deal, a series of programs and reforms introduced by President Franklin D. Roosevelt in response to the Great Depression. Similarly, the Green New Deal aims to address a profound crisis—climate change—through transformative economic and social reforms.
+2. **Key Proposals:**
+    
+    - The Green New Deal encompasses a broad array of proposals, including:
+        - Transitioning to 100% renewable energy sources by a specified date.
+        - Retrofitting buildings to improve energy efficiency.
+        - Investing in green infrastructure, such as smart grids and public transit systems.
+        - Promoting sustainable agriculture and regenerative farming practices.
+        - Implementing a federal jobs guarantee to ensure employment for all, focused on green jobs.
+3. **Economic Impact:**
+    
+    - Advocates argue that the Green New Deal would stimulate economic growth by creating millions of new jobs in renewable energy, construction, and other green industries. It aims to boost the economy while reducing dependency on fossil fuels.
+4. **Social Justice:**
+    
+    - The Green New Deal emphasizes social justice, aiming to address the intersection of environmental issues and systemic inequalities. This includes ensuring fair wages, workers' rights, and support for communities historically marginalized and disproportionately impacted by environmental hazards.
+5. **Challenges and Criticisms:**
+    
+    - Critics of the Green New Deal often point to the high costs and logistical challenges associated with its implementation. They argue that the ambitious goals may be economically disruptive and difficult to achieve within the proposed timelines. Others believe the plan lacks specific details on funding and execution.
+6. **Global Perspective:**
+    
+    - While the Green New Deal is most prominently associated with the U.S. and the EU, similar initiatives are emerging worldwide. Countries like South Korea and Canada have introduced their own versions of green economic plans, tailored to their specific needs and circumstances.
+7. **Political Landscape:**
+    
+    - The Green New Deal has sparked considerable political debate. In the U.S., it has garnered strong support from progressive politicians and environmental groups, while facing opposition from conservatives and industry stakeholders who favor more gradual approaches to climate action.
+8. **Legislative Efforts:**
+    
+    - In the U.S., the Green New Deal was introduced as a non-binding resolution in Congress in 2019 by Representative Alexandria Ocasio-Cortez and Senator Ed Markey. Although it has not been passed into law, it has significantly influenced the national conversation on climate policy and inspired various legislative proposals at federal, state, and local levels.
+9. **Public Opinion:**
+    
+    - Public support for the Green New Deal varies, with younger generations and climate activists generally more supportive, viewing it as essential for a sustainable future. Polls indicate growing awareness and concern about climate change, potentially increasing public backing for comprehensive climate policies.
+10. **Future Outlook:**
+    
+    - The future of the Green New Deal depends on political will, public support, and the ability to build broad coalitions. As climate impacts become more severe, the pressure for bold action increases, potentially paving the way for policies inspired by the Green New Deal framework to gain traction and shape future climate action.
 ### Greenwashing
 Lets begin with a definition: what is green washing?
 Green washing refers to the act (of an individual or an organization) of making themselves appear more ecological on the surface than they actually are.
