@@ -200,7 +200,7 @@ Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitro
 
 ### Severn Suzuki Climate Change:
 Back then, environmental activism was a very different thing than it is today: not only was the topic orders of magnitude less popular, but the talking points where different as well.
-
+The first topic was often 
 
 ### Big data collection:
 Actually, I have some experience with this, however from the opposite perspective:
