@@ -31,7 +31,7 @@ As you may have already noticed, the ... titled "..." authored by ... and publis
 
 (2:00)
 ### Discussion 1
-As I've already alluded to, there exists a large public debate around..
+As I've already alluded to, there exists a large public debate / around..
 
 And it is my impression that public opinion on the matter is somewhat irreconcilably divided: on one end of the spectrum, we have people claiming that ..., but on the other side, some argue that ... . 
 This is because the topic is not only very complex with a lot of distinct talking points and ideas, but also highly emotive, largely due to ... .
