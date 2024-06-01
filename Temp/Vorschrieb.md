@@ -362,8 +362,37 @@ In class, we have identified some greenwashing techniques often observed in even
 
 ### Problems with plastic:
 
-### History of media:
 
+### History of media:
+1. **Early Forms of Communication:**
+    
+    - **Oral Tradition:** The earliest form of communication involved oral storytelling, where knowledge, culture, and traditions were passed down verbally from generation to generation.
+    - **Written Language:** Around 3200 BCE, the invention of writing in Mesopotamia and Egypt marked a significant advancement. Early forms included cuneiform and hieroglyphics, which allowed for more precise and lasting communication.
+2. **Ancient and Medieval Periods:**
+    
+    - **Papyrus and Parchment:** The Egyptians used papyrus for writing, while later, the Greeks and Romans adopted parchment made from animal skins.
+    - **Printing Press:** In 1440, Johannes Gutenberg’s invention of the movable type printing press revolutionized communication by making books and written materials more accessible, leading to the spread of knowledge and literacy.
+3. **Renaissance to Industrial Revolution:**
+    
+    - **Newspapers:** The first newspapers appeared in the 17th century, providing regular updates on news and events. The growth of newspapers facilitated the spread of information on a larger scale.
+    - **Telegraph:** Invented by Samuel Morse in the 1830s, the telegraph allowed for instantaneous communication over long distances, transforming news dissemination and personal communication.
+4. **Early 20th Century:**
+    
+    - **Radio:** The early 1900s saw the advent of radio broadcasting, which became a primary source of news, entertainment, and emergency information.
+    - **Television:** By the mid-20th century, television had become widespread, offering visual news and entertainment, significantly influencing public opinion and culture.
+5. **Late 20th Century:**
+    
+    - **Personal Computers:** The 1980s and 1990s brought personal computers into homes, changing how people consumed media and information.
+    - **Cable and Satellite TV:** These technologies expanded the number of available channels, providing a wider array of news, sports, movies, and specialized programming.
+6. **The Internet Era:**
+    
+    - **Early Internet:** The development of the internet in the late 20th century, particularly the World Wide Web in 1991 by Tim Berners-Lee, revolutionized media by allowing instant access to information and communication worldwide.
+    - **Social Media:** Platforms like Facebook (2004), Twitter (2006), and Instagram (2010) transformed how people interact, share news, and consume media, creating a more participatory and interactive media environment.
+    - **Streaming Services:** The rise of streaming services such as Netflix, YouTube, and Spotify in the early 21st century changed the landscape of entertainment, allowing on-demand access to a vast array of content.
+7. **Modern Internet:**
+    
+    - **Mobile Technology:** The proliferation of smartphones and tablets has made the internet and media consumption portable and ubiquitous, with apps and mobile-optimized websites becoming primary sources of news and entertainment.
+    - **Artificial Intelligence and Big Data:** Modern media increasingly relies on AI and big data for content creation, curation, and personalized user experiences, enhancing the relevance and engagement of media content.
 
 ### Social Media: positive impact on social life
 - **Connectivity**: connect with anyone, regardless of location  
