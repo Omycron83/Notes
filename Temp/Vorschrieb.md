@@ -241,7 +241,8 @@ In class, we have identified some greenwashing techniques often observed in even
 
 ### Problems with plastic:
 
-### History of mass media
+### History of media:
+
 
 ### Common words:
 - Anthropocene: Current geological epoch characterized by changes to the planet through human actions
