@@ -204,7 +204,10 @@ https://ourworldindata.org/emissions-by-sector:
 Back then, environmental activism was a very different thing than it is today: not only was the topic orders of magnitude less popular, but the talking points where different as well.
 Back then, topics such as 
 - The problem of nuclear power
-- 
+- The destruction of the ozone layer
+- The loss of biodiversity
+- Water and air pollution
+
 The first topic was often 
 
 
