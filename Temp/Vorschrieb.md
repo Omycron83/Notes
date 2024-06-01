@@ -119,6 +119,10 @@ And this really is where the issue lies: you become part of a statistic you neve
 Also, this data is then used to "enhance the user experience" which, realistically, translates to enhanced algorithms designed to make you spend as much time as possible on their websites, with the end goal of you spending more money on products that ads recommend to you
 
 And the only real advantage for you as a user is that you get free content, because the companies can make profit off of you in such an efficient way as to render direct payments unnessisary.
+
+### The green new deal:
+
+
 ### Common words:
 - Anthropocene: Current geological epoch characterized by changes to the planet through human actions
 - Holocene: 
