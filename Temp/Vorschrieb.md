@@ -224,7 +224,12 @@ Back then, topics such as
 - Example of child on street, who would be generous if rich
 
 ### Greta Thunberg:
-- Star
+- Learned about climate change at eight years old
+- Was really concerned and even depressed, also due to aspergers
+- Held first "School Strike for Climate" outside the swedish parliament
+- Was able to attract large attention to the problem
+- Held speeches to world leaders to get them to adress the given problems
+- 
 
 ### Ways to combat climate change:
 
