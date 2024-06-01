@@ -63,7 +63,7 @@ And in my opinion, the cartoonist is very successful at ... .
 
 I think by know, everyone has heard about the issue of ..., which has garnered significant media attention over ... . This is because 
 
-
+So lets again start with some arguments in favor of 
 
 Taking all the these aspects into account, I can't fully agree with either side, but would rather propose...\
 
