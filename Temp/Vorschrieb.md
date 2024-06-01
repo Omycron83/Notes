@@ -27,7 +27,7 @@ As you may have already noticed, the ... titled "..." authored by ... and publis
 	- Letter
 
 - Chronological order
-- Summarize aspects without going into detail or using words from the text
+- Summarize aspects without going into detail (no examples) or using words from the text, simple presents
 
 (2:00)
 ### Discussion 1
@@ -201,6 +201,10 @@ Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitro
 ### Severn Suzuki Climate Change:
 Back then, environmental activism was a very different thing than it is today: not only was the topic orders of magnitude less popular, but the talking points where different as well.
 The first topic was often 
+
+
+### Ways to combat climate change:
+
 
 ### Big data collection:
 Actually, I have some experience with this, however from the opposite perspective:
