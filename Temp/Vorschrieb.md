@@ -4,7 +4,7 @@ If it's all right with you, I'd like to begin with the text and first read out l
 
 (30s)
 ### Outline
-As you may have already noticed, the ... titled "..." authored by ... and published on ... in/on ...  centers around/on ..., a topic that has garnered significant attention .... . Moreover, the author elaborates on ... .
+As you may have already noticed, the ... titled "..." authored by ... and published on ... in/on ...  centers around/on ..., a topic that has garnered considerable attention .... . Moreover, the author elaborates on ... .
 
 	Types of texts:
 	- Novel
