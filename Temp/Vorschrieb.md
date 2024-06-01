@@ -192,7 +192,7 @@ Thhe general mechanism behind
 
 As the sun has a surface temperature of around 5.500C, it emits most of its energy as shortwave radiation in near-infraread and visable wavelengths as sunlight.
 In contrast, earths surface has a much lower temperature, emitting longwave radiation at mid- and far-infraread wavelengths.
-Greenhouse gasses are gasses that particularly absorb 
+Greenhouse gasses are gasses that particularly absorb infraread 
 
 Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitrous oxide and even water vapor in the form of clouds.
 
