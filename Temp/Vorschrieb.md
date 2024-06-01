@@ -61,7 +61,7 @@ In the foreground we see...
 
 At the bottom, a caption/speech bubble originating from ... reads:
 
-Now, w
+Now, what does this represent?
 
 Thus, the cartoon reveals a dystopian vision of ... 
 
