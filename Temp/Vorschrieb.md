@@ -93,10 +93,11 @@ Its important to first shed some light on the background to answer this question
 #### Environmental Impacts:
 
 1. **Rising Sea Levels**:
-		Due to the increase in average temperatures, the previous balance between water and ice at the poles has been disturbed, leading to a net melting of ice
+		Due to the increase in average temperatures, the previous balance between water and ice at the poles has been disturbed, leading to the ice at our poles and glacier melting by about 350 billion tons a year. Because the density of ice is smaller than that of water, this leads to an increase of average sea levels.
+	
     - **Effects on Humans**: Increased flooding can displace communities, especially in low-lying coastal areas. Loss of land can lead to conflicts over resources and contribute to the displacement of millions of people, creating climate refugees.
 2. **Extreme Weather Events**:
-    
+	    
     - **Effects on Humans**: More frequent and severe hurricanes, tornadoes, heatwaves, and heavy rainfall events can lead to loss of life, injury, and damage to property and infrastructure. The economic costs of recovery and rebuilding are substantial.
 3. **Ocean Acidification**:
     
