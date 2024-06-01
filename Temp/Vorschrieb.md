@@ -63,7 +63,7 @@ In the foreground we see...
 
 At the bottom, a caption/speech bubble originating from ... reads:
 
-Now, what does this represent?
+Now, what does this represent/is this supposed to mean?
 
 Thus, the cartoon reveals a dystopian vision of ... / The cartoon is satirizing...
 
