@@ -223,6 +223,9 @@ Back then, topics such as
 - Create group thinking, "We're all in this together'  
 - Example of child on street, who would be generous if rich
 
+### Greta Thunberg:
+- Star
+
 ### Ways to combat climate change:
 
 
@@ -297,5 +300,5 @@ In class, we have identified some greenwashing techniques often observed in even
 - Anthropocene: Current geological epoch characterized by changes to the planet through human actions
 - Holocene: Current geological epoch
 - Digital native: Term coined in 2001 by Marc Prensky to describe generation who grew up in era of ubiquitous technology, i.e. computers and internet, and are thus comfortable with them from an early age as they play an integral part in their lives
-- Digital immigrant: 
+- Digital immigrant: grew up before digital media was ubiquitous, had to adapt and learn these  technologies
 - Digital refugees: A person who has to become digital in order to keep their established livelihood (e.g. because of digitalization of their job)
