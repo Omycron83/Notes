@@ -205,8 +205,12 @@ Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitro
 https://ourworldindata.org/emissions-by-sector:
 ![[Pasted image 20240601151228.png]]
 One can find out that carbon emissions are mainly concentrated in four major areas, successively decreasing in size:
-- Industrial plants (24%)
-- Road transport 
+- Energy use in Industrial plants (24%) + Releases in industry (+5.2%, mainly cement)
+- Energy use in buildings, both commercial and residential (17.5%)
+- Road transport (11.9%)
+- The raising of lifestock (5.8%)
+
+With another 
 
 ![[Pasted image 20240601203722.png]]
 
