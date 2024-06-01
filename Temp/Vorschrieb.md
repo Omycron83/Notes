@@ -189,8 +189,8 @@ Its important to first shed some light on the background to answer this question
 The main mechanism behind anthropological climate change is the emission and effect of greenhouse gasses in the earths athmosphere. 
 
 As the sun has a surface temperature of around 5.500C, it emits most of its energy as shortwave radiation in near-infraread and visable wavelengths as sunlight.
-In contrast, earths surface has a much lower temperature, emitting longwave radiation at mid- and far-infraread wavelengths. So if a sunray hits the earths body, the earth absorbs the radiation, and mostly emits the 
-Greenhouse gasses are gasses that particularly absorb infraread radiation, making it unable to pass through.
+In contrast, earths surface has a much lower temperature, emitting longwave radiation at mid- and far-infraread wavelengths. So if a sunray hits the earths body, the earth absorbs the radiation, and mostly emits the infrared radiation back, with some of it being reflected (the blacker, the ). 
+Greenhouse gasses are gasses that particularly absorb infrared radiation, making it unable to pass through.
 
 Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitrous oxide and even water vapor in the form of clouds.
 
