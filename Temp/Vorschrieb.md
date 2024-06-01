@@ -461,3 +461,12 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 - **Digital native**: Term coined in 2001 by Marc Prensky to describe generation who grew up in era of ubiquitous technology, i.e. computers and internet, and are thus comfortable with them from an early age as they play an integral part in their lives
 - **Digital immigrant**: grew up before digital media was ubiquitous, had to adapt and learn these  technologies
 - **Digital refugees**: A person who has to become digital in order to keep their established livelihood (e.g. because of digitalization of their job)
+
+## Examples
+Outline the following text on: **The Impact of Climate Change on Agriculture and the Adaptive Responses Needed**
+
+The impact of climate change on global agriculture is becoming increasingly evident. Rising temperatures, altered precipitation patterns, and more frequent extreme weather events are disrupting crop production worldwide. In regions such as sub-Saharan Africa, where agriculture is predominantly rain-fed, changing weather patterns pose a significant threat to food security. Farmers are facing unpredictable growing seasons, which can result in poor yields and loss of income. Moreover, pests and diseases that thrive in warmer climates are spreading to new areas, further jeopardizing crop health.
+
+In response to these challenges, there is a growing interest in sustainable agricultural practices. Techniques such as crop diversification, agroforestry, and the use of drought-resistant crop varieties are being explored to enhance resilience. Governments and international organizations are also investing in agricultural research and development to find innovative solutions. For instance, the introduction of smart irrigation systems and precision farming technologies can help optimize water use and increase productivity.
+
+However, adapting to climate change is not without its hurdles. Smallholder farmers often lack access to the necessary resources and knowledge to implement these practices. There is a need for increased support through education, financial assistance, and infrastructure development to ensure that all farmers can benefit from these advancements. By addressing these issues, we can work towards a more resilient and sustainable agricultural future.
