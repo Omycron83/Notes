@@ -208,8 +208,23 @@ Back then, topics such as
 - The loss of biodiversity
 - Water and air pollution
 
-The first topic was often 
-
+Biography:  
+- Climate activist from Vancouver, father was environmental activist  
+- Founded **E**nvironmental **C**hildrens **O**rganization at age 9  
+- Attended earth summit in 1992 as group of 3x 12-13yo activists themselves  
+- No agenda, but to talk on behalf of the present generation  
+Protested environmental challenges:  
+- Chemicals in environments   
+- Loss of biodiversity (Eutrophication)   
+- Depletion of the ozone layer   
+Changes she wanted to see:  
+- Prevent more things being destroyed  
+- Less focus on consumption in society  
+- Share with developing countries  
+Ways she did this:  
+- Appealing to emotions w.r.t. families, their children  
+- Create group thinking, "We're all in this together'  
+- Example of child on street, who would be generous if rich
 
 ### Ways to combat climate change:
 
@@ -242,6 +257,43 @@ In class, we have identified some greenwashing techniques often observed in even
 ### Problems with plastic:
 
 ### History of media:
+### Social Media: positive impact on social life
+- Connectivity: connect with anyone, regardless of location  
+- Reconnect and keep in touch with friends  
+- Make new connections, build communities  
+- Share content and ideas -> improved  freedom of speech  
+- Find help: share problems with a community and get advice  
+- Learn about other cultures and societies  
+- Improved feeling of unity, "global valley"
+
+### Social media: positive impact in everyday life
+- Allows learning from experts to enhance knowledge regardless of location, educational background or disposable income   
+- Ability to promote business to larger audiences with less expenses  
+- Ability to rally people for a cause, e.g. promote NGOs, social welfare activities and organize donations for people in need, quick way to help people  
+- Entertainment
+### Social Media: impact on politics
+- Important role in many elections (e.g. USA, Iran, India)  
+- Helps to verify/review political agendas, allows to correct "Fake News"  
+- Reveal/disclose political problems, e.g. Wikileaks  
+- Finding inspiration and organizing mass movements and political unrest against injustice (e.g. BLM or FFF)
+### Social Media: impact on business
+- Advertise products, build customer loyalty, interact and get feedback  
+- Allows to understand market and finetune products and strategies  
+-> Cheap and effective means to enhance brand image and popularity
+
+### Social Media: negative impacts on social life
+- Addiction / losing contanct with "real world"; especially with teenagers that are most affected by the addiction to social media, can be involved very extensively and eventually be cut off from society, leading to serious mental health problems  
+- Can be time-consuming, distracting and lower productivity, waste individual time that could have been used for productive tasks and activities  
+- Shift to digital relationships with others rather than real face-to-face relationships, that are much more limited  
+- Creating false/unrealistic ideals and expectations  
+- Cyberbullying and online harassments  
+- Can easily ruin someones reputation just by creating a false story and spreading it online  
+- Lack of data protection and privacy  
+- Hacking? Wha
+### Social Media: negative impact on politics
+- uncontrollable data collection of citizens  
+- creating and spreading "Fake News" via social media to influence users  
+- platform for terrorist organisations and other malicious movements
 
 
 ### Common words:
