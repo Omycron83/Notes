@@ -296,12 +296,12 @@ In class, we have identified some greenwashing techniques often observed in even
 ### Social Media: negative impacts on social life
 - **Addiction** / losing contanct with "real world"; especially with teenagers that are most affected by the addiction to social media, can be involved very extensively and eventually be cut off from society, leading to serious mental health problems  
 - Can be time-consuming, **distracting** and lower productivity, waste individual time that could have been used for productive tasks and activities  
-- Shift to digital relationships with others rather than real face-to-face relationships, that are much more limited  
-- Creating false/unrealistic ideals and expectations  
-- Cyberbullying and online harassments  
-- Can easily ruin someones reputation just by creating a false story and spreading it online  
-- Lack of data protection and privacy  
-- Hacking? Wha
+- Shift to **digital relationships** with others rather than real face-to-face relationships, that are much more limited  
+- Creating false/**unrealistic ideals** and expectations  
+- **Cyberbullying** and online harassments  
+- Can easily **ruin someones reputation** just by creating a false story and spreading it online  
+- Lack of **data protection** and privacy  
+- **Hacking**? Wha
 ### Social Media: negative impact on politics
 - uncontrollable data collection of citizens  
 - creating and spreading "Fake News" via social media to influence users  
