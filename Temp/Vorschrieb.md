@@ -122,6 +122,9 @@ And the only real advantage for you as a user is that you get free content, beca
 
 ### The green new deal:
 
+### Greenwashing
+Lets begin with a definition: what is green washing?
+Green washing refers to the act (of an individual or an organization) of making themselves appea  
 
 ### Common words:
 - Anthropocene: Current geological epoch characterized by changes to the planet through human actions
