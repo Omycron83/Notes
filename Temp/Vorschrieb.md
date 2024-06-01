@@ -229,7 +229,11 @@ Back then, topics such as
 - Held first "School Strike for Climate" outside the swedish parliament
 - Was able to attract large attention to the problem
 - Held speeches to world leaders to get them to adress the given problems
-- 
+- Inspired the Fridays for Future Movement
+
+### Fridays for Future:
+
+
 
 ### Ways to combat climate change:
 
