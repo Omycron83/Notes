@@ -29,6 +29,9 @@ As you may have already noticed, the ... titled "..." authored by ... and publis
 - Chronological order
 - Summarize aspects without going into detail (no examples) or using words from the text, simple presents
 
+The author highlights ...
+Furthermore ,tghey
+
 With all of those aspects affecting ...
 
 (2:00)
