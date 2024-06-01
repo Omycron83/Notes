@@ -192,7 +192,7 @@ The general mechanism behind
 
 As the sun has a surface temperature of around 5.500C, it emits most of its energy as shortwave radiation in near-infraread and visable wavelengths as sunlight.
 In contrast, earths surface has a much lower temperature, emitting longwave radiation at mid- and far-infraread wavelengths. So if a sunray hits the earths body, the earth absorbs the radiation, and mostly emits 
-Greenhouse gasses are gasses that particularly absorb infraread radiation.
+Greenhouse gasses are gasses that particularly absorb infraread radiation, making it unable to pass through.
 
 Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitrous oxide and even water vapor in the form of clouds.
 
@@ -206,7 +206,7 @@ Back then, topics such as
 - The destruction of the ozone layer
 - The loss of biodiversity
 - Water and air pollution
-Ozone layer: reflects 
+Ozone layer: reflects UV radiation, 
 
 **Biography:**  
 - Climate activist from Vancouver, father was environmental activist  
