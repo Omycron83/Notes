@@ -84,8 +84,6 @@ Moving onto arguments against ...
 
 Taking all the these aspects into account, I can't fully agree with either side, but would instead propose...
 ## Mini-Inputs zu den Themen:
-
-
 Its important to first shed some light on the background to answer this question comprehensively: ...
 
 ### Results of climate change:
@@ -208,20 +206,20 @@ Back then, topics such as
 - The loss of biodiversity
 - Water and air pollution
 
-Biography:  
+**Biography:**  
 - Climate activist from Vancouver, father was environmental activist  
 - Founded **E**nvironmental **C**hildrens **O**rganization at age 9  
 - Attended earth summit in 1992 as group of 3x 12-13yo activists themselves  
 - No agenda, but to talk on behalf of the present generation  
-Protested environmental challenges:  
+**Protested environmental challenges:**  
 - Chemicals in environments   
 - Loss of biodiversity (Eutrophication)   
 - Depletion of the ozone layer   
-Changes she wanted to see:  
+**Changes she wanted to see:**  
 - Prevent more things being destroyed  
 - Less focus on consumption in society  
 - Share with developing countries  
-Ways she did this:  
+**Ways she did this:**  
 - Appealing to emotions w.r.t. families, their children  
 - Create group thinking, "We're all in this together'  
 - Example of child on street, who would be generous if rich
