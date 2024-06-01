@@ -121,7 +121,8 @@ Also, this data is then used to "enhance the user experience" which, realistical
 And the only real advantage for you as a user is that you get free content, because the companies can make profit off of you in such an efficient way as to render direct payments unnessisary.
 
 ### The green new deal:
-The green new deal refers to an idea of public policy that aims to address climate change along with achieving auxilliary goals such as job creation, economic growth and the reduction of inequality at large. 
+The green new deal refers to an idea of public policy that aims to address climate change along with achieving auxilliary goals such as job creation, economic growth and the reduction of inequality at large. There have been significant attempts to get legislation passed in order to introduce these ideas into public policy in a number of contries such as the EU and the US.
+In these p
 
 ### Greenwashing
 Lets begin with a definition: what is green washing?
