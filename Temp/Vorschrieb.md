@@ -97,7 +97,8 @@ Its important to first shed some light on the background to answer this question
 	
     - **Effects on Humans**: Increased flooding can displace communities, especially in low-lying coastal areas. Loss of land can lead to conflicts over resources and contribute to the displacement of millions of people, creating climate refugees.
 2. **Extreme Weather Events**:
-	    
+		This, together with changes in both global aerial and water circulation due to the changes in temperatures leads to an increase of the frequency of extreme weather events, such as 
+		
     - **Effects on Humans**: More frequent and severe hurricanes, tornadoes, heatwaves, and heavy rainfall events can lead to loss of life, injury, and damage to property and infrastructure. The economic costs of recovery and rebuilding are substantial.
 3. **Ocean Acidification**:
     
