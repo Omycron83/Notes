@@ -223,7 +223,7 @@ Ozone layer: reflects UV radiation,
 **Biography:**  
 - Climate activist from Vancouver, father was environmental activist  
 - Founded **E**nvironmental **C**hildrens **O**rganization at age 9  
-- Attended earth summit in 1992 as group of 3x 12-13yo activists themselves  
+- Attended earth summit in Rio, 1992 as group of 3x 12-13yo activists themselves  
 - No agenda, but to talk on behalf of the present generation  
 **Protested environmental challenges:**  
 - Chemicals in environments   
