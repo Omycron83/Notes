@@ -121,11 +121,12 @@ Also, this data is then used to "enhance the user experience" which, realistical
 And the only real advantage for you as a user is that you get free content, because the companies can make profit off of you in such an efficient way as to render direct payments unnessisary.
 
 ### The green new deal:
+The green new deal refers to 
 
 ### Greenwashing
 Lets begin with a definition: what is green washing?
 Green washing refers to the act (of an individual or an organization) of making themselves appear more ecological on the surface than they actually are.
-In class, we have identified some greenwashing techniques often observed in even the most ... such as shell: firstly, they often employ language that, while sounding like , isn"t defined in any way that would 
+In class, we have identified some greenwashing techniques often observed in even the most ... such as shell: firstly, they often employ language that, while sounding like a promise of significan, isn"t defined in any way that would make claiming it a promise of any kind. Calling yourself "eco-friendly" for example doesn"t 
 
 ### Common words:
 - Anthropocene: Current geological epoch characterized by changes to the planet through human actions
