@@ -124,7 +124,8 @@ And the only real advantage for you as a user is that you get free content, beca
 
 ### Greenwashing
 Lets begin with a definition: what is green washing?
-Green washing refers to the act (of an individual or an organization) of making themselves appea  
+Green washing refers to the act (of an individual or an organization) of making themselves appear more ecological on the surface than they actually are.
+In class, we have identified some greenwashing techniques often observed in even the most ... such as shell: firstly, they often employ language that, while sounding like , isn"t defined in any way that would 
 
 ### Common words:
 - Anthropocene: Current geological epoch characterized by changes to the planet through human actions
