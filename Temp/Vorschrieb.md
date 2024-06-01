@@ -206,6 +206,7 @@ Back then, topics such as
 - The destruction of the ozone layer
 - The loss of biodiversity
 - Water and air pollution
+Ozone layer: reflects 
 
 **Biography:**  
 - Climate activist from Vancouver, father was environmental activist  
