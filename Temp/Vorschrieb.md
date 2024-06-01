@@ -233,10 +233,68 @@ Ozone layer: reflects UV radiation,
 - Was able to attract large attention to the problem
 - Held speeches to world leaders to get them to adress the given problems
 - Inspired the Fridays for Future Movement
-### Fridays for Future:
 
 ### Ways to combat climate change:
-
+1. **Direct Air Capture (DAC):**
+    
+    - Technology that captures carbon dioxide directly from the atmosphere and stores it underground or uses it in industrial processes.
+2. **Green Hydrogen:**
+    
+    - Hydrogen produced using renewable energy sources, which can be used as a clean fuel for transportation, industry, and power generation.
+3. **Advanced Nuclear Reactors:**
+    
+    - Next-generation nuclear reactors, including small modular reactors (SMRs) and thorium reactors, which offer safer, more efficient, and less wasteful nuclear energy production.
+4. **Electric Vehicles (EVs) and Battery Technology:**
+    
+    - Continued advancements in electric vehicles and battery technologies, including solid-state batteries, which improve range, charging times, and sustainability.
+5. **Smart Grids and Energy Storage:**
+    
+    - Advanced grid technologies and large-scale energy storage solutions, such as grid-scale batteries and pumped hydro storage, to better integrate renewable energy sources.
+6. **Carbon Capture, Utilization, and Storage (CCUS):**
+    
+    - Technologies that capture carbon emissions from industrial sources and either store them underground or use them to produce useful products.
+7. **Agricultural Technology (AgTech):**
+    
+    - Innovations in precision agriculture, vertical farming, and genetically engineered crops that reduce emissions, increase yields, and improve resilience to climate change.
+8. **Renewable Energy Innovations:**
+    
+    - Cutting-edge developments in solar, wind, and wave energy technologies, including floating solar panels, airborne wind turbines, and wave energy converters.
+9. **Bioenergy with Carbon Capture and Storage (BECCS):**
+    
+    - Processes that produce energy from biomass while capturing and storing the carbon dioxide produced, resulting in net-negative emissions.
+10. **Building and Construction Technologies:**
+    
+    - Sustainable building materials and construction techniques, such as cross-laminated timber (CLT), 3D-printed buildings, and green cement, which reduce the carbon footprint of construction.
+11. **Afforestation and Reforestation:**
+    
+    - Planting new forests and restoring degraded ones to absorb CO2 from the atmosphere, enhancing biodiversity and providing additional environmental benefits.
+12. **Ocean-Based Solutions:**
+    
+    - Strategies such as marine protected areas, sustainable fisheries management, and blue carbon ecosystems (mangroves, seagrasses, and salt marshes) to sequester carbon and protect marine biodiversity.
+13. **Energy Efficiency Improvements:**
+    
+    - Enhancing energy efficiency in homes, buildings, and industries through better insulation, energy-efficient appliances, and smart energy management systems.
+14. **Circular Economy Practices:**
+    
+    - Promoting recycling, reuse, and waste reduction to minimize the extraction of raw materials and reduce greenhouse gas emissions associated with production and disposal.
+15. **Public Transportation and Sustainable Urban Planning:**
+    
+    - Investing in public transit systems, bike lanes, pedestrian-friendly infrastructure, and urban planning that reduces the need for car travel and lowers emissions.
+16. **Dietary Changes:**
+    
+    - Encouraging plant-based diets and reducing meat consumption to lower methane emissions from livestock and decrease the environmental impact of agriculture.
+17. **Climate Education and Advocacy:**
+    
+    - Raising public awareness about climate change, promoting environmental education, and advocating for policies that support sustainable practices and reduce emissions.
+18. **Climate-Resilient Infrastructure:**
+    
+    - Designing and building infrastructure that can withstand the impacts of climate change, such as extreme weather events, rising sea levels, and temperature fluctuations.
+19. **Sustainable Water Management:**
+    
+    - Implementing water conservation practices, improving irrigation efficiency, and protecting freshwater ecosystems to ensure water security and resilience against climate change.
+20. **Renewable Energy Incentives and Policies:**
+    
+    - Governments providing incentives for renewable energy adoption, such as tax credits, subsidies, and renewable energy mandates, to accelerate the transition away from fossil fuels.
 ### Big data collection:
 Actually, I have some experience with this, however from the opposite perspective:
 Because for some time now I have been very interested in machine learning and data science,
