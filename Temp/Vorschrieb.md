@@ -197,6 +197,8 @@ Example for these greenhouse gasses include CO2, methane, carbon monoxide, nitro
 https://ourworldindata.org/emissions-by-sector:
 ![[Pasted image 20240601151228.png]]
 
+![[Pasted image 20240601203722.png]]
+
 ### Severn Suzuki Climate Change:
 Back then, environmental activism was a very different thing than it is today: not only was the topic orders of magnitude less popular, but the talking points where different as well.
 Back then, topics such as 
