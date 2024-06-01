@@ -233,13 +233,9 @@ Ozone layer: reflects UV radiation,
 - Was able to attract large attention to the problem
 - Held speeches to world leaders to get them to adress the given problems
 - Inspired the Fridays for Future Movement
-
 ### Fridays for Future:
 
-
-
 ### Ways to combat climate change:
-
 
 ### Big data collection:
 Actually, I have some experience with this, however from the opposite perspective:
