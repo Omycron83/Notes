@@ -615,15 +615,24 @@ A few studies have tried novel approaches around these problems. One, early in F
 
 A carefully designed study, Project Awesome at the University of Amsterdam and Erasmus University in Rotterdam, looks at both the average effects of social media on 1,000 teenagers it surveys and how they differ by individual, and follows adolescents over time. It has found that time spent on social media is less of a factor than teenagers’ moods while using it.
 
-
+- With all different problems 
 
 Discuss: The influence of social Media on the future of our society and how the effects will influence our society
 
 - Popularity
 
-Pro: 
+- Impact on social life:
+	- F
+	- D
+- Impact on politics:
+	-  Bubbles
+	- D
 
+Depends on course we take
+- Stay as it is rn, becoming primary place of public debate and importance
+- 
 
+- Social media also used constructively, e.g. to publish the following:
 
 ![[Pasted image 20240602171111.png]]
 Publishing Place: Twitter Cartoonist: @cartoonmovement
