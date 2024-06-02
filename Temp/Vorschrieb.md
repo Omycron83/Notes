@@ -473,7 +473,6 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 - Find help: share problems with a community and **get advice**  
 - Learn about **other cultures** and societies  
 - Improved feeling of unity, "**global valley**"
-
 ### Social media: positive impact in everyday life
 - Allows **learning** from experts to enhance knowledge regardless of location, educational background or disposable income   
 - Ability to **promote business** to larger audiences with less expenses  
@@ -495,7 +494,7 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 - Capitalism based on social media
 - Like slot machines in las vegas
 - Engagement, growth and advertisement
-- Election hacking and polarization, radicalization
+- Election hacking and polarization, radicalization -> Social polarization
 - -> Thread to democracy, because we lack common foundations and everyone has different definitions and sources due to bubbles being
 - Fake news spreads 6x faster than real news
 - Propaganda is much easier, rates are skyrocketing
