@@ -565,3 +565,16 @@ Moreover, the **addictive nature of social media** **platforms** can **disrupt**
 
 Addressing the impact of social media on mental health requires a multifaceted approach, including promoting digital literacy, encouraging balanced usage, and fostering supportive online communities. By understanding and mitigating these risks, we can harness the positive aspects of social media while safeguarding our mental health.
 
+Title: Is Social Media Addictive? Here’s What the Science Says.
+By Matt Richel, New York Times, Oct. 25, 2023
+Task: Read out lin
+
+Experts who study internet use say that the magnetic allure of social media arises from the way the content plays to our neurological impulses and wiring, such that consumers find it hard to turn away from the incoming stream of information.
+
+David Greenfield, a psychologist and founder of the Center for Internet and Technology Addiction in West Hartford, Conn., said the devices lure users with some powerful tactics. One is “intermittent reinforcement,” which creates the idea that a user could get a reward at any time. But when the reward comes is unpredictable. “Just like a slot machine,” he said. As with a slot machine, users are beckoned with lights and sounds but, even more powerful, information and reward tailored to a user’s interests and tastes.
+
+Adults are susceptible, he noted, but young people are particularly at risk, because the brain regions that are involved in resisting temptation and reward are not nearly as developed in children and teenagers as in adults. “They’re all about impulse and not a lot about the control of that impulse,” Dr. Greenfield said of young consumers.
+
+Moreover, he said, the adolescent brain is especially attuned to social connections, and “social media is all a perfect opportunity to connect with other people.”
+
+Meta responded to the lawsuit by saying that it had taken many steps to support families and teenagers. “We’re disappointed that instead of working productively with companies across the industry to create clear, age-appropriate standards for the many apps teens use, the attorneys general have chosen this path,” the company said in a statement.
