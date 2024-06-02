@@ -684,7 +684,7 @@ Author: Tim Lott
 
 I once wrote an article headed, "Technology ate my marriage". It recorded how, since the introduction of the internet, mobile phone and PC, my wife and I spent less and less time in face-to-face contact, even when under the same roof. Since then things have become worse. Technology is eating my family – myself included. Virtual space aces physical every time. 
 
-I pleaded for my 10-year-old daughter not to be bought a Kindle Fire for Christmas, knowing full well what the outcome would be. It was to no avail. She has spent at least **20% of her available time since 25 December completely out of Earth contact**. Her principal family is now the Sims. 
+I pleaded for my 10-year-old daughter not to be bought a Kindle Fire for Christmas, knowing full well what the outcome would **be**. It was to no avail. She has spent at least **20% of her available time since 25 December completely out of Earth contact**. Her principal family is now the Sims. 
 -> Playing the sims on her kindle fire
 
 My wife and I can no long simply watch a film on TV together. She is tweeting simultaneously and spends more time with her eyes on the computer than the TV. It's not what I would call a shared experience. 
@@ -701,7 +701,7 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 - Social life: interacting with friends online instead offlien
 - Informing yourself: instead of library/personal opinion-> random strangers
 - Education -> Instead of reviewing my own notes, often find myself, script being online
-- 
+- Business -> more effcetive marketing
 
 ![[Pasted image 20240602213011.png]]
 
@@ -712,7 +712,7 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 - Foreground: Curvature of the globe, showing outlines of us
 - Middleground: Person with large, blond hair dressed in blue suite w/ red 
 - Shakes hand with another person with a large, black texas-style hat and a black suite smoking large cigar
-- left hand side of the oven furnace, factory as well as mountain of coal, us flag
+- left hand side of the oven furnace, factory as well as mountain of coal, us flag, producing large amounts of black smoke, with a poster reading: USA
 
 Satirizes the politics of trump, who both wants to prevent immigration while simultaneously causing it through inaction towards climate change 
 -> Trump
@@ -726,7 +726,7 @@ Satirizes the politics of trump, who both wants to prevent immigration while sim
 
 -> Critizing 
 - Agree with message: wouldnt have to deal with the symptoms of immigration if werent causing it
-- Cartoon effective due to 
+- Cartoon effective due to the immediate associations to bad oil industrie, as well as capturing a very popular and controversial topic that even us know about
 
 **Discuss, whether or not developed countries need to take in climate refugees**:
 - hotly debated issue
