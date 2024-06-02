@@ -506,7 +506,7 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 - Social media is a drug, not a tool nowadays
 - Knows about everything you know and do
 - Even employees fall prey to the algorithms
-- Need to regulate business model that act like companies, e.g. through taxing data streams 
+- Need to regulate business model that act like countries, e.g. through taxing data streams 
 
 - **Manipulative Design of Social Media**: The film argues that social media platforms are deliberately designed to be addictive and manipulative, using algorithms that predict and influence user behavior for profit.
     
