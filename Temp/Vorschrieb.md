@@ -709,9 +709,12 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 - Refugee crises 
 - D
 
-- Foreground: Person with large, 
+- Foreground
+- Middleground: Person with large, blond hair dressed in blue suite w/ red 
+- Shakes hand with another person with a large, black texas-style hat and a black suite smoking large cigar
+- left hand side of the 
 
-Satirizes the politics of trump, who both wants to ... while simultaneously 
+Satirizes the politics of trump, who both wants to prevent immigration while simultaneously causing it through inaction towards climate change 
 -> Trump
 -> Sterotypical depiction of immoral industrialist
 -> US fossil fuel industry, by coal, factories and large clouds of smoke
@@ -719,7 +722,9 @@ Satirizes the politics of trump, who both wants to ... while simultaneously
 
 -> them asking if him ... refers to the large increase in illegal immigration, which is projected due to the loss of habitable land due to symptoms of climate change
 -> the us disproportionately ... and which trump refused to tackle, instead increasing subsidies to industrial giants
--> this stands in stark contrast to other policies aimed at, 
+-> this stands in stark contrast to other policies aimed at, especially his idea to build a wall to keep out illegal immigrants
+
+-> Critizing 
 
 **Discuss, whether or not developed countries need to take in climate refugees**:
 - hotly debated issue
