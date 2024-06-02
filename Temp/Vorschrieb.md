@@ -704,18 +704,22 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 - 
 
 ![[Pasted image 20240602213011.png]]
+
+
 - Refugee crises 
 - D
 
 - Foreground: Person with large, 
 
-
+Satirizes the politics of trump, who both wants to ... while simultaneously 
 -> Trump
--> Sterotypical depiction of immoral 
--> US fossil fuel industry 
+-> Sterotypical depiction of immoral industrialist
+-> US fossil fuel industry, by coal, factories and large clouds of smoke
+-> Contrasts negative effects with the other world leaders 
+
+-> them asking if him ... refers
 
 **Discuss, whether or not developed countries need to take in climate refugees**:
 - hotly debated issue
 - irreconcilably devided
 - deeply examine pros and cons and subsequently weigh them to reach nuanced conclusion
-- 
