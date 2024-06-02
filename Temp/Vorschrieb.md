@@ -653,4 +653,6 @@ Publishing Place: Twitter Cartoonist: @cartoonmovement
 - picture of the latest global conference
 
 - Foregrouind: 
-- Middleground, 
+- Middleground: line of people in sand successively taking paint brush green containers from man in white, traditional arab clothing
+- Line, we see a woman in green shirt and green heals as well as long hair
+- The people 
