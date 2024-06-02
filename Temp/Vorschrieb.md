@@ -573,13 +573,15 @@ Experts who study internet use say that the magnetic allure of social media aris
 -> Content specifically made to please human brain
 
 David Greenfield, a psychologist and founder of the Center for Internet and Technology Addiction in West Hartford, Conn., said the devices lure users with some powerful tactics. One is “**intermittent reinforcement**,” which creates the idea that a **user could get a reward** at any time. But when the reward comes is **unpredictable**. “Just like a slot machine,” he said. As with a slot machine, users are beckoned with lights and sounds but, **even more powerful, information and reward tailored** to a user’s interests and tastes.
--> Uses sparse rewards in the form of especially tailored entertainment to through a process called intermittent reinforcement learning
+-> Platforms uses sparse rewards in the form of especially tailored entertainment to through a process called intermittent reinforcement learning
  
 Adults are susceptible, he noted, but young people are particularly at risk, because the brain regions that are **involved in resisting temptation and reward are not nearly as developed in children and teenagers as in adults**. “They’re all about impulse and not a lot about the control of that impulse,” Dr. Greenfield said of young consumers.
 -> Lack of impulse control make them more susceptable
 
 Moreover, he said, the adolescent brain is especially attuned to social connections, and “**social media is all a perfect opportunity to connect with other people**.”
 -> Ability for broad social interactions more alluring
+
+=> Ultimately all combining to make social media especially addicting to youngsters.
 
 Meta responded to the lawsuit by saying that it had taken many steps to support families and teenagers. “We’re disappointed that instead of working productively with companies across the industry to create clear, age-appropriate standards for the many apps teens use, the attorneys general have chosen this path,” the company said in a statement.
 
@@ -589,12 +591,12 @@ Meta responded to the lawsuit by saying that it had taken many steps to support 
 - deeply examine cons and pros related to the introduction and subsequently way them to reach nuanced conclusions
 
 Cons:
-- addiction -> myself
-- poor social skills, overreliance
+- addiction -> myself, easy to fall into habits due to short term rewards
+- poor social skills, overreliance -> friends that havent seen in like 8 months, not great
 
 Pro:
-- Ability to get advice on internet 
-- Ability to educate yourself
+- Ability to get advice on internet -> Never had problems, just google
+- Ability to educate yourself -> 
 -> All enhanced by being digital native w/ computer literacy
 
 Conclusion: need to include the pros while mitigating negative effects -> controlled, supervised w/ relaxation according to age from early age on
