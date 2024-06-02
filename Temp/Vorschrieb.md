@@ -676,7 +676,6 @@ Publishing Place: Twitter Cartoonist: @cartoonmovement
 
 **Read out loud lines 1-5**
 **Outline the ways his family uses technology**
-**Reflect on the way media has changed the world around you**
 
 Technology is taking over my family
 The guardian
@@ -689,14 +688,18 @@ I pleaded for my 10-year-old daughter not to be bought a Kindle Fire for Christm
 -> Playing the sims on her kindle fire
 
 My wife and I can no long simply watch a film on TV together. She is tweeting simultaneously and spends more time with her eyes on the computer than the TV. It's not what I would call a shared experience. 
--> Interacting on social media/twitter on pc
+-> posting on twitter from her pc
 
 My eldest has been known to text me from another room to ask for a cup of tea. 
--> To text others, even if in close proximity
+-> To text others, even if close proximity (eldest child)
 
 I would like to claim that I was the virtuous exception to this virtualisation of family life, but I have been gradually crumbling into the habits of everyone else. Now I access my computer first thing to check my tweets. In the evenings, I can often be found playing online Scrabble with a friend whereas I used to play real Scrabble with my wife.
 -> Also check tweets
 -> Play scrabble with a friend
+
+**Reflect on the way media has changed the world around you**
+- Social life: interacting with friends online instead offlien
+- Informing yourself: instead of libr
 
 ![[Pasted image 20240602213011.png]]
 
