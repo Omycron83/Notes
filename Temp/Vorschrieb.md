@@ -603,11 +603,12 @@ Conclusion: need to include the pros while mitigating negative effects -> contro
 
 
 
-Outline: How does social Media effects the mental health of the youth? Title: Everyone Says Social Media Is Bad for Teens. Proving It Is Another Thing. Author: Claire Cain Miller (New York Times)
+Outline: How does social Media effects the mental health of the youth? **Title: Everyone Says Social Media Is Bad for Teens. Proving It Is Another Thing**. Author: Claire Cain Miller (New York Times)
 
 Reviews of the existing studies on social media use and adolescents’ mental health have found the bulk of them to be “weak,” “inconsistent,” “inconclusive,” “a bag of mixed findings” and “weighed down by a lack of quality” and “conflicting evidence.” 
 
 Research has not yet shown which sites, apps or features of social media have which effects on mental health. “We don’t have enough evidence to tell parents to get rid of a particular app, or cut it off after a particular number of hours,” said Sophia Choukas-Bradley, a psychologist and director of the Teen and Young Adult Lab at the University of Pittsburgh.
+-> No specific mechanism of action 
 
 It’s also hard to prove that social media causes poor mental health, versus being correlated with it. Most studies measure time spent on social media and mental health symptoms, and many, though not all, have found a correlation. But other researchers say measuring time spent isn’t enough: In these studies, it’s unclear if time on social media is the problem, or if it’s time away from other things like exercising or sleeping. And the studies obscure, for instance, if someone is spending hours on screens to escape mental duress or to seek support from friends.
 
@@ -622,15 +623,19 @@ Discuss: The influence of social Media on the future of our society and how the 
 - Popularity
 
 - Impact on social life:
-	- F
-	- D
+	- Primary way of social engagements
+	- Addiction 
 - Impact on politics:
 	-  Bubbles
-	- D
+	- Parties advertising themselves
+- Business:
+	- Advertisements
+	- Finetuning products
+	- First is first
 
 Depends on course we take
 - Stay as it is rn, becoming primary place of public debate and importance
-- 
+- Become a hostile,  
 
 - Social media also used constructively, e.g. to publish the following:
 
