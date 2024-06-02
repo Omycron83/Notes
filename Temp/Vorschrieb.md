@@ -700,19 +700,19 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 **Reflect on the way media has changed the world around you**
 - Social life: interacting with friends online instead offlien
 - Informing yourself: instead of library/personal opinion-> random strangers
-- Education -> Instead of reviewing my own notes, often find myself  
+- Education -> Instead of reviewing my own notes, often find myself, script being online
 - 
 
 ![[Pasted image 20240602213011.png]]
 
 
 - Refugee crises 
-- D
+- Depicting two peeople seemingly concludign business deal 
 
-- Foreground
+- Foreground: Curvature of the globe, showing outlines of us
 - Middleground: Person with large, blond hair dressed in blue suite w/ red 
 - Shakes hand with another person with a large, black texas-style hat and a black suite smoking large cigar
-- left hand side of the 
+- left hand side of the oven furnace, factory as well as mountain of coal, us flag
 
 Satirizes the politics of trump, who both wants to prevent immigration while simultaneously causing it through inaction towards climate change 
 -> Trump
@@ -730,3 +730,7 @@ Satirizes the politics of trump, who both wants to prevent immigration while sim
 - hotly debated issue
 - irreconcilably devided
 - deeply examine pros and cons and subsequently weigh them to reach nuanced conclusion
+
+Pro:
+- industrialized nations have disproportionately contributed to carbon emissions
+-< 
