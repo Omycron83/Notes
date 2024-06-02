@@ -658,9 +658,15 @@ Publishing Place: Twitter Cartoonist: @cartoonmovement
 - The people appear to be smiling, and two of them who took are dancing and away, as can be seen by a note originating from one of the mens mouth
 - However, moving on to background, see factories with large furnaces spewing black smoke into air
 
-- Satirizing issue greenwashing
+- Satirizing issue greenwashing and hypocracy
 -> COP -> Conference of Parties
 - Climate conference specifically for the issue of saving planet in dubai, as 
 - The guy in arab clothing supposed to represent gonverment of saudi arabia
 - Line are supposed to represent politicians, who attended
-- Woman in green is meant to be our president 
+- Woman in green is meant to be our foreign minister analena baerbock, green clothing party
+- The pains and green paint, that implied to be used to paint green, i.e. greenwash the country
+- Stark contrast to the pollution represent fact that saudi arabia large producer emissions
+- Directly critizing world leaders\
+
+- Good cartoon
+- Agree with message
