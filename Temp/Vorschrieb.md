@@ -673,3 +673,12 @@ Publishing Place: Twitter Cartoonist: @cartoonmovement
 
 - Good cartoon
 - Agree with message
+
+
+I once wrote an article headed, "Technology ate my marriage". It recorded how, since the introduction of the internet, mobile phone and PC, my wife and I spent less and less time in face-to-face contact, even when under the same roof. Since then things have become worse. Technology is eating my family – myself included. Virtual space aces physical every time. Rarely can any single individual be found in the house at any one time without earphones stuffed in the side of their head and their digits dancing over a touchscreen.
+
+I pleaded for my 10-year-old daughter not to be bought a Kindle Fire for Christmas, knowing full well what the outcome would be. It was to no avail. She has spent at least 20% of her available time since 25 December completely out of Earth contact. Her principal family is now the Sims.
+
+My wife and I can no long simply watch a film on TV together. She is tweeting simultaneously and spends more time with her eyes on the computer than the TV. It's not what I would call a shared experience. Likewise – until I insisted she stopped – she would take her computer to bed and surf while I was trying to slumber in the flickering light of her pixels.
+
+My eldest has been known to text me from another room to ask for a cup of tea. Meanwhile, though we have long had a ban on watching television on schooldays, I find my six-year-old watching re-runs of My Little Pony on [YouTube](https://www.theguardian.com/technology/youtube) (computers are allowed, see). And this is before either has a mobile.
