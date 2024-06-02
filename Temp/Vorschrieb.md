@@ -703,6 +703,7 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 - Education -> Instead of reviewing my own notes, often find myself, script being online
 - Business -> more effcetive marketing
 
+
 ![[Pasted image 20240602213011.png]]
 
 
