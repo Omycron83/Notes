@@ -247,6 +247,8 @@ Ozone layer: reflects UV radiation,
 - Create group thinking, "We're all in this together'  
 - Example of child on street, who would be generous if rich
 
+The depletion of the ozone layer refers to the thinning and reduction of the **concentration of ozone (O₃) in the Earth's stratosphere**. This layer is crucial because it **absorbs the majority of the sun's harmful ultraviolet (UV) radiation**, protecting living organisms from its damaging effects. The problem primarily arises from human-made chemicals, **especially chlorofluorocarbons** (CFCs) and halons, which release chlorine and bromine atoms when they are broken down by UV light. **These atoms then react with ozone molecules, leading to the destruction of ozone**. This depletion **increases the amount of UV radiation reaching the Earth's surface**, resulting in higher risks of **skin cancer, cataracts, and other health issues**, as well as negatively impacting ecosystems and wildlife. International efforts, such as the Montreal Protocol, have been implemented to phase out the **production and use of ozone-depleting substances**.
+
 ### Greta Thunberg:
 - Learned about climate change at eight years old
 - Was really concerned and even depressed, also due to aspergers
