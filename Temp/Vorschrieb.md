@@ -586,8 +586,15 @@ Meta responded to the lawsuit by saying that it had taken many steps to support 
 - inspired bz
 - Large, emotive debate in field of pedagogy and parenting
 - two irreconcilably devided sides: no phones until early age, 
-- deeply examine cons and pros related to the introduction and subsequently way them to r
+- deeply examine cons and pros related to the introduction and subsequently way them to reach nuanced conclusions
 
+Cons:
+- addiction -> myself
+- poor social skills, overreliance
 
 Pro:
 - Ability to get advice on internet 
+- Ability to educate yourself
+-> All enhanced by being digital native w/ computer literacy
+
+Conclusion: need to include the pros while mitigating negative effects -> controlled, supervised w/ relaxation according to age from early age on
