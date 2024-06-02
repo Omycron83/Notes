@@ -583,6 +583,11 @@ Moreover, he said, the adolescent brain is especially attuned to social connecti
 
 Meta responded to the lawsuit by saying that it had taken many steps to support families and teenagers. “We’re disappointed that instead of working productively with companies across the industry to create clear, age-appropriate standards for the many apps teens use, the attorneys general have chosen this path,” the company said in a statement.
 
+- inspired bz
+- Large, emotive debate in field of pedagogy and parenting
+- two irreconcilably devided sides: no phones until early age, 
+- deeply examine cons and pros related to the introduction and subsequently way them to r
+
 
 Pro:
-- Ability to 
+- Ability to get advice on internet 
