@@ -699,7 +699,7 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 
 **Reflect on the way media has changed the world around you**
 - Social life: interacting with friends online instead offlien
-- Informing yourself: instead of library/personal opinion-> random strangers
+- Informing yourself: instead of library/personal opinion -> random strangers
 - Education -> Instead of reviewing my own notes, often find myself, script being online
 - Business -> more effcetive marketing
 
