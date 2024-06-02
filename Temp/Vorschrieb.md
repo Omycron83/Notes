@@ -666,7 +666,8 @@ Publishing Place: Twitter Cartoonist: @cartoonmovement
 - Woman in green is meant to be our foreign minister analena baerbock, green clothing party
 - The pains and green paint, that implied to be used to paint green, i.e. greenwash the country
 - Stark contrast to the pollution represent fact that saudi arabia large producer emissions
-- Directly critizing world leaders\
+- Directly critizing world leaders
+- 
 
 - Good cartoon
 - Agree with message
