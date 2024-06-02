@@ -61,6 +61,9 @@ This actually brings us to arguments against ...
 Now ultimately, any opinion on the question at hand is largely determined by the weight one attributes to either points. If there were an obvious, universal solution/answer, the problem/question would have already been solved. 
 
 Personally, I believe that ... 
+
+
+Connection -> 
 ### Cartoon analysis
 Alright, let’s then transition to the given cartoon, titled '...' and drawn by ..., published on ... in (the ...) deals with ....
 
@@ -477,6 +480,7 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 - Social media is a drug, not a tool nowadays
 - Knows about everything you know and do
 - Even employees fall prey to the algorithms
+- Need to regulate business model that act like companies, e.g. through taxing data streams 
 
 - **Manipulative Design of Social Media**: The film argues that social media platforms are deliberately designed to be addictive and manipulative, using algorithms that predict and influence user behavior for profit.
     
