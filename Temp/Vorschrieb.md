@@ -345,7 +345,7 @@ Edward Snowden, a former National Security Agency (NSA) contractor, gained inter
     
     - Snowden's disclosures sparked a global debate about privacy, surveillance, and government overreach.
     - The revelations led to significant legal and policy changes, including the USA FREEDOM Act of 2015, which ended the bulk collection of phone metadata by the NSA and introduced new transparency measures.
-4. **Public and Industry Reaction**:
+1. **Public and Industry Reaction**:
     
     - The leaks prompted widespread public outrage and increased awareness about digital privacy and government surveillance.
     - Tech companies and privacy advocates have since pushed for stronger encryption and more robust data protection measures.
