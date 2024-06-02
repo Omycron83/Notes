@@ -26,6 +26,8 @@ As you may have already noticed, the ... titled "..." authored by ... and publis
 	- Journal
 	- Letter
 
+	Date: Month Number+"th" 2024
+
 - Chronological order
 - Summarize aspects without going into detail (no examples) or using words from the text, simple presents
 
