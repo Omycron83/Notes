@@ -214,6 +214,8 @@ One can find out that carbon emissions are mainly concentrated in four major are
 - Road transport (11.9%)
 - The raising of lifestock (5.8%)
 
+2m road = car driving 200k km
+
 Methane:
 - Almost half of pollution produced by methane
 
