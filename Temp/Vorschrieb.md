@@ -460,18 +460,23 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 -> Cheap and effective means to **enhance brand image** and popularity
 
 ### The social dilemma
-- "If you are not paying for the product, you are the product
+- "If you are not paying for the product, you are the product"
 - Capitalism based on social media
 - Like slot machines in las vegas
 - Engagement, growth and advertisement
-- Election hacking and polarization
+- Election hacking and polarization, radicalization
+- -> Thread to democracy, because we lack common foundations and everyone has different definitions and sources due to bubbles being
 - Fake news spreads 6x faster than real news
+- Propaganda is much easier, rates are skyrocketing
+- Humans are not evolutionarily prepared for these technologies, rates of processing powers (Moores Law) 
 - Dangerous conspiracy theories, lynch mobs in myanmar killed
 - Severe depression, self harm and suicide rates, skyrocketed with 150% increase in the past couple of years, depression rates up 189%
 - Companies experiment with humans, improve algorithms
 - "Something is not a tool, if it seduces you and demands you"
 - Social media is a drug, not a tool nowadays
 - Knows about everything you know and do
+- Even employees fall prey to the algorithms
+- 
 
 ### Social Media: negative impacts on social life
 - **Addiction** / losing contanct with "real world"; especially with teenagers that are most affected by the addiction to social media, can be involved very extensively and eventually be cut off from society, leading to serious mental health problems  
