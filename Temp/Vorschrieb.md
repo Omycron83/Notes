@@ -653,9 +653,14 @@ Publishing Place: Twitter Cartoonist: @cartoonmovement
 - picture of the latest global conference
 
 - Foregrouind: green poster hshwoing
-- Middleground: line of people in sand successively taking paint brush green containers from man in white, traditional arab clothing, with a spilled container showing that its green paint
+- Middleground: line of well-dressed people in suites in sand successively taking paint brush green containers from man in white, traditional arab clothing, with a spilled container showing that its green paint
 - Line, we see a woman in green shirt and green heals as well as long hair
 - The people appear to be smiling, and two of them who took are dancing and away, as can be seen by a note originating from one of the mens mouth
 - However, moving on to background, see factories with large furnaces spewing black smoke into air
 
--> COP -> Co
+- Satirizing issue greenwashing
+-> COP -> Conference of Parties
+- Climate conference specifically for the issue of saving planet in dubai, as 
+- The guy in arab clothing supposed to represent gonverment of saudi arabia
+- Line are supposed to represent politicians, who attended
+- Woman in green is meant to be our president 
