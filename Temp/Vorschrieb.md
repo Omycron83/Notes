@@ -468,15 +468,32 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 - -> Thread to democracy, because we lack common foundations and everyone has different definitions and sources due to bubbles being
 - Fake news spreads 6x faster than real news
 - Propaganda is much easier, rates are skyrocketing
-- Humans are not evolutionarily prepared for these technologies, rates of processing powers (Moores Law) 
+- Humans are not evolutionarily prepared for these technologies, rates of processing powers (Moores Law) are uncomparable
 - Dangerous conspiracy theories, lynch mobs in myanmar killed
+- Humans comparing themselves to unrealistic standards due to filters and fake influencers
 - Severe depression, self harm and suicide rates, skyrocketed with 150% increase in the past couple of years, depression rates up 189%
 - Companies experiment with humans, improve algorithms
 - "Something is not a tool, if it seduces you and demands you"
 - Social media is a drug, not a tool nowadays
 - Knows about everything you know and do
 - Even employees fall prey to the algorithms
-- 
+
+- **Manipulative Design of Social Media**: The film argues that social media platforms are deliberately designed to be addictive and manipulative, using algorithms that predict and influence user behavior for profit.
+    
+- **Psychological Effects**: It highlights the negative psychological effects of social media, including increased anxiety, depression, and loneliness, particularly among teenagers and young adults.
+    
+- **Misinformation and Polarization**: The documentary discusses how algorithms promote sensational and divisive content, contributing to misinformation, fake news, and political polarization.
+    
+- **Surveillance Capitalism**: It explains the concept of surveillance capitalism, where companies collect extensive data on users to sell targeted advertising, essentially turning users into the product.
+    
+- **Impact on Democracy**: The film points out the potential threats to democracy, with social media platforms being used to manipulate public opinion, interfere in elections, and amplify extremist views.
+    
+- **Ethical Responsibility of Tech Companies**: Former tech insiders and executives, who are featured prominently in the film, express regret over their roles in creating these platforms and emphasize the need for ethical responsibility and regulation.
+    
+- **Need for Regulation**: The film advocates for more stringent regulation of tech companies to curb their power and mitigate the negative effects on society.
+    
+- **User Awareness and Action**: It encourages viewers to become more aware of how social media influences their behavior and to take steps to control their usage and demand change from tech companies.
+
 
 ### Social Media: negative impacts on social life
 - **Addiction** / losing contanct with "real world"; especially with teenagers that are most affected by the addiction to social media, can be involved very extensively and eventually be cut off from society, leading to serious mental health problems  
