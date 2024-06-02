@@ -1,4 +1,3 @@
-
 ## End-Of-Year-Goals:
 Gym:
 - Bench 100kg
@@ -19,7 +18,7 @@ Life:
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
 - Plan days entirely -> Have a binding deadline for everything
 - Work more with pen and paper to fix thinking and spare memory slots (its not about recalling something, but about knowing where to look)
-- Start to look at things that help for background noises -> Language acquisition, 
+- Start to look at things that help for background noises -> Language acquisition, etc.
 - Start to work on one extra thing/day
 - Start volunteering?
 - Get better at socializing/connecting
@@ -124,7 +123,7 @@ Carbs:
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
 # Fitness:
-Routine: Push-Pull-Legs
+Routine: Push-Pull-Legs, some high-volume stuff in between
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
 # Current links:
 Habitica: https://habitica.com/
