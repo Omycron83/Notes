@@ -1,6 +1,6 @@
 
 ### Vorlesen
-If it's all right with you, I'd like to begin with the text and first read out loud lines ... to ... .
+If it's all right with you, I'd like to start off with the text by reading out loud lines ... to ... .
 
 (30s)
 ### Outline
