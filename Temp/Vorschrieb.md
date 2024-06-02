@@ -357,7 +357,7 @@ Edward Snowden, a former National Security Agency (NSA) contractor, gained inter
     - Privacy advocates continue to push for more stringent controls and oversight on government surveillance activities.
 
 Edward Snowden's actions have had a lasting impact on the discourse surrounding privacy and surveillance, highlighting the need for a balance between national security and individual privacy rights. His situation remains a contentious and highly debated topic in discussions about civil liberties in the digital age.
--> We need more educ
+-> We need more education 
 ### The green new deal:
 The Green New Deal is an ambitious and comprehensive public policy framework designed to address the urgent issue of climate change while simultaneously achieving a range of complementary goals. These include creating jobs, stimulating economic growth, and reducing societal inequalities. At its core, the Green New Deal envisions a transformative shift towards a sustainable and equitable future.
 
