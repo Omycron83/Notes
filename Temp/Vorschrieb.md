@@ -574,7 +574,7 @@ Experts who study internet use say that the magnetic allure of social media aris
 
 David Greenfield, a psychologist and founder of the Center for Internet and Technology Addiction in West Hartford, Conn., said the devices lure users with some powerful tactics. One is “**intermittent reinforcement**,” which creates the idea that a **user could get a reward** at any time. But when the reward comes is **unpredictable**. “Just like a slot machine,” he said. As with a slot machine, users are beckoned with lights and sounds but, **even more powerful, information and reward tailored** to a user’s interests and tastes.
 -> Platforms uses sparse rewards in the form of especially tailored entertainment to through a process called intermittent reinforcement learning
- 
+ 9
 Adults are susceptible, he noted, but young people are particularly at risk, because the brain regions that are **involved in resisting temptation and reward are not nearly as developed in children and teenagers as in adults**. “They’re all about impulse and not a lot about the control of that impulse,” Dr. Greenfield said of young consumers.
 -> Lack of impulse control make them more susceptable
 
