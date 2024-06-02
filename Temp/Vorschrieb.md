@@ -742,4 +742,4 @@ Pro:
 - many poor countries cant defend themselves
 - humanitarian duty
 
-Conclusion
+Conclusion 
