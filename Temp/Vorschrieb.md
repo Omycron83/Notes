@@ -604,8 +604,8 @@ Conclusion: need to include the pros while mitigating negative effects -> contro
 
 
 Outline: How does social Media effects the mental health of the youth? **Title: Everyone Says Social Media Is Bad for Teens. Proving It Is Another Thing**. Author: Claire Cain Miller (New York Times)
-- 
-- Elaborates ways that affects youth
+- Difficulties with proving negative effects social media has on teens
+- Elaborates ways that social media thought to affects mental youth
 
 Reviews of the existing studies on social media use and adolescents’ mental health have found the bulk of them to be “weak,” “inconsistent,” “inconclusive,” “a bag of mixed findings” and “weighed down by a lack of quality” and “conflicting evidence.” 
 
@@ -648,3 +648,9 @@ Depends on course we take
 ![[Pasted image 20240602171111.png]]
 Publishing Place: Twitter Cartoonist: @cartoonmovement
 
+- greenwashing in politics
+
+- picture of the latest global conference
+
+- Foregrouind: 
+- Middleground, 
