@@ -725,12 +725,23 @@ Satirizes the politics of trump, who both wants to prevent immigration while sim
 -> this stands in stark contrast to other policies aimed at, especially his idea to build a wall to keep out illegal immigrants
 
 -> Critizing 
+- Agree with message: wouldnt have to deal with the symptoms of immigration if werent causing it
+- Cartoon effective due to 
 
 **Discuss, whether or not developed countries need to take in climate refugees**:
 - hotly debated issue
 - irreconcilably devided
 - deeply examine pros and cons and subsequently weigh them to reach nuanced conclusion
 
+Cons:
+- countries decision whether to take in
+- economically unreasonable, if ressources are scarce
+- should have tried to deal w/ consequences alone
+
 Pro:
 - industrialized nations have disproportionately contributed to carbon emissions
--< 
+-> disproportionately responsible
+- many poor countries cant defend themselves
+- humanitarian duty
+
+Conclusion
