@@ -115,10 +115,9 @@ Its important to first shed some light on the background to answer this question
     - **Effects on Humans**: More frequent and severe hurricanes, tornadoes, heatwaves, and heavy rainfall events can lead to loss of life, injury, and damage to property and infrastructure. The economic costs of recovery and rebuilding are substantial.
 3. **Ocean Acidification**:
 	    The worlds 
-	    
     - **Effects on Humans**: Disruption of marine food chains can affect fisheries, which are a vital source of food and livelihood for millions of people worldwide.
 4. **Glacial Retreat and Ice Melt**:
-	    See above, ice melting makes earth reflect less to 
+	    See above, ice melting makes earth reflect less sunrays. see **albedo effects**, as ice and snow has **high albedo**, but water has **low albedo**
 	    
     - **Effects on Humans**: Loss of glaciers and ice sheets reduces freshwater availability for drinking, agriculture, and hydropower, especially for communities that rely on glacial meltwater.
 5. **Desertification**:
@@ -140,7 +139,6 @@ Its important to first shed some light on the background to answer this question
 4. **Forest Dieback**:
     
     - **Effects on Humans**: Forests provide resources such as timber, fuel, and non-timber forest products. Their loss can affect local economies and livelihoods, as well as reduce carbon sequestration, exacerbating climate change.
-
 #### Societal Impacts:
 
 1. **Food Security**:
