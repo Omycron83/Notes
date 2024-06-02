@@ -704,8 +704,15 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 - 
 
 ![[Pasted image 20240602213011.png]]
+- Refugee crises 
+- D
+
+- Foreground: Person with large, 
 
 
+-> Trump
+-> Sterotypical depiction of immoral 
+-> US fossil fuel industry 
 
 **Discuss, whether or not developed countries need to take in climate refugees**:
 - hotly debated issue
