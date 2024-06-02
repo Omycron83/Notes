@@ -715,9 +715,11 @@ Satirizes the politics of trump, who both wants to ... while simultaneously
 -> Trump
 -> Sterotypical depiction of immoral industrialist
 -> US fossil fuel industry, by coal, factories and large clouds of smoke
--> Contrasts negative effects with the other world leaders 
+-> Contrasts negative effects with the other world leaders, as can be seen by their formal outfits and different ethnicities
 
--> them asking if him ... refers
+-> them asking if him ... refers to the large increase in illegal immigration, which is projected due to the loss of habitable land due to symptoms of climate change
+-> the us disproportionately ... and which trump refused to tackle, instead increasing subsidies to industrial giants
+-> this stands in stark contrast to other policies aimed at, 
 
 **Discuss, whether or not developed countries need to take in climate refugees**:
 - hotly debated issue
