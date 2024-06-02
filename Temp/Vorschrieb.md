@@ -1,6 +1,6 @@
 
 ### Vorlesen
-If it's all right with you, I'd like to start off with the text by reading out loud lines ... to ... .
+If it's all right with you, I'd like to start off with the text by reading aloud lines ... to ... .
 
 (30s)
 ### Outline
@@ -62,12 +62,11 @@ Now ultimately, any opinion on the question at hand is largely determined by the
 
 Personally, I believe that ... 
 
-
 Connection -> 
 ### Cartoon analysis
-Alright, let’s then transition to the given cartoon, titled '...' and drawn by ..., published on ... in (the ...) deals with ....
-7
-The illustration shows ...
+Alright, let’s then transition to the given cartoon, titled '...' and drawn by ..., which was published on ... in (the ...)and deals with ....
+
+At a first glance,  the illustration shows ...
 
 (Back -> Fore, Left -> Right)
 
@@ -77,7 +76,7 @@ In the foreground we see...
 
 At the bottom, a caption/speech bubble originating from ... reads:
 
-Now, what does this represent/is this supposed to mean?
+However, what does this represent/is this supposed to mean?
 
 Thus, the cartoon reveals a dystopian vision of ... / The cartoon is satirizing...
 
