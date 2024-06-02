@@ -596,7 +596,7 @@ Cons:
 
 Pro:
 - Ability to get advice on internet -> Never had problems, just google
-- Ability to educate yourself -> 
+- Ability to educate yourself -> Machine learning through online courses
 -> All enhanced by being digital native w/ computer literacy
 
 Conclusion: need to include the pros while mitigating negative effects -> controlled, supervised w/ relaxation according to age from early age on
