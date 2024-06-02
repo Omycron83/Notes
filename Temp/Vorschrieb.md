@@ -118,7 +118,7 @@ Its important to first shed some light on the background to answer this question
 	    
     - **Effects on Humans**: Disruption of marine food chains can affect fisheries, which are a vital source of food and livelihood for millions of people worldwide.
 4. **Glacial Retreat and Ice Melt**:
-	    See above
+	    See above, ice melting makes earth reflect less to 
 	    
     - **Effects on Humans**: Loss of glaciers and ice sheets reduces freshwater availability for drinking, agriculture, and hydropower, especially for communities that rely on glacial meltwater.
 5. **Desertification**:
