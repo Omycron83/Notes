@@ -250,7 +250,7 @@ Ozone layer: reflects UV radiation,
 ### Greta Thunberg:
 - Learned about climate change at eight years old
 - Was really concerned and even depressed, also due to aspergers
-- Held first "School Strike for Climate" outside the swedish parliament
+- Held first "School Strike for Climate" outside the swedish parliament in 2018 to urge swedish gonverment to comply with the 2015 paris agreement 
 - Was able to attract large attention to the problem
 - Held speeches to world leaders to get them to adress the given problems
 - Inspired the Fridays for Future Movement
