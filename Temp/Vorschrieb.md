@@ -400,7 +400,6 @@ In class, we have identified some greenwashing techniques often observed in even
 - **Social Impact:** Supporting informal recyclers and integrating them into the formal economy improves their livelihoods and working conditions, contributing to social equity and economic inclusion.
 
 By transforming the economic incentives around plastic and mobilizing corporate and technological resources, Forrest believes it is possible to mitigate the plastic crisis and create a sustainable future.
-
 ### History of media:
 1. **Early Forms of Communication:**
     
