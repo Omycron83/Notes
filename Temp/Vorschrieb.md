@@ -102,7 +102,8 @@ Taking all the these aspects into account, I can't fully agree with either side,
 ## Mini-Inputs zu den Themen:
 Its important to first shed some light on the background to answer this question comprehensively: ...
 #### Environmental Impacts:
-
+- Cataclyst for more extreme events 
+- 
 1. **Rising Sea Levels**:
 		Due to the increase in average temperatures, the previous balance between water and ice at the poles has been disturbed, leading to the ice at our poles and glacier melting by about 350 billion tons a year. Because the density of ice is smaller than that of water, this leads to an increase of average sea levels, ultimately dooming those living above .
 	
