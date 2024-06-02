@@ -210,6 +210,9 @@ One can find out that carbon emissions are mainly concentrated in four major are
 - Road transport (11.9%)
 - The raising of lifestock (5.8%)
 
+Methane:
+- Almost half of pollution produced by methane
+
 ![[Pasted image 20240601203722.png]]
 ### Severn Suzuki Climate Change:
 Back then, environmental activism was a very different thing than it is today: not only was the topic orders of magnitude less popular, but the talking points where different as well.
