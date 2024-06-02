@@ -569,12 +569,16 @@ Title: Is Social Media Addictive? Here’s What the Science Says.
 By Matt Richel, New York Times, Oct. 25, 2023
 Task: Read out the first two paragraphs. Outline the reasons why social media is addictive, especially for youngsters. Then discuss whether or not children should be given internet access from a young age on.
 
-Experts who study internet use say that the magnetic allure of social media arises from the way the content plays to our neurological impulses and wiring, such that consumers find it hard to turn away from the incoming stream of information.
+Experts who study internet use say that the magnetic allure of social media arises from the way the **content plays to our neurological impulses and wiring**, such that consumers find it hard to turn away from the incoming stream of information.
+-> Content specifically made to please human brain
 
-David Greenfield, a psychologist and founder of the Center for Internet and Technology Addiction in West Hartford, Conn., said the devices lure users with some powerful tactics. One is “intermittent reinforcement,” which creates the idea that a user could get a reward at any time. But when the reward comes is unpredictable. “Just like a slot machine,” he said. As with a slot machine, users are beckoned with lights and sounds but, even more powerful, information and reward tailored to a user’s interests and tastes.
+David Greenfield, a psychologist and founder of the Center for Internet and Technology Addiction in West Hartford, Conn., said the devices lure users with some powerful tactics. One is “**intermittent reinforcement**,” which creates the idea that a **user could get a reward** at any time. But when the reward comes is **unpredictable**. “Just like a slot machine,” he said. As with a slot machine, users are beckoned with lights and sounds but, **even more powerful, information and reward tailored** to a user’s interests and tastes.
+-> Uses 
+ 
+Adults are susceptible, he noted, but young people are particularly at risk, because the brain regions that are **involved in resisting temptation and reward are not nearly as developed in children and teenagers as in adults**. “They’re all about impulse and not a lot about the control of that impulse,” Dr. Greenfield said of young consumers.
+-> Lack of impulse control 
 
-Adults are susceptible, he noted, but young people are particularly at risk, because the brain regions that are involved in resisting temptation and reward are not nearly as developed in children and teenagers as in adults. “They’re all about impulse and not a lot about the control of that impulse,” Dr. Greenfield said of young consumers.
-
-Moreover, he said, the adolescent brain is especially attuned to social connections, and “social media is all a perfect opportunity to connect with other people.”
+Moreover, he said, the adolescent brain is especially attuned to social connections, and “**social media is all a perfect opportunity to connect with other people**.”
+-> Ability for broad social interactions more alluring
 
 Meta responded to the lawsuit by saying that it had taken many steps to support families and teenagers. “We’re disappointed that instead of working productively with companies across the industry to create clear, age-appropriate standards for the many apps teens use, the attorneys general have chosen this path,” the company said in a statement.
