@@ -567,7 +567,7 @@ Addressing the impact of social media on mental health requires a multifaceted a
 
 Title: Is Social Media Addictive? Here’s What the Science Says.
 By Matt Richel, New York Times, Oct. 25, 2023
-Task: Read out lin
+Task: Read out the first two paragraphs. Outline the reasons why social media is addictive, especially for youngsters. Then discuss whether or not children should be given internet access from a young age on.
 
 Experts who study internet use say that the magnetic allure of social media arises from the way the content plays to our neurological impulses and wiring, such that consumers find it hard to turn away from the incoming stream of information.
 
