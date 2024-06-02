@@ -646,7 +646,7 @@ Depends on course we take
 - Social media also used constructively, e.g. to publish the following:
 
 ![[Pasted image 20240602171111.png]]
-Publishing Place: Twitter C artoonist: @cartoonmovement
+Publishing Place: Twitter Cartoonist: @cartoonmovement
 
 - greenwashing in politics
 
