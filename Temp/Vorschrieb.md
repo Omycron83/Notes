@@ -699,8 +699,16 @@ I would like to claim that I was the virtuous exception to this virtualisation o
 
 **Reflect on the way media has changed the world around you**
 - Social life: interacting with friends online instead offlien
-- Informing yourself: instead of libr
+- Informing yourself: instead of library/personal opinion-> random strangers
+- Education -> Instead of reviewing my own notes, often find myself  
+- 
 
 ![[Pasted image 20240602213011.png]]
 
-**Discuss, whether or not developed countries need to take in climate refugees**
+
+
+**Discuss, whether or not developed countries need to take in climate refugees**:
+- hotly debated issue
+- irreconcilably devided
+- deeply examine pros and cons and subsequently weigh them to reach nuanced conclusion
+- 
