@@ -460,8 +460,14 @@ By transforming the economic incentives around plastic and mobilizing corporate 
 -> Cheap and effective means to **enhance brand image** and popularity
 
 ### The social dilemma
-- If you dont know the product, you are the product
-- Capitalism based on socai
+- If you are not paying for the product, you are the product
+- Capitalism based on social media
+- Like slot machines in las vegas
+- Engagement, growth and advertisement
+- Election hacking and polarization
+- Fake news spreads 6x faster than real news
+- Dangerous conspiracy theories, lynch mobs in myanmar killed
+- Pizza gate: 
 
 ### Social Media: negative impacts on social life
 - **Addiction** / losing contanct with "real world"; especially with teenagers that are most affected by the addiction to social media, can be involved very extensively and eventually be cut off from society, leading to serious mental health problems  
