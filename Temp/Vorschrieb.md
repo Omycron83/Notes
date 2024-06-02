@@ -114,13 +114,13 @@ Its important to first shed some light on the background to answer this question
     - **Effects on Humans**: More frequent and severe hurricanes, tornadoes, heatwaves, and heavy rainfall events can lead to loss of life, injury, and damage to property and infrastructure. The economic costs of recovery and rebuilding are substantial.
 3. **Ocean Acidification**:
 	    The worlds 
+	    
     - **Effects on Humans**: Disruption of marine food chains can affect fisheries, which are a vital source of food and livelihood for millions of people worldwide.
 4. **Glacial Retreat and Ice Melt**:
 	    See above, ice melting makes earth reflect less sunrays. see **albedo effects**, as ice and snow has **high albedo**, but water has **low albedo**
 	    
     - **Effects on Humans**: Loss of glaciers and ice sheets reduces freshwater availability for drinking, agriculture, and hydropower, especially for communities that rely on glacial meltwater.
 5. **Desertification**:
-	    Changes in 
 	    
     - **Effects on Humans**: Expansion of deserts leads to the loss of arable land, impacting food production and leading to increased competition for resources, potentially causing conflicts and migration.
 
@@ -147,6 +147,7 @@ Its important to first shed some light on the background to answer this question
     
     - **Effects on Humans**: Reduced access to clean water for drinking, agriculture, and sanitation can lead to health issues, increased competition for water resources, and potential conflicts.
 3. **Health Risks**:
+	Especially particulate matter
     
     - **Effects on Humans**: Increased temperatures and altered precipitation patterns can exacerbate health issues through heat stress, spread of infectious diseases, poor air quality, and malnutrition. Vulnerable populations, such as the elderly and children, are at higher risk.
 4. **Economic Impact**:
@@ -247,7 +248,6 @@ Ozone layer: reflects UV radiation,
 - Example of child on street, who would be generous if rich
 
 The depletion of the ozone layer refers to the thinning and reduction of the **concentration of ozone (O₃) in the Earth's stratosphere**. This layer is crucial because it **absorbs the majority of the sun's harmful ultraviolet (UV) radiation**, protecting living organisms from its damaging effects. The problem primarily arises from human-made chemicals, **especially chlorofluorocarbons** (CFCs) and halons, which release chlorine and bromine atoms when they are broken down by UV light. **These atoms then react with ozone molecules, leading to the destruction of ozone**. This depletion **increases the amount of UV radiation reaching the Earth's surface**, resulting in higher risks of **skin cancer, cataracts, and other health issues**, as well as negatively impacting ecosystems and wildlife. International efforts, such as the Montreal Protocol, have been implemented to phase out the **production and use of ozone-depleting substances**.
-
 ### Greta Thunberg:
 - Learned about climate change at eight years old
 - Was really concerned and even depressed, also due to aspergers
