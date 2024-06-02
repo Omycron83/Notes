@@ -601,7 +601,7 @@ Pro:
 
 Conclusion: need to include the pros while mitigating negative effects -> controlled, supervised w/ relaxation according to age from early age on
 
-Discuss: The influence of social Media on the future of our society and how the effects will influence our society
+
 
 Outline: How does social Media effects the mental health of the youth? Title: Everyone Says Social Media Is Bad for Teens. Proving It Is Another Thing. Author: Claire Cain Miller (New York Times)
 
@@ -614,6 +614,16 @@ It’s also hard to prove that social media causes poor mental health, versus be
 A few studies have tried novel approaches around these problems. One, early in Facebook’s rollout in the mid-2000s, compared college campuses that had received access to it with those that hadn’t, and found that its arrival had a negative effect on students’ mental health. 
 
 A carefully designed study, Project Awesome at the University of Amsterdam and Erasmus University in Rotterdam, looks at both the average effects of social media on 1,000 teenagers it surveys and how they differ by individual, and follows adolescents over time. It has found that time spent on social media is less of a factor than teenagers’ moods while using it.
+
+
+
+Discuss: The influence of social Media on the future of our society and how the effects will influence our society
+
+- Popularity
+
+Pro: 
+
+
 
 ![[Pasted image 20240602171111.png]]
 Publishing Place: Twitter Cartoonist: @cartoonmovement
