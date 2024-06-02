@@ -686,14 +686,17 @@ Author: Tim Lott
 I once wrote an article headed, "Technology ate my marriage". It recorded how, since the introduction of the internet, mobile phone and PC, my wife and I spent less and less time in face-to-face contact, even when under the same roof. Since then things have become worse. Technology is eating my family – myself included. Virtual space aces physical every time. 
 
 I pleaded for my 10-year-old daughter not to be bought a Kindle Fire for Christmas, knowing full well what the outcome would be. It was to no avail. She has spent at least **20% of her available time since 25 December completely out of Earth contact**. Her principal family is now the Sims. 
--> 
+-> Playing the sims on her kindle fire
 
 My wife and I can no long simply watch a film on TV together. She is tweeting simultaneously and spends more time with her eyes on the computer than the TV. It's not what I would call a shared experience. 
+-> Interacting on social media/twitter on pc
 
 My eldest has been known to text me from another room to ask for a cup of tea. 
+-> To text others, even if in close proximity
 
 I would like to claim that I was the virtuous exception to this virtualisation of family life, but I have been gradually crumbling into the habits of everyone else. Now I access my computer first thing to check my tweets. In the evenings, I can often be found playing online Scrabble with a friend whereas I used to play real Scrabble with my wife.
-
+-> Also check tweets
+-> Play scrabble with a friend
 
 ![[Pasted image 20240602213011.png]]
 
