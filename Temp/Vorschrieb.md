@@ -113,7 +113,7 @@ Its important to first shed some light on the background to answer this question
 		
     - **Effects on Humans**: More frequent and severe hurricanes, tornadoes, heatwaves, and heavy rainfall events can lead to loss of life, injury, and damage to property and infrastructure. The economic costs of recovery and rebuilding are substantial.
 3. **Ocean Acidification**:
-	    The worlds 
+	    The worlds oceans become more acidic as CO2 dissolves in water
 	    
     - **Effects on Humans**: Disruption of marine food chains can affect fisheries, which are a vital source of food and livelihood for millions of people worldwide.
 4. **Glacial Retreat and Ice Melt**:
