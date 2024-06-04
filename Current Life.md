@@ -40,7 +40,7 @@ General Education:
 - Learn more about quant
 - Learn more about ML
 - Master LinA, Ana, WT, NlOpt
-
+D
 # To-Do
 1. Abi-Sachen
 2. Uni-Sachen
