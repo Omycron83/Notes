@@ -125,6 +125,9 @@ Carbs:
 # Fitness:
 Routine: Push-Pull-Legs, some high-volume stuff in between
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
+
+# Haircut:
+
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
