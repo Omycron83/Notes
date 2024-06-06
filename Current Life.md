@@ -25,6 +25,15 @@ Life:
 - Meal Prep 3 high protein meals/day
 - Become a better person in terms of at-home stuff
 
+Habits to gain:
+- Read 20 pages of non-fiction a day
+- Go to the gym once a day
+- Write 20 lines of code in project
+- Write 800 words 
+- Work through one topic in uni
+- Roughly schedule entire day
+- 
+
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
 
