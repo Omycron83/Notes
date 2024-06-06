@@ -16,23 +16,23 @@ Running:
 Life:
 - Get into routine w.r.t. getting up/going to bed
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
-- Plan days entirely -> Have a binding deadline for everything
+- Plan days roughly -> Have a binding deadline for everything
 - Work more with pen and paper to fix thinking and spare memory slots (its not about recalling something, but about knowing where to look)
 - Start to look at things that help for background noises -> Language acquisition, etc.
 - Start to work on one extra thing/day
 - Start volunteering?
 - Get better at socializing/connecting
-- Meal Prep 3 high protein meals/day
+- Meal Prep/Prepare 3 high protein meals/day
 - Become a better person in terms of at-home stuff
 
 Habits to gain:
 - Read 20 pages of non-fiction a day
 - Go to the gym once a day
 - Write 20 lines of code in project
-- Write 800 words 
+- Write 400 words on an article
 - Work through one topic in uni
 - Roughly schedule entire day
-- 
+- Abstain from instance-gratification, find happiness in focused work
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
