@@ -27,7 +27,7 @@ Life:
 - Stop to overplan, underdo
 
 Routine:
-- Get up at 
+- Get up at 6:45 am
 
 Habits to gain:
 - Read 20 pages of non-fiction a day
