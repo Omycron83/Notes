@@ -26,6 +26,9 @@ Life:
 - Become a better person in terms of at-home stuff
 - Stop to overplan, underdo
 
+Routine:
+- Get up at 
+
 Habits to gain:
 - Read 20 pages of non-fiction a day
 - Go to the gym once a day
