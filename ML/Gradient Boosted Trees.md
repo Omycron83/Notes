@@ -22,7 +22,7 @@ In total, this practically yields:
 ## Gradient Boosting in Decision Trees:
 Usually, trees of a fixed size are used in tandem with various regularization techniques as base learners. Empirically, a tree level of 2 to 8 has been shown to work well according to *Hastie er al*. 
 
-*Friedman* also proposes to, instead of giving a certain weight to the total tree output, instead give a weight to the constant value predicted at each disjoint region, where the update rulevbecomes: 
+*Friedman* also proposes to, instead of giving a certain weight to the total tree output, instead give a weight to the constant value predicted at each disjoint region, where the update rule becomes: 
 $F_g(x) = F_{g - 1}(x) + \sum_1^{J(g)} \gamma_{jg} \text{1} R_{jg}(x)$ , $\gamma_{jg} = arg \; min_{\gamma^{jg}} \sum_{x_i \in R_{jg}} L(y_i, F_{g - 1}(x_i) + \gamma)$ 
 
 Here, the 1 is the indicator notation and $R$ are the regions defined by the tree. As one can see, the tree does still define the regions, however doesn‘t define the constant predicted values of them (or their weights w.r.t. the indicator) anymore, as this is now done through line search as well.

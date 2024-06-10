@@ -44,18 +44,6 @@
             }
           },
           {
-            "id": "bc5a774292b5a2bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mathe-LK/Kombination.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e6dddc4b561e8556",
             "type": "leaf",
             "state": {
@@ -78,9 +66,87 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f119a7fad0d3a074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Vollständige Induktion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0822b2831ce72b11",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "7a1a9e5d827df512",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19eeefed32a9f8e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Eigenwerte und Eigenvektoren.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ec24b3def2f14a2",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd447d85eb684ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LinA/Determinantenabbildungen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c19d44620274315f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -146,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mathe-LK/Massendefekt.md",
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mathe-LK/Massendefekt.md",
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mathe-LK/Massendefekt.md"
+                "file": "Mathe-LK/Multivariate Wahrscheinlichkeiten.md"
               }
             }
           }
@@ -207,12 +273,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b043d51f0bb315bc",
+  "active": "c19d44620274315f",
   "lastOpenFiles": [
-    "ML/DDPG.md",
-    "Mathe-LK/Massendefekt.md",
-    "ML/TD3.md",
+    "conflict-files-obsidian-git.md",
     "Mathe-LK/Multivariate Wahrscheinlichkeiten.md",
+    "LinA/Determinanten von Matrizen.md",
+    "LinA/Determinantenabbildungen.md",
+    "LinA/Eigenwerte und Eigenvektoren.md",
+    "LinA/Darstellungssatz endlichdimensionaler Vektorräume.md",
+    "LinA/Determinanten von Endomorphismen.md",
+    "Analysis/Vollständige Induktion.md",
+    "Analysis/Induktion und die natürlichen Zahlen.md",
+    "Mathe-LK/Massendefekt.md",
+    "ML/DDPG.md",
+    "ML/TD3.md",
     "Mathe-LK/Kombination.md",
     "ML/Proximal Policy Optimization.md",
     "ML/BPPO.md",
@@ -237,14 +311,6 @@
     "Pasted image 20231031223701.png",
     "Mathe-LK/3. Semester Mathe LK.md",
     "Mathe-LK/Zufällige Variablen.md",
-    "Mathe-LK/Vektoren als Pfeile im 2D.md",
-    "Mathe-LK/Variation.md",
-    "Mathe-LK/Satz von Bayes und Bedingte Variablen.md",
-    "Mathe-LK/Permutation.md",
-    "Mathe-LK/Lehrbuchlösungen.md",
-    "Mathe-LK/Hausaufgabe 04.05. Dreieck.md",
-    "Mathe-LK/Aufgabe Flugzeug Vektoraddition.md",
-    "Mathe-LK/Bedingte Wahrscheinlichkeit.md",
     "Mathe-LK",
     "ML",
     "LinA",
