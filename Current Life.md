@@ -26,9 +26,6 @@ Life:
 - Become a better person in terms of at-home stuff
 - Stop to overplan, underdo
 
-Routine:
-- Get up at 6:45 am
-
 Habits to gain:
 - Read 20 pages of non-fiction a day
 - Go to the gym once a day
@@ -53,7 +50,7 @@ General Education:
 - Learn more about quant
 - Learn more about ML
 - Master LinA, Ana, WT, NlOpt
-D
+
 # To-Do
 1. Abi-Sachen
 2. Uni-Sachen
