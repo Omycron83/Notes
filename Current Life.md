@@ -16,14 +16,24 @@ Running:
 Life:
 - Get into routine w.r.t. getting up/going to bed
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
-- Plan days entirely -> Have a binding deadline for everything
+- Plan days roughly -> Have a binding deadline for everything
 - Work more with pen and paper to fix thinking and spare memory slots (its not about recalling something, but about knowing where to look)
 - Start to look at things that help for background noises -> Language acquisition, etc.
 - Start to work on one extra thing/day
 - Start volunteering?
 - Get better at socializing/connecting
-- Meal Prep 3 high protein meals/day
+- Meal Prep/Prepare 3 high protein meals/day
 - Become a better person in terms of at-home stuff
+- Stop to overplan, underdo
+
+Habits to gain:
+- Read 20 pages of non-fiction a day
+- Go to the gym once a day
+- Write 20 lines of code in project
+- Write 400 words on an article
+- Work through one topic in uni
+- Roughly schedule entire day
+- Abstain from instance-gratification, find happiness in focused work
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
@@ -125,10 +135,14 @@ Carbs:
 # Fitness:
 Routine: Push-Pull-Legs, some high-volume stuff in between
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
+
+# Haircut:
+
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
+When to set alarm: https://sleepopolis.com/calculators/sleep/
 # Github:
 ## Backup files:
 Creating a new Git repository locally, syncing it with a remote repository on GitHub, and adding your local files involves a series of steps. Here's a step-by-step guide to help you achieve this:
