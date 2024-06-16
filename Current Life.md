@@ -5,7 +5,7 @@ Gym:
 - Deadlift 160kg
 - Barbell Row 70kg 
 - 16 clean Pull-Ups
-- OHP 50kg
+- OHP 50kg 
 = Total 850+ lbs on the big ones
 -> Still need to increase by total of 65kg, e.g. (10kg, 30kg, 25kg)
 
