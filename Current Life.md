@@ -58,12 +58,17 @@ General Education:
 4. Sonderprojekt
 # Rythmus
 - Get up at 6:45
+- Shower, morning routine
+- Mini-Workout
 - Eat smth decent
-- Go to school / Uni, Memorize on the way
+- Go to library / D
+- Attend uni classes
 - Go to the gym (1hr)
 - Get on the clock
 - Eat smth decent
 - Go to bed at 11pm
+- Read 20 pages of non-fiction
+- Check through body for falling asleep asap
 ## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen
