@@ -58,10 +58,10 @@ General Education:
 4. Sonderprojekt
 # Rythmus
 - Get up at 6:45
-- Shower, morning routine
 - Mini-Workout
+- Shower, morning routine
 - Eat smth decent
-- Go to library / D
+- Go to library / Code somet
 - Attend uni classes
 - Go to the gym (1hr)
 - Get on the clock
