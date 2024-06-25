@@ -106,10 +106,6 @@ In Vorbereitung: 4-> 6 -> 7 -> 4
 - Practice attention meditation to focus on breathing and point in front of head for 5 minutes every morning
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
-## Motivational Mantra:
-Steh auf. Fang an. 
-You dont have to work, you dont have to bother, you dont have to prove yourself. Because you dont have to reach your goals. But if you want to, let me tell you one thing: you have work, you have to bother, you have to prove yourself, right here, right now. Dont let your laziness get in the way of your success. Because there is somebody out there with the same goals, looking to get into the same position in life. And they are smarter, more hard working and more motivated than you with all the advantages one can have. If you want to get where you want to be, you have to work so hard, that its impossible for that person to keep up: because the ordinary person cant and wont go as far as you do. So know one thing: If you work hard now, you wont regret anything! 
-Nur eins kann man dir nicht nehmen: deinen Willen, lass diesen triumphieren! Feuer frei!
 # Ernährung:
 Proteinquellen:
 - Lentils
@@ -135,9 +131,6 @@ Carbs:
 # Fitness:
 Routine: Push-Pull-Legs, some high-volume stuff in between
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
-
-# Haircut:
-
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
