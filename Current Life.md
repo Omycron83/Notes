@@ -52,10 +52,9 @@ General Education:
 - Master LinA, Ana, WT, NlOpt
 
 # To-Do
-1. Abi-Sachen
-2. Uni-Sachen
-3. 1 Projekt / Woche (alternierend Mathe und Info)
-4. Sonderprojekt
+1. Uni-Sachen
+2. 1 Projekt / Woche (alternierend Mathe und Info)
+3. Sonderprojekt
 # Rythmus
 - Get up at 6:45
 - Mini-Workout
