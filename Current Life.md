@@ -61,8 +61,12 @@ General Education:
 - Mini-Workout
 - Shower, morning routine
 - Eat smth decent
-- Go to library / Code somet
+- Go to library / Code something uo
+- Drive to uni / look at script
 - Attend uni classes
+- Got to library
+- Eat smth decent
+- Drive to gym
 - Go to the gym (1hr)
 - Get on the clock
 - Eat smth decent
