@@ -38,9 +38,9 @@ Habits to gain:
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
 
-Abi:
-- 1.0
-- Thats it, dont care
+**Abi:**
+- **1.0**
+- **Thats it, dont care**
 
 Uni:
 - Module mit 1.7 Durchschnitt abschneiden
@@ -107,7 +107,7 @@ In Vorbereitung: 4-> 6 -> 7 -> 4
 - Für Leben -> Obsidian
 ## How to focus longer and better:
 - Have a predetermined goal you actually want to achieve
-- Dont remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
+- Dont just remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
 - Actively focus:
 	- Engage information while summarizing
 	- Set predetermined time for tasks
@@ -144,6 +144,17 @@ Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
 When to set alarm: https://sleepopolis.com/calculators/sleep/
+
+# How to look good when going out
+## Clothing
+
+**Colors:**
+![[Pasted image 20240627211400.png]]
+**Minimum Clothes:**
+![[Pasted image 20240627211519.png]]
+
+
+
 # Github:
 ## Backup files:
 Creating a new Git repository locally, syncing it with a remote repository on GitHub, and adding your local files involves a series of steps. Here's a step-by-step guide to help you achieve this:
