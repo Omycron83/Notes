@@ -170,6 +170,17 @@ What I like:
 - Style hair
 - Wear perfume/deodorant
 - 
+## Socializing
+- Always be friendly, considerate and open (smile!)
+	- Make compliments as much as possible
+- Try to listen more than you speak, ask open-ended questions
+- Just approach people asap
+	- Flirt if you like them ig
+		- physically close
+		- smile & laugh
+		- be witty, try to 
+- Be yourself & confident, noone cares about you, really
+- how to fhow 
 
 # Github:
 ## Backup files:
