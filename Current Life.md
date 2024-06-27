@@ -173,14 +173,17 @@ What I like:
 ## Socializing
 - Always be friendly, considerate and open (smile!)
 	- Make compliments as much as possible
+		- Complement on things they have invested something in
+			- Hairstyles, Style, Outfit, Personality, Toned Body, Intellect, Knowledge, etc.
+		- If no real reaction (awkward), leave them alone, else it gets weird
 - Try to listen more than you speak, ask open-ended questions
 - Just approach people asap
 	- Flirt if you like them ig
-		- physically close
+		- be physically close, light touching if anbietet
 		- smile & laugh
-		- be witty, try to 
+		- be witty, try to not be too serious though
 - Be yourself & confident, noone cares about you, really
-- how to fhow 
+- Learn when to disengage (no reactions, appears busy, looks around etc.)
 
 # Github:
 ## Backup files:
