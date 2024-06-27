@@ -152,12 +152,24 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 ![[Pasted image 20240627211400.png]]
 **Minimum Clothes:**
 ![[Pasted image 20240627211519.png]]
+What I like:
+- "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), Fake Leather Shoes
+- "Basic Street" - Mute jeans/shorts+tshirt , Sneakers (Summer)
+- "Winter Depression" - Black Coat, dark pants, Fake Leather Shoes
+- "D"
+
 **Accessories:**
 - Watch
 - Belts
 - Glasses
 - Ties (Occasion)
 - Utilitarian Necklace?
+
+**General:**
+- Get haircut regularly
+- Style hair
+- Wear perfume/deodorant
+- 
 
 # Github:
 ## Backup files:
