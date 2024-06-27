@@ -152,6 +152,14 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 - PC Benchmarking/Overclocking
 - Fitness
 - Reading
+- Chess
+- Gaming
+- Gymnastic, Boxing
+- Working 
+- Play Guitar
+- Origami
+- Philosophy
+- Volunteering
 - 
 # How to look good when going out
 ## Clothing
