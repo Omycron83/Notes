@@ -166,7 +166,6 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 - Rowing
 - Math Olympiad Questions
 - Tech repairs
-- 
 # How to look good when going out
 ## Clothing
 
