@@ -160,6 +160,12 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 - Origami
 - Philosophy
 - Volunteering
+- Researching phenomena
+- Optimizing processes
+- Windsurfing
+- Rowing
+- Math Olympiad Questions
+- Tech repairs
 - 
 # How to look good when going out
 ## Clothing
