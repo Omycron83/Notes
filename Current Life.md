@@ -152,8 +152,12 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 ![[Pasted image 20240627211400.png]]
 **Minimum Clothes:**
 ![[Pasted image 20240627211519.png]]
-
-
+**Accessories:**
+- Watch
+- Belts
+- Glasses
+- Ties (Occasion)
+- Utilitarian Necklace?
 
 # Github:
 ## Backup files:
