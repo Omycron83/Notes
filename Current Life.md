@@ -145,6 +145,14 @@ Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
 When to set alarm: https://sleepopolis.com/calculators/sleep/
 
+# Hobbies to look into
+- Baking
+- Cooking
+- Volleyball
+- PC Benchmarking/Overclocking
+- Fitness
+- Reading
+- 
 # How to look good when going out
 ## Clothing
 
@@ -184,6 +192,9 @@ What I like:
 		- be witty, try to not be too serious though
 - Be yourself & confident, noone cares about you, really
 - Learn when to disengage (no reactions, appears busy, looks around etc.)
+	- Make an excuse, wish them a nice day and leave
+- Accept compliments by smiling, thanking
+- Be comfortable with silence
 
 # Github:
 ## Backup files:
