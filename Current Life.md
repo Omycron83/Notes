@@ -5,7 +5,7 @@ Gym:
 - Deadlift 160kg
 - Barbell Row 70kg 
 - 16 clean Pull-Ups
-- OHP 50kg
+- OHP 50kg 
 = Total 850+ lbs on the big ones
 -> Still need to increase by total of 65kg, e.g. (10kg, 30kg, 25kg)
 
@@ -38,9 +38,9 @@ Habits to gain:
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
 
-Abi:
-- 1.0
-- Thats it, dont care
+**Abi:**
+- **1.0**
+- **Thats it, dont care**
 
 Uni:
 - Module mit 1.7 Durchschnitt abschneiden
@@ -52,18 +52,26 @@ General Education:
 - Master LinA, Ana, WT, NlOpt
 
 # To-Do
-1. Abi-Sachen
-2. Uni-Sachen
-3. 1 Projekt / Woche (alternierend Mathe und Info)
-4. Sonderprojekt
+1. Uni-Sachen
+2. 1 Projekt / Woche (alternierend Mathe und Info)
+3. Sonderprojekt
 # Rythmus
 - Get up at 6:45
+- Mini-Workout
+- Shower, morning routine
 - Eat smth decent
-- Go to school / Uni, Memorize on the way
+- Go to library / Code something uo
+- Drive to uni / look at script
+- Attend uni classes
+- Got to library
+- Eat smth decent
+- Drive to gym
 - Go to the gym (1hr)
 - Get on the clock
 - Eat smth decent
 - Go to bed at 11pm
+- Read 20 pages of non-fiction
+- Check through body for falling asleep asap
 ## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen
@@ -99,17 +107,13 @@ In Vorbereitung: 4-> 6 -> 7 -> 4
 - Für Leben -> Obsidian
 ## How to focus longer and better:
 - Have a predetermined goal you actually want to achieve
-- Dont remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
+- Dont just remove distractions (generally impossible) but practice progressive attention overload by tracking the time / tasks solved while under deep concentration
 - Actively focus:
 	- Engage information while summarizing
 	- Set predetermined time for tasks
 - Practice attention meditation to focus on breathing and point in front of head for 5 minutes every morning
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
-## Motivational Mantra:
-Steh auf. Fang an. 
-You dont have to work, you dont have to bother, you dont have to prove yourself. Because you dont have to reach your goals. But if you want to, let me tell you one thing: you have work, you have to bother, you have to prove yourself, right here, right now. Dont let your laziness get in the way of your success. Because there is somebody out there with the same goals, looking to get into the same position in life. And they are smarter, more hard working and more motivated than you with all the advantages one can have. If you want to get where you want to be, you have to work so hard, that its impossible for that person to keep up: because the ordinary person cant and wont go as far as you do. So know one thing: If you work hard now, you wont regret anything! 
-Nur eins kann man dir nicht nehmen: deinen Willen, lass diesen triumphieren! Feuer frei!
 # Ernährung:
 Proteinquellen:
 - Lentils
@@ -135,14 +139,76 @@ Carbs:
 # Fitness:
 Routine: Push-Pull-Legs, some high-volume stuff in between
 https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
-
-# Haircut:
-
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
 When to set alarm: https://sleepopolis.com/calculators/sleep/
+
+# Hobbies to look into
+- Baking
+- Cooking
+- Volleyball
+- PC Benchmarking/Overclocking
+- Fitness
+- Reading
+- Chess
+- Gaming
+- Gymnastic, Boxing
+- Working 
+- Play Guitar
+- Origami
+- Philosophy
+- Volunteering
+- Researching phenomena
+- Optimizing processes
+- Windsurfing
+- Rowing
+- Math Olympiad Questions
+- Tech repairs
+# How to look good when going out
+## Clothing
+
+**Colors:**
+![[Pasted image 20240627211400.png]]
+**Minimum Clothes:**
+![[Pasted image 20240627211519.png]]
+What I like:
+- "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), Fake Leather Shoes
+- "Basic Street" - Mute jeans/chinos/shorts+tshirt , (Regenjacke), Sneakers (Summer)
+- "Winter Depression" - Black Coat, dark jeans, Schiebermuetze, Schal, Tshirt+Leicher Pullover Fake Leather Shoes
+- "Semi-Formal" - Hemd, Mute Chino, Aufgeknuepft, Sneakers
+
+**Accessories:**
+- Watch
+- Belts
+- Glasses
+- Ties (Occasion)
+- Utilitarian Necklace?
+
+**General:**
+- Get haircut regularly
+- Style hair
+- Wear perfume/deodorant
+- 
+## Socializing
+- Always be friendly, considerate and open (smile!)
+	- Make compliments as much as possible
+		- Complement on things they have invested something in
+			- Hairstyles, Style, Outfit, Personality, Toned Body, Intellect, Knowledge, etc.
+		- If no real reaction (awkward), leave them alone, else it gets weird
+- Try to listen more than you speak, ask open-ended questions
+- Just approach people asap
+	- Flirt if you like them ig
+		- be physically close, light touching if anbietet
+		- smile & laugh
+		- be witty, try to not be too serious though
+- Be yourself & confident, noone cares about you, really
+- Learn when to disengage (no reactions, appears busy, looks around etc.)
+	- Make an excuse, wish them a nice day and leave
+- Accept compliments by smiling, thanking
+- Be comfortable with silence
+
 # Github:
 ## Backup files:
 Creating a new Git repository locally, syncing it with a remote repository on GitHub, and adding your local files involves a series of steps. Here's a step-by-step guide to help you achieve this:
