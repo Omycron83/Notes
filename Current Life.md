@@ -175,10 +175,10 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 ![[Pasted image 20240627211519.png]]
 CBD - Clark Desert Boots
 What I like:
-- "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), (Fake Leather) Boots
-- "Basic Street" - Mute jeans/chinos/shorts+tshirt , (Regenjacke), Sneakers (Summer)
-- "Winter Depression" - Black Coat, dark jeans, Schiebermuetze, Schal, Tshirt+Leichter Pullover, (Fake Leather) Boots
-- "Semi-Formal" - Hemd, Mute Chino, Aufgeknuepft, Bucks
+- "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), (Fake Leather) **Boots**
+- "Basic Street" - Mute jeans/**chinos**/shorts+tshirt , (Regenjacke), **Sneakers** (Summer)
+- "Winter Depression" - **Black Coat**, dark jeans, Schiebermuetze, Schal, Tshirt+Leichter Pullover, (Fake Leather) Boots
+- "Semi-Formal" - Hemd **(mehrere)**, **Mute Chino**, Aufgeknuepft, **Bucks**
 - "Formal" - Weisses Hemd, Blauer Anzug, Blaue Krawatte, Blaue Uhr, Dress Shoes
 
 **Accessories:**
