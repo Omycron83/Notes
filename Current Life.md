@@ -174,10 +174,11 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 **Minimum Clothes:**
 ![[Pasted image 20240627211519.png]]
 What I like:
-- "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), Fake Leather Shoes
+- "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), (Fake Leather) Boots
 - "Basic Street" - Mute jeans/chinos/shorts+tshirt , (Regenjacke), Sneakers (Summer)
-- "Winter Depression" - Black Coat, dark jeans, Schiebermuetze, Schal, Tshirt+Leicher Pullover Fake Leather Shoes
-- "Semi-Formal" - Hemd, Mute Chino, Aufgeknuepft, Sneakers
+- "Winter Depression" - Black Coat, dark jeans, Schiebermuetze, Schal, Tshirt+Leichter Pullover, (Fake Leather) Boots
+- "Semi-Formal" - Hemd, Mute Chino, Aufgeknuepft, Bucks
+- "Formal" - Weisses Hemd, Blauer Anzug, Blaue Krawatte, Blaue Uhr, Dress Shoes
 
 **Accessories:**
 - Watch
