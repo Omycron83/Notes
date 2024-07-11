@@ -173,6 +173,7 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 ![[Pasted image 20240627211400.png]]
 **Minimum Clothes:**
 ![[Pasted image 20240627211519.png]]
+CBD - Clark Desert Boots
 What I like:
 - "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), (Fake Leather) Boots
 - "Basic Street" - Mute jeans/chinos/shorts+tshirt , (Regenjacke), Sneakers (Summer)
