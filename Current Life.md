@@ -85,6 +85,12 @@ General Education:
 6. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 7. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
 In Vorbereitung: 4-> 6 -> 7 -> 4
+
+E.g. für Mathe:
+- Thema strukturieren, zentrale Eigenschaften, Verknüpfungen etc. herausarbeiten
+- Skript durchlesen, wichtiges markieren und ggf. neu Markieren
+	- Immer hinterfragen, interessante Ideen Beweisen
+- 
 ## Environment:
 - Clear, realistic goals in both time spend and goals achieved
 - Music depending on mood
