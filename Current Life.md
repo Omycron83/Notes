@@ -88,9 +88,13 @@ In Vorbereitung: 4-> 6 -> 7 -> 4
 
 E.g. für Mathe:
 - Thema strukturieren, zentrale Eigenschaften, Verknüpfungen etc. herausarbeiten
-- Skript durchlesen, wichtiges markieren und ggf. neu Markieren
-	- Immer hinterfragen, interessante Ideen Beweisen
-- 
+	- An Seite schreiben, was besprochen wird
+- Skript durchlesen, wichtiges markieren und ggf. neu formulieren und erläutern
+	- Immer hinterfragen, interessante Ideen/Fragen beweisen 
+- Alle Beweise selbst erarbeiten, Beispiele Zeigen, Übungsaufgaben machen
+- Wenn Kapitel durchgearbeitet:
+	- Online-Lernblätter erarbeiten
+	- In 
 ## Environment:
 - Clear, realistic goals in both time spend and goals achieved
 - Music depending on mood
