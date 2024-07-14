@@ -94,7 +94,8 @@ E.g. für Mathe:
 - Alle Beweise selbst erarbeiten, Beispiele Zeigen, Übungsaufgaben machen
 - Wenn Kapitel durchgearbeitet:
 	- Online-Lernblätter erarbeiten
-	- In 
+	- In Anki wichtige Definitionen, Lemmata etc. aufschreiben
+- Für Klausur Hausaufgaben, Übungsaufgaben spammen
 ## Environment:
 - Clear, realistic goals in both time spend and goals achieved
 - Music depending on mood
