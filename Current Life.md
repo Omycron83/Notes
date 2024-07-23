@@ -91,9 +91,9 @@ E.g. für Mathe:
 	- An Seite schreiben, was besprochen wird
 - Skript durchlesen, wichtiges markieren und ggf. neu formulieren und erläutern
 	- Immer hinterfragen, interessante Ideen/Fragen beweisen 
-- Alle Beweise selbst erarbeiten, Beispiele Zeigen, Übungsaufgaben machen
+- Alle Beweise selbst erarbeiten (insoweit moeglich), Beispiele Zeigen, Übungsaufgaben machen
 - Wenn Kapitel durchgearbeitet:
-	- Online-Lernblätter erarbeiten
+	- (Online-)Lernblätter erarbeiten
 	- In Anki wichtige Definitionen, Lemmata etc. aufschreiben
 - Für Klausur Hausaufgaben, Übungsaufgaben spammen
 ## Environment:
