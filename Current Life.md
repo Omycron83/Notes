@@ -152,7 +152,7 @@ Carbs:
 - 100g Noodles, 80g Cheese: 652 kcal, 31g
 
 When bulking:
-- Add 
+- Add around 200g of peanuts/some peanut butter for extra 1000kcal, 55g of protein and + 1 Euro
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
 # Fitness:
