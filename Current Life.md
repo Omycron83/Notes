@@ -71,9 +71,11 @@ General Education:
 - Eat smth decent
 - Go to bed at 11pm
 	- Brush teeth
-	- 
-- Read 20 pages of non-fiction
-- Check through body for falling asleep asap
+	- Take Creatine, Meds
+	- Feed guinea pigs
+	- Go to bed
+	- Read 15 mins of non-fiction book
+	- Check through body for falling asleep asap
 ## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen
