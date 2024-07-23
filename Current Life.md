@@ -16,6 +16,7 @@ Running:
 Life:
 - Get into routine w.r.t. getting up/going to bed
 - Fix procrastination once and for all (everything purpose-driven, even relaxing)
+	- Never indulge in short-term gratification
 - Plan days roughly -> Have a binding deadline for everything
 - Work more with pen and paper to fix thinking and spare memory slots (its not about recalling something, but about knowing where to look)
 - Start to look at things that help for background noises -> Language acquisition, etc.
@@ -151,7 +152,7 @@ Carbs:
 - 100g Noodles, 80g Cheese: 652 kcal, 31g
 
 When bulking:
-- Add 200g of sweets for an extra $\sim$ 700kcal
+- Add 
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
 # Fitness:
