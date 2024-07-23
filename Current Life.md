@@ -142,13 +142,16 @@ Carbs:
 - Noodles
 
 **Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00) 
-- Protein Shake (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
+- Protein Shake (or prepare oats properly, add powder after boiling) (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
 
 **Meal 2:**  The Quick At-Home (1.00 + 0.9 = 1.90)
 - Pizza w/ Mozarella: 51g, 820kcal
 
 **Meal 3:** Mac'n Cheese (14c + 56c = 70c)
 - 100g Noodles, 80g Cheese: 652 kcal, 31g
+
+When bulking:
+- Add 200g of sweets for an extra $\sim$ 700kcal
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
 # Fitness:
