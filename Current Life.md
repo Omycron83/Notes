@@ -56,20 +56,22 @@ General Education:
 2. 1 Projekt / Woche (alternierend Mathe und Info)
 3. Sonderprojekt
 # Rythmus
-- Get up at 6:45
-- Mini-Workout
+- Get up at 6:30
+- Mini-Workout/Running
 - Shower, morning routine
 - Eat smth decent
-- Go to library / Code something uo
+- Go to library / Code something up
 - Drive to uni / look at script
 - Attend uni classes
 - Got to library
 - Eat smth decent
 - Drive to gym
-- Go to the gym (1hr)
+- Go to the gym (1:30hr)
 - Get on the clock
 - Eat smth decent
 - Go to bed at 11pm
+	- Brush teeth
+	- 
 - Read 20 pages of non-fiction
 - Check through body for falling asleep asap
 ## Lernstrategie:
