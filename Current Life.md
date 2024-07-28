@@ -78,6 +78,7 @@ General Education:
 	- Read 15 mins of non-fiction book
 	- Tuck yourself in properly, dont any other time of day
 	- Check through body for falling asleep asap
+- -> Around 8-9hrs, no variance!!!
 ## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen
