@@ -90,6 +90,8 @@ General Education:
 5. **Consolidation** - Lernblaetter, Flashcards (Anki) erstellen
 6. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 7. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
+8. 5-15 Mins of wakeful rest after each smaller session
+9. Exercise after longer session
 In Vorbereitung: 4-> 6 -> 7 -> 4
 
 E.g. für Mathe:
