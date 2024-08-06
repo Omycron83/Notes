@@ -204,6 +204,8 @@ What I like:
 - "Winter Depression" - **Black Coat**, dark jeans, Schiebermuetze, Schal, Tshirt+Leichter Pullover, (Fake Leather) Boots
 - "Semi-Formal" - Hemd **(mehrere)**, **Mute Chino**, Aufgeknuepft, Bucks
 - "Formal" - Weisses Hemd, Dunkelblauer Anzug, Blaue Krawatte, Blaue Uhr, Dress Shoes
+**Shopping List:**
+https://www.deichmann.com/de-de/p-m01862899/02169098
 
 **Accessories:**
 - Watch
