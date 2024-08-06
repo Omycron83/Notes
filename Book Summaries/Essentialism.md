@@ -191,12 +191,6 @@ Follow these steps for applying highly selective criteria to the opportunities t
 2. **Minimum**: List three minimum criteria you need to consider this option. If it doesn’t pass these criteria, then the answer is an obvious no.
 3. **Extreme**: List three ideal or extreme criteria required to approve this option. If it doesn’t pass two of the three extreme criteria, the answer is still no.
 
-#### Download the PDF Book Summary for Essentialism by Greg McKeown
-
-Get the PDF
-
-[Built with ConvertKit](https://convertkit.com/?utm_source=dynamic&utm_medium=referral&utm_campaign=poweredby&utm_content=form)
-
 ## **Part III: Eliminate: How Can We Cut Out The Trivial Many?**
 
 ![Eliminate and say 'no' to the nonessential, so you can say 'yes' to something essential. - Greg McKeown](https://theprocesshacker.com/wp-content/uploads/2021/03/5-2-1024x1024.png)
