@@ -160,8 +160,11 @@ When bulking:
 - Add around 200g of peanuts/some peanut butter for extra 1000kcal, 55g of protein and + 1 Euro
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
+
+# Caffeine Usage
+- Caffeine boots 
 # Fitness:
-Routine: Push-Pull-Legs, Upper-Lower or Full Body depending on availability. Focus on main lifts. See g
+Routine: Push-Pull-Legs, Upper-Lower or Full Body depending on availability. Focus on main lifts. See google sheets
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
