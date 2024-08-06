@@ -161,14 +161,12 @@ When bulking:
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
 # Fitness:
-Routine: Push-Pull-Legs, some high-volume stuff in between
-https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
+Routine: Push-Pull-Legs, Upper-Lower or Full Body depending on availability. Focus on main lifts. See g
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
 When to set alarm: https://sleepopolis.com/calculators/sleep/
-
 # Hobbies to look into
 - Baking
 - Cooking
