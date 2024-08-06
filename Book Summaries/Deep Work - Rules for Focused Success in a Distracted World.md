@@ -14,12 +14,6 @@
 4. “Your work is craft, and if you hone your ability and apply it with respect and care, then like the skilled wheelwright you can generate meaning in the daily efforts of your professional life.”
 5. “The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life designed to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration.”
 
-## Want a Free Copy of My Summary?
-
-Enter your email below, and I’ll send you a free PDF summary of _Deep Work_.
-
-Get The Summary
-
 ## Deep Work Summary
 
 - **Deep Work:** Professional activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create new value, improve your skill, and are hard to replicate.
