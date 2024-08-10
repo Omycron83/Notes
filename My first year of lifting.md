@@ -56,8 +56,19 @@ However now, one year in, I made some progress:
 
 and gained weight to ca. 80kg by tracking calories. Currently, I run somewhat of a gzcl program, where I however superset Push and Pull exercises as I feel it doesn't detract in performance while activating my back:
 Upper:
-- Bench {4x3} SS (Weighted) Pull Ups 
-- OHP {3x5} SS BB Row
+- Bench {5x3} SS (Weighted) Pull Ups 
+- OHP {4x5} SS BB Row
 - Incline Bench {3x5-8} SS Chin UPS
-- 3 Sets Chest Fly SS Lateral Raises
+- 4 Sets Chest Fly SS Lateral Raises
 - 3 Sets Pushdowns SS Biceps Curls
+
+Lower:
+- Squat (5x3)
+- Deadlift (3x3)
+- Pause Squads (3x5-8)
+- RDL/Deficit DL (3x5-8)
+- 4 Sets Abs SS Lat Raises 
+
+where I switch Squat and Deadlift and Bench and OHP one day of the week each. When I am in a time crunch or on vacation, I try to get 2-3 full body workouts where I put everything together, omit the T2s that arent T1s and 
+
+and, in the spirit of ..., I decided to train
