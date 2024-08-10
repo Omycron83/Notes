@@ -22,7 +22,12 @@ Legs:
 - Leg curls 
 - Standing calf raises
 
-and this is what I ran with for the first roughly 7-8 months. There, I 
+and this is what I ran with for the first roughly 7-8 months (Also did some quick cardio, which ceased after ca. 4 months or so). There, I saw my first significant giant, which was pretty easy given that I started off very weak:
+- Bench: 30kg for reps
+- Deadlift: 50kg for reps
+- Leg Press (Cable, questionable depth): like 70kg 
+- Pull Ups: ca. 44kg lifted in total 
+- 
 
 
 
