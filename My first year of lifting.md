@@ -47,7 +47,17 @@ During this time, I also fine-tuned my program (though no major changes) and sta
 However, around 5 months ago, I started to focus more on strength, and subsequently altered my program to include deadlifts and squats, while also changing it up to look a lot more like GZCL. I hat gained a couple of kilos (with only a little bit of added bodyfat) and started getting into more of a caloric surplus as well as taking creatine. I did some stupid shit to try to get my bench, squat and pull up numbers up (I still yearn for that muscle up), like running smolov Jr for all three lifts combined, 7 days a week. Unfortunately, I got sick the third week, which was a relief as my joints had started to hate me more than the devil. 
 
 However now, one year in, I made some progress:
-- Bench: 90kg
-- Squat: 100kg
-- Deadlift: 125kg
-- Pull Ups: 11 
+- Bench: 90kg 1RM
+- Squat: 100kg 1RM
+- Deadlift: 125kg 1RM
+- Pull Ups: 11 @ 81kg
+- OHP: 40kg for 5
+- BB Row: 40kg for like 11
+
+and gained weight to ca. 80kg by tracking calories. Currently, I run somewhat of a gzcl program, where I however superset Push and Pull exercises as I feel it doesn't detract in performance while activating my back:
+Upper:
+- Bench {4x3} SS (Weighted) Pull Ups 
+- OHP {3x5} SS BB Row
+- Incline Bench {3x5-8} SS Chin UPS
+- 3 Sets Chest Fly SS Lateral Raises
+- 3 Sets Pushdowns SS Biceps Curls
