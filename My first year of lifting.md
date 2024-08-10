@@ -37,10 +37,11 @@ and my physique could be described as skinny fat.
 During this time, I weighed around 74kg and ate and slept like shit. Pretty low calorie, low protein high carb food in general. Didn't track anything, but I can assure you it wasn't great. Also, at first, the stress really got to my joints. Pull ups in particular made my elbows hurt like hell, and made me dread pull day to the point of only training it around once a week.
 
 During these months though, I made some pretty good gains. 6 months of training this ca. 3-6 times a week (ca. 4 times on average, id assume) got me the following results:
+- Bench: 47.5 for reps
+- Leg Press: 100kg for reps
+- Pull Ups: 60kg total for reps
 
+However, my bodyweight had only risen by about 1kg, though I had undergone some level of body recomposition. Due to a heavy focus on the muscles as well as my love for benching, my chest had gotten somewhat decent, at least for me. 
+During this time, I also fine-tuned my program (though no major changes) and started to binge watch science-based lifting channels (I must have watched every RP video) at night. This switched my diet (around 5-6 months in) to something that got me around 120g of protein at maintenance calories.
 
-However, my bodyweight had only risen by about 1kg.
-
-
-
-
+However, around 4o
