@@ -1,1 +1,3 @@
-So a
+So around a year ago (August 2023), I started going to the gym, which was mainly because I a) wanted to get swole and "good at sports" (due to bad experiences with exercising in childhood) and b) because it was so damn fun. I still remember the first time I entered the gym: a more experienced friend of mine had invited me on a whim to try it out, and I still remember the first time getting under a bench. It felt like the coolest thing ever, which will become somewhat of a common theme going forward.
+
+So, due to a lack of knowledge, I started off with a hypertrophy (I wanted to get swole, after all) focused PPL program 
