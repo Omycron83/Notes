@@ -33,7 +33,13 @@ and this is what I ran with for the first roughly 7-8 months (Also did some quic
 - Tricep Push down: 15 for reps
 - Lateral Raises: 1.875 cable
 
-During this time, I weighed 
+and my physique could be described as skinny fat.
+During this time, I weighed around 74kg and ate and slept like shit. Pretty low calorie, low protein high carb food in general. Didn't track anything, but I can assure you it wasn't great. Also, at first, the stress really got to my joints. Pull ups in particular made my elbows hurt like hell, and made me dread pull day to the point of only training it around once a week.
+
+During these months though, I made some pretty good gains. 6 months of training this ca. 3-6 times a week (ca. 4 times on average, id assume) got me the following results:
+
+
+However, my bodyweight had only risen by about 1kg.
 
 
 
