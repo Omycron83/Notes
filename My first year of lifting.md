@@ -25,9 +25,16 @@ Legs:
 and this is what I ran with for the first roughly 7-8 months (Also did some quick cardio, which ceased after ca. 4 months or so). There, I saw my first significant giant, which was pretty easy given that I started off very weak:
 - Bench: 30kg for reps
 - Deadlift: 50kg for reps
-- Leg Press (Cable, questionable depth): like 70kg 
-- Pull Ups: ca. 44kg lifted in total 
-- 
+- Leg Press (Cable, questionable depth): like 70kg for reps
+- Pull Ups: ca. 44kg lifted for reps
+- Cable Row: 30kg
+- DB Shoulder Press: 10s for reps
+- DB Curl: 8kg
+- Tricep Push down: 15 for reps
+- Lateral Raises: 1.875 cable
+
+During this time, I weighed 
+
 
 
 
