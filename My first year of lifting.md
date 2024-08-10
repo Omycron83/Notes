@@ -69,6 +69,17 @@ Lower:
 - RDL/Deficit DL (3x5-8)
 - 4 Sets Abs SS Lat Raises 
 
-where I switch Squat and Deadlift and Bench and OHP one day of the week each. When I am in a time crunch or on vacation, I try to get 2-3 full body workouts where I put everything together, omit the T2s that arent T1s and 
+where I switch Squat and Deadlift and Bench and OHP one day of the week each. When I am in a time crunch or on vacation, I try to get 2-3 full body workouts where I put everything together, omit the T2s that arent T1s and Superset Abs, Tricep, Bicep and Lateral Raises for T3. But in general, I try to go to the gym ca. 4-6 days a week.
 
-and, in the spirit of ..., I decided to train
+Additionally, in the spirit of ..., I decided to train Bench, Squat and DL on sub maximal intensitiy every day in a secondary workout to help with technique work.
+
+My currentl goals for the rest of the year are then:
+- 1 Muscle Up
+- 16 Pull Ups
+- 100kg bench
+- 60kg OHP
+- 70kg BB Row
+- 130kg Squat
+- 160kg DL
+
+and Id like to reach the 1000 pound club in a year from now.
