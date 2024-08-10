@@ -149,6 +149,10 @@ Carbs:
 
 **Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00) 
 - Protein Shake (or prepare oats properly, add powder after boiling) (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
+Alternative:
+
+**Meal 1**: The Nice At-Home ()
+- 4 eggs with 2 slices of gouda (72g), fried: 514kcal, 
 
 **Meal 2:**  The Quick At-Home (1.00 + 0.9 = 1.90)
 - Pizza w/ Mozarella: 51g, 820kcal
