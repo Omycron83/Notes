@@ -29,9 +29,10 @@ Life:
 - Become a better person in terms of at-home stuff
 - Stop to overplan, underdo
 - Try to get out of the house for three occasions
-	- Hobby/Friends/Socializing
+	- Hobby/Friends/Socializing (Meetup or friends)
 	- Workout
 	- Studying
+		=> Try to talk to as many people as possible
 
 Habits to gain:
 - Read 20 pages of non-fiction a day
