@@ -35,7 +35,7 @@ Habits to gain:
 - Write 400 words on an article
 - Work through one topic in uni
 - Roughly schedule entire day
-- Abstain from instance-gratification, find happiness in focused work
+- Abstain from instance-gratification, find happiness in focused work or socializing
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
@@ -46,7 +46,7 @@ Languages:
 
 Uni:
 - Module mit 1.7 Durchschnitt abschneiden
-- Herausfinden, wo man was studieren will
+- **Herausfinden, wo man was studieren will**
 
 General Education:
 - Learn more about quant
