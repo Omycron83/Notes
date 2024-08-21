@@ -1,4 +1,5 @@
 ## End-Of-Year-Goals:
+
 Gym:
 - Bench 100kg
 - Squat 130kg
@@ -27,6 +28,10 @@ Life:
 - Meal Prep/Prepare 3 high protein meals/day
 - Become a better person in terms of at-home stuff
 - Stop to overplan, underdo
+- Try to get out of the house for three occasions
+	- Hobby/Friends/Socializing
+	- Workout
+	- Studying
 
 Habits to gain:
 - Read 20 pages of non-fiction a day
