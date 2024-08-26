@@ -69,7 +69,7 @@
 
 [[Satz von Cayley-Hamilton]]
 ## 6.2 Diagonalisierung
-[[Diagona]]
+
 ## 6.3 Triagonalisierung
 
 ## 6.4 Jordan'sche Normalform
