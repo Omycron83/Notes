@@ -39,6 +39,21 @@
 3.2.1 
 # 4. Matrizen
 
+## 4.1 Einbettung
+4.1.1 [[Matrizen]]
+4.1.2 [[Matrizen als Ring]]
+4.1.3 [[Matrizen als Vektorraum]]
+4.1.4 [[Matrizen als Lineare Abbildungen]]
+## 4.2 Matrizen als lineare Abbildungen
+4.2.1 [[Rang einer Matrix]]
+4.2.2 [[Kern einer Matrix]]
+4.2.3 [[Bild einer Matrix]]
+4.2.4 [[Basiswechsel einer Matrix]]
+## 4.3 Besondere Matrizen
+4.3.1 [[Transponierte Matrizen]]
+4.3.2 [[Symmetrie und Schiefsymmetrie von Matrizen]]
+## 4.4 Das Matrix-Kochbuch
+4.3.1 [[LU-Zerlegung]]
 # 5. Determinanten
 
 ## 5.1 Axiomatik
@@ -52,8 +67,9 @@
 
 ## 6.1 Das charakteristische Polynom
 
+[[Satz von Cayley-Hamilton]]
 ## 6.2 Diagonalisierung
-
+[[Diagona]]
 ## 6.3 Triagonalisierung
 
 ## 6.4 Jordan'sche Normalform
