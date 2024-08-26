@@ -1,5 +1,8 @@
 # 1. Grundlagen der Algebra
 ## 1.1 Mengen und Aussagen
+1.1.1 [[Grundlagen der Mengenlehre]]
+1.1.2 [[Grundlagen der Aussagenlehre]]
+1.1.3 [[Beweisarten]]
 ## 1.2 Grundlegende algebraische Strukturen
 1.2.1 [[Gruppoide]]
 1.2.2 [[Halbgruppen]]
