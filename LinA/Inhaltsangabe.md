@@ -20,21 +20,42 @@
 ## 2.1 Grundalgebra
 2.1.1 [[Vektorraum]]
 2.1.2 [[Untervektorräume]]
-
+2.1.3 [[Lineare Erzeugnisse & Unabhängigkeit]]
 ## 2.2 Basis und Dimension
 2.2.1 [[Basen]]
 2.2.2 [[Basen haben gleiche Länge]]
 2.2.3 [[Dimension]]
 2.2.4 [[Basisaustauschlemma]]
-2.2.5 [[]]
-## 2.3 Summen von Vektorräumen
+2.2.5 [[Austauschsatz von Steinitz]]
+2.2.6 [[Basisexistenzsatz für unendliche Vektorräume]]
 
+## 2.3 Summen von Vektorräumen
+2.3.1 [[Summen von Vektorräumen]]
+2.3.2 [[Direkte Summen]]
 # 3. Lineare Abbildungen
 
+## 3.1 Grundeigenschaften
+3.1.1 [[Lineare Abbildungen]]
+3.2.1 
 # 4. Matrizen
 
 # 5. Determinanten
 
+## 5.1 Axiomatik
+## 5.2 Permutationen
+
+## 5.3 Existenz und Eindeutigkeit
+
+## 5.4 Berechnung
+
 # 6. Eigenwerte
+
+## 6.1 Das charakteristische Polynom
+
+## 6.2 Diagonalisierung
+
+## 6.3 Triagonalisierung
+
+## 6.4 Jordan'sche Normalform
 
 # 7. Bilinearformen und Skalarprodukte
