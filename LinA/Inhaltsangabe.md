@@ -65,9 +65,10 @@
 
 # 6. Eigenwerte
 
-## 6.1 Das charakteristische Polynom
-
+## 6.1 Das charakteristische Polynom und Eigenwerte
+[[Charakteristische Polynom]]]
 [[Satz von Cayley-Hamilton]]
+
 ## 6.2 Diagonalisierung
 
 ## 6.3 Triagonalisierung
