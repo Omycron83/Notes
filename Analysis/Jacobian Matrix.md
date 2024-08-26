@@ -1,1 +1,0 @@
-Let $f: R^n \rightarrow R^m$ be a [[Vector Valued Functions]] $\in C^1$.

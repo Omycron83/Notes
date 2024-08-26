@@ -1,0 +1,1 @@
+Jeder Dedekind'sche Schnitt in den reellen Zahlen besitzt genau eine Trennungszahl.

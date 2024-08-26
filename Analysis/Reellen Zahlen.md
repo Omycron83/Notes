@@ -1,1 +1,0 @@
-Sei $K$ ein [[Körper]], auf dem die [[Anordnungsaxiome der reellen Zahlen|Anordnungsaxiome]] sowie die [[Schnitteigenschaft]] gelten. Dann nennt man diesen Körper zusammen mit den [[Anordnungsaxiome der reellen Zahlen|Relationen]] die **reellen Zahlen**. 
