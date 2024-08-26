@@ -16,8 +16,18 @@
 1.6.1 [[Polynome]]
 1.6.2 [[Polynomring]]
 # 2. Vektorräume
-1.6.1 [[Vektorraum]]
-1.6.2 [[Vektor]]
+
+## 2.1 Grundalgebra
+2.1.1 [[Vektorraum]]
+2.1.2 [[Untervektorräume]]
+
+## 2.2 Basis und Dimension
+2.2.1 [[Basen]]
+2.2.2 [[Basen haben gleiche Länge]]
+2.2.3 [[Dimension]]
+2.2.4 [[Basisaustauschlemma]]
+2.2.5 [[]]
+## 2.3 Summen von Vektorräumen
 
 # 3. Lineare Abbildungen
 
