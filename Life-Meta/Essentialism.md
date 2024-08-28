@@ -8,4 +8,5 @@ _The focus of time and energy on those things yielding the most satisfaction in 
 
 Schedule:
 - Wake up: 6am
+- Class recaps, projects: 6-9am
 - 
