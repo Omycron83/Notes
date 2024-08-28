@@ -14,6 +14,7 @@
 - Spend another 20 hours with friends or hobbies, dedicated
 - Minimize all other activities
 - Change positions every 2 years, and try to aim for a substantial increase in technical specialization or responsibility
-- Highlight improvements to superiors and demand pay raises 
+- Highlight improvements to superiors and demand pay raises annually
+	- Make sure to work hard, and get paid for it
 
 ## The investing:
