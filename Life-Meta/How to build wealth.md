@@ -9,6 +9,10 @@
 - Get as good as you can at what you want to do
 - Start early by forming career networks
 - Try to do anything that makes you appear as a more outstanding candidate (hobbies, projects, etc.)
-- Change positions every 2 years, and try to aim for a substantial increase in technical diffi
+- Try to work around 80 hours a week, sustainably
+- Workout for around total of 20 hours a week for hobby
+- 
+- Change positions every 2 years, and try to aim for a substantial increase in technical specialization or responsibility
+- 
 
 ## The investing:
