@@ -3,5 +3,5 @@ _The work-capacity of an individual is the maximum amount of mental fatigue that
 
 Thus, work capacity is a **non-specific** measure of mental endurance applied to any given tasks at hand, and thus gives information about the mental, systematic stress that can be applied to a mind while retaining performance in the individual tasks they are taxed with. 
 
-An example: one could measure the work-capacity of a person in a given 8-hour work day by the total maximum amount of performance they can deliver 
+An example: one could measure the work-capacity of a person in a given 8-hour work day by the total maximum amount of performance they can deliver in adequate quality, e.g. the amount of lines of functioning code written. On the flip side, one could measure work capacity 
 
