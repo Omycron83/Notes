@@ -48,11 +48,12 @@ However, around 5 months ago, I started to focus more on strength, and subsequen
 
 However now, one year in, I made some progress:
 - Bench: 90kg 1RM
-- Squat: 100kg 1RM
-- Deadlift: 125kg 1RM
-- Pull Ups: 11 @ 81kg
-- OHP: 40kg for 5
-- BB Row: 40kg for like 11
+- Squat: 125kg 1RM
+- Deadlift: 140kg 1RM
+- Pull Ups: 12 @ 81kg
+- OHP: 50kg for 3
+- BB Row: 60kg for 3
+- 1 Muscle Up
 
 and gained weight to ca. 80kg by tracking calories. Currently, I run somewhat of a gzcl program, where I however superset Push and Pull exercises as I feel it doesn't detract in performance while activating my back:
 Upper:

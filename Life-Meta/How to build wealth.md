@@ -4,7 +4,7 @@
 - My education and industrious-ness is the only thing I have
 
 # How to accumulate capital:
-
+- First of all: invest in your education, you only get one and its where everything starts out from
 ## The career:
 - Get as good as you can at what you want to do
 - Start early by forming career networks
@@ -18,3 +18,4 @@
 	- Make sure to work hard, and get paid for it
 
 ## The investing:
+See [[How to protect wealth]]
