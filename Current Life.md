@@ -1,11 +1,13 @@
 ## End-Of-Year-Goals:
+
 Gym:
 - Bench 100kg
 - Squat 130kg
 - Deadlift 160kg
 - Barbell Row 70kg 
 - 16 clean Pull-Ups
-- OHP 50kg 
+- 1 Muscle UP
+- OHP 60kg 
 = Total 850+ lbs on the big ones
 -> Still need to increase by total of 65kg, e.g. (10kg, 30kg, 25kg)
 
@@ -26,6 +28,11 @@ Life:
 - Meal Prep/Prepare 3 high protein meals/day
 - Become a better person in terms of at-home stuff
 - Stop to overplan, underdo
+- Try to get out of the house for three occasions
+	- Hobby/Friends/Socializing (Meetup or friends)
+	- Workout
+	- Studying
+		=> Try to talk to as many people as possible
 
 Habits to gain:
 - Read 20 pages of non-fiction a day
@@ -34,7 +41,7 @@ Habits to gain:
 - Write 400 words on an article
 - Work through one topic in uni
 - Roughly schedule entire day
-- Abstain from instance-gratification, find happiness in focused work
+- Abstain from instance-gratification, find happiness in focused work or socializing
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
@@ -45,7 +52,7 @@ Languages:
 
 Uni:
 - Module mit 1.7 Durchschnitt abschneiden
-- Herausfinden, wo man was studieren will
+- **Herausfinden, wo man was studieren will**
 
 General Education:
 - Learn more about quant
@@ -78,6 +85,7 @@ General Education:
 	- Read 15 mins of non-fiction book
 	- Tuck yourself in properly, dont any other time of day
 	- Check through body for falling asleep asap
+- -> Around 8-9hrs, no variance!!!
 ## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen
@@ -90,6 +98,8 @@ General Education:
 5. **Consolidation** - Lernblaetter, Flashcards (Anki) erstellen
 6. **Active Recall** - Flashcards (Anki) , Packe-meinen-Koffer, Abfragen, Erklären
 7. **Repetition** - ^ in uniformen / expandierenden Intervallen (1-1-1-1-1) o. (1-2-4-8-16)
+8. 5-15 Mins of wakeful rest after each smaller session
+9. Exercise after longer session
 In Vorbereitung: 4-> 6 -> 7 -> 4
 
 E.g. für Mathe:
@@ -145,6 +155,10 @@ Carbs:
 
 **Meal 1:** The Quick Take-With (80c + 12c + 9c $\sim$ 1.00) 
 - Protein Shake (or prepare oats properly, add powder after boiling) (40g powder, 120ml milk, 60g oats): 56g protein, ca. 530 kcal
+Alternative:
+
+**Meal 1**: The Nice At-Home (like 80c + 20c $\sim$ 1.00)
+- 4 eggs with 2 slices of gouda (72g), fried: 514kcal, 41.2g protein
 
 **Meal 2:**  The Quick At-Home (1.00 + 0.9 = 1.90)
 - Pizza w/ Mozarella: 51g, 820kcal
@@ -156,15 +170,16 @@ When bulking:
 - Add around 200g of peanuts/some peanut butter for extra 1000kcal, 55g of protein and + 1 Euro
 
 **Total:** 138g protein, 2002 kcal, 3.6 Euro 
+
+# Caffeine Usage
+- Caffeine boots 
 # Fitness:
-Routine: Push-Pull-Legs, some high-volume stuff in between
-https://docs.google.com/spreadsheets/d/1-i4IHdH2JQTHpr_2qWCW1ba0myo-ua3qO96Hvm8AGW4/edit?usp=sharing
+Routine: Push-Pull-Legs, Upper-Lower or Full Body depending on availability. Focus on main lifts. See google sheets
 # Current links:
 Habitica: https://habitica.com/
 Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
 When to set alarm: https://sleepopolis.com/calculators/sleep/
-
 # Hobbies to look into
 - Baking
 - Cooking
@@ -198,8 +213,10 @@ What I like:
 - "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), (Fake Leather) **Boots**
 - "Basic Street" - Mute jeans/**chinos**/shorts+tshirt , (Regenjacke), **Sneakers** (Summer)
 - "Winter Depression" - **Black Coat**, dark jeans, Schiebermuetze, Schal, Tshirt+Leichter Pullover, (Fake Leather) Boots
-- "Semi-Formal" - Hemd **(mehrere)**, **Mute Chino**, Aufgeknuepft, **Bucks**
-- "Formal" - Weisses Hemd, Blauer Anzug, Blaue Krawatte, Blaue Uhr, Dress Shoes
+- "Semi-Formal" - Hemd **(mehrere)**, **Mute Chino**, Aufgeknuepft, Bucks
+- "Formal" - Weisses Hemd, Dunkelblauer Anzug, Blaue Krawatte, Blaue Uhr, Dress Shoes
+**Shopping List:**
+https://www.deichmann.com/de-de/p-m01862899/02169098
 
 **Accessories:**
 - Watch
