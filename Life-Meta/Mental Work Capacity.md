@@ -15,6 +15,9 @@ An example: one could measure the work-capacity of a person in a given 8-hour wo
 - Use multiple kinds of tasks intertwind multiple types of tasks, so as to rest one part of the brain as another works
 
 ### Different kinds of tasks
-- 'Berieseln lassen', i.e. passively witnessing information (Podcasts, Lectures, Meet) 
-- Writing or otherwise creating content for others to be read
-- Organizational work
+- 'Berieseln lassen', i.e. passively witnessing information (e.g. Podcasts, Lectures, Meetings, Books)
+- Active thinking, i.e. conciously working through thought processes, documenting them (e.g. Math, Philosophy, theoretical CS)
+- Tinkering, i.e. working on a given, fixed system until it achieves a predisposed outcome (e.g. Debugging, Installing things)
+- Researching, i.e. finding and restructuring information (e.g. for presentation, personal life, etc.)
+- Writing/creating content, i.e. inputting finished ideas into a creative 
+- Organizational/structural work, i.e.  (e.g. structuring a project, presentation, workflow)
