@@ -6,6 +6,9 @@
 # How to accumulate capital:
 
 ## The career:
-
+- Get as good as you can at what you want to do
+- Start early by forming career networks
+- Try to do anything that makes you appear as a more outstanding candidate (hobbies, projects, etc.)
+- Change positions every 2 years, and try to aim for a substantial increase in technical diffi
 
 ## The investing:
