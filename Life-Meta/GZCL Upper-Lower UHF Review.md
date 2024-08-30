@@ -13,4 +13,4 @@ The program consisted of 4 different workouts, each structured in a typical GZCL
 The T1 lifts chosen for Pull are BB Rows and Pullups, with the latter being bodyweight and for reps. 
 
 ### T1 Progression:
-In the spirit of GZCLLP, I did Dynamic Double Progression between 1 and 3 reps with a total of at least 10 reps for the T1 lifts (besides pull-ups). 
+In the spirit of GZCLLP, I did Dynamic Double Progression between 1 and 3 reps with a total of at least 10 reps for the T1 lifts (besides pull-ups). Each session
