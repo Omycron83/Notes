@@ -7,4 +7,4 @@ This was completed in the last month of my first year of lifting, which you can 
 
 # Program Structure:
 ![[Pasted image 20240830084011.png]]
-The program consisted of 4 different workouts, each structured with a typical 
+The program consisted of 4 different workouts, each structured in a typical GZCL-structure based on one T1 lift. The special twist is the Upper-Lower structure, where the Squat and Deadlift T1/T2 is practiced on lower-days, while on upper days, Push and Pull-Exercises are supersetted. 
