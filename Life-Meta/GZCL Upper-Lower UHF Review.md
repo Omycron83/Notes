@@ -1,4 +1,4 @@
-TLDR: Increase S/B/D/O/Pull Ups from 100kg/90kg/130kg/
+TLDR: Increased S/B/D/O/Pull Ups from 100kg/90kg/130kg/45kg/12 reps -> 125kg/100kg/145kg/55kg/? in 3 weeks
 # Introduction:
 These are the results of my last 3-week training cycle of the GZCL method applied to an Upper-Lower, UHF, High Volume split.:
 
