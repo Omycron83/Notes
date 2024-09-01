@@ -1,3 +1,4 @@
+TLDR: Increase S/B/D/O/Pull Ups from 100kg/90kg/130kg/
 # Introduction:
 These are the results of my last 3-week training cycle of the GZCL method applied to an Upper-Lower, UHF, High Volume split.:
 
@@ -16,3 +17,5 @@ The T1 lifts chosen for Pull are BB Rows and Pullups, with the latter being body
 In the spirit of GZCLLP, I did Dynamic Double Progression between 1 and 3 reps with a total of at least 10 reps for the T1 lifts (besides pull-ups). Each session
 
 
+
+# Progress
