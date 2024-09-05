@@ -1,0 +1,1 @@
+TLDR: Ran smolov jr for four weeks for bench and pull ups simultaneously.  
