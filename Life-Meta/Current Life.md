@@ -1,13 +1,13 @@
 ## End-Of-Year-Goals:
 
 Gym:
-- Bench 100kg
-- Squat 130kg
-- Deadlift 160kg
-- Barbell Row 70kg 
+- Bench 120kg
+- Squat 155kg
+- Deadlift 180kg
+- Barbell Row 80kg 
 - 16 clean Pull-Ups
-- 1 Muscle UP
-- OHP 60kg 
+- 5 Muscle UP
+- OHP 70kg 
 = Total 850+ lbs on the big ones
 -> Still need to increase by total of 65kg, e.g. (10kg, 30kg, 25kg)
 
