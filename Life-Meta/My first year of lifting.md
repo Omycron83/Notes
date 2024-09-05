@@ -42,12 +42,12 @@ During these months though, I made some pretty good gains. 6 months of training 
 - Pull Ups: 60kg total for reps
 
 However, my bodyweight had only risen by about 1kg, though I had undergone some level of body recomposition. Due to a heavy focus on the muscles as well as my love for benching, my chest had gotten somewhat decent, at least for me. 
-During this time, I also fine-tuned my program (though no major changes) and started to binge watch science-based lifting channels (I must have watched every RP video) at night. This switched my diet (around 5-6 months in) to something that got me around 120g of protein at maintenance calories.
+During this time, I also fine-tuned my program (though no major changes) and started to binge watch science-based lifting channels (I must have watched every RP video in existence) at night. This switched my diet (around 5-6 months in) to something that got me around 120g of protein at maintenance calories.
 
-However, around 5 months ago, I started to focus more on strength, and subsequently altered my program to include deadlifts and squats, while also changing it up to look a lot more like GZCL. I hat gained a couple of kilos (with only a little bit of added bodyfat) and started getting into more of a caloric surplus as well as taking creatine. I did some stupid shit to try to get my bench, squat and pull up numbers up (I still yearn for that muscle up), like running smolov Jr for all three lifts combined, 7 days a week. Unfortunately, I got sick the third week, which was a relief as my joints had started to hate me more than the devil. 
+However, around 5 months ago, I started to focus more on strength, and subsequently altered my program to include deadlifts and squats, while also changing it up to look a lot more like GZCL. I hat gained a couple of kilos (with only a little bit of added bodyfat) and started getting into more of a caloric surplus as well as taking creatine. I did some stupid shit to try to get my bench, squat and pull up numbers up (I yearned for that muscle up), like running smolov Jr for all three lifts combined, 7 days a week. Unfortunately, I got sick the third week, which was a relief since my joints had started to hate me more than the devil. 
 
 However now, one year in, I made some progress:
-- Bench: 90kg 1RM
+- Bench: 100kg 1RM
 - Squat: 125kg 1RM
 - Deadlift: 140kg 1RM
 - Pull Ups: 12 @ 81kg
@@ -55,7 +55,7 @@ However now, one year in, I made some progress:
 - BB Row: 60kg for 3
 - 1 Muscle Up
 
-and gained weight to ca. 80kg by tracking calories. Currently, I run somewhat of a gzcl program, where I however superset Push and Pull exercises as I feel it doesn't detract in performance while activating my back:
+and gained weight to ca. 81kg by tracking calories. Currently, I run somewhat of a gzcl program, where I however superset Push and Pull exercises as I feel it doesn't detract in performance while activating my back:
 Upper:
 - Bench {5x3} SS (Weighted) Pull Ups 
 - OHP {4x5} SS BB Row
@@ -75,7 +75,7 @@ where I switch Squat and Deadlift and Bench and OHP one day of the week each. Wh
 Additionally, in the spirit of ..., I decided to train Bench, Squat and DL on sub maximal intensitiy every day in a secondary workout to help with technique work.
 
 My currentl goals for the rest of the year are then:
-- 1 Muscle Up
+- 5 Muscle Ups
 - 16 Pull Ups
 - 100kg bench
 - 60kg OHP
