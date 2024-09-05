@@ -74,13 +74,13 @@ where I switch Squat and Deadlift and Bench and OHP one day of the week each. Wh
 
 Additionally, in the spirit of ..., I decided to train Bench, Squat and DL on sub maximal intensitiy every day in a secondary workout to help with technique work.
 
-My currentl goals for the rest of the year are then:
+My current goals for the rest of the year are then:
 - 5 Muscle Ups
 - 16 Pull Ups
-- 100kg bench
+- 120kg bench
 - 60kg OHP
-- 70kg BB Row
-- 130kg Squat
-- 160kg DL
+- 80kg BB Row
+- 150kg Squat
+- 180kg DL
 
 and Id like to reach the 1000 pound club in a year from now.
