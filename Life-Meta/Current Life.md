@@ -2,9 +2,9 @@
 
 Gym:
 - Bench 120kg
-- Squat 150kg
+- Squat 155kg
 - Deadlift 180kg
-- Barbell Row 70kg 
+- Barbell Row 80kg 
 - 16 clean Pull-Ups
 - 5 Muscle UP
 - OHP 70kg 
