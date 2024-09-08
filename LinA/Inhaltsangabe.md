@@ -79,3 +79,12 @@
 ## 6.4 Jordan'sche Normalform
 
 # 7. Bilinearformen und Skalarprodukte
+
+## Skalarprodukte
+
+## Billinearformen und Sesquilinearformen
+
+## Orthogonale und unitaere Endomorphismen
+
+## Selbstadjungierte Endomorphismen
+
