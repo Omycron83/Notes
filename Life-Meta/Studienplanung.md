@@ -13,4 +13,7 @@
 - Computerorientierte Mathematik I
 - Differentialgleichungen I/WT2
 
-- 
+- Informatik Propädeutikum
+- Rechnerorganisation
+- Einführung in die Programmierung
+- Rechnernetze und verteilte Systeme
