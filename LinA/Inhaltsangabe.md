@@ -31,7 +31,6 @@
 2.2.4 [[Basisaustauschlemma]]
 2.2.5 [[Austauschsatz von Steinitz]]
 2.2.6 [[Basisexistenzsatz für unendliche Vektorräume]]
-
 ## 2.3 Summen von Vektorräumen
 2.3.1 [[Summen von Vektorräumen]]
 2.3.2 [[Direkte Summen]]
@@ -69,7 +68,7 @@
 # 6. Eigenwerte
 
 ## 6.1 Das charakteristische Polynom und Eigenwerte
-[[Charakteristische Polynom]]]
+[[Charakteristische Polynom]]
 [[Satz von Cayley-Hamilton]]
 
 ## 6.2 Diagonalisierung
@@ -77,14 +76,15 @@
 ## 6.3 Triagonalisierung
 
 ## 6.4 Jordan'sche Normalform
-
+[[Jordan'sche Normalform]]
 # 7. Bilinearformen und Skalarprodukte
 
 ## Skalarprodukte
 [[Skalarprodukt]]
 [[Orthogonalsystem]]
 [[Orthonormalsystem]]
-[[Orth]]
+[[Orthogonale Gruppe]]
+[[Gram-Schmidt-Orthogonalisierungsverfahren]]
 ## Billinearformen und Sesquilinearformen
 
 ## Orthogonale und unitaere Endomorphismen
