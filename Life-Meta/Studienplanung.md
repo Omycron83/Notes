@@ -8,12 +8,15 @@
 - Algorithmen und Datenstrukturen
 
 ## 1. Semester
-- Analysis II
-- Numerische Mathematik I
-- Computerorientierte Mathematik I
-- Differentialgleichungen I/WT2
+- Analysis II (10 LP)
+- Numerische Mathematik I (10 LP)
+- Computerorientierte Mathematik I (12 LP)
+- Differentialgleichungen I/WT2 (10 LP)
 
-- Informatik Propädeutikum
-- Rechnerorganisation
-- Einführung in die Programmierung
-- Rechnernetze und verteilte Systeme
+- Informatik Propädeutikum (3LP)
+- Rechnerorganisation (6 LP)
+- Einführung in die Programmierung (6LP)
+- Rechnernetze und verteilte Systeme (6 LP)
+- Berechenbarkeit und Komplexität (6 LP)
+- Logik (6 LP)
+- 
