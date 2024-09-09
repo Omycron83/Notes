@@ -1,12 +1,13 @@
 # Bachelor:
 ## Frühstudium:
-- Lineare Algebra I + II
-- Analysis I
-- WT 1
-- Nonlinear Optimization
+- Lineare Algebra I + II (20LP)
+- Analysis I (10LP)
+- WT 1 (10LP)
+- Nonlinear Optimization (10LP)
 
-- Algorithmen und Datenstrukturen
+- Algorithmen und Datenstrukturen (6 LP)
 
+$\sum 56$
 ## 1. Semester
 - Analysis II (10 LP)
 - Numerische Mathematik I (10 LP)
@@ -19,4 +20,7 @@
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 - Logik (6 LP)
-- 
+- Softwaretechnik und Programmierparadigmen (6LP)
+
+
+$\sum 42 + \sum 39 = 81$
