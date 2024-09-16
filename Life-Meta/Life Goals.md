@@ -9,5 +9,6 @@
 # Short-Term Goals
 - Get the best resume possible
 - Become ultimately self-confident
+- Be the one organizing stuff
 - Become more emotionally available
 - 
