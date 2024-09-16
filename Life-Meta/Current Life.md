@@ -211,9 +211,9 @@ When to set alarm: https://sleepopolis.com/calculators/sleep/
 CBD - Clark Desert Boots
 What I like:
 - "Trucker" - Trucker Vest, Jeans, T-Shirt (Spring/Autumn), (Fake Leather) **Boots**
-- "Basic Street" - Mute jeans/**chinos**/shorts+tshirt , (Regenjacke), **Sneakers** (Summer)
+- "Basic Street" - Mute jeans/**chinos**/shorts+tshirt , (Regenjacke), Sneakers (Summer)
 - "Winter Depression" - **Black Coat**, dark jeans, Schiebermuetze, Schal, Tshirt+Leichter Pullover, (Fake Leather) Boots
-- "Semi-Formal" - Hemd **(mehrere)**, **Mute Chino**, Aufgeknuepft, Bucks
+- "Semi-Formal" - Hemd (mehrere), Mute Chino, Aufgeknuepft, Bucks
 - "Formal" - Weisses Hemd, Dunkelblauer Anzug, Blaue Krawatte, Blaue Uhr, Dress Shoes
 **Shopping List:**
 https://www.deichmann.com/de-de/p-m01862899/02169098
@@ -228,8 +228,7 @@ https://www.deichmann.com/de-de/p-m01862899/02169098
 **General:**
 - Get haircut regularly
 - Style hair
-- Wear perfume/deodorant
-- 
+- Wear perfume + deodorant
 ## Socializing
 - Always be friendly, considerate and open (smile!)
 	- Make compliments as much as possible
@@ -242,7 +241,7 @@ https://www.deichmann.com/de-de/p-m01862899/02169098
 		- be physically close, light touching if anbietet
 		- smile & laugh
 		- be witty, try to not be too serious though
-- Be yourself & confident, noone cares about you, really
+- Be yourself & confident, no one cares about you, really
 - Learn when to disengage (no reactions, appears busy, looks around etc.)
 	- Make an excuse, wish them a nice day and leave
 - Accept compliments by smiling, thanking
