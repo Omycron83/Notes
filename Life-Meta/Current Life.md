@@ -63,6 +63,7 @@ General Education:
 1. Uni-Sachen
 2. 1 Projekt / Woche (alternierend Mathe und Info)
 3. Sonderprojekt
+4. Self-Driving
 # Rythmus
 - Get up at 6:30
 - Mini-Workout/Running
@@ -141,6 +142,12 @@ E.g. für Mathe:
 - Practice attention meditation to focus on breathing and point in front of head for 5 minutes every morning
 
 [1] Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013). Improving Students’ Learning With Effective Learning Techniques: Promising Directions From Cognitive and Educational Psychology. Psychological Science in the Public Interest, 14(1), 4–58. https://doi.org/10.1177/1529100612453266
+
+# What energizes me
+- Helping others
+- Exercising (depending on mood)
+- Preparing and presenting topics in front of people
+- Working on challenges, e
 # Ernährung:
 Proteinquellen:
 - Lentils
@@ -246,60 +253,6 @@ https://www.deichmann.com/de-de/p-m01862899/02169098
 	- Make an excuse, wish them a nice day and leave
 - Accept compliments by smiling, thanking
 - Be comfortable with silence
-
-# Github:
-## Backup files:
-Creating a new Git repository locally, syncing it with a remote repository on GitHub, and adding your local files involves a series of steps. Here's a step-by-step guide to help you achieve this:
-
-1. **Create a New Local Git Repository:** Open your terminal or command prompt and navigate to the directory where you want to create your new repository.
-
-    `cd /path/to/your/directory`
-
-   Initialize a new Git repository in this directory.
-
-    `git init`
-
-2. **Create a Repository on GitHub:** Open your web browser and log in to your GitHub account.
-
-Click the '+' icon in the top-right corner and select "New repository".
-
- Fill in the repository name, description, and other settings as needed.
- 
- Click "Create repository".
-
-3. **Link the Local Repository with the GitHub Repository:** On the GitHub repository page, you'll see the repository URL (HTTPS or SSH). Copy this URL.
-
-4. **Add Remote to Your Local Repository:** In your terminal, navigate to your local repository if you're not already there.
-
-    `cd /path/to/your/directory`
-
- Add the GitHub repository as a remote. Replace `<github-repo-url>` with the URL you copied.
-
-    `git remote add origin <github-repo-url>`
-
-5. **Sync Your Local Repository with GitHub:** Before you add files, it's a good practice to pull any changes that might have occurred on GitHub since you initialized the repository. This prevents conflicts later.
-
-    `git pull origin main`
-
-    Note: If your default branch is named something other than "main," replace it with the correct branch name.
-
-6. **Add and Commit Your Local Files:** Copy or create the files you want to add to your repository into the local directory.
-
-    Use the following commands to stage and commit your files:
-
-    `git add . git commit -m "Initial commit"`
-
-7. **Push Your Local Changes to GitHub:** Now, push your committed changes to GitHub:
-
-    `git push origin main`
-
-Again, replace "main" with your actual branch name if it's different.
-
-
-Your local files are now added to your GitHub repository. You can continue working on your project, making changes, committing, and pushing them to GitHub using the same Git commands (add, commit, push).
-
-Remember that if you're using two-factor authentication on GitHub, you might need to use a personal access token instead of your GitHub password when pushing changes. This token needs the appropriate permissions for repository access.
-
 
 
 
