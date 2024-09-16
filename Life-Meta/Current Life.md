@@ -147,7 +147,8 @@ E.g. für Mathe:
 - Helping others
 - Exercising (depending on mood)
 - Preparing and presenting topics in front of people
-- Working on challenges, e
+- Working on challenges, not the goals themselves though
+- 
 # Ernährung:
 Proteinquellen:
 - Lentils
