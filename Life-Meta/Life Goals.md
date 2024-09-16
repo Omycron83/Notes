@@ -3,4 +3,8 @@
 	- Intellect
 	- Personality
 	- Looks
-- 
+- Build generational wealth
+	- Both monetary and in terms of living a good life
+
+# Short-Term Goals
+- Get the best resume possible
