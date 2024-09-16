@@ -8,7 +8,7 @@
 
 # Short-Term Goals
 - Get the best resume possible
+- Get relevant job experience
 - Become ultimately self-confident
 - Be the one organizing stuff
 - Become more emotionally available
-- 

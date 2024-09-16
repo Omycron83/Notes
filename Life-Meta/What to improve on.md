@@ -1,5 +1,9 @@
 - Develop a sense of style
 - Figure out how to be happy, beyond not being sad
+- Dont expect to be optimal, instead do what is fun
+- Allow yourself mental deloads
+- Never let negative thoughts enter your mind, always stay positive
+- Set goals
 - Figure out how to 'strech your energy' in both the voluntary and compulsory part
 - Figure out a daily routine AND STICK TO IT
 - Figure out how to strech introverted-ness in social situations
