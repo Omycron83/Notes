@@ -8,3 +8,6 @@
 
 # Short-Term Goals
 - Get the best resume possible
+- Become ultimately self-confident
+- Become more emotionally available
+- 
