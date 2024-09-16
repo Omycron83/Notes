@@ -148,7 +148,7 @@ E.g. für Mathe:
 - Exercising (depending on mood)
 - Preparing and presenting topics in front of people
 - Working on challenges, not the goals themselves though
-- Flexing to others (i.e. )
+- Flexing to others (i.e. using my current resume to apply to more positions)
 # Ernährung:
 Proteinquellen:
 - Lentils
