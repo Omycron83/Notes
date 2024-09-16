@@ -75,7 +75,7 @@ General Education:
 - Eat smth decent
 - Drive to gym
 - Go to the gym (1:30hr)
-- Get on the clock
+- Get on the clock/spend time w/ friends
 - Eat smth decent
 - Go to bed at 11pm
 	- Brush teeth
@@ -85,7 +85,7 @@ General Education:
 	- Read 15 mins of non-fiction book
 	- Tuck yourself in properly, dont any other time of day
 	- Check through body for falling asleep asap
-- -> Around 8-9hrs, no variance!!!
+- -> Around 6/8hrs, no variance!!!
 ## Lernstrategie:
 0. **Motivation** - Themenmaterial skimmen, Themenübersicht erstellen, Beispielaufgaben anschauen, Anwendungsmoeglichkeiten betrachten
 -> Projektaufgaben identifizieren, die zum Thema passen

@@ -3,4 +3,3 @@
 - Figure out how to 'strech your energy' in both the voluntary and compulsory part
 - Figure out a daily routine
 - Figure out how to strech introverted-ness in social situations
-- 
