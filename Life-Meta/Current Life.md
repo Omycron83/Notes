@@ -71,7 +71,7 @@ General Education:
 - Go to library / Code something up
 - Drive to uni / look at script
 - Attend uni classes
-- Got to library
+- Go to library
 - Eat smth decent
 - Drive to gym
 - Go to the gym (1:30hr)
