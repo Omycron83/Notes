@@ -18,7 +18,7 @@ It is important to understand that, as one nears (even perceived or expected) me
 
 ### How to recharge mental work capacity:
 - Exercise (Awesome)
-- Meditation (Awesome)
+- Mindfulness Meditation (Awesome)
 - Going for a walk (Great)
 - Deep breathing (Great)
 - Short Naps (Great)
@@ -27,6 +27,7 @@ It is important to understand that, as one nears (even perceived or expected) me
 - Listening to music (Good)
 - Thinking about other, casual subjects (Ok)
 - Mindless media consumption (Ok)
+- Multitasking (Awful)
 
 ### Different kinds of tasks
 - 'Berieseln lassen', i.e. passively witnessing information (e.g. Podcasts, Lectures, Meetings, Books)
