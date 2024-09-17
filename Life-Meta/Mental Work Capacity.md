@@ -22,6 +22,7 @@ It is important to understand that, as one nears (even perceived or expected) me
 - Going for a walk (Great)
 - Deep breathing (Great)
 - Short Naps (Great)
+- Taking a breather (Good)
 - Social interaction (Good)
 - Listening to music (Good)
 - Thinking about other, casual subjects (Ok)
