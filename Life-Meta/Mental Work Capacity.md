@@ -18,7 +18,7 @@ It is important to understand that, as one nears (even perceived or expected) me
 
 ### How to recharge mental work capacity:
 - Exercise (Awesome)
-- Mindfulness Meditation (Awesome)
+- Mindfulness gMeditation (Awesome)
 - Going for a walk (Great)
 - Deep breathing (Great)
 - Short Naps (Great)
