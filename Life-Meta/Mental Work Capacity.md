@@ -12,7 +12,8 @@ An example: one could measure the work-capacity of a person in a given 8-hour wo
 
 ## How to efficiently use work capacity
 - Submaximal effort to increase sustainability
-- Use multiple kinds of tasks intertwind multiple types of tasks, so as to rest one part of the brain as another works
+- Use multiple kinds of tasks intertwind multiple types of tasks, so as to rest one part of the brain as another works, e.g.:
+	- Solving problem 
 
 ### Different kinds of tasks
 - 'Berieseln lassen', i.e. passively witnessing information (e.g. Podcasts, Lectures, Meetings, Books)
