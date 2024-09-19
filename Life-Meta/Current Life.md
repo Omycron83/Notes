@@ -189,20 +189,20 @@ Github: https://github.com/Omycron83
 Pomodoro: https://pomofocus.io/
 When to set alarm: https://sleepopolis.com/calculators/sleep/
 # Hobbies to look into
-- Baking
+- **Baking**
 - Cooking
 - Volleyball
 - PC Benchmarking/Overclocking
-- Fitness
+- **Fitness**
 - Reading
 - Chess
 - Gaming
-- Gymnastic, Boxing
-- Working 
+- Gymnastic, **Boxing**
+- Working ??
 - Play Guitar
 - Origami
-- Philosophy
-- Volunteering
+- **Philosophy**
+- **Volunteering**
 - Researching phenomena
 - Optimizing processes
 - Windsurfing
