@@ -1,6 +1,5 @@
 Eine Permutation ist eine bijektive Abbildung $\pi: X \rightarrow X$.
 Man nennt $S_n$ dabei die Menge der Permutationen von $\{1, ..., n\}$, wobei $|S_n| = n! \approx ((\frac{n}{e})^n \sqrt{2 \pi n}$.
-
 ## Darstellungsmoeglichkeiten
 Man kann diese darstellen als:
 ### 2-Zeilen-Notation:
@@ -37,11 +36,8 @@ Beweis:
 	 Sei $\tau = (a,b)$. Dann kommen $a$ und $b$ entweder im selben oder im unterschiedlichen Zyklus vor. Kommen sie im selben Zyklus vor, so zerlegt dies den Zyklus in zwei Zyklen, und die Anzahl der Zyklen steigt um 1. Kommen sie in unterschiedlichen Zyklen vor, so faellt die Anzahl um 1.
 
 Die Anzahl der Transpositionen, in derer sich $\pi$ faktorisieren laesst, ist dabei entweder gerade oder ungerade.
-
 ### Das Signum
-
 ^0c71fb
-
 Sei $\pi \in S_n$ und sei $\pi = \tau_1 \cdot ... \tau_r = \tau_1' \cdot \tau_r'$. Dann sind $r$ und $r'$ entweder beide gerade oder ungerade. ^f3b9ab
 
 Beweis:
