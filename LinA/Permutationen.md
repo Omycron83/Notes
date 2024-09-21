@@ -47,5 +47,5 @@ Dies motiviert die wohldefinierte Funktion $sgn(\pi) = (-1)^r$ fuer $\pi = \tau_
 Wobei diese ausserdem einen Gruppenhomomorphismus fuer die symmetrische Gruppe ausmacht.v
 
 ## Inversionen:
-Eine Inversion von $\pi$ ist ein paar $i, j$ mit $i , j$ und $\pi(i) > \pi(j)$, und stellen konzeptionell Kreuzungen in der 2-Zeilen-Darstellung dar.
+Eine Inversion von $\pi$ ist ein paar $i, j$ mit $i < j$ und $\pi(i) > \pi(j)$, und stellen konzeptionell Kreuzungen in der 2-Zeilen-Darstellung dar.
 Dabei gilt: $sgn(\pi) = (-1)^{Inv(\pi)}$, wobei $Inv(\pi)$ die Anzahl der Inversionen ist.
