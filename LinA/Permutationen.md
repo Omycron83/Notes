@@ -44,7 +44,7 @@ Beweis:
 	Folgt aus dem Satz zu geraden bzw. ungeraden Transpositionen.
 
 Dies motiviert die wohldefinierte Funktion $sgn(\pi) = (-1)^r$ fuer $\pi = \tau_1 \cdot ... \cdot \tau_r$.
-Wobei diese ausserdem einen Gruppenhomomorphismus fuer die symmetrische Gruppe ausmacht.v
+Wobei diese ausserdem einen Gruppenhomomorphismus fuer die symmetrische Gruppe ausmacht.
 
 ## Inversionen:
 Eine Inversion von $\pi$ ist ein paar $i, j$ mit $i < j$ und $\pi(i) > \pi(j)$, und stellen konzeptionell Kreuzungen in der 2-Zeilen-Darstellung dar.
