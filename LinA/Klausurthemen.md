@@ -95,7 +95,17 @@
 3.6.3. Kordinatensysteme ΦA:Kn→Vund darstellende Matrizen MAB(F)
 3.6.4. Komposition von linearen Abbildungen entspricht Multiplikation der darstellenden Matrizen
 3.4.3. Die darstellende Matrix einer linearen Abbildung wird für speziell angepasste Basen ganz einfach
+3.4.4. Für einen Endomorphismus ist es sinnvoll, für Urbild und  Bild dieselbe Basis zu verwenden. Die analoge Frage, wie man diese _eine_ Basis so wählen kann, damit die darstellende Matrix möglichst einfach wird, ist viel schwieriger zu beantworten. (Die Antwort liefert der Satz von der Jordanschen Normalform, den wir im 2. Semester behandeln werden.)
+3.6.1. Die Transformationsmatrix des Basiswechsels SAB
+3.6.2. Die Transformationsmatrix der Koordinaten TAB=(SAB)−1=SBA mit Beispielen
+3.6.5. Transformationsformel für darstellende Matrizen: MA′B′(F)=TBB′MAB(F)(TAA′)−1
+3.6.6. (Fortsetzung) Beispiel zur Transformationsformel
+3.6.7. Äquivalente und Ähnliche Matrizen
+Inversion einer Matrix
+![[Inversion_einer_Matrix.pdf]]
+Modifizierter Gauß-Algorithmus
 
+3.7. Elementarmatrizen und Matrizenumformungen (nur kurz erklärt)
 # LinA II
 ## Determinanten
 4.1 Beispiele und Definitionen
