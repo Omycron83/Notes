@@ -22,7 +22,25 @@
 2.1.7. Graph einer Funktion
 2.1.8. Relationen, Äquivalenzrelationen
 2.2. Gruppen
-
+2.2.1. Verknüpfungen
+2.2.2. Gruppen: Definition & Beispiele
+2.2.3. Erste Folgerungen aus den Gruppenaxiomen
+2.2.4. Alternatives zweites Gruppenaxiom
+2.2.5. Verknüpfungstafeln für die Grupen bis Ordnung 4
+2.2.6. Untergruppen und Homomorphismen
+2.2.7.-2.2.8. Die zyklischen Gruppen ℤ/_m_ℤ
+2.3. Ringe, Körper, Polynome
+2.3.1. Ringe
+2.3.2. Nullteilerfreiheit
+2.3.3. Körper\
+2.3.4. Beispiele für Körper: ℚ, ℝ, ℂ, 𝔽p = ℤ/pℤ
+2.3.5. Polynome über einem Körper
+2.3.6. Der Polynomring K[t]
+2.3.7. Division mit Rest
+2.3.8. Integritätsringe, Einheiten, Teilbarkeit
+2.3.8. Größter gemeinsamer Teiler, euklidischer Algorithmus
+2.3.9. Relation von Bézout, erweiterter euklidischer Algorithmus
+2.3.10. Nullstellen von Polynomen und Teilbarkeit durch Linearfaktoren
 # LinA II
 ## Determinanten
 4.1 Beispiele und Definitionen
