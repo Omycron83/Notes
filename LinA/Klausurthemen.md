@@ -1,5 +1,11 @@
 Für LinA 1&2:
+1. Lineare Gleichungssysteme  
 
+1.1. Der reelle _n_-dimensionale Raum  
+
+1.2. Geraden in der Ebene
+1.3. Geraden und Ebenen im ℝ3
+1.4. Das Eliminationsverfahren von Gauss
 
 # Determinanten
 4.1 Beispiele und Definitionen
