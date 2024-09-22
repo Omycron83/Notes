@@ -138,7 +138,7 @@ Berechnung der Determinante mit dem Gauß-Algorithmus
 4.4.1 Determinante eines Endomorphismus
 4.4.2 Orientierungstreue und orientierungsumkehrende Endomorphismen  
 4.4.3 Orientierung eines reellen Vektorraums als Äquivalenzklasse von Basen
-4.4.4 Die zwei Orientierungen eines reellen Vektorraums sind genau die Zusammenhangskomponenten des Raums der Basen. Für Rn entsprechen sie den zwei Zusammenhangskomponenten von GL(n,R). [Ohne Beweis, nur ungefähre Idee]
+4.4.4 Die zwei Orientierungen eines reellen Vektorraums sind genau die Zusammenhangskomponenten des Raums der Basen. Für Rn entsprechen sie den zwei Zusammenhangskomponenten von GL(n,R). (Ohne Beweis, nur ungefähre Idee)
 ## Eigenwerte  
 5.1 Beispiele und Definitionen
 5.1.1 Eigenwerte und Eigenvektoren
