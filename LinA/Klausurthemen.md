@@ -88,6 +88,13 @@
 3.5.3. Noch zwei Spezialfälle: 2×2-Drehmatrizen, Matrix mal Spaltenvektor
 3.5.4. Rechenregeln für Matrizenmultiplikation
 3.5.6. Invertierbare Matrizen und allgemeine lineare Gruppe GL(_n_,_K_)
+3.4. Lineare Abbildungen und Matrizen
+3.4.1. Die Werte auf einer Basis bestimmen eine lineare Abbildung
+![[LinA_I_Vorlesung_28_extra.pdf]]
+3.4.2. Weitere Folgerungen. Wahl von Basen bestimmt Koordinatensysteme und erlaubt die Darstellung einer linearen Abbildung durch eine Matrix
+3.6.3. Kordinatensysteme ΦA:Kn→Vund darstellende Matrizen MAB(F)
+3.6.4. Komposition von linearen Abbildungen entspricht Multiplikation der darstellenden Matrizen
+3.4.3. Die darstellende Matrix einer linearen Abbildung wird für speziell angepasste Basen ganz einfach
 
 # LinA II
 ## Determinanten
