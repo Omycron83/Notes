@@ -76,7 +76,18 @@
 3.2.5. Faktorisierungssatz
 3.2.2. Bild und Faser
 3.2.3. Affine Unterräume (Definition)
-
+3.2.6.-3.2.9 Quotientenvektorräume (im Vergleich zum Buch gestrafft und mit anderen Beispielen)
+3.3. Lineare Gleichungssysteme und der Rang einer Matrix
+3.3.1. Der Lösungsraum des homogenen/inhomogenen Systems ist ein Untervektorraum/affiner Unterraum
+3.3.2. Rangsatz: Spaltenrang = Zeilenrang
+3.3.3. Zusammenfassung: Lineare Abbildungen und lineare Gleichungssysteme
+3.3.4. Rangbedingungen für eindeutige und universelle Lösbarkeit eines Gleichungssystems
+3.5. Mulitplikation von Matrizen
+3.5.1. Verkettung von linearen Abbildungen und Matrixmultiplikation
+3.5.2. Rechenschema, Beispiele
+3.5.3. Noch zwei Spezialfälle: 2×2-Drehmatrizen, Matrix mal Spaltenvektor
+3.5.4. Rechenregeln für Matrizenmultiplikation
+3.5.6. Invertierbare Matrizen und allgemeine lineare Gruppe GL(_n_,_K_)
 
 # LinA II
 ## Determinanten
