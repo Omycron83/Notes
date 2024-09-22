@@ -91,7 +91,7 @@
 3.5. Mulitplikation von Matrizen
 3.5.1. Verkettung von linearen Abbildungen und Matrixmultiplikation 
 3.5.2. Rechenschema, Beispiele
-3.5.3. Noch zwei Spezialfälle: 2×2-Drehmatrizen, Matrix mal Spaltenvektor
+3.5.3. Noch zwei Spezialfälle: **2×2-Drehmatrizen**, Matrix mal Spaltenvektor
 3.5.4. Rechenregeln für Matrizenmultiplikation
 3.5.6. Invertierbare Matrizen und allgemeine lineare Gruppe GL(_n_,_K_)
 Inversion einer Matrix
