@@ -12,7 +12,7 @@
 1.4.6. Elementare Zeilenumformungen
 1.4.7. Jede Matrix kann durch elementare Zeilenumformungen in Zeilenstufenform gebracht werden
 
-## Algebraische Grundlagen
+## Algebraische Grundlagen:
 
 ### 2.1 Mengen, Relationen und Abbildungen
 2.1.1. Mengen
@@ -36,7 +36,7 @@
 2.3.2. Nullteilerfreiheit
 2.3.3. Körper\
 2.3.4. Beispiele für Körper: ℚ, ℝ, ℂ, 𝔽p = ℤ/pℤ'
-### Polynome
+### 2.3.5 Polynome
 2.3.5. Polynome über einem Körper
 2.3.6. Der Polynomring K[t]
 2.3.7. Division mit Rest
@@ -48,7 +48,8 @@
 2.3.11. Fundamentalsatz der Algebra
 2.3.12. Nullstellen und Faktorisierung von reellen Polynomen
 2.3.13. Elementarsymmetrische Funktionen
-
+\
+## Grundlagen der Linearen Algebra:
 ### 2.4. Vektorräume
 2.4.1. Vektorraumaxiome und einfache Folgerungen, Beispiele
 2.4.2. Untervektorräume. Definition und Beispiele
@@ -80,6 +81,8 @@
 3.2.2. Bild und Faser
 3.2.3. Affine Unterräume (Definition)
 3.2.6.-3.2.9 Quotientenvektorräume (im Vergleich zum Buch gestrafft und mit anderen Beispielen)
+
+## Einbettung von Matrizen:
 ### 3.3. Lineare Gleichungssysteme und der Rang einer Matrix
 3.3.1. Der Lösungsraum des homogenen/inhomogenen Systems ist ein Untervektorraum/affiner Unterraum
 3.3.2. Rangsatz: Spaltenrang = Zeilenrang
@@ -111,7 +114,7 @@ Modifizierter Gauß-Algorithmus
 3.6.7. Äquivalente und Ähnliche Matrizen
 
 # LinA II
-## Determinanten
+## Determinanten:
 ### 4.1 Beispiele und Definitionen
 4.1.1 Anschaulich-geometrische Behandlung
 ![[Det_geometrisch.pdf]]
@@ -139,7 +142,7 @@ Berechnung der Determinante mit dem Gauß-Algorithmus
 4.4.2 Orientierungstreue und orientierungsumkehrende Endomorphismen  
 4.4.3 Orientierung eines reellen Vektorraums als Äquivalenzklasse von Basen
 4.4.4 Die zwei Orientierungen eines reellen Vektorraums sind genau die Zusammenhangskomponenten des Raums der Basen. Für Rn entsprechen sie den zwei Zusammenhangskomponenten von GL(n,R). (Ohne Beweis, nur ungefähre Idee)
-## 5. 1 Eigenwerte  
+## 5. 1 Eigenwerte und Normalformen
 5.1 Beispiele und Definitionen
 5.1.1 Eigenwerte und Eigenvektoren
 5.1.2 Diagonalisierbarkeit
@@ -176,6 +179,7 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 5.7.2 _Fortsetzung_ (Korollar zum Lemma und Beweis des Satzes)
 5.7.1 Normalform eines nilpotenten Endomorphismus
 5.7.3 Beweis des Satzes von der Jordanschen Normalform. Bemerkung über abgeschwächte Voraussetzungen und die reelle Jordanschen Normalform (s. Aufgabe 12)
+## Innere Produkte:
 ### 6.1 Kanonische Skalar- und Vektorprodukte
 6.1 Das kanonische Skalarprodukt im Rn
 6.1.1 Skalarprodukt, Eigenschaften, [Euklidische] Norm und Metrik  
