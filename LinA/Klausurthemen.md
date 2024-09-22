@@ -1,8 +1,8 @@
 # LinA I
+
+## Grundlagen der linearen Algebra:
 1. Lineare Gleichungssysteme  
-
 1.1. Der reelle _n_-dimensionale Raum  
-
 1.2. Geraden in der Ebene
 1.3. Geraden und Ebenen im ℝ3
 1.4. Das Eliminationsverfahren von Gauss
@@ -10,9 +10,11 @@
 1.4.3-1.4.4. Lösen eines Gleichungssystems in Zeilenstufenform
 1.4.5. Spezialfall: quadradische Matrix _r=n_
 1.4.6. Elementare Zeilenumformungen
-1.4.7. Jede Matrix kann durch elementare Zeilenumformungen in Zeilenstufenform gebrach werden
+1.4.7. Jede Matrix kann durch elementare Zeilenumformungen in Zeilenstufenform gebracht werden
 
-2.1 Mengen und Abbildungen
+## Algebraische Grundlagen
+
+### 2.1 Mengen, Relationen und Abbildungen
 2.1.1. Mengen
 2.1.2. Teilmenge, Vereinigung, Durchschnitt, Differenzmenge
 2.1.3. Abbildungen
@@ -21,7 +23,7 @@
 2.1.6. Direktes Produkt von Mengen
 2.1.7. Graph einer Funktion
 2.1.8. Relationen, Äquivalenzrelationen
-2.2. Gruppen
+### 2.2. Gruppen
 2.2.1. Verknüpfungen
 2.2.2. Gruppen: Definition & Beispiele
 2.2.3. Erste Folgerungen aus den Gruppenaxiomen
@@ -104,7 +106,7 @@
 Inversion einer Matrix
 ![[Inversion_einer_Matrix.pdf]]
 Modifizierter Gauß-Algorithmus
-
+![[Modifizierter_Gauss.pdf]]
 3.7. Elementarmatrizen und Matrizenumformungen (nur kurz erklärt)
 # LinA II
 ## Determinanten
