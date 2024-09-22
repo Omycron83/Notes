@@ -31,11 +31,12 @@
 2.2.5. Verknüpfungstafeln für die Grupen bis Ordnung 4
 2.2.6. Untergruppen und Homomorphismen
 2.2.7.-2.2.8. Die zyklischen Gruppen ℤ/_m_ℤ
-2.3. Ringe, Körper, Polynome
+### 2.3. Ringe, Körper, 
 2.3.1. Ringe
 2.3.2. Nullteilerfreiheit
 2.3.3. Körper\
-2.3.4. Beispiele für Körper: ℚ, ℝ, ℂ, 𝔽p = ℤ/pℤ
+2.3.4. Beispiele für Körper: ℚ, ℝ, ℂ, 𝔽p = ℤ/pℤ'
+### Polynome
 2.3.5. Polynome über einem Körper
 2.3.6. Der Polynomring K[t]
 2.3.7. Division mit Rest
@@ -48,14 +49,14 @@
 2.3.12. Nullstellen und Faktorisierung von reellen Polynomen
 2.3.13. Elementarsymmetrische Funktionen
 
-2.4. Vektorräume
+### 2.4. Vektorräume
 2.4.1. Vektorraumaxiome und einfache Folgerungen, Beispiele
 2.4.2. Untervektorräume. Definition und Beispiele
 2.4.3. Untervektorräume sind Vektorräume, Schnitte
 2.4.4. Linearkombinationen und erzeugte Unterräume
 2.4.5. Lineare Unabhängigkeit (Definition und Lemma)
 2.4.5. Lineare Unabhängigkeit (Beispiele und Bemerkung)
-2.5. Basis und Dimension
+### 2.5. Basis und Dimension
 2.5.1. Erzeugendensystem und Basis: Definitionen und Beispiele
 2.5.2. Äquivalente Charakterisierungen von Basen
 2.5.3. Basisauswahlsatz
@@ -63,12 +64,12 @@
 2.5.5. Dimension, Basisergänzungssatz, Beispiele
 2.5.6. Für Moduln (das sind "Vektorräume" über Ringen) kann man den Begriff der Dimension so nicht definieren
 2.5.7. Mit dem Gauß-Algorithmus ein Erzeugendensystem zu einer Basis machen
-2.6. Summen von Vektorräumen
+### 2.6. Summen von Vektorräumen
 2.6.1. Definition und Dimensionsformel für Summen
 2.6.2. Direkte Summe von zwei Unterräumen
 2.6.3. Mehr über direkte Summen von zwei Unterräumen
 2.6.4. Direkte Summen von mehreren Unterräumen
-3. Lineare Abbildungen
+### 3. Lineare Abbildungen
 3.1.2. Lineare Abbildungen: Definition
 3.1.2. Isomorphismus, Endomorphismus, Automorphismus. Einfache Folgerungen
 3.1.3. Vektorraum Hom(_V,W_) der linearen Abbildungen und Endomorphismenring End(_V_)
@@ -79,18 +80,18 @@
 3.2.2. Bild und Faser
 3.2.3. Affine Unterräume (Definition)
 3.2.6.-3.2.9 Quotientenvektorräume (im Vergleich zum Buch gestrafft und mit anderen Beispielen)
-3.3. Lineare Gleichungssysteme und der Rang einer Matrix
+### 3.3. Lineare Gleichungssysteme und der Rang einer Matrix
 3.3.1. Der Lösungsraum des homogenen/inhomogenen Systems ist ein Untervektorraum/affiner Unterraum
 3.3.2. Rangsatz: Spaltenrang = Zeilenrang
 3.3.3. Zusammenfassung: Lineare Abbildungen und lineare Gleichungssysteme
 3.3.4. Rangbedingungen für eindeutige und universelle Lösbarkeit eines Gleichungssystems
 3.5. Mulitplikation von Matrizen
-3.5.1. Verkettung von linearen Abbildungen und Matrixmultiplikation
+3.5.1. Verkettung von linearen Abbildungen und Matrixmultiplikation 
 3.5.2. Rechenschema, Beispiele
 3.5.3. Noch zwei Spezialfälle: 2×2-Drehmatrizen, Matrix mal Spaltenvektor
 3.5.4. Rechenregeln für Matrizenmultiplikation
 3.5.6. Invertierbare Matrizen und allgemeine lineare Gruppe GL(_n_,_K_)
-3.4. Lineare Abbildungen und Matrizen
+### 3.4. Lineare Abbildungen und Matrizen
 3.4.1. Die Werte auf einer Basis bestimmen eine lineare Abbildung
 ![[LinA_I_Vorlesung_28_extra.pdf]]
 3.4.2. Weitere Folgerungen. Wahl von Basen bestimmt Koordinatensysteme und erlaubt die Darstellung einer linearen Abbildung durch eine Matrix
