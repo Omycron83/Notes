@@ -61,6 +61,22 @@
 2.5.5. Dimension, Basisergänzungssatz, Beispiele
 2.5.6. Für Moduln (das sind "Vektorräume" über Ringen) kann man den Begriff der Dimension so nicht definieren
 2.5.7. Mit dem Gauß-Algorithmus ein Erzeugendensystem zu einer Basis machen
+2.6. Summen von Vektorräumen
+2.6.1. Definition und Dimensionsformel für Summen
+2.6.2. Direkte Summe von zwei Unterräumen
+2.6.3. Mehr über direkte Summen von zwei Unterräumen
+2.6.4. Direkte Summen von mehreren Unterräumen
+3. Lineare Abbildungen
+3.1.2. Lineare Abbildungen: Definition
+3.1.2. Isomorphismus, Endomorphismus, Automorphismus. Einfache Folgerungen
+3.1.3. Vektorraum Hom(_V,W_) der linearen Abbildungen und Endomorphismenring End(_V_)
+3.2. Bild, Fasern und Kern, Quotientenvektorräume
+3.2.1. Definition _Bild, Faser, Kern_. Injektivität und surjektivität
+3.2.4. Dimensionsformel: dim _V_ = dim Ker _F_ + dim Im _F_, Beweis und Folgerungen
+3.2.5. Faktorisierungssatz
+3.2.2. Bild und Faser
+3.2.3. Affine Unterräume (Definition)
+
 
 # LinA II
 ## Determinanten
