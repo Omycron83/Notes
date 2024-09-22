@@ -91,6 +91,11 @@
 3.5.3. Noch zwei Spezialfälle: 2×2-Drehmatrizen, Matrix mal Spaltenvektor
 3.5.4. Rechenregeln für Matrizenmultiplikation
 3.5.6. Invertierbare Matrizen und allgemeine lineare Gruppe GL(_n_,_K_)
+Inversion einer Matrix
+![[Inversion_einer_Matrix.pdf]]
+Modifizierter Gauß-Algorithmus
+![[Modifizierter_Gauss.pdf]]
+3.7. Elementarmatrizen und Matrizenumformungen (nur kurz erklärt)
 ### 3.4. Lineare Abbildungen und Matrizen
 3.4.1. Die Werte auf einer Basis bestimmen eine lineare Abbildung
 ![[LinA_I_Vorlesung_28_extra.pdf]]
@@ -104,23 +109,20 @@
 3.6.5. Transformationsformel für darstellende Matrizen: MA′B′(F)=TBB′MAB(F)(TAA′)−1
 3.6.6. (Fortsetzung) Beispiel zur Transformationsformel
 3.6.7. Äquivalente und Ähnliche Matrizen
-Inversion einer Matrix
-![[Inversion_einer_Matrix.pdf]]
-Modifizierter Gauß-Algorithmus
-![[Modifizierter_Gauss.pdf]]
-3.7. Elementarmatrizen und Matrizenumformungen (nur kurz erklärt)
+
 # LinA II
 ## Determinanten
-4.1 Beispiele und Definitionen
+### 4.1 Beispiele und Definitionen
 4.1.1 Anschaulich-geometrische Behandlung
 ![[Det_geometrisch.pdf]]
 4.1.2 Definition der Determinante durch charakteristische Eigenschaften (D1)-(D2)  
 4.1.3 Erste Folgerungen [nur (D4)-(D7), (D13). Die anderen später mit Leibniz-Formel]
-4.2 Existenz und Eindeutigkeit der Determinante (Leibnizformel)
+### 4.2 Permutationen
 4.2.1 Permutationen und die symmetrischen Gruppen Sn
 4.2.2 Transpositionen
 4.2.3 Fehlstände und Signum
 4.2.4 Die Alternierende Gruppe An
+### 4.2 Fortfuehrung Determinanten
 4.2.5 Die Leibniz-Formel
 4.2.5 Die Leibniz-Formel, Fortsetzung: Existenz und Eindeutigkeit der Determinante
 Determinante einer oberen Dreiecksmatrix [Eigenschaft (D8) in 4.1.3]
@@ -132,7 +134,7 @@ Cramersche Regel [4.3.4 im Buch]
 Entwicklungssatz von Laplace [4.3.2 im Buch]
 - Entwicklungssatz von Laplace (Fortsetzung)
 Berechnung der Determinante mit dem Gauß-Algorithmus
-4.4 Determinante eines Endomorphismus und Orientierung
+### 4.4 Determinante eines Endomorphismus und Orientierung
 4.4.1 Determinante eines Endomorphismus
 4.4.2 Orientierungstreue und orientierungsumkehrende Endomorphismen  
 4.4.3 Orientierung eines reellen Vektorraums als Äquivalenzklasse von Basen
