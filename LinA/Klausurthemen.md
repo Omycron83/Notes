@@ -148,7 +148,7 @@ Berechnung der Determinante mit dem Gauß-Algorithmus
 5.2 Das charakteristische Polynom
 5.2.1-3 Charakteristische Funktion und charakteristisches Polynom
 5.2.4 Berechnung der Eigenräume und Beispiele
-5.3 Diagonalisierung
+### 5.3 Diagonalisierung
 5.3.1 Eine notwendige und eine hinreichende Bedingung für Diagonalisierbarkeit
 5.3.4 Beispiel aus dem Buch und zusätzlich A=(λ10λ)  
 5.3.2 Algebraische und geometrische Vielfachheit eines Eigenwerts
@@ -156,13 +156,13 @@ Berechnung der Determinante mit dem Gauß-Algorithmus
 Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 5.3.5 Beispiel einer linearen Differentialgleichung: die gedämpfte Schwingung
 5.3.6 Zwei diagonalisierbare Endomorphismen sind genau dann simultan diagonalisierbar, wenn sie kommutieren.  
-5.5 Die Jordansche Normalform. Formulierung des Satzes und Anwendungen
+### 5.5 Die Jordansche Normalform. Formulierung des Satzes und Anwendungen
 5.5.1 Jordan-Blöcke, Jordan-Matrizen, Satz von der Jordanschen Normalform
 5.5.2 An der Jordanschen Normalform kann man die algebraischen und geometrischen Vielfachheiten der Eigenwerte ablesen
 5.5.3 Satz von der Jordanschen Normalform (Matrixversion)
 5.5.5 Satz von der Jordanschen Normalform (Jordan-Ketten-Version)
 5.5.3 Anwendung: Lineare Diffenrentialgleichungen  
-5.6 Polynome von Endomorphismen
+### 5.6 Polynome von Endomorphismen
 5.6.1 Spezialfall des Satzes von Cayley-Hamilton für diagonalisierbare Endomorphismen
 5.6.2 Einsetzungshomomorphismen
 5.6.3 Kerp(F) ist ein F-invarianter Unterraum
@@ -171,12 +171,12 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 5.6.5 Das Ideal eines Endomorphismus oder einer Matrix _(Fortsetzung)_
 5.6.6 An der Jordanschen Normalform kann man das Minimalpolynom ablesen.
 5.6.7 Der Satz von Cayley-Hamilton
-5.7 Die Jordansche Normalform, Beweis  
+### 5.7 Die Jordansche Normalform, Beweis  
 5.7.2 Hauptraumzerlegung (Satz und Lemma mit Beweis)
 5.7.2 _Fortsetzung_ (Korollar zum Lemma und Beweis des Satzes)
 5.7.1 Normalform eines nilpotenten Endomorphismus
 5.7.3 Beweis des Satzes von der Jordanschen Normalform. Bemerkung über abgeschwächte Voraussetzungen und die reelle Jordanschen Normalform (s. Aufgabe 12)
-## Bilinearformen und Skalarprodukte
+### Kanonische Skalarprodukte
 6.1 Das kanonische Skalarprodukt im Rn
 6.1.1 Skalarprodukt, Eigenschaften, [Euklidische] Norm und Metrik  
 6.1.2 Eigenschaften von Norm und Metrik  
@@ -188,10 +188,10 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 6.3 Das kanonische Scalarprodukt im Cn
 6.3.1 Definition und Eigenschaften  
 6.3.2 Skalarprodukt im Cn vs Scalarprodukt im R2n
-6.4 Bilinearformen ~~und quadratische Formen~~  
+### 6.4 Bilinearformen ~~und quadratische Formen~~  
 6.4.1 Bilinearform, symmetrisch, alternierend, schiefsymmetrisch  
 6.4.2 Matrix einer Bilinearform
-6.5 Skalarprodukte
+### 6.5 Skalarprodukte
 6.5.1 Sesquilinearformen, hermitesch, darstellende Matrix bzgl. einer Basis
 6.5.2 positiv definit
 6.5.3 Cauchy-Schwarzsche Ungleichung, induzierte Norm und Metrik
