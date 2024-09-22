@@ -179,7 +179,7 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 5.7.2 _Fortsetzung_ (Korollar zum Lemma und Beweis des Satzes)
 5.7.1 Normalform eines nilpotenten Endomorphismus
 5.7.3 Beweis des Satzes von der Jordanschen Normalform. Bemerkung über abgeschwächte Voraussetzungen und die reelle Jordanschen Normalform (s. Aufgabe 12)
-## Innere Produkte:
+## Innere Produkte und weitere Matrixeigenschaften:
 ### 6.1 Kanonische Skalar- und Vektorprodukte
 6.1 Das kanonische Skalarprodukt im Rn
 6.1.1 Skalarprodukt, Eigenschaften, [Euklidische] Norm und Metrik  
