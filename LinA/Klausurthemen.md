@@ -41,6 +41,27 @@
 2.3.8. Größter gemeinsamer Teiler, euklidischer Algorithmus
 2.3.9. Relation von Bézout, erweiterter euklidischer Algorithmus
 2.3.10. Nullstellen von Polynomen und Teilbarkeit durch Linearfaktoren
+2.3.10. Vielfachheit einer Nullstelle
+2.3.11. Fundamentalsatz der Algebra
+2.3.12. Nullstellen und Faktorisierung von reellen Polynomen
+2.3.13. Elementarsymmetrische Funktionen
+
+2.4. Vektorräume
+2.4.1. Vektorraumaxiome und einfache Folgerungen, Beispiele
+2.4.2. Untervektorräume. Definition und Beispiele
+2.4.3. Untervektorräume sind Vektorräume, Schnitte
+2.4.4. Linearkombinationen und erzeugte Unterräume
+2.4.5. Lineare Unabhängigkeit (Definition und Lemma)
+2.4.5. Lineare Unabhängigkeit (Beispiele und Bemerkung)
+2.5. Basis und Dimension
+2.5.1. Erzeugendensystem und Basis: Definitionen und Beispiele
+2.5.2. Äquivalente Charakterisierungen von Basen
+2.5.3. Basisauswahlsatz
+2.5.4. Austauschsatz
+2.5.5. Dimension, Basisergänzungssatz, Beispiele
+2.5.6. Für Moduln (das sind "Vektorräume" über Ringen) kann man den Begriff der Dimension so nicht definieren
+2.5.7. Mit dem Gauß-Algorithmus ein Erzeugendensystem zu einer Basis machen
+
 # LinA II
 ## Determinanten
 4.1 Beispiele und Definitionen
