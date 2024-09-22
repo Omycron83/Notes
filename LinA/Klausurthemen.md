@@ -1,4 +1,4 @@
-Für LinA 1&2:
+# LinA I
 1. Lineare Gleichungssysteme  
 
 1.1. Der reelle _n_-dimensionale Raum  
@@ -6,8 +6,25 @@ Für LinA 1&2:
 1.2. Geraden in der Ebene
 1.3. Geraden und Ebenen im ℝ3
 1.4. Das Eliminationsverfahren von Gauss
+1.4.1-1.4.2. Lineare Gleichungssysteme, Matrixschreibweise, Lösungsmenge
+1.4.3-1.4.4. Lösen eines Gleichungssystems in Zeilenstufenform
+1.4.5. Spezialfall: quadradische Matrix _r=n_
+1.4.6. Elementare Zeilenumformungen
+1.4.7. Jede Matrix kann durch elementare Zeilenumformungen in Zeilenstufenform gebrach werden
 
-# Determinanten
+2.1 Mengen und Abbildungen
+2.1.1. Mengen
+2.1.2. Teilmenge, Vereinigung, Durchschnitt, Differenzmenge
+2.1.3. Abbildungen
+2.1.4. injektiv, surjektiv, bijektiv
+2.1.5. Komposition von Abbildungen
+2.1.6. Direktes Produkt von Mengen
+2.1.7. Graph einer Funktion
+2.1.8. Relationen, Äquivalenzrelationen
+2.2. Gruppen
+
+# LinA II
+## Determinanten
 4.1 Beispiele und Definitionen
 4.1.1 Anschaulich-geometrische Behandlung
 ![[Det_geometrisch.pdf]]
@@ -34,7 +51,7 @@ Berechnung der Determinante mit dem Gauß-Algorithmus
 4.4.2 Orientierungstreue und orientierungsumkehrende Endomorphismen  
 4.4.3 Orientierung eines reellen Vektorraums als Äquivalenzklasse von Basen
 4.4.4 Die zwei Orientierungen eines reellen Vektorraums sind genau die Zusammenhangskomponenten des Raums der Basen. Für Rn entsprechen sie den zwei Zusammenhangskomponenten von GL(n,R). [Ohne Beweis, nur ungefähre Idee]
-# Eigenwerte  
+## Eigenwerte  
 5.1 Beispiele und Definitionen
 5.1.1 Eigenwerte und Eigenvektoren
 5.1.2 Diagonalisierbarkeit
@@ -71,7 +88,7 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 5.7.2 _Fortsetzung_ (Korollar zum Lemma und Beweis des Satzes)
 5.7.1 Normalform eines nilpotenten Endomorphismus
 5.7.3 Beweis des Satzes von der Jordanschen Normalform. Bemerkung über abgeschwächte Voraussetzungen und die reelle Jordanschen Normalform (s. Aufgabe 12)
-# Bilinearformen und Skalarprodukte
+## Bilinearformen und Skalarprodukte
 6.1 Das kanonische Skalarprodukt im Rn
 6.1.1 Skalarprodukt, Eigenschaften, [Euklidische] Norm und Metrik  
 6.1.2 Eigenschaften von Norm und Metrik  
