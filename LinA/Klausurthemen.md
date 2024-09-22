@@ -207,7 +207,7 @@ Extra: Die Isometrien eines euklidischen Vektorraums [[Notizen](https://isis.tu-
 6.6.2 Orthogonale und unitäre Matrizen und die Gruppen O(n), SO(n), U(n) und SU(n) _(wird fortgesetzt)_
 6.6.2 Spalten einer orthogonalen/unitären Matrix bilden eine Orthonormalbasis. Zeilen ebenso.
 6.6.3 O(2) und O(3)
-6.7 Selbstadjungierte und normale Endomorphismen
+### 6.7 Selbstadjungierte und normale Endomorphismen
 6.7.1 Selbstadjungierte Endomorphismen und ihre Matrixdarstellungen bzgl. einer Orthonormalbasis
 6.7.2 Diagonalisierungssatz _(Fortsetzung folgt)_  
 6.7.2 Diagonalisierungssatz _(Beweis)_
