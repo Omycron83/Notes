@@ -139,7 +139,7 @@ Berechnung der Determinante mit dem Gauß-Algorithmus
 4.4.2 Orientierungstreue und orientierungsumkehrende Endomorphismen  
 4.4.3 Orientierung eines reellen Vektorraums als Äquivalenzklasse von Basen
 4.4.4 Die zwei Orientierungen eines reellen Vektorraums sind genau die Zusammenhangskomponenten des Raums der Basen. Für Rn entsprechen sie den zwei Zusammenhangskomponenten von GL(n,R). (Ohne Beweis, nur ungefähre Idee)
-## Eigenwerte  
+## 5. 1 Eigenwerte  
 5.1 Beispiele und Definitionen
 5.1.1 Eigenwerte und Eigenvektoren
 5.1.2 Diagonalisierbarkeit
@@ -176,7 +176,7 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 5.7.2 _Fortsetzung_ (Korollar zum Lemma und Beweis des Satzes)
 5.7.1 Normalform eines nilpotenten Endomorphismus
 5.7.3 Beweis des Satzes von der Jordanschen Normalform. Bemerkung über abgeschwächte Voraussetzungen und die reelle Jordanschen Normalform (s. Aufgabe 12)
-### Kanonische Skalarprodukte
+### 6.1 Kanonische Skalar- und Vektorprodukte
 6.1 Das kanonische Skalarprodukt im Rn
 6.1.1 Skalarprodukt, Eigenschaften, [Euklidische] Norm und Metrik  
 6.1.2 Eigenschaften von Norm und Metrik  
@@ -197,7 +197,7 @@ Extra: Potenzen einer diagonalisierbaren Matrix, die Pell-Folge
 6.5.3 Cauchy-Schwarzsche Ungleichung, induzierte Norm und Metrik
 6.5.4 orthogonale Vektoren und Unterräume, Orthonomormalbasen und ihre Koordinatenabbildungen
 6.5.5 Der Orthonormalisierungssatz (benannt nach [Jørgen Gram](https://de.wikipedia.org/wiki/J%C3%B8rgen_Pedersen_Gram) und [Erhard Schmidt](https://de.wikipedia.org/wiki/Erhard_Schmidt_(Mathematiker)))
-6.6 Orthogonale und unitäre Endomorphismen
+### 6.6 Orthogonale und unitäre Endomorphismen
 6.6.1 Definition und erste Folgerungen
 Extra: Die Isometrien eines euklidischen Vektorraums [[Notizen](https://isis.tu-berlin.de/pluginfile.php/3252286/mod_label/intro/Isometrien.pdf)]  
 6.6.2 Orthogonale und unitäre Matrizen und die Gruppen O(n), SO(n), U(n) und SU(n) _(wird fortgesetzt)_
