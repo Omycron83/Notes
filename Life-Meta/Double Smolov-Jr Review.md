@@ -1,1 +1,1 @@
-TLDR: Ran smolov jr for four weeks for bench and pull ups simultaneously.  
+TLDR: Ran smolov jr for four weeks for bench and pull ups simultaneously. Increased S/B/D/O/Pull Ups 130kg/105kg/145kg/55kg/+30kg reps ->  in 3 weeks in september 2024.
