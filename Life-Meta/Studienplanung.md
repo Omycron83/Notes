@@ -24,3 +24,8 @@ $\sum 56$
 
 
 $\sum 42 + \sum 39 = 81$
+
+
+- Auslandsjahr in USA, dort Projektarbeit
+- Master in England 1 Jahr
+- PhD in ML 
