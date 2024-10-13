@@ -19,14 +19,14 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 
-- Machine Learning I
+- Machine Learning I-X (12 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 31 + \sum 27 = 58$
+$\sum 31 + \sum 27 + \sum 12 = 70$
 ## 2. Semester
 
 
@@ -47,3 +47,5 @@ Mathe:
 - DG1
 - Funktionalanalysis I
 - NlOpt 1/2
+
+- Machine Learning 1-X, 2-X
