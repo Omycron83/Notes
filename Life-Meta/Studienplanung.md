@@ -44,7 +44,8 @@ $\sum 31 + \sum 27 + \sum 9 = 67$
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 3. Semester
-
+- DG 1
+- 
 
 
 ## 4. Semester
