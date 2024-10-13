@@ -28,15 +28,26 @@ Weitere Pruefungen/Uebungsscheine:
 
 $\sum 31 + \sum 27 + \sum 9 = 67$
 ## 2. Semester
-- Analysis 3
-- CoMa 2
-- WT 2
-- NlOpt
+- Analysis 3 (10 LP)
+- CoMa 2 (11 LP)
+- WT 2 (10 LP)
+- NlOpt (10 LP)
 
-- Systemprogrammierung
-- AlgoDat
-- Information und Datenanalyse
-- Formale Sprachen und Automaten
+- Systemprogrammierung (6 LP)
+- AlgoDat (6 LP)
+- Information und Datenanalyse (6 LP)
+- Formale Sprachen und Automaten (6 LP)
+- Diskrete Strukturen (6 LP)
+
+- Machine Learning 2 (9 LP)
+
+$\sum 41 + \sum 30 + \sum 9 = 80$
+
+## 3. Semester
+
+
+
+## 4. Semester
 
 
 - Auslandsjahr in USA, dort Projektarbeit
