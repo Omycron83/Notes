@@ -19,14 +19,14 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 
-- Machine Learning I-X (12 LP)
+- Machine Learning I (12 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 31 + \sum 27 + \sum 12 = 70$
+$\sum 31 + \sum 27 + \sum 9 = 67$
 ## 2. Semester
 
 
