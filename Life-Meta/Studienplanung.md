@@ -18,11 +18,17 @@ $\sum 46$
 - Einführung in die Programmierung (6LP)
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
-- Logik (6 LP)
-- Softwaretechnik und Programmierparadigmen (6LP)
+
+Weitere Pruefungen/Uebungsscheine:
+- LinA I + 2 
+- Ana I
+- LinA + AnaI fuer Ingenieurswissenschaften
+
+$\sum 32 + \sum 33 = 65$
+## 2. Semester
 
 
-$\sum 42 + \sum 39 = 81$
+
 
 
 - Auslandsjahr in USA, dort Projektarbeit
