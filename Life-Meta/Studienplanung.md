@@ -24,7 +24,7 @@ Weitere Pruefungen/Uebungsscheine:
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 32 + \sum 33 = 65$
+$\sum 32 + \sum 27 = 59$
 ## 2. Semester
 
 
