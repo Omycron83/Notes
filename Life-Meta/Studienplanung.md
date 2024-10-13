@@ -19,6 +19,8 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 
+- Machine Learning I
+
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
