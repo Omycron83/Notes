@@ -34,3 +34,7 @@ $\sum 32 + \sum 27 = 59$
 - Auslandsjahr in USA, dort Projektarbeit
 - Master in England 1 Jahr
 - PhD in ML 
+
+
+Module: 
+- Lin
