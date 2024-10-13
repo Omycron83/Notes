@@ -12,7 +12,6 @@ $\sum 46$
 - Analysis II (10 LP)
 - Numerische Mathematik I (10 LP)
 - Computerorientierte Mathematik I (12 LP)
-- Differentialgleichungen I (10 LP)
 
 - Informatik Propädeutikum (3LP)
 - Rechnerorganisation (6 LP)
