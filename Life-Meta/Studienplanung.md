@@ -11,7 +11,7 @@ $\sum 46$
 ## 1. Semester
 - Analysis II (10 LP)
 - Numerische Mathematik I (10 LP)
-- Computerorientierte Mathematik I (12 LP)
+- Computerorientierte Mathematik I (11 LP)
 
 - Informatik Propädeutikum (3 LP)
 - Rechnerorganisation (6 LP)
@@ -24,7 +24,7 @@ Weitere Pruefungen/Uebungsscheine:
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 32 + \sum 27 = 59$
+$\sum 31 + \sum 27 = 58$
 ## 2. Semester
 
 
