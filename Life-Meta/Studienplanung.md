@@ -19,7 +19,7 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 
-- Machine Learning I (12 LP)
+- Machine Learning I (9 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
@@ -28,9 +28,15 @@ Weitere Pruefungen/Uebungsscheine:
 
 $\sum 31 + \sum 27 + \sum 9 = 67$
 ## 2. Semester
+- Analysis 3
+- CoMa 2
+- WT 2
+- NlOpt
 
-
-
+- Systemprogrammierung
+- AlgoDat
+- Information und Datenanalyse
+- Formale Sprachen und Automaten
 
 
 - Auslandsjahr in USA, dort Projektarbeit
