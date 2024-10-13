@@ -36,5 +36,12 @@ $\sum 32 + \sum 27 = 59$
 - PhD in ML 
 
 
-Module: 
-- Lin
+Module:
+Mathe:
+- LinA 1/2
+- Ana 1/2/3
+- WT1/2
+- NuMa I
+- DG1
+- Funktionalanalysis I
+- NlOpt 1/2
