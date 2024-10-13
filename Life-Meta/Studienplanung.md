@@ -13,9 +13,9 @@ $\sum 46$
 - Numerische Mathematik I (10 LP)
 - Computerorientierte Mathematik I (12 LP)
 
-- Informatik Propädeutikum (3LP)
+- Informatik Propädeutikum (3 LP)
 - Rechnerorganisation (6 LP)
-- Einführung in die Programmierung (6LP)
+- Einführung in die Programmierung (6 LP)
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 
