@@ -20,7 +20,7 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP) P
 - Berechenbarkeit und Komplexität (6 LP) K
 
-- Machine Learning I (9 LP) 
+- Machine Learning I + Big Data Scalable Machine Learning (9 LP) 
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
