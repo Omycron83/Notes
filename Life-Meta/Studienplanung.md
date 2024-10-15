@@ -21,6 +21,7 @@ $\sum 46$
 - Berechenbarkeit und Komplexität (6 LP) K
 
 - Machine Learning I + Big Data Scalable Machine Learning (9 LP) 
+- Deep Learning 
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
