@@ -30,10 +30,10 @@ Weitere Pruefungen/Uebungsscheine:
 
 $\sum 41 + \sum 27 + \sum 9 = 77$
 ## 2. Semester
-- Analysis 3 (10 LP)
-- CoMa 2 (11 LP)
-- WT 2 (10 LP)
-- NlOpt (10 LP)
+- Analysis 3 (10 LP) K
+- CoMa 2 (11 LP) K
+- WT 2 (10 LP) K
+- NlOpt (10 LP) K
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
