@@ -12,7 +12,7 @@ $\sum 46$
 - Analysis II (10 LP)
 - Numerische Mathematik I (10 LP)
 - Computerorientierte Mathematik I (11 LP)
-( - Differentialgleichungen 1 (10LP) )
+- Differentialgleichungen 1 (10LP)
 
 - Informatik Propädeutikum (3 LP)
 - Rechnerorganisation (6 LP)
@@ -20,7 +20,7 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP)
 - Berechenbarkeit und Komplexität (6 LP)
 
-( - Machine Learning I (9 LP) )
+- Machine Learning I (9 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
