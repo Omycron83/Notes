@@ -42,10 +42,14 @@ $\sum 41 + \sum 27 + \sum 9 = 77$
 
 - Machine Learning 2 (9 LP)
 
+Weitere Pruefungen/Uebungsscheine:
+- WT1
+- 
+
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 3. Semester
-- DG 1
+- 
 - 
 
 
