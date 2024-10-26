@@ -27,6 +27,10 @@ Weitere Pruefungen/Uebungsscheine:
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
+Extracurriculas:
+- Formula Student
+- FG Machine Learning?
+
 $\sum 41 + \sum 27 + \sum 9 = 77$
 ## 2. Semester
 - Analysis 3 (10 LP) K
