@@ -9,16 +9,16 @@
 
 $\sum 46$
 ## 1. Semester
-- Analysis II (10 LP)
-- Numerische Mathematik I (10 LP)
-- Computerorientierte Mathematik I (11 LP)
-- Differentialgleichungen 1 (10LP)
+- Analysis II (10 LP) -
+- Numerische Mathematik I (10 LP) K
+- Computerorientierte Mathematik I (11 LP) -
+- Differentialgleichungen 1 (10LP) K
 
-- Informatik Propädeutikum (3 LP)
-- Rechnerorganisation (6 LP)
-- Einführung in die Programmierung (6 LP)
-- Rechnernetze und verteilte Systeme (6 LP)
-- Berechenbarkeit und Komplexität (6 LP)
+- Informatik Propädeutikum (3 LP) K
+- Rechnerorganisation (6 LP) P
+- Einführung in die Programmierung (6 LP) P
+- Rechnernetze und verteilte Systeme (6 LP) P
+- Berechenbarkeit und Komplexität (6 LP) K
 
 - Machine Learning I (9 LP)
 
@@ -29,10 +29,10 @@ Weitere Pruefungen/Uebungsscheine:
 
 $\sum 41 + \sum 27 + \sum 9 = 77$
 ## 2. Semester
-- Analysis 3 (10 LP)
-- CoMa 2 (11 LP)
-- WT 2 (10 LP)
-- NlOpt (10 LP)
+- Analysis 3 (10 LP) K
+- CoMa 2 (11 LP) K
+- WT 2 (10 LP) K
+- NlOpt (10 LP) K
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
