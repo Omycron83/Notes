@@ -31,14 +31,16 @@ $\sum 41 + \sum 27 + \sum 9 = 77$
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
-- WT 2 (10 LP) K
+- Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
-- Diskrete Strukturen (6 LP)
+- Diskrete Strukturen (6 LP) ?
+- ?
+- ?
 
 - Machine Learning 2 (9 LP)
 
@@ -49,8 +51,8 @@ Weitere Pruefungen/Uebungsscheine:
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 3. Semester
-- 
-- 
+- Seminar
+- Bachelorarbeit 
 
 
 ## 4. Semester
