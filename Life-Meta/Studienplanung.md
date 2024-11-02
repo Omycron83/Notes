@@ -55,16 +55,15 @@ Ausserdem:
 $\sum 41 + \sum 30 + \sum 18 = 80$
 
 ## 3. Semester
-- WT2
-- Mathematisches Seminar
-- Bachelorarbeit Mathematik
+- WT2 (10 LP)
+- Mathematisches Seminar (6 LP)
+- Bachelorarbeit Mathematik (18 LP)
 
 
 - Informatik und Gesellschaft
 - Logik
 - Wissenschaftliches Rechnen
 - Softwaretechnik und Programmierparadigmen
-- 
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
