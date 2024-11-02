@@ -49,6 +49,8 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 
 - Künstliche Intelligenz: Grundlagen, Anwendungen und Seminar (9 LP)
 - Vision and Imaging (9 LP)
+- Symbolische KI (6 LP)
+- Kognitive Algorithmen (6 LP)
 - 
 
 - Machine Learning 2X (12 LP)
