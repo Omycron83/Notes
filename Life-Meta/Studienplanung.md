@@ -33,6 +33,10 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
 - WT 1 (10 LP) K
+
+- Analysis 3 (10 LP) K
+- CoMa 2 (11 LP) K
+- Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
 - 
 
@@ -40,16 +44,30 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
-- Diskrete Strukturen (6 LP)
+- Diskrete Strukturen (6 LP) ?
+- ?
+- ?
 
 - Machine Learning 2X (12 LP)
 - Fasttube (6LP)
+
+Weitere Pruefungen/Uebungsscheine:
+- WT1
 
 $\sum 41 + \sum 30 + \sum 18 = 80$
 
 ## 3. Semester
 - WT2
+
+
+
 - 
+
+$\sum 41 + \sum 30 + \sum 9 = 80$
+
+## 3. Semester
+- Seminar
+- Bachelorarbeit 
 
 
 ## 4. Semester
