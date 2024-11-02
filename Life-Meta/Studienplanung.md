@@ -77,7 +77,9 @@ $\sum 41 + \sum 30 + \sum 9 = 80$
 
 
 
-- Auslandssemester in den USA, dort Projektarbeit
+
+
+- Auslandsjahr in den USA, dort Projektarbeit
 - Master in England 1 Jahr
 - PhD in ML 
 
