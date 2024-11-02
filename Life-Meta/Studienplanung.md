@@ -42,6 +42,8 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Formale Sprachen und Automaten (6 LP)
 - Diskrete Strukturen (6 LP) ?
 - Stochastik fuer Informatik (9 LP)
+- Verteilte Systeme
+- Algorithmentheorie
 
 - Machine Learning 2X (12 LP)
 - Fasttube (6LP)
