@@ -44,6 +44,10 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Stochastik fuer Informatik (9 LP)
 - Verteilte Systeme
 - Algorithmentheorie
+- Praktikum: Intelligente Softwaresysteme
+
+- Künstliche Intelligenz: Grundlagen, Anwendungen und Seminar (9 LP)
+- 
 
 - Machine Learning 2X (12 LP)
 - Fasttube (6LP)
@@ -73,7 +77,7 @@ $\sum 41 + \sum 30 + \sum 9 = 80$
 
 
 
-- Auslandsjahr in USA, dort Projektarbeit
+- Auslandssemester in den USA, dort Projektarbeit
 - Master in England 1 Jahr
 - PhD in ML 
 
