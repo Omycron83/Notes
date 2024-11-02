@@ -44,9 +44,11 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Stochastik fuer Informatik (9 LP)
 - Verteilte Systeme
 - Algorithmentheorie
-- Praktikum: Intelligente Softwaresysteme
+- Praktikum: Intelligente Softwaresysteme (6 LP)
+- 
 
 - Künstliche Intelligenz: Grundlagen, Anwendungen und Seminar (9 LP)
+- Vision and Imaging (9 LP)
 - 
 
 - Machine Learning 2X (12 LP)
@@ -74,7 +76,7 @@ $\sum 41 + \sum 30 + \sum 18 = 80$
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 4. Semester
-
+- Bachelorarbeit Informatik
 
 
 
