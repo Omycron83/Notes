@@ -43,11 +43,12 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Diskrete Strukturen (6 LP)
 
 - Machine Learning 2X (12 LP)
+- Fasttube (6LP)
 
-$\sum 41 + \sum 30 + \sum 9 = 80$
+$\sum 41 + \sum 30 + \sum 18 = 80$
 
 ## 3. Semester
-- DG 1
+- WT2
 - 
 
 
