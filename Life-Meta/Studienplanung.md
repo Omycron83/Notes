@@ -20,20 +20,21 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP) P
 - Berechenbarkeit und Komplexität (6 LP) K
 
-- Machine Learning I + Big Data Scalable Machine Learning (9 LP) 
-- Deep Learning 
+- Machine Learning I + Big Data Scalable Machine Learning (12 LP) 
+- Fasttube (6LP) 
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 41 + \sum 27 + \sum 9 = 77$
+$\sum 41 + \sum 27 + \sum 18 = 86$
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
-- WT 2 (10 LP) K
+- WT 1 (10 LP) K
 - NlOpt (10 LP) K
+- 
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -41,7 +42,7 @@ $\sum 41 + \sum 27 + \sum 9 = 77$
 - Formale Sprachen und Automaten (6 LP)
 - Diskrete Strukturen (6 LP)
 
-- Machine Learning 2 (9 LP)
+- Machine Learning 2X (12 LP)
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
