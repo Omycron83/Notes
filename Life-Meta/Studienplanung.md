@@ -51,7 +51,7 @@ Weitere Pruefungen/Uebungsscheine:
 - WT1
 
 Ausserdem:
-- HiWi / Werkstudent FG Machine Learning, Quant oder ML
+- HiWi / Werkstudent FG Machine Learning, Quant oder ML?
 - Paper Anfangen, wo?
 
 $\sum 41 + \sum 30 + \sum 18 = 80$
@@ -81,9 +81,8 @@ $\sum 41 + \sum 30 + \sum 9 = 80$
 - Vision and Imaging (9 LP)
 - Symbolische KI (6 LP)
 
-
-
-
+Ausserdem:
+- Auslandssemester
 
 - Auslandsjahr in den USA, dort Projektarbeit
 - Master in England 1 Jahr
