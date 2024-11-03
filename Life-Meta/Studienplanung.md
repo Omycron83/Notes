@@ -82,7 +82,10 @@ $\sum 41 + \sum 30 + \sum 9 = 80$
 - Symbolische KI (6 LP)
 
 Ausserdem:
-- Auslandssemester
+- Auslandssemester in den USA, dort Projektarbeit
+
+
+
 
 - Auslandsjahr in den USA, dort Projektarbeit
 - Master in England 1 Jahr
