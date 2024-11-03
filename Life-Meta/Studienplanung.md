@@ -32,7 +32,6 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
-- WT 1 (10 LP) K
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
 
@@ -68,7 +67,7 @@ $\sum 41 + \sum 30 + \sum 18 = 80$
 - Kognitive Algorithmen (6 LP)
 - Wissenschaftliches Rechnen
 - Softwaretechnik und Programmierparadigmen
-- - Distributed Algorithms (6 LP)
+- Distributed Algorithms (6 LP)
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
