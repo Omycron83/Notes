@@ -73,7 +73,7 @@ $\sum 41 + \sum 30 + \sum 18 = 80$
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 4. Semester
-- Bachelorarbeit Informatik
+- Bachelorarbeit Informatik (18 LP)
 - Algorithmentheorie
 - Praktikum: Intelligente Softwaresysteme (6 LP)
 - Vision and Imaging (9 LP)
