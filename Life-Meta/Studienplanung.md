@@ -43,14 +43,7 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Diskrete Strukturen (6 LP) ?
 - Stochastik fuer Informatik (9 LP)
 - Verteilte Systeme
-- Algorithmentheorie
-- Praktikum: Intelligente Softwaresysteme (6 LP)
-- 
 
-
-- Vision and Imaging (9 LP)
-- Symbolische KI (6 LP)
-- Distributed Algorithms (6 LP)/Datenbankseminar (3LP)
 
 - Machine Learning 2X (12 LP)
 - Fasttube (6LP)
@@ -75,14 +68,16 @@ $\sum 41 + \sum 30 + \sum 18 = 80$
 - Kognitive Algorithmen (6 LP)
 - Wissenschaftliches Rechnen
 - Softwaretechnik und Programmierparadigmen
+- - Distributed Algorithms (6 LP)
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 4. Semester
 - Bachelorarbeit Informatik
-
-
-
+- Algorithmentheorie
+- Praktikum: Intelligente Softwaresysteme (6 LP)
+- Vision and Imaging (9 LP)
+- Symbolische KI (6 LP)
 
 - Auslandsjahr in den USA, dort Projektarbeit
 - Master in England 1 Jahr
