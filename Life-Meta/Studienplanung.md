@@ -47,7 +47,7 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Praktikum: Intelligente Softwaresysteme (6 LP)
 - 
 
-- Künstliche Intelligenz: Grundlagen, Anwendungen und Seminar (9 LP)
+
 - Vision and Imaging (9 LP)
 - Symbolische KI (6 LP)
 - Kognitive Algorithmen (6 LP)
@@ -70,7 +70,7 @@ $\sum 41 + \sum 30 + \sum 18 = 80$
 - Mathematisches Seminar (6 LP)
 - Bachelorarbeit Mathematik (18 LP)
 
-
+- Künstliche Intelligenz: Grundlagen, Anwendungen und Seminar (9 LP)
 - Informatik und Gesellschaft
 - Logik
 - Wissenschaftliches Rechnen
