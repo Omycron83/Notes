@@ -72,9 +72,6 @@ $\sum 41 + \sum 30 + \sum 18 = 80$
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 4. Semester
-
-
-
 - Bachelorarbeit Informatik (18 LP)
 - Algorithmentheorie
 - Praktikum: Intelligente Softwaresysteme (6 LP)
@@ -82,9 +79,11 @@ $\sum 41 + \sum 30 + \sum 9 = 80$
 - Symbolische KI (6 LP)
 
 Ausserdem:
-- Auslandssemester in den USA, dort Projektarbeit
+- Auslandssemester in den USA, dort Projektarbeit im Bachelor
 
-
+# Master
+- ETH Zurich oder vergleichbar
+- Alternativ: Quant mit mind. 150k
 
 
 - Auslandsjahr in den USA, dort Projektarbeit
