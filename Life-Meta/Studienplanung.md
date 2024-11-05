@@ -11,7 +11,7 @@ $\sum 46$
 ## 1. Semester
 - Analysis II (10 LP) -
 - Numerische Mathematik I (10 LP) K
-- Computerorientierte Mathematik I (11 LP) -
+- Computerorientierte Mathematik I (11 LP) 
 - Differentialgleichungen 1 (10LP) K
 
 - Informatik Propädeutikum (3 LP) K
