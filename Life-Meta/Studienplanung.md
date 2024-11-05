@@ -50,7 +50,7 @@ Ausserdem:
 - HiWi / Werkstudent FG Machine Learning, Quant oder ML?
 - Paper Anfangen, wo?
 
-$\sum 41 + \sum 36 + \sum 12 = 80$
+$\sum 41 + \sum 36 + \sum 12 = 88$
 
 ## 3. Semester
 - WT2 (10 LP)
