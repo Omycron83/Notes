@@ -2,7 +2,7 @@
 ## Frühstudium:
 - Lineare Algebra I + II (20LP) B
 - Analysis I (10LP) B
-- WT 1 (10LP) ?
+- WT 1 (10LP) B
 - *Nonlinear Optimization (10LP)*
 
 - Algorithmen und Datenstrukturen (6 LP) B
@@ -20,15 +20,15 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP) P
 - Berechenbarkeit und Komplexität (6 LP) K
 
-- Machine Learning I + Big Data Scalable Machine Learning (12 LP) 
-- Fasttube (6LP) 
+- Machine Learning I + Hot topics in machine learning (12 LP) 
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 41 + \sum 27 + \sum 18 = 86$
+$\sum 41 + \sum 27 + \sum 12 = 80$
+
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
@@ -41,11 +41,9 @@ $\sum 41 + \sum 27 + \sum 18 = 86$
 - Formale Sprachen und Automaten (6 LP)
 - Diskrete Strukturen (6 LP) ?
 - Stochastik fuer Informatik (9 LP)
-- Verteilte Systeme
-
+- Verteilte Systeme 
 
 - Machine Learning 2X (12 LP)
-- Fasttube (6LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - WT1
@@ -54,7 +52,7 @@ Ausserdem:
 - HiWi / Werkstudent FG Machine Learning, Quant oder ML?
 - Paper Anfangen, wo?
 
-$\sum 41 + \sum 30 + \sum 18 = 80$
+$\sum 41 + \sum 30 + \sum 12 = 80$
 
 ## 3. Semester
 - WT2 (10 LP)
