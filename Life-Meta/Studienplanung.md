@@ -20,7 +20,7 @@ $\sum 46$
 - Rechnernetze und verteilte Systeme (6 LP) P
 - Berechenbarkeit und Komplexität (6 LP) K
 
-- Machine Learning I + Hot topics in machine learning (12 LP) 
+- Machine Learning I + HTML (12 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
