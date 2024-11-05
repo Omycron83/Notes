@@ -39,9 +39,7 @@ $\sum 41 + \sum 27 + \sum 12 = 80$
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
-- Diskrete Strukturen (6 LP) ?
-- Stochastik fuer Informatik (9 LP)
-- Verteilte Systeme 
+- Verteilte Systeme (6 LP)
 
 - Machine Learning 2X (12 LP)
 
@@ -52,7 +50,7 @@ Ausserdem:
 - HiWi / Werkstudent FG Machine Learning, Quant oder ML?
 - Paper Anfangen, wo?
 
-$\sum 41 + \sum 30 + \sum 12 = 80$
+$\sum 41 + \sum 36 + \sum 12 = 80$
 
 ## 3. Semester
 - WT2 (10 LP)
@@ -75,6 +73,8 @@ $\sum 41 + \sum 30 + \sum 9 = 80$
 - Praktikum: Intelligente Softwaresysteme (6 LP)
 - Vision and Imaging (9 LP)
 - Symbolische KI (6 LP)
+- - Diskrete Strukturen (6 LP) ?
+- Stochastik fuer Informatik (9 LP)
 
 Ausserdem:
 - Auslandssemester in den USA, dort Projektarbeit im Bachelor
