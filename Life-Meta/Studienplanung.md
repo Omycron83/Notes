@@ -29,6 +29,11 @@ Weitere Pruefungen/Uebungsscheine:
 
 $\sum 41 + \sum 27 + \sum 12 = 80$
 
+Ausserdem:
+- Kaggle Competitions
+- Internships
+- 
+
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
