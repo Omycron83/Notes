@@ -31,8 +31,8 @@ $\sum 41 + \sum 27 + \sum 12 = 80$
 
 Ausserdem:
 - Kaggle Competitions
-- Internships
-- 
+- Internships 
+- Personal projects (Medium + Github)
 
 ## 2. Semester
 - Analysis 3 (10 LP) K
