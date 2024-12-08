@@ -40,6 +40,7 @@ Ausserdem:
 - CoMa 2 (11 LP) K
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
+- Weiterfuehrendes Modul??
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
