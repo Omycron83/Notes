@@ -13,6 +13,7 @@ $\sum 46$
 - Numerische Mathematik I (10 LP) K
 - Computerorientierte Mathematik I (11 LP)  -
 - Differentialgleichungen 1 (10LP) K
+- WT2 (10 LP) K
 
 - Informatik Propädeutikum (3 LP) K
 - Rechnerorganisation (6 LP) P
@@ -31,9 +32,9 @@ $\sum 41 + \sum 27 + \sum 12 = 80$
 
 Ausserdem:
 - Kaggle Competitions
-- Internships 
-- Personal projects (Medium + Github)
-
+- Internships? -> Holidays
+- Volunteering
+- Personal projects (Projects + Medium + Github + Website)
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
