@@ -1,0 +1,2 @@
+**Stochastik 1: VL9 -- Lebesgue-Integration**
+ > From <[https://www.youtube.com/watch?v=emTd5oRxBJw&list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ&index=10](https://www.youtube.com/watch?v=emTd5oRxBJw&list=PLy5qRKPWp6SBwfc1kn-b66cWc84cOgvqZ&index=10)>
