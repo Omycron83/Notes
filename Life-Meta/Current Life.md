@@ -2,12 +2,12 @@
 
 Gym:
 - Bench 140kg
-- Squat 170kg 
+- Squat 170kg
 - Deadlift 200kg
-- Barbell Row 100kg 
+- Barbell Row 100kg
 - One-Arm Pullup
 - OHP 80kg
-- 
+- 16inch arms
 - Get Abs in summer
 
 Swimming:
@@ -48,7 +48,6 @@ Habits to gain:
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
-
 
 # To-Do
 
