@@ -18,7 +18,7 @@ $\sum 46$
 - Informatik Propädeutikum (3 LP) K
 - Rechnerorganisation (6 LP) P
 - Einführung in die Programmierung (6 LP) P
-- Rechnernetze und verteilte Systeme (6 LP) P
+- *Rechnernetze und verteilte Systeme (6 LP) P*
 - Berechenbarkeit und Komplexität (6 LP) K
 
 - Machine Learning I + HTML (12 LP)
@@ -28,7 +28,7 @@ Weitere Pruefungen/Uebungsscheine:
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 41 + \sum 27 + \sum 12 = 80$
+$\sum 41 + \sum 21 + \sum 12 = 74$
 
 Ausserdem:
 - Fasttube
@@ -46,6 +46,9 @@ Ausserdem:
 	- FiMa
 	- High Dimensional Learning and Optimization
 - Seminar?
+	- SciCo
+	- WT
+	- GenAI
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -77,7 +80,7 @@ $\sum 41 + \sum 36 + \sum 12 = 88$
 - Bachelorarbeit Mathematik (18 LP)
 - 
 
-- Rechnernetze und verteilte Systeme
+- Rechnernetze und verteilte Systeme (6 LP)
 - 
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
