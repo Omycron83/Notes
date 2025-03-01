@@ -74,6 +74,9 @@ Weitere Pruefungen/Uebungsscheine:
 
 $\sum 41 + \sum 36 + \sum 12 = 88$
 
+Ideen:
+- Summer-School?
+- Auslandspraktikum?
 ## 3. Semester
 - Bachelorarbeit Mathematik (12 LP)
 - ? Eventuell interessante weiterfuehrende Module
@@ -92,7 +95,8 @@ $\sum  + \sum + \sum  = 3$
 - Whats Left?
 
 Ausserdem:
-- Auslandssemester in den USA, dort Projektarbeit im Bachelor
+- Auslandssemester in den USA, dort Projektarbeit im Bachelor?
+- Oder: Ausla
 
 # Master
 - ETH Zurich oder vergleichbar
