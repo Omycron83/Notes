@@ -47,7 +47,8 @@ Ausserdem:
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
 - Verteilte Systeme (6 LP)
-- Diskrete Strukturen?
+- Diskrete Strukturen (6 LP)
+- Stochastik fuer Informatik (9 LP)
 
 - Machine Learning 2X (12 LP)
 
