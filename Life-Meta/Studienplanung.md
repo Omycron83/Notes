@@ -49,6 +49,8 @@ Ausserdem:
 - Verteilte Systeme (6 LP)
 - Diskrete Strukturen (6 LP)
 - Stochastik fuer Informatik (9 LP)
+- Programming Project: Data Science in Python and R (6LP)
+- Algor
 
 - Machine Learning 2X (12 LP)
 
