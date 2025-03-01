@@ -12,13 +12,11 @@ $\sum 46$
 - Analysis II (10 LP) -
 - Numerische Mathematik I (10 LP) K
 - Computerorientierte Mathematik I (11 LP)  -
-- *Differentialgleichungen 1 (10LP) K*
 - WT2 (10 LP) K
 
 - Informatik Propädeutikum (3 LP) K
 - Rechnerorganisation (6 LP) P
 - Einführung in die Programmierung (6 LP) P
-- *Rechnernetze und verteilte Systeme (6 LP) P*
 - Berechenbarkeit und Komplexität (6 LP) K
 
 - Machine Learning I + HTML (12 LP)
