@@ -78,12 +78,16 @@ $\sum 41 + \sum 36 + \sum 12 = 88$
 
 ## 3. Semester
 - Bachelorarbeit Mathematik (18 LP)
-- 
+- ? Eventuell interessante weiterfuehrende Module
 
 - Rechnernetze und verteilte Systeme (6 LP)
-- 
+- Softwaretechnik und Programmierparadigmen (6 LP)
+- Wissenschaftliches Rechnen (6 LP)
+- Logik (6 LP)
+- Informatik und Gesellschaft (6 LP)
+- Whats left for WiSe?
 
-$\sum 41 + \sum 30 + \sum 9 = 80$
+$\sum  + \sum + \sum  = 3$
 
 ## 4. Semester
 - Bachelorarbeit Informatik (18 LP)
