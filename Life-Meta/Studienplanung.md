@@ -47,7 +47,6 @@ Ausserdem:
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
-- Verteilte Systeme (6 LP)
 - Diskrete Strukturen (6 LP)
 - Stochastik fuer Informatik (9 LP)
 
@@ -57,7 +56,11 @@ Ausserdem:
 
 - Robocup (6 LP)
 - Aktuelle Forschung in KI und Robotik (3 LP)
-- Applied Computer 
+- Applied Computer Vision (6 LP)
+- Foundations of Data Literacy and Data Science (6 LP)
+- Machine Learning and Communications (3 LP)
+- NLP in Humans and Machines (3 LP)
+- Project: Large Scale Data Engineering (9 LP)
 
 - Machine Learning 2X (12 LP)
 
