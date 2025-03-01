@@ -1,15 +1,18 @@
 ## End-Of-Year-Goals:
 
 Gym:
-- Bench 120kg
-- Squat 155kg
-- Deadlift 180kg
-- Barbell Row 80kg 
-- 16 clean Pull-Ups
-- 5 Muscle UP
-- OHP 70kg 
-= Total 850+ lbs on the big ones
--> Still need to increase by total of 65kg, e.g. (10kg, 30kg, 25kg)
+- Bench 140kg
+- Squat 170kg
+- Deadlift 200kg
+- Barbell Row 100kg
+- One-Arm Pullup
+- OHP 80kg
+- 16inch arms
+- Get Abs in summer
+
+Swimming:
+- Swim a swimmers mile straight w/ freestyle
+- Get good at all swimming styles
 
 Running:
 - Run a 5k in 26 mins
@@ -35,35 +38,19 @@ Life:
 		=> Try to talk to as many people as possible
 
 Habits to gain:
-- Read 20 pages of non-fiction a day
+- Read 20 pages of useful book a day
 - Go to the gym once a day
 - Write 20 lines of code in project
 - Write 400 words on an article
-- Work through one topic in uni
+- Work through one topic in uni, complete one hw
 - Roughly schedule entire day
 - Abstain from instance-gratification, find happiness in focused work or socializing
 
 Languages:
 - Gain basic knowledge of the chinese language, including the character system
 
-**Abi:**
-- **1.0**
-- **Thats it, dont care**
-
-Uni:
-- Module mit 1.7 Durchschnitt abschneiden
-- **Herausfinden, wo man was studieren will**
-
-General Education:
-- Learn more about quant
-- Learn more about ML
-- Master LinA, Ana, WT, NlOpt
-
 # To-Do
-1. Uni-Sachen
-2. 1 Projekt / Woche (alternierend Mathe und Info)
-3. Sonderprojekt
-4. Self-Driving
+
 # Rythmus
 - Get up at 6:30
 - Mini-Workout/Running
