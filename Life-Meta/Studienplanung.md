@@ -50,7 +50,7 @@ Ausserdem:
 - Diskrete Strukturen (6 LP)
 - Stochastik fuer Informatik (9 LP)
 - Programming Project: Data Science in Python and R (6LP)
-- Algor
+- Wahlpflicht Theoretische Informatik: Algorithmentheorie (6 LP)
 
 - Machine Learning 2X (12 LP)
 
