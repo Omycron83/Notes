@@ -41,6 +41,7 @@ Ausserdem:
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
 - Weiterfuehrendes Modul??
+- Seminar??
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -49,8 +50,12 @@ Ausserdem:
 - Verteilte Systeme (6 LP)
 - Diskrete Strukturen (6 LP)
 - Stochastik fuer Informatik (9 LP)
+
 - Programming Project: Data Science in Python and R (6LP)
 - Wahlpflicht Theoretische Informatik: Algorithmentheorie (6 LP)
+- Wahlpflicht Technische Informatik: 
+
+- Robocup (6 LP)
 
 - Machine Learning 2X (12 LP)
 
