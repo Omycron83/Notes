@@ -56,6 +56,8 @@ Ausserdem:
 - Wahlpflicht Technische Informatik: 
 
 - Robocup (6 LP)
+- Aktuelle Forschung in KI und Robotik (3 LP)
+- Applied Computer 
 
 - Machine Learning 2X (12 LP)
 
