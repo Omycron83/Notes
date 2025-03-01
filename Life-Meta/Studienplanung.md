@@ -12,7 +12,7 @@ $\sum 46$
 - Analysis II (10 LP) -
 - Numerische Mathematik I (10 LP) K
 - Computerorientierte Mathematik I (11 LP)  -
-- Differentialgleichungen 1 (10LP) K
+- *Differentialgleichungen 1 (10LP) K*
 - WT2 (10 LP) K
 
 - Informatik Propädeutikum (3 LP) K
@@ -31,10 +31,9 @@ Weitere Pruefungen/Uebungsscheine:
 $\sum 41 + \sum 27 + \sum 12 = 80$
 
 Ausserdem:
-- Kaggle Competitions
-- Internships? -> Holidays
-- Volunteering
-- Personal projects (Projects + Medium + Github + Website)
+- Fasttube
+- Werkstudi
+- 
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
@@ -70,28 +69,16 @@ Weitere Pruefungen/Uebungsscheine:
 $\sum 41 + \sum 36 + \sum 12 = 88$
 
 ## 3. Semester
-- WT2 (10 LP)
-- Mathematisches Seminar (6 LP)
 - Bachelorarbeit Mathematik (18 LP)
+- 
 
-- Künstliche Intelligenz: Grundlagen, Anwendungen und Seminar (9 LP)
-- Informatik und Gesellschaft
-- Logik
-- Kognitive Algorithmen (6 LP)
-- Wissenschaftliches Rechnen
-- Softwaretechnik und Programmierparadigmen
-- Distributed Algorithms (6 LP)
+- Rechnernetze und
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
 ## 4. Semester
 - Bachelorarbeit Informatik (18 LP)
-- Algorithmentheorie
-- Praktikum: Intelligente Softwaresysteme (6 LP)
-- Vision and Imaging (9 LP)
-- Symbolische KI (6 LP)
-- - Diskrete Strukturen (6 LP) ?
-- Stochastik fuer Informatik (9 LP)
+- Whats Left?
 
 Ausserdem:
 - Auslandssemester in den USA, dort Projektarbeit im Bachelor
