@@ -47,15 +47,12 @@ Ausserdem:
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
 - Verteilte Systeme (6 LP)
+- Diskrete Strukturen?
 
 - Machine Learning 2X (12 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - WT1
-
-Ausserdem:
-- HiWi / Werkstudent FG Machine Learning, Quant oder ML?
-- Paper Anfangen, wo?
 
 $\sum 41 + \sum 36 + \sum 12 = 88$
 
