@@ -39,8 +39,13 @@ Ausserdem:
 - CoMa 2 (11 LP) K
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
-- Weiterfuehrendes Modul??
-- Seminar??
+- Weiterfuehrendes Modul?
+	- WT 3
+	- NuMa II
+	- Ml
+	- FiMa
+	- High Dimensional Learning and Optimization
+- Seminar?
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -72,7 +77,8 @@ $\sum 41 + \sum 36 + \sum 12 = 88$
 - Bachelorarbeit Mathematik (18 LP)
 - 
 
-- Rechnernetze und
+- Rechnernetze und verteilte Systeme
+- 
 
 $\sum 41 + \sum 30 + \sum 9 = 80$
 
