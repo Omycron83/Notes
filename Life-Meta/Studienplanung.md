@@ -95,8 +95,8 @@ $\sum  + \sum + \sum  = 3$
 - Whats Left?
 
 Ausserdem:
-- Auslandssemester in den USA, dort Projektarbeit im Bachelor?
-- Oder: Ausla
+- Auslandssemester in den USA (event. ), dort Projektarbeit im Bachelor?
+- 
 
 # Master
 - ETH Zurich oder vergleichbar
