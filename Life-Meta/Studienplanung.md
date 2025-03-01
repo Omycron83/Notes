@@ -33,7 +33,7 @@ $\sum 41 + \sum 21 + \sum 12 = 74$
 Ausserdem:
 - Fasttube
 - Werkstudi
-- 
+- Volunteering
 ## 2. Semester
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
@@ -77,7 +77,7 @@ Weitere Pruefungen/Uebungsscheine:
 $\sum 41 + \sum 36 + \sum 12 = 88$
 
 ## 3. Semester
-- Bachelorarbeit Mathematik (18 LP)
+- Bachelorarbeit Mathematik (12 LP)
 - ? Eventuell interessante weiterfuehrende Module
 
 - Rechnernetze und verteilte Systeme (6 LP)
@@ -90,7 +90,7 @@ $\sum 41 + \sum 36 + \sum 12 = 88$
 $\sum  + \sum + \sum  = 3$
 
 ## 4. Semester
-- Bachelorarbeit Informatik (18 LP)
+- Bachelorarbeit Informatik (12 LP)
 - Whats Left?
 
 Ausserdem:
@@ -102,18 +102,5 @@ Ausserdem:
 
 
 - Auslandsjahr in den USA, dort Projektarbeit
-- Master in England 1 Jahr
+- Master in England: 1 Jahr
 - PhD in ML 
-
-
-Module:
-Mathe:
-- LinA 1/2
-- Ana 1/2/3
-- WT1/2
-- NuMa I
-- DG1
-- Funktionalanalysis I
-- NlOpt 1/2
-
-- Machine Learning 1-X, 2-X
