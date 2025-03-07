@@ -38,15 +38,15 @@ Ausserdem:
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
 - Weiterfuehrendes Modul?
-	- WT 3
-	- NuMa II
-	- Ml
-	- FiMa
-	- High Dimensional Learning and Optimization
+	- WT 3 (10 LP)
+	- NuMa II (10 LP)
+	- ML (10 LP)
+	- FiMa (10 LP)
+	- High Dimensional Learning and Optimization (10 LP)
 - Seminar?
-	- SciCo
-	- WT
-	- GenAI
+	- SciCo (6 LP)
+	- WT (6 LP)
+	- Stochastic Optimization & RL for Finance (6 LP)
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -66,6 +66,7 @@ Ausserdem:
 - Machine Learning and Communications (3 LP)
 - NLP in Humans and Machines (3 LP)
 - Project: Large Scale Data Engineering (9 LP)
+- Robotics Fundamentals (9 LP)
 
 - Machine Learning 2X (12 LP)
 
