@@ -43,7 +43,7 @@ Ausserdem:
 	- ML (10 LP)
 	- FiMa (10 LP)
 	- High Dimensional Learning and Optimization (10 LP)
-- Seminar?
+- Seminar? 
 	- SciCo (6 LP)
 	- WT (6 LP)
 	- Stochastic Optimization & RL for Finance (6 LP)
