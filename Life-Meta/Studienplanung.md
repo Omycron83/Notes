@@ -41,7 +41,7 @@ Ausserdem:
 - MFML (10 LP)
 - FiMa (10 LP)
 #### Mathe-Seminar:
-- SciCo
+- SciCo (6 LP)
 - Stochastic Optimization & RL 
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
@@ -66,8 +66,8 @@ Ausserdem:
 #### Weitere Pruefungen/Uebungsscheine:
 - WT1
 #### Weiteres:
-- Werkstudi, Fasttube, Volunteering
-- Internships, Summer School,
+- Werkstudi, Fasttube, Volunteering, 
+- Internships, Summer School, Student 
 
 ## Semester 3
 
