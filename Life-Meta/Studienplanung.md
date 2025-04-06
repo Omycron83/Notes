@@ -83,28 +83,7 @@ $\sum 41 + \sum 36 + \sum 12 = 88$
 
 #### Weiteres:
 - Werkstudi, Fasttube, Volunteering
-- Student 
-## 3. Semester
-- Bachelorarbeit Mathematik (12 LP)
-- ? Eventuell interessante weiterfuehrende Module
-
-- Rechnernetze und verteilte Systeme (6 LP)
-- Softwaretechnik und Programmierparadigmen (6 LP)
-- Wissenschaftliches Rechnen (6 LP)
-- Logik (6 LP)
-- Informatik und Gesellschaft (6 LP)
-- Whats left for WiSe?
-
-$\sum  + \sum + \sum  = 3$
-
-## 4. Semester
-- Bachelorarbeit Informatik (12 LP)
-- Whats Left?
-
-Ausserdem:
-- Auslandssemester in den USA (event. ), dort Projektarbeit im Bachelor?
-- 
-
+- Internships, Summer School,
 # Master
 - ETH Zurich oder vergleichbar
 - Alternativ: Quant mit mind. 150k
