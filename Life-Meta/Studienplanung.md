@@ -61,6 +61,8 @@ Ausserdem:
 #### Informatik - Wahlpflicht
 -  Robotics: Fundamentals (9 LP)
 -  Kognitive Algorithmen + Seminar (6 LP)
+-  Aktuelle Themen in visueller Wahrnehmungsforschung (3 LP)
+-  
 
 #### Wahlbereich
 - Machine Learning 2X (12 LP)
