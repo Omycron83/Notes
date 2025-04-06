@@ -42,7 +42,7 @@ Ausserdem:
 - FiMa (10 LP)
 #### Mathe-Seminar:
 - SciCo (6 LP)
-- Stochastic Optimization & RL 
+- Stochastic Optimization & RL (6 LP) 
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -61,8 +61,6 @@ Ausserdem:
 -  Robotics: Fundamentals (9 LP)
 -  Kognitive Algorithmen + Seminar (6 LP)
 -  Data Science for Computer Scientists (6 LP)
-#### Wahlbereich
-- Machine Learning 2X (12 LP)
 #### Weitere Pruefungen/Uebungsscheine:
 - WT1
 #### Weiteres:
