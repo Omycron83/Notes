@@ -40,6 +40,7 @@ Ausserdem:
 - NuMa II (10 LP)
 - MFML (10 LP)
 - FiMa (10 LP)
+- Statistics (10 LP)
 #### Mathe-Seminar:
 - SciCo (6 LP)
 - Stochastic Optimization & RL (6 LP) 
