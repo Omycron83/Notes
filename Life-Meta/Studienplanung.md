@@ -3,7 +3,6 @@
 - Lineare Algebra I + II (20LP) B
 - Analysis I (10LP) B
 - WT 1 (10LP) B
-- *Nonlinear Optimization (10LP)*
 
 - Algorithmen und Datenstrukturen (6 LP) B
 
@@ -16,14 +15,14 @@ $\sum 46$
 - Rechnerorganisation (6 LP) P
 - Einführung in die Programmierung (6 LP) P
 
-- HTML (3 LP)
+- HTML (3 LP) K
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 21 + \sum 15 + \sum 3 + \sum 42 = 81$
+$\sum 21 + \sum 15 + \sum 3 + \sum 12 = 51$
 
 Ausserdem:
 - Fasttube
@@ -37,16 +36,13 @@ Ausserdem:
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
 - Diskrete Strukturen I (10 LP) K
-
 #### Mathe-Spezialisierung:
-- NuMa II
-- MFML
-- FiMa
+- NuMa II (10 LP)
+- MFML (10 LP)
+- FiMa (10 LP)
 
 #### Mathe-Seminar:
 - SciCo
-- WT
-- GenAI
 
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
@@ -54,24 +50,16 @@ Ausserdem:
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
 - Diskrete Strukturen (6 LP)
+
 - Stochastik fuer Informatik (9 LP)
-
 #### Informatik-Programmierpraktikum
-
+- ?
 #### Theoretische Informatik
 - Algorithmentheorie (6LP)
-- 
 ##### Technische Informatik
-- Programming Project: Data Science in Python and R (6LP)
-
+- Verteilte Systeme (6 LP)
 #### Informatik - Wahlpflicht
-- Robocup (6 LP)
-- Aktuelle Forschung in KI und Robotik (3 LP)
-- Applied Computer Vision (6 LP)
-- Foundations of Data Literacy and Data Science (6 LP)
-- Machine Learning and Communications (3 LP)
-- NLP in Humans and Machines (3 LP)
-- Project: Large Scale Data Engineering (9 LP)
+- 
 
 #### Wahlbereich
 - Machine Learning 2X (12 LP)
