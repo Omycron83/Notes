@@ -42,6 +42,7 @@ Ausserdem:
 - FiMa (10 LP)
 #### Mathe-Seminar:
 - SciCo
+- Stochastic Optimization & RL 
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -67,6 +68,7 @@ Ausserdem:
 #### Weiteres:
 - Werkstudi, Fasttube, Volunteering
 - Internships, Summer School,
+- 
 # Master
 - ETH Zurich oder vergleichbar
 - Alternativ: Quant mit mind. 150k
