@@ -40,10 +40,8 @@ Ausserdem:
 - NuMa II (10 LP)
 - MFML (10 LP)
 - FiMa (10 LP)
-
 #### Mathe-Seminar:
 - SciCo
-
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
@@ -61,17 +59,11 @@ Ausserdem:
 #### Informatik - Wahlpflicht
 -  Robotics: Fundamentals (9 LP)
 -  Kognitive Algorithmen + Seminar (6 LP)
--  Aktuelle Themen in visueller Wahrnehmungsforschung (3 LP)
--  
-
+-  Data Science for Computer Scientists (6 LP)
 #### Wahlbereich
 - Machine Learning 2X (12 LP)
-
 #### Weitere Pruefungen/Uebungsscheine:
 - WT1
-
-$\sum 41 + \sum 36 + \sum 12 = 88$
-
 #### Weiteres:
 - Werkstudi, Fasttube, Volunteering
 - Internships, Summer School,
