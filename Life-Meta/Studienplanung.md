@@ -59,7 +59,8 @@ Ausserdem:
 ##### Technische Informatik
 - Verteilte Systeme (6 LP)
 #### Informatik - Wahlpflicht
-- 
+-  Robotics: Fundamentals (9 LP)
+-  Kognitive Algorithmen + Seminar (6 LP)
 
 #### Wahlbereich
 - Machine Learning 2X (12 LP)
