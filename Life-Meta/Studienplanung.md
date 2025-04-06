@@ -30,22 +30,25 @@ Ausserdem:
 - Werkstudi
 - Volunteering
 ## 2. Semester
-
-**Mathe Pflicht:**
+#### Mathe-Pflicht:
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
+#### Mathe-Grundlagenerweiterung:
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
-- WT 3
+- Diskrete Strukturen I (10 LP) K
+
+#### Mathe-Spezialisierung:
 - NuMa II
-- Ml
+- MFML
 - FiMa
-- Seminar?
-	- **SciCo**
-	- WT
-	- GenAI
 
+#### Mathe-Seminar:
+- SciCo
+- WT
+- GenAI
 
+#### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
@@ -53,10 +56,15 @@ Ausserdem:
 - Diskrete Strukturen (6 LP)
 - Stochastik fuer Informatik (9 LP)
 
-- Programming Project: Data Science in Python and R (6LP)
-- Wahlpflicht Theoretische Informatik: Algorithmentheorie (6 LP)
-- Wahlpflicht Technische Informatik: 
+#### Informatik-Programmierpraktikum
 
+#### Theoretische Informatik
+- Algorithmentheorie (6LP)
+- 
+##### Technische Informatik
+- Programming Project: Data Science in Python and R (6LP)
+
+#### Informatik - Wahlpflicht
 - Robocup (6 LP)
 - Aktuelle Forschung in KI und Robotik (3 LP)
 - Applied Computer Vision (6 LP)
@@ -65,16 +73,17 @@ Ausserdem:
 - NLP in Humans and Machines (3 LP)
 - Project: Large Scale Data Engineering (9 LP)
 
+#### Wahlbereich
 - Machine Learning 2X (12 LP)
 
-Weitere Pruefungen/Uebungsscheine:
+#### Weitere Pruefungen/Uebungsscheine:
 - WT1
 
 $\sum 41 + \sum 36 + \sum 12 = 88$
 
-Ideen:
-- Summer-School?
-- Auslandspraktikum?
+#### Weiteres:
+- Werkstudi, Fasttube, Volunteering
+- Student 
 ## 3. Semester
 - Bachelorarbeit Mathematik (12 LP)
 - ? Eventuell interessante weiterfuehrende Module
