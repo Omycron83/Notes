@@ -10,29 +10,28 @@
 $\sum 46$
 ## 1. Semester
 - Analysis II (10 LP) -
-- Numerische Mathematik I (10 LP) K
 - Computerorientierte Mathematik I (11 LP)  -
-- WT2 (10 LP) K
 
 - Informatik Propädeutikum (3 LP) K
 - Rechnerorganisation (6 LP) P
 - Einführung in die Programmierung (6 LP) P
-- Berechenbarkeit und Komplexität (6 LP) K
 
-- Machine Learning I + HTML (12 LP)
+- HTML (3 LP)
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 41 + \sum 21 + \sum 12 = 74$
+$\sum 21 + \sum 15 + \sum 3 + \sum 42 = 81$
 
 Ausserdem:
 - Fasttube
 - Werkstudi
 - Volunteering
 ## 2. Semester
+
+**Mathe Pflicht:**
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
 - Funktionalanlysis I (10 LP) K
@@ -45,6 +44,7 @@ Ausserdem:
 	- **SciCo**
 	- WT
 	- GenAI
+
 
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
