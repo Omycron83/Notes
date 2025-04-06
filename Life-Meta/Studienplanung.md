@@ -47,9 +47,9 @@ Ausserdem:
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
-- Diskrete Strukturen (6 LP)
 
-- Stochastik fuer Informatik (9 LP)
+- Diskrete Strukturen (6 LP) ?
+- Stochastik fuer Informatik (9 LP) ?
 #### Informatik-Programmierpraktikum
 - ?
 #### Theoretische Informatik
