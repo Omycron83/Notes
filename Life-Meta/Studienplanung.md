@@ -68,7 +68,18 @@ Ausserdem:
 #### Weiteres:
 - Werkstudi, Fasttube, Volunteering
 - Internships, Summer School,
-- 
+
+## Semester 3
+
+#### Mathe-Pflicht:
+- NuMa I
+#### Mathe-Grundlagenerweiterung:
+- WT 2
+
+#### Mathe-Bachelorarbeit:
+- ?
+
+
 # Master
 - ETH Zurich oder vergleichbar
 - Alternativ: Quant mit mind. 150k
