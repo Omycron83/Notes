@@ -34,7 +34,6 @@ Ausserdem:
 - CoMa 2 (11 LP) K
 #### Mathe-Grundlagenerweiterung:
 - Funktionalanlysis I (10 LP) K
-- NlOpt (10 LP) K
 - Diskrete Strukturen I (10 LP) K
 #### Mathe-Spezialisierung:
 - NuMa II (10 LP)
