@@ -37,14 +37,12 @@ Ausserdem:
 - CoMa 2 (11 LP) K
 - Funktionalanlysis I (10 LP) K
 - NlOpt (10 LP) K
-- Weiterfuehrendes Modul?
-	- WT 3
-	- NuMa II
-	- Ml
-	- FiMa
-	- High Dimensional Learning and Optimization
+- WT 3
+- NuMa II
+- Ml
+- FiMa
 - Seminar?
-	- SciCo
+	- **SciCo**
 	- WT
 	- GenAI
 
