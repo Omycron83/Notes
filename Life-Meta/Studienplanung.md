@@ -34,31 +34,14 @@ Ausserdem:
 - CoMa 2 (11 LP) K
 #### Mathe-Grundlagenerweiterung:
 - Funktionalanlysis I (10 LP) K
-<<<<<<< HEAD
-- NlOpt (10 LP) K
-- Weiterfuehrendes Modul?
-	- WT 3 (10 LP)
-	- NuMa II (10 LP)
-	- ML (10 LP)
-	- FiMa (10 LP)
-	- High Dimensional Learning and Optimization (10 LP)
-- Seminar? 
-	- SciCo (6 LP)
-	- WT (6 LP)
-	- Stochastic Optimization & RL for Finance (6 LP)
-
-=======
 - Diskrete Strukturen I (10 LP) K
 #### Mathe-Spezialisierung:
-- NuMa II (10 LP)
 - MFML (10 LP)
-- FiMa (10 LP)
-- Statistics (10 LP)
+- Stochastic Optimization & RL (5 LP)
 #### Mathe-Seminar:
 - SciCo (6 LP)
-- Stochastic Optimization & RL (5 + 6 LP) 
+- Stochastic Optimization & RL (6 LP) 
 #### Informatik-Pflicht:
-
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
@@ -67,7 +50,7 @@ Ausserdem:
 - Diskrete Strukturen (6 LP) ?
 - Stochastik fuer Informatik (9 LP) ?
 #### Informatik-Programmierpraktikum
-- ?
+- Datascience in Python
 #### Theoretische Informatik
 - Algorithmentheorie (6LP)
 ##### Technische Informatik
@@ -80,7 +63,7 @@ Ausserdem:
 - WT1
 #### Weiteres:
 - Werkstudi, Fasttube, Volunteering, 
-- Internships, Summer School, Student 
+- Internships, Summer School
 
 ## Semester 3
 
