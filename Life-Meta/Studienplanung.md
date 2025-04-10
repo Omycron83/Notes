@@ -3,39 +3,38 @@
 - Lineare Algebra I + II (20LP) B
 - Analysis I (10LP) B
 - WT 1 (10LP) B
-- *Nonlinear Optimization (10LP)*
 
 - Algorithmen und Datenstrukturen (6 LP) B
 
 $\sum 46$
 ## 1. Semester
 - Analysis II (10 LP) -
-- Numerische Mathematik I (10 LP) K
 - Computerorientierte Mathematik I (11 LP)  -
-- WT2 (10 LP) K
 
 - Informatik Propädeutikum (3 LP) K
 - Rechnerorganisation (6 LP) P
 - Einführung in die Programmierung (6 LP) P
-- Berechenbarkeit und Komplexität (6 LP) K
 
-- Machine Learning I + HTML (12 LP)
+- HTML (3 LP) K
 
 Weitere Pruefungen/Uebungsscheine:
 - LinA I + 2 
 - Ana I
 - LinA + AnaI fuer Ingenieurswissenschaften
 
-$\sum 41 + \sum 21 + \sum 12 = 74$
+$\sum 21 + \sum 15 + \sum 3 + \sum 12 = 51$
 
 Ausserdem:
 - Fasttube
 - Werkstudi
 - Volunteering
 ## 2. Semester
+#### Mathe-Pflicht:
 - Analysis 3 (10 LP) K
 - CoMa 2 (11 LP) K
+#### Mathe-Grundlagenerweiterung:
 - Funktionalanlysis I (10 LP) K
+<<<<<<< HEAD
 - NlOpt (10 LP) K
 - Weiterfuehrendes Modul?
 	- WT 3 (10 LP)
@@ -48,56 +47,51 @@ Ausserdem:
 	- WT (6 LP)
 	- Stochastic Optimization & RL for Finance (6 LP)
 
+=======
+- Diskrete Strukturen I (10 LP) K
+#### Mathe-Spezialisierung:
+- NuMa II (10 LP)
+- MFML (10 LP)
+- FiMa (10 LP)
+- Statistics (10 LP)
+#### Mathe-Seminar:
+- SciCo (6 LP)
+- Stochastic Optimization & RL (5 + 6 LP) 
+#### Informatik-Pflicht:
+
 - Systemprogrammierung (6 LP)
 - AlgoDat (6 LP)
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
-- Diskrete Strukturen (6 LP)
-- Stochastik fuer Informatik (9 LP)
 
-- Programming Project: Data Science in Python and R (6LP)
-- Wahlpflicht Theoretische Informatik: Algorithmentheorie (6 LP)
-- Wahlpflicht Technische Informatik: 
-
-- Robocup (6 LP)
-- Aktuelle Forschung in KI und Robotik (3 LP)
-- Applied Computer Vision (6 LP)
-- Foundations of Data Literacy and Data Science (6 LP)
-- Machine Learning and Communications (3 LP)
-- NLP in Humans and Machines (3 LP)
-- Project: Large Scale Data Engineering (9 LP)
-- Robotics Fundamentals (9 LP)
-
-- Machine Learning 2X (12 LP)
-
-Weitere Pruefungen/Uebungsscheine:
+- Diskrete Strukturen (6 LP) ?
+- Stochastik fuer Informatik (9 LP) ?
+#### Informatik-Programmierpraktikum
+- ?
+#### Theoretische Informatik
+- Algorithmentheorie (6LP)
+##### Technische Informatik
+- Verteilte Systeme (6 LP)
+#### Informatik - Wahlpflicht
+-  Robotics: Fundamentals (9 LP)
+-  Kognitive Algorithmen + Seminar (6 LP)
+-  Data Science for Computer Scientists (6 LP)
+#### Weitere Pruefungen/Uebungsscheine:
 - WT1
+#### Weiteres:
+- Werkstudi, Fasttube, Volunteering, 
+- Internships, Summer School, Student 
 
-$\sum 41 + \sum 36 + \sum 12 = 88$
+## Semester 3
 
-Ideen:
-- Summer-School?
-- Auslandspraktikum?
-## 3. Semester
-- Bachelorarbeit Mathematik (12 LP)
-- ? Eventuell interessante weiterfuehrende Module
+#### Mathe-Pflicht:
+- NuMa I
+#### Mathe-Grundlagenerweiterung:
+- WT 2
 
-- Rechnernetze und verteilte Systeme (6 LP)
-- Softwaretechnik und Programmierparadigmen (6 LP)
-- Wissenschaftliches Rechnen (6 LP)
-- Logik (6 LP)
-- Informatik und Gesellschaft (6 LP)
-- Whats left for WiSe?
+#### Mathe-Bachelorarbeit:
+- ?
 
-$\sum  + \sum + \sum  = 3$
-
-## 4. Semester
-- Bachelorarbeit Informatik (12 LP)
-- Whats Left?
-
-Ausserdem:
-- Auslandssemester in den USA (event. ), dort Projektarbeit im Bachelor?
-- 
 
 # Master
 - ETH Zurich oder vergleichbar
