@@ -41,7 +41,7 @@ Ausserdem:
 - Stochastic Optimization & RL (6 LP) 
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
-- AlgoDat (6 LP)
+- *AlgoDat (6 LP)*
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
 
