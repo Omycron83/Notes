@@ -53,15 +53,13 @@ Ausserdem:
 - Algorithmentheorie (6LP)
 ##### Technische Informatik
 - Verteilte Systeme (6 LP)
-#### Informatik - Wahlpflicht
--  Kognitive Algorithmen + Seminar (6 LP)
 #### Weitere Pruefungen/Uebungsscheine:
-- WT1
+- WT1 (10 LP)
 #### Weiteres:
 - Werkstudi, Fasttube, Volunteering, 
 - Internships, Summer School
 
-$\sum = 21 + 10 + 15 + 6 + 33 + 18 + 6 = 109$
+$\sum = 21 + 10 + 15 + 6 + 33 + 18 = 103$
 ## Semester 3
 
 #### Mathe-Pflicht:
