@@ -61,6 +61,7 @@ Ausserdem:
 - Werkstudi, Fasttube, Volunteering, 
 - Internships, Summer School
 
+$\sum = 21 + 10 + 15 + 6 + 33 + 18 + 6 = 109$
 ## Semester 3
 
 #### Mathe-Pflicht:
