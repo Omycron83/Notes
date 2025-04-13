@@ -54,7 +54,6 @@ Ausserdem:
 ##### Technische Informatik
 - Verteilte Systeme (6 LP)
 #### Informatik - Wahlpflicht
--  Robotics: Fundamentals (9 LP) ?
 -  Kognitive Algorithmen + Seminar (6 LP)
 -  Data Science for Computer Scientists (6 LP)
 #### Weitere Pruefungen/Uebungsscheine:
