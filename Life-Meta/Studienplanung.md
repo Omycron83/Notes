@@ -55,7 +55,6 @@ Ausserdem:
 - Verteilte Systeme (6 LP)
 #### Informatik - Wahlpflicht
 -  Kognitive Algorithmen + Seminar (6 LP)
--  Data Science for Computer Scientists (6 LP) ?
 #### Weitere Pruefungen/Uebungsscheine:
 - WT1
 #### Weiteres:
