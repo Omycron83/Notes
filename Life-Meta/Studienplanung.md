@@ -34,12 +34,10 @@ Ausserdem:
 - CoMa 2 (11 LP) K
 #### Mathe-Grundlagenerweiterung:
 - Funktionalanlysis I (10 LP) K
-- Diskrete Strukturen I (10 LP) K
 #### Mathe-Spezialisierung:
-- MFML (10 LP)
+- MFML I (10 LP)
 - Stochastic Optimization & RL (5 LP)
 #### Mathe-Seminar:
-- SciCo (6 LP)
 - Stochastic Optimization & RL (6 LP) 
 #### Informatik-Pflicht:
 - Systemprogrammierung (6 LP)
@@ -56,7 +54,7 @@ Ausserdem:
 ##### Technische Informatik
 - Verteilte Systeme (6 LP)
 #### Informatik - Wahlpflicht
--  Robotics: Fundamentals (9 LP)
+-  Robotics: Fundamentals (9 LP) ?
 -  Kognitive Algorithmen + Seminar (6 LP)
 -  Data Science for Computer Scientists (6 LP)
 #### Weitere Pruefungen/Uebungsscheine:
