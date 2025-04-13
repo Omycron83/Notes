@@ -50,7 +50,7 @@ Ausserdem:
 - Diskrete Strukturen (6 LP) ?
 - Stochastik fuer Informatik (9 LP) ?
 #### Informatik-Programmierpraktikum
-- Datascience in Python
+- Datascience in Python (6 LP)
 #### Theoretische Informatik
 - Algorithmentheorie (6LP)
 ##### Technische Informatik
