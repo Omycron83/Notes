@@ -63,12 +63,11 @@ $\sum = 21 + 10 + 15 + 6 + 33 + 18 = 103$
 ## Semester 3
 
 #### Mathe-Pflicht:
-- NuMa I
+- NuMa I (10 LP)
 #### Mathe-Grundlagenerweiterung:
-- WT 2
-
+- WT 2 (10 LP)
 #### Mathe-Bachelorarbeit:
-- ?
+- ? (12 LP)
 
 
 # Master
