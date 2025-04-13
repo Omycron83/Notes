@@ -45,8 +45,8 @@ Ausserdem:
 - Information und Datenanalyse (6 LP)
 - Formale Sprachen und Automaten (6 LP)
 
-- Diskrete Strukturen (6 LP) ?
-- Stochastik fuer Informatik (9 LP) ?
+- Diskrete Strukturen (6 LP)
+- Stochastik fuer Informatik (9 LP)
 #### Informatik-Programmierpraktikum
 - Datascience in Python (6 LP)
 #### Theoretische Informatik
@@ -55,7 +55,7 @@ Ausserdem:
 - Verteilte Systeme (6 LP)
 #### Informatik - Wahlpflicht
 -  Kognitive Algorithmen + Seminar (6 LP)
--  Data Science for Computer Scientists (6 LP)
+-  Data Science for Computer Scientists (6 LP) ?
 #### Weitere Pruefungen/Uebungsscheine:
 - WT1
 #### Weiteres:
